@@ -4,19 +4,17 @@
 
 h1, h2, h3, h4, h5, body, p, a, div{
 	font-weight: 300 !important;
-	font-family: 'Roboto', serif !important;
+	font-family: 'Helvetica Neue',Arial,Helvetica,sans-serif !important;
 }
 h1, h2, h3, h4, h5, body, p{
 	color: #34495e !important;
 }
-h2{
-	font-weight: 400 !important;
-}
+
 h1.ui.inverted.header{
 	text-shadow: 0px 0px 10px rgba(0,0,0,1) !important;
 	color: white !important;
 	letter-spacing: 1px;
-	font-weight: 400 !important;
+
 }
 h3.ui.inverted.header{
 	text-shadow: 0px 0px 10px rgba(0,0,0,1) !important;
@@ -24,11 +22,9 @@ h3.ui.inverted.header{
 }
 .ui.menu .ui.dropdown .menu>.item{
 	color: #34495e !important;
-	font-weight: 400 !important;
 }
 .ui.menu .ui.dropdown .menu>.active.item{
 	color: #34495e !important;
-	font-weight: 400 !important;
 }
 .thick-font{
 		font-weight: bold !important;
