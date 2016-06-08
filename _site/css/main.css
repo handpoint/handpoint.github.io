@@ -2,6 +2,15 @@
 						/*font css*/
 /*---------------------------------------------------*/
 
+html {
+	max-width: 1600px;
+	margin: auto;
+}
+
+body.pushable {
+    background: #fff !important;
+}
+
 h1, h2, h3, h4, h5, body, p, a, div{
 	font-weight: 300 !important;
 	font-family: 'Helvetica Neue',Arial,Helvetica,sans-serif !important;
@@ -35,6 +44,7 @@ h3.ui.inverted.header{
 .landing-background{
 	background-image: url("/images/card-readers/hilite-live-scenario-bakery.jpg") !important;
 	background-size: cover;
+	background-position: left left;
 	height: 600px;
 }
 .contact-background{
