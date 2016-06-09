@@ -61,7 +61,7 @@ h3.ui.inverted.header{
 
 }
 .sdk-background{
-	background-image: url("/images/unsplash/photo-coding.jpeg") !important;
+	background-image: url("/images/unsplash/photo-coding.jpg") !important;
 	background-size: cover;
 	height: 600px;
 }
