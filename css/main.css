@@ -76,12 +76,17 @@ h3.ui.inverted.header{
 	height: 600px;
 }
 .merchants-background{
-	background-image: url("/images/misc-photos/bakery.jpg") !important;
+	background-image: url("/images/unsplash/in-store-7.jpeg") !important;
 	background-size: cover;
 	height: 600px;
 }
 .developers-background{
 	background-image: url("/images/misc-photos/coffee-shop.jpg") !important;
+	background-size: cover;
+	height: 600px;
+}
+.resellers-background{
+	background-image: url("/images/unsplash/light-bulb.jpg") !important;
 	background-size: cover;
 	height: 600px;
 }
