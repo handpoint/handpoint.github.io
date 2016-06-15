@@ -81,7 +81,7 @@ h3.ui.inverted.header{
 	height: 600px;
 }
 .developers-background{
-	background-image: url("/images/unsplash/dev.jpeg") !important;
+	background-image: url("/images/unsplash/project.jpg") !important;
 	background-size: cover;
 	height: 600px;
 }
@@ -168,6 +168,24 @@ i.circular.icon{
 }
 .image-resize-2{
 	max-height: 320px;
+	width: auto;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.image-resize-3{
+	max-height: 350px;
+	width: auto;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.pos-dev-logo-resize{
+	max-height: 40px;
 	width: auto;
 	margin-top:20px;
 	margin-bottom:20px;
