@@ -50,7 +50,7 @@ h3.ui.inverted.header{
 .contact-background{
 	background-image: url("/images/misc-photos/chicken-roast-restaurant.jpg") !important;
 	background-size: cover;
-	height: 300px;
+	height: 400px;
 }
 .grey-background{
 	background: linear-gradient(to bottom, rgba(240,240,240,1) 0%,rgba(204,204,204,1) 100%);
@@ -125,11 +125,11 @@ div.row{
     text-transform: uppercase !important;
 }
 .paragraph-css{
-    padding-top: 10px;
+    padding-top:10px;
     padding-bottom:10px;
     padding-right:30px;
     padding-left:30px;
-    text-align: justify;
+    text-align:justify;
 }
 .divider-position{
 	position: relative;
@@ -221,7 +221,9 @@ i.circular.icon{
 	margin-bottom: 0px !important;
 }		
 
-
+.orange-color{
+	color: rgb(255, 118, 56) !important;
+}
 					/*Video css*/
 /*---------------------------------------------------*/
 
