@@ -22,12 +22,14 @@ $('.ui.accordion')
  $('.modal-button-hilite').click(function(){
         $('#modal-hilite-specs').modal('show');
     });
-
  $('.modal-button-hipro').click(function(){
         $('#modal-hipro-specs').modal('show');
     });
  $('.modal-button-hifive').click(function(){
         $('#modal-hifive-specs').modal('show');
+    });
+ $('.modal-button-start-now').click(function(){
+        $('#modal-start-now').modal('show');
     });
 
 // World Map
