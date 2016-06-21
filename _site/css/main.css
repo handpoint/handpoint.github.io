@@ -290,7 +290,7 @@ i.circular.icon{
 		font-size: 12px !important;
 	}	
 	.display-small-screen-only{
-		display:block !important;
+		display:inline-block !important;
 	}
 	.display-big-screen-only{
 		display: none !important;
