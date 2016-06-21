@@ -131,6 +131,7 @@ div.row{
     padding-left:30px;
     text-align:justify;
 }
+
 .divider-position{
 	position: relative;
 }
@@ -202,7 +203,6 @@ i.circular.icon{
 	margin-right:20px;
 }
 
-
 .column-no-padding{
 	padding-top: 0px !important;
 	padding-left: 0px !important;
@@ -240,7 +240,6 @@ i.circular.icon{
 	width: 650px;
 	height:300px;
 }
-
 
 			/*hidden css for small screens*/
 /*---------------------------------------------------*/
