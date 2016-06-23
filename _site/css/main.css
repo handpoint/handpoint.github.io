@@ -290,6 +290,11 @@ i.circular.icon{
 	background-size: cover;
 	height: 600px;
 	}
+	div.resellers-background{
+	background-image: url("/images/unsplash/reporting-small-screen.jpg") !important;
+	background-size: cover;
+	height: 600px;
+	}
 	h1{
 		font-size: 18px !important;
 	}
