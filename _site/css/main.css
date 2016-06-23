@@ -285,6 +285,11 @@ i.circular.icon{
 	background-size: cover;
 	height: 600px;
 	}
+	div.developers-background{
+	background-image: url("/images/unsplash/project-small-screen.jpg") !important;
+	background-size: cover;
+	height: 600px;
+	}
 	h1{
 		font-size: 18px !important;
 	}
