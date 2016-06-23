@@ -370,6 +370,11 @@ i.circular.icon{
 	background-size: cover;
 	height: 600px;
 	}
+	div.cardreaders-background{
+	background-image: url("/images/card-readers/hipro-live-scenario-coffee-shop-small-screen.jpg") !important;
+	background-size: cover;
+	height: 600px;
+	}
 	h1{
 		font-size: 19px !important;
 	}
