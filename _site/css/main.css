@@ -185,13 +185,9 @@ i.circular.icon{
 	margin-right:20px;
 }
 
-.pos-dev-logo-resize{
-	max-height: 40px;
-	width: auto;
-	margin-top:20px;
-	margin-bottom:20px;
-	margin-left:20px;
-	margin-right:20px;
+.relaxed-padding{
+	padding-top: 60px !important;
+	padding-bottom: 60px !important;
 }
 
 .column-no-padding{
