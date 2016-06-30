@@ -31,3 +31,6 @@ $('.ui.accordion')
  $('.modal-button-start-now').click(function(){
         $('#modal-start-now').modal('show');
     });
+ $('.modal-button-partner').click(function(){
+      $('#modal-partners-list').modal('show');
+    });
