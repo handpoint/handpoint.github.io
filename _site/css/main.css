@@ -45,8 +45,12 @@ h3.ui.inverted.header{
 		font-weight: bold !important;
 }
 
-
-.rw-wrapper{
+.rotating-word {
+	width:7em; 
+	display:inline-block;
+	color: rgb(255, 118, 56);
+}
+/*.rw-wrapper{
 	width: 30%;
 	margin: 110px auto 0 auto;
 	padding: 10px;
@@ -89,7 +93,7 @@ h3.ui.inverted.header{
 	20% { opacity: 1; width: 100%; }
     27% { opacity: 0; width: 100%; }
     100% { opacity: 0; }
-}
+}*/
 
 
 					/*Background css*/
