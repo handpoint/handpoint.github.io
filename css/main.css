@@ -64,7 +64,6 @@ h3.ui.inverted.header{
 }
 .footer-background{
 	background-image: url("/images/misc-photos/footer.png") !important;
-	height: 150px;
 }
 
 .sdk-background{
