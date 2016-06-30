@@ -8,7 +8,7 @@ html {
 }
 
 body.pushable {
-    background: #f2f2f2 !important;
+    background: transparent !important;
 }
 
 h1, h2, h3, h4, h5, body, p, a, div{
@@ -62,10 +62,11 @@ h3.ui.inverted.header{
 	background: #F0F0F0;
 
 }
-.blue-background{
-	background-color: #34495e !important;
-
+.footer-background{
+	background-image: url("/images/misc-photos/footer.png") !important;
+	height: 150px;
 }
+
 .sdk-background{
 	background-image: url("/images/unsplash/photo-coding.jpg") !important;
 	background-size: cover;
@@ -118,6 +119,10 @@ h3.ui.inverted.header{
 					/*main css*/
 /*---------------------------------------------------*/
 
+.rotating-word{
+	color: rgb(255, 118, 56)!important;
+}
+
 .ui.mini.image{
 	width: 50px !important;
 }
@@ -160,11 +165,6 @@ i.circular.icon{
 	margin-right:10px;
 	margin-left:10px;
 }
-
-.footer-color{
-	color: white !important;
-}
-
 .image-size-sdk{
 	height: 400px;
 	width: 100%;
