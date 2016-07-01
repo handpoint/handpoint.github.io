@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Metadata -->
+    <meta charset="utf-8">
+    <meta name="description" content="Handpoint Payment Services">
+    <meta name="keywords" content="nextgenpos, handpoint, hipro, Hifive, hilite, api, pos developer, integration, payments, card present, mobile payments, mobile pos, mobile, p2pe, encryption, point, point to point encryption, credit cards, point of sale">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="mobile-web-app-capable" content="yes">
+<!-- Metadata End -->
+
+<!-- Site Properties -->
+    <title>  GetStarted |  Handpoint </title>
+    <link rel="stylesheet" type="text/css" href="semantic-ui/semantic.min.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link href="jqvmap/dist/jqvmap.css" media="screen" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="flexslider/flexslider.css" type="text/css">
+		<link rel="stylesheet" href="css/animate.min.css" type="text/css">
+		<link rel="stylesheet" href="morphtext/morphext.css" type="text/css">
+    <script type="text/javascript" src="js/jquery-1.12.3.js"></script>
+    <script type="text/javascript" src="semantic-ui/semantic.min.js"></script>
+<!-- Site Properties End-->
+
+<!-- Scripts -->
+<script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","handpoint.zendesk.com");/*]]>*/</script>
+    <!-- End of Handpoint Zendesk Widget script --><script>
+    zE(function() {
+        zE.hide();
+    });
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1295190-2', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- Scripts -->
+
+</head>
+
+<body>
+<!-- Sidebar for Smaller screens -->
+<div class="ui left demo vertical inverted sidebar labeled icon menu">
+    <a class="item" href="/"><i class="home icon"></i>Home</a>
+    <div class="ui vertical inverted accordion item">
+        <a class="active title item">
+            <i class="heart icon"></i>Our Solutions
+        </a>
+        <div class="inactive content menu">
+            <a class="item" href="merchants.html">For Merchants</a>
+            <a class="item" href="developers.html">For Developers</a>
+            <a class="item" href="resellers.html">For Resellers</a>
+            <div class="ui divider"></div>
+            <a class="item" href="cardreaders.html">Card Readers</a>
+            <a class="item" href="sdk.html">SDK</a>
+            <a class="item" href="gateway.html">Gateway</a>
+        </div>
+    </div>
+    <a class="item" target='_blank' href="https://www.handpoint.com/docs/basics/"><i class="code icon"></i>Docs</a>
+    <div class="ui vertical inverted accordion item">
+        <a class="active title item">
+            <i class="lab icon"></i>Support
+        </a>
+        <div class="inactive content menu">
+            <a class="item" href="getstarted.html">Get Started</a>
+            <a class="item" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help Center</a>
+        </div>
+    </div>
+    <div class="ui vertical inverted accordion item">
+        <a class="active title item">
+        <i class="building icon"></i>About
+        </a>
+        <div class="inactive content menu">
+            <a class="item" href="company.html">Company</a>
+            <a class="item" href="team.html">Team</a>
+            <a class="item" href="awards.html">Awards</a>
+            <a class="item" href="pressreleases.html">Press Releases</a>
+            <a class="item" href="careers.html">Careers</a>
+        </div>
+    </div>
+    <a class="item" target='_blank' href="https://medium.com/handpoint"><i class="feed icon"></i>Blog</a>
+    <a class="item" href="#" onclick="zE.activate({hideOnClose: true});"><i class="comment icon"></i>Contact</a>
+</div>
+<!-- Sidebar end -->
+
+<!-- Navbar -->
+<div class="ui fixed secondary inverted menu"style="max-width: 1300px; position: relative;">
+    <div class="ui fluid container">
+        <div class="left item">
+            <a class="ui small image" href="/">
+                <img src="/images/logos/handpoint-logo-white.png" alt="Handpoint Logo">
+            </a>
+        </div> 
+        <div class="right item">
+            <a class="item" title="Home" href="/">Home</a>
+            <div class="ui pointing dropdown item dropdown-css" title="Product">Our Solutions
+                <i class="dropdown icon dropdown-icon-css"></i>
+                <div class="ui menu">
+                    <a class="item" href="merchants.html">For Merchants</a>
+                    <a class="item" href="developers.html">For Developers</a>
+                    <a class="item" href="resellers.html">For Resellers</a>
+                    <div class="ui divider"></div>
+                    <a class="item" href="cardreaders.html">Payment Terminals</a>
+                    <a class="item" href="sdk.html">Soft. Development Kit</a>
+                    <a class="item" href="gateway.html">Gateway &amp; Processors</a>
+                </div>
+            </div>
+            <a class="item" title="Documentation" target='_blank' href="https://www.handpoint.com/docs/basics/">API Documentation</a>
+            <div class="ui pointing dropdown item dropdown-css" title="support">Support
+                <i class="dropdown icon dropdown-icon-css"></i>
+                <div class="menu">
+                    <a class="item" href="getstarted.html">Get Started</a>
+                    <a class="item" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help Center</a>
+                </div>
+            </div>
+            <div class="ui pointing dropdown item dropdown-css" title="About">
+                About
+                <i class="dropdown icon dropdown-icon-css"></i>
+                <div class="menu">
+                    <a class="item" href="company.html">Company</a>
+                    <a class="item" href="team.html">Team</a>
+                    <a class="item" href="awards.html">Awards</a>
+                    <a class="item" href="pressreleases.html">Press Releases</a>
+                    <a class="item" href="careers.html">Careers</a>
+                </div>
+            </div>
+            <a class="item" title="Blog" target='_blank' href="https://medium.com/handpoint">Blog</a>
+            <a class="item" title="Contact" href="#" onclick="zE.activate({hideOnClose: true});">Contact</a>
+            <a class="launch-sidebar">
+            <i class="sidebar big icon"></i>
+            </a>
+        </div>
+    </div>
+</div>  
+<!-- Navbar End-->
+
+<div class="pusher">
+
+<!-- Content for Section 1 - Catchline -->
+<div class="ui bottom aligned stackable grid getstarted-background">
+    <div class="center aligned column">
+        <div class="row">
+            <h1 class="ui header inverted uppercase">Congratulations for joining <br> the Handpoint mobile POS family!</h1>
+        </div>
+        <div class="row">
+            <h3 class="ui header inverted">Here are five steps to help you get started with your new mobile payment solution</h3>
+        </div>  
+    </div>
+</div>
+<!-- End Content for Section 1 - Catchline-->  
+
+<!-- Content for Section 2 - POS-->
+<div class="ui center aligned stackable grid relaxed-padding">
+    <div class="middle aligned eight wide column">
+        <div class="row">
+             <h1>Downloading the Handpoint App</h1>
+        </div>
+        <div class="row paragraph-css">
+            <p>
+                Handpoint partners with many companies that provide point of sale systems to merchants. We work with partners that have many different needs and whose businesses range from traditional retail and restaurant industries all the way to bus companies, event ticketing, and pharmacies. The solutions that we offer will allow you to use our Handpoint card readers to process payments on a wide range of platforms (iOS, Android, and Windows). Feel free to contact our Sales team for more information on the range of POS we have to offer. 
+            </p>
+        </div>
+    </div>
+    <div class="middle aligned three wide column">
+        <div class="row">
+            <img class="ui medium centered image" src="/images/icons/smartphone-apps.png" alt= "smartphone-apps"></img>
+        </div>
+    </div>
+</div>
+<!-- End Content for Section 2 - POS-->
+
+<!-- Content for Section 3 - Affordable Solution-->
+<div class="ui center aligned stackable grid grey-background relaxed-padding">
+     <div class="middle aligned three wide column display-big-screen-only">
+        <div class="row">
+            <img class="ui medium centered image" src="/images/icons/login.png" alt= "login"></img>
+        </div>
+    </div>
+    <div class="middle aligned eight wide column">
+        <div class="row">
+             <h1>First Time Login</h1>
+        </div>
+        <div class="row paragraph-css">
+            <p>
+              Handpoint's affordable card readers bundled with a next generation POS for tablets or smartphones, are bringing payment card processing into the 21st century. The time when it was standard practice to spend a lot of money for a cash register, a PC, and a bulky payment terminal is long past, and Handpoint will bring you into the future. We provide you with a sleek, compact, and reliable solution using state-of-the-art technologies in order to make the checkout experience as pleasant as possible for both the merchant and the cardholder. 
+            </p>
+        </div>
+    </div>
+    <div class="middle aligned three wide column display-small-screen-only">
+        <div class="row">
+            <img class="ui medium centered image" src="/images/icons/login.png" alt= "login"></img>
+        </div>
+    </div>
+</div>
+<!-- End Content for Section 3 - Affordable Solutions-->
+
+<!-- Content for Section 4 - simplicity-->
+<div class="ui center aligned stackable grid relaxed-padding">
+    <div class="middle aligned eight wide column">
+        <div class="row">
+             <h1>Activating your App with the Shared Secret</h1>
+        </div>
+        <div class="row paragraph-css">
+            <p>
+                Handpoint offers a fully-integrated solution which gives merchants a full control over the card reader directly from the point of sale. The initial setup is as simple as pairing two devices via bluetooth, which allows you to start processing payments within minutes. Our card readers are of high quality materials and provide fast transaction speed for an intuitive and user-friendly experience.
+            </p>
+        </div>
+    </div>
+    <div class="middle aligned three wide column">
+        <div class="row">
+            <img class="ui medium centered image" src="/images/icons/locked.png" alt= "locked"></img>
+        </div>
+    </div>
+</div>
+<!-- End Content for Section 4 - simplicity-->
+
+<!-- Content for Section 5 - Security-->
+<div class="ui center aligned stackable grid grey-background relaxed-padding">
+    <div class="middle aligned three wide column display-big-screen-only">
+        <div class="row">
+            <img class="ui medium centered image" src="/images/icons/bluetooth.png" alt= "bluetooth"></img>
+        </div>
+    </div>
+    <div class="middle aligned eight wide column">
+        <div class="row">
+             <h1>Connecting your Card Reader and the App</h1>
+        </div>
+        <div class="row paragraph-css">
+            <p>
+                in 2006, Handpoint was the first mobile payment company to achieve point-to-point encryption, and we have been building on this base to offer one of the most secure payment platform on the market ever since. Every transaction is encrypted from the card reader to the banks and we make sure to always comply to the latest security standards.
+            </p>
+        </div>
+    </div>
+    <div class="middle aligned three wide column display-small-screen-only">
+        <div class="row">
+            <img class="ui medium centered image" src="/images/icons/bluetooth.png" alt= "bluetooth"></img>
+        </div>
+    </div>
+</div>
+<!-- End Content for Section 5 - Security-->
+
+<<!-- Content for Section 4 - simplicity-->
+<div class="ui center aligned stackable grid relaxed-padding">
+    <div class="middle aligned eight wide column">
+        <div class="row">
+             <h1>Card Reader Initialization</h1>
+        </div>
+        <div class="row paragraph-css">
+            <p>
+                Handpoint offers a fully-integrated solution which gives merchants a full control over the card reader directly from the point of sale. The initial setup is as simple as pairing two devices via bluetooth, which allows you to start processing payments within minutes. Our card readers are of high quality materials and provide fast transaction speed for an intuitive and user-friendly experience.
+            </p>
+        </div>
+    </div>
+    <div class="middle aligned three wide column">
+        <div class="row">
+            <img class="ui medium centered image" src="/images/icons/location-flag.png" alt= "location-flag"></img>
+        </div>
+    </div>
+</div>
+<!-- End Content for Section 4 - simplicity-->
+
+
+<!-- Content for Section 9 - footer-->
+    <div class="ui five column center aligned stackable grid footer-background">
+        <div class="column column-no-top-padding">
+            <div class="ui left aligned basic segment">
+            <h3 class="ui header footer-color">Our Solutions</h3>
+                <li>
+                    <a class="footer-color" href="merchants.html">For Merchants</a>
+                </li>
+                <li>
+                    <a class="footer-color" href="developers.html">For Developers</a>
+                </li>
+                <li>
+                    <a class="footer-color" href="resellers.html">For Resellers</a>
+                </li>
+            <h3 class="ui header footer-color">Tool Kit</h3>
+                <li>
+                    <a class="footer-color" href="cardreaders.html">Card Readers</a>
+                </li>
+                <li>
+                    <a class="footer-color" href="sdk.html">SDKs</a>
+                </li>
+                <li>
+                    <a class="footer-color" href="gateway.html">Processors</a>
+                </li>
+            </div>
+        </div>
+        <div class="column column-no-top-padding">
+            <div class="ui left aligned basic segment">
+            <h3 class="ui header footer-color">Documentation</h3>
+                <li>
+                    <a class="footer-color" target='_blank' href="https://www.handpoint.com/docs/basics/">API Docs</a>
+                </li>
+                <li>
+                    <a class="footer-color" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help Center</a>
+                </li>
+                <li>
+                    <a class="footer-color" href="getstarted.html">Get Started</a>
+                </li>
+            <h3 class="ui header footer-color">Contact</h3>
+            <a class="footer-color">sales@handpoint.com</a>
+            <a class="footer-color">support@handpoint.com</a>
+            </div>
+        </div>
+        <div class="center aligned column column-no-top-padding">
+            <div class="ui left aligned basic segment">
+                <h3 class="ui header footer-color">UK Office</h3>
+                <li>
+                    <a class="footer-color">20 Bridge St.</a>
+                </li>
+                <li>
+                    <a class="footer-color">Cambridge</a>
+                </li>
+                <li>
+                    <a class="footer-color">CB2 1UF</a>
+                </li>
+                <h3 class="ui header footer-color">US Office</h3>
+                <li>
+                    <a class="footer-color">470 Ramona St.</a>
+                </li>
+                <li>
+                    <a class="footer-color">Palo Alto</a>
+                </li>
+                <li>
+                    <a class="footer-color">CA 94301</a>
+                </li>
+            </div>
+        </div>
+        <div class="center aligned column column-no-top-padding">
+            <div class="ui left aligned basic segment">
+                <h3 class="ui header footer-color">Iceland Office</h3>
+                <li>
+                    <a class="footer-color">Borgartun 27</a>
+                </li>
+                <li>
+                    <a class="footer-color">105 Reykjavik</a>
+                </li>
+                <li>
+                    <a class="footer-color">+354 510 3300</a>
+                </li>
+                <h3 class="ui header footer-color">Follow Us</h3>
+                <a class="item footer-color" target="_blank" href="https://www.facebook.com/Handpoint"><i class="big facebook square icon"></i></a>
+                <a class="item footer-color" href="https://twitter.com/handpointltd"><i class="big twitter square icon"></i></a>
+                <a class="item footer-color" target="_blank" href="https://plus.google.com/+Handpoint/posts"><i class="big google plus square icon"></i></a>
+                <a class="item footer-color" target="_blank" href="https://www.linkedin.com/company/handpoint"><i class="big linkedin square icon"></i></a>
+                <a class="item footer-color" target="_blank" href="http://blog.handpoint.com/"><i class="big tumblr square icon"></i></a>
+                <a class="item footer-color" target="_blank" href="https://vimeo.com/handpoint"><i class="big vimeo square icon"></i></a>
+                <a class="item footer-color" target="_blank" href="https://www.youtube.com/channel/UCZRWCS7V0c4kvodVSWgdGHg"><i class="big youtube square icon"></i></a>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!--  End of Content for Section 9 - footer-->
+</body>
+
+<!-- Scripts -->
+<script type="text/javascript" src="js/main.js"></script>
+<script src="flexslider/jquery.flexslider.js"></script>
+<!-- Scripts -->
+</html>

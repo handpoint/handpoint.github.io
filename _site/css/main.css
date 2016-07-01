@@ -60,6 +60,11 @@ h3.ui.inverted.header{
 .footer-background{
 	background-color: #34495e;
 }
+.getstarted-background{
+	background-image: url("/images/unsplash/family.jpg") !important;
+	background-size: cover;
+	height: 600px;
+}
 
 .sdk-background{
 	background-image: url("/images/unsplash/photo-coding.jpg") !important;
