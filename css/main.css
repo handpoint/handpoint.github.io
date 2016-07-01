@@ -63,7 +63,7 @@ h3.ui.inverted.header{
 
 }
 .footer-background{
-	background-image: url("/images/misc-photos/footer.png") !important;
+	background-color: #34495e;
 }
 
 .sdk-background{
@@ -222,6 +222,9 @@ i.circular.icon{
 
 .orange-color{
 	color: rgb(255, 118, 56) !important;
+}
+.footer-color{
+	color: white !important;
 }
 					/*Video css*/
 /*---------------------------------------------------*/
