@@ -5,6 +5,7 @@
 html {
 	max-width: 1300px;
 	margin: auto;
+	background-color: grey;
 }
 
 body.pushable {
@@ -34,14 +35,8 @@ h3.ui.inverted.header{
 	text-shadow: 0px 0px 10px rgba(0,0,0,1) !important;
 	color: white!important;
 }
-.ui.menu .ui.dropdown .menu>.item{
-	color: #34495e !important;
-}
-.ui.menu .ui.dropdown .menu>.active.item{
-	color: #34495e !important;
-}
 .thick-font{
-		font-weight: bold !important;
+	font-weight: bold !important;
 }
 
 					/*Background css*/
@@ -113,6 +108,12 @@ h3.ui.inverted.header{
 .dropdown-css{
 	margin-bottom: 0px !important;
 	font-size: 13px;
+}
+.ui.menu .ui.dropdown .menu>.item{
+	color: #34495e !important;
+}
+.ui.menu .ui.dropdown .menu>.active.item{
+	color: #34495e !important;
 }
 
 					/*main css*/
