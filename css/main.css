@@ -120,6 +120,8 @@ h3.ui.inverted.header{
 
 .rotating-word{
 	color: rgb(255, 118, 56)!important;
+	width: 7em;
+	display: inline-block;
 }
 
 .ui.mini.image{
