@@ -21,8 +21,8 @@ h1, h2, h3, h4, h5, body, p{
 }
 
 p, li{
-	line-height: 1.4em !important;
-	font-size: 15px !important;
+	line-height: 1.62rem !important;
+	font-size: 1.0625rem !important;
 }
 
 h1.ui.inverted.header{
