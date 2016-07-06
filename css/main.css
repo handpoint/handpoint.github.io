@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, body, p{
 	color: #34495e !important;
 }
 
-p{
+p, li{
 	line-height: 1.4em !important;
 	font-size: 15px !important;
 }
