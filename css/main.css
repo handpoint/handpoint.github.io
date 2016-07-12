@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, body, p{
 	color: #34495e !important;
 }
 
-p, li{
+p, li, ul{
 	line-height: 1.62rem !important;
 	font-size: 1.0625rem !important;
 }
@@ -307,13 +307,18 @@ i.circular.icon{
 	background-size: cover;
 	height: 600px;
 	}
+	div.getstarted-background{
+	background-image: url("/images/unsplash/family-small-screen.jpg") !important;
+	background-size: cover;
+	height: 600px;
+	}
 	h1{
 		font-size: 18px !important;
 	}
 	h3{
 		font-size: 16px !important;
 	}
-	p {
+	p, li, ul {
 		font-size: 12px !important;
 	}	
 	.display-small-screen-only{
@@ -393,7 +398,7 @@ i.circular.icon{
 	h3{
 		font-size: 16px !important;
 	}
-	p {
+	p, li, ul{
 		font-size: 12px !important;
 	}	
 	.ui.button{
