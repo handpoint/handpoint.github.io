@@ -398,9 +398,9 @@ i.circular.icon{
 	h3{
 		font-size: 16px !important;
 	}
-/*	p, li, ul{
-		font-size: 12px !important;
-	}	*/
+	p, li, ul{
+		font-size: 14px !important;
+	}	
 	.ui.button{
 		font-size: 1em !important;
 	}
