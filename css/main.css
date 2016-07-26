@@ -31,11 +31,18 @@ h1.ui.inverted.header{
 	letter-spacing: 1px;
 
 }
+h2.ui.inverted.header{
+	text-shadow: 0px 0px 10px rgba(0,0,0,1) !important;
+	color: white!important;
+}
 h3.ui.inverted.header{
 	text-shadow: 0px 0px 10px rgba(0,0,0,1) !important;
 	color: white!important;
 }
-
+.special-font{
+	font-size: 40px !important; 
+	font-weight: 500 !important;
+}
 					/*Background css*/
 /*---------------------------------------------------*/
 
@@ -45,7 +52,7 @@ h3.ui.inverted.header{
 	background-position: left left;
 	height: 600px;
 }
-.contact-background{
+.contact-landing-background{
 	background-image: url("/images/misc-photos/chicken-roast-restaurant.jpg") !important;
 	background-size: cover;
 	height: 400px;
@@ -88,6 +95,11 @@ h3.ui.inverted.header{
 }
 .resellers-background{
 	background-image: url("/images/unsplash/reporting.jpg") !important;
+	background-size: cover;
+	height: 600px;
+}
+.contact-background{
+	background-image: url("/images/unsplash/mailbox.jpg") !important;
 	background-size: cover;
 	height: 600px;
 }
@@ -220,13 +232,17 @@ i.circular.icon{
 	height: auto;
 }
 
-					/*world map css*/
+					/*world map and google map css*/
 /*---------------------------------------------------*/
 
 .vmap{
 	width: 650px;
 	height:360px;
 }
+.scrolloff {
+    pointer-events: none;
+}
+
 
 			/*hidden css for small screens*/
 /*---------------------------------------------------*/
@@ -284,6 +300,11 @@ i.circular.icon{
 	}
 	div.getstarted-background{
 	background-image: url("/images/unsplash/family-small-screen.jpg") !important;
+	background-size: cover;
+	height: 600px;
+	}
+	.contact-background{
+	background-image: url("/images/unsplash/mailbox-small-screen.jpg") !important;
 	background-size: cover;
 	height: 600px;
 	}

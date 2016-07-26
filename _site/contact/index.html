@@ -9,7 +9,7 @@
     <meta name="mobile-web-app-capable" content="yes">
 <!-- Metadata End -->
 
-    <title>  SDK's |  Handpoint </title>
+    <title>  Contact |  Handpoint </title>
 
 <!-- CSS Properties -->
     <link rel="shortcut icon" href="/images/logos/handpoint_favicon.ico" type="image/x-icon" />
@@ -137,153 +137,117 @@
 <div class="pusher">
 
 <!-- Content for Section 1 - Catchline -->
-<div class="ui bottom aligned stackable grid sdk-background">
+<div class="ui middle aligned stackable grid contact-background">
     <div class="center aligned column">
         <div class="row">
-            <h1 class="ui header inverted uppercase">Offering Developers Innovative Technology</h1>
+            <h1 class="ui header inverted uppercase special-font">tell us about your needs</h1>
         </div>
         <div class="row">
-            <h3 class="ui header inverted">Integrate our card readers with your mobile app by using the Handpoint Software Development Kit</h3>
+            <h2 class="ui header inverted">We would love to hear about your business and find a time to discuss your projects.<br>Fill out the form below and we will be in touch soon to get the ball rolling.</h2>
         </div>  
     </div>
 </div>
-<!-- End Content for Section 1 - Catchline-->
+<!-- End Content for Section 1 - Catchline--> 
+<!-- Content for Section 2 - google maps -->
+<section id="canvas1"class="display-big-screen-only">
+    <iframe
+      id="map_canvas1"
+      width="1400"
+      height="250"
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55694.05160275778!2d-21.82332107178285!3d64.13704117634062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d674c69db6e7df%3A0xed037b1b3caf6562!2zQm9yZ2FydMO6biAyOCwgUmV5a2phdsOtaw!5e0!3m2!1sen!2sis!4v1469443964376" frameborder="0" style="border:0" allowfullscreen>
+    </iframe>
+    <script>
+        $(document).ready(function () {
 
-<!-- Content for Section 2 - Accepting payments-->
- <div class="ui center aligned stackable grid relaxed-padding">
-    <div class=" nine wide middle aligned column">
+            // you want to enable the pointer events only on click;
+
+            $('#map_canvas1').addClass('scrolloff'); // set the pointer events to none on doc ready
+            $('#canvas1').on('click', function () {
+                $('#map_canvas1').removeClass('scrolloff'); // set the pointer events true on click
+            });
+
+            // you want to disable pointer events when the mouse leave the canvas area;
+
+            $("#map_canvas1").mouseleave(function () {
+                $('#map_canvas1').addClass('scrolloff'); // set the pointer events to none when mouse leaves the map area
+            });
+        });
+    </script>
+</section>
+<!-- End of Content for Section 2 - google maps -->
+
+<!-- Content for Section 3 - Contact Form-->
+<div class="ui two column center aligned stackable grid relaxed-padding">
+    <div class="six wide column">
         <div class="row">
-            <h1>Who says accepting payments has to be complicated?</h1>
+            <h1 class="ui dividing header"> Let's Get Started</h1>
+            <div class="ui left aligned basic segment paragraph">
+                 <p>Whether you’re new to accepting credit cards, interested to resell a mobile payment solution or simply want to start offering an integrated experience to your merchants we are here to adapt to your business needs.</p>
+                 <h3><i class="checkmark icon"></i>Fair Pricing</h3>
+                 <h3><i class="checkmark icon"></i>Excellent Support</h3>
+                 <h3><i class="checkmark icon"></i>Seamless Integration with our SDK's</h3>
+                 <h3><i class="checkmark icon"></i>Transparent Partnership</h3>
+                 <h3><i class="checkmark icon"></i>Simple Merchant On-Boarding</h3>
+                <h3><i class="checkmark icon"></i>Effortless Terminal Distribution</h3>
+                 <p>Join the community of businesses like yours across the world who trust Handpoint to handle their payments</p>
+             </div>
         </div>
-        <div class="row paragraph">
-            <p>
-             All of the payment logic is handled by the card reader software so that developers can focus on streamlining the checkout experience for their merchants and customers. Starting a sale transaction is as simple as calling an API function. The best part is that you don't have to be a pro in the payments industry to integrate with our SDKs.
-            </p>
-        </div>         
+    </div>
+    <div class="six wide column">
         <div class="row">
-            <div class="center column">
-                <button class="ui orange basic big animated button" onclick="window.open('https://www.handpoint.com/docs/basics/payment-basics');">
-                    <div class="visible content"><i class ="find icon"></i>Learn the Basics</div>
-                    <div class="hidden content">Let's go!</div>
-                </button>
+            <h1 class="ui dividing header">Let’s talk!</h1>
+            <form class="ui form" action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
+            <input type=hidden name="oid" value="00D61000000eyXd">
+            <input type=hidden name="retURL" value="http://www.handpoint.com">
+            <input type=hidden name="lead_source" value="Handpoint Website">
+            <h3>Our sales team will contact you back</h3>
+            <div class="required field">
+                <input  id="first_name" maxlength="40" name="first_name" size="20" type="text" placeholder="First Name *" />
             </div>
-        </div>
-    </div> 
-</div>
-<!-- End Content for Section 2 - Accepting Payments-->
-
-<!-- Content for Section 3 - API control-->
-<div class="ui two column middle aligned stackable grid grey-background">
-    <div class="center aligned column">
-        <div class="row">
-             <h1>One API to Rule Them All</h1>
-        </div>
-        <div class="row paragraph">
-            <p>
-               <strong>One single integration to our APIs gives you access to any of Handpoint's card readers.</strong>
-            </p>
-            <p>
-               If a new card reader becomes available, you can start using it right away without having to go through the development process again. 
-            </p>
-            <p>
-               You'll be notified if a new call is available in the SDKs and can decide whether or not to support the new functionality depending on what makes sense for your business.  
-            </p>
-        </div>
-    </div>
-    <div class="column no-padding">
-        <img class="ui image image-resize" src="/images/unsplash/control.jpg" alt= "controls"></img>
-    </div>
-</div>
-<!-- End Content for Section 3 - API control-->
-
-<!-- Content for Section 4 - Documentatiom-->
-<div class="ui two column middle aligned stackable grid">
-    <div class="column no-padding display-big-screen-only">
-        <img class="ui image image-resize" src="/images/unsplash/book.jpg" alt= "documentation"></img>
-    </div>
-    <div class="center aligned column">
-        <div class="row">
-             <h1>Simple Documentation</h1>
-        </div>
-        <div class="row paragraph">
-            <p>
-                As developers, we prefer to avoid lengthy and convoluted documentation so we can get down to what we really want to do: start coding! With that in mind, we built our documentation around examples, sample apps, and Getting Started guides that are open source. Just copy/paste the code and start trying out the different functionalities. 
-            </p>
-        </div>
-        <div class="row">
-            <div class="center column">
-                <button class="ui orange basic big animated button" onclick="window.open('https://www.handpoint.com/docs/basics/');">
-                    <div class="visible content"><i class ="find icon"></i>Getting Started Guides</div>
-                    <div class="hidden content">Let's go!</div>
-                </button>
+            <div class="required field">
+                <input  id="last_name" maxlength="80" name="last_name" size="20" type="text" placeholder="Last Name *" />
             </div>
+            <div class="required field">
+                <input  id="email" maxlength="80" name="email" size="20" type="text" placeholder="Email *" />
+            </div>
+            <div class="field">
+                <input  id="company" maxlength="40" name="company" size="20" type="text" placeholder="Company (optional)" />
+            </div>
+            <div class="field">
+                <textarea name="description" id="description" placeholder="Tell us about your business and how we can help you (optional)"></textarea>
+            </div>
+            <input class="ui orange basic big button" type="submit" name="submit" value="Click here">
+            </form>
         </div>
-    </div>
-    <div class="column no-padding display-small-screen-only">
-        <img class="ui image image-resize" src="/images/unsplash/book.jpg" alt= "documentation"></img>
     </div>
 </div>
-<!-- End Content for Section 4 - Documentation-->
+<!-- End Content for Section 3 - Contact Form-->
 
-<!-- Content for Section 5 - multi platform API-->
-<div class="ui two column middle aligned stackable grid grey-background">
-    <div class="center aligned column">
+<!-- Content for Section 4 - Customer Service-->
+<div class="ui center aligned stackable grid grey-background relaxed-padding">
+     <div class="middle aligned three wide column">
         <div class="row">
-             <h1>A Swiss Knife SDK</h1>
-        </div>
-       <div class="row paragraph">
-            <p>
-                Our SDK is available on three different platforms: iOS, Android, and Windows. It offers a set of functionalities to developers from starting a sale, refund, or reversal, to offering tips and pre-authorization capabilities to specific industries.
-            </p>
-            <p>
-                <strong>You have control over the transaction result</strong>, which gives you the freedom to choose how to handle receipts and other functions.
-            </p>
+            <img class="ui medium centered image" src="/images/icons/customer-service.png" alt= "customer service">
         </div>
     </div>
-     <div class="column no-padding">
-    <img class="ui image image-resize" src="/images/unsplash/mobile-dev.jpg" alt= "mobile dev"></img>
-    </div>
-</div>
-<!-- End Content for Section 5 - multi platform API-->
-
-<!-- Content for Section 6 - UX-->
- <div class="ui two column middle aligned stackable grid">
-    <div class="column no-padding display-big-screen-only">
-    <img class="ui image image-resize" src="/images/unsplash/user-experience.jpg" alt= "user experience"></img>
-    </div>
-    <div class="center aligned column">
+    <div class="middle aligned eight wide column">
         <div class="row">
-             <h1>You design the user experience</h1>
+             <h1>Customer Support</h1>
         </div>
         <div class="row paragraph">
             <p>
-                No one knows what your merchants need in their point of sale software better than you do. This is why Handpoint strives to make the integration seamless and simple between your app and the card reader so you can focus on enhancing intuitiveness, accessibility, and ease of use between the user and your product. 
+               You can contact our customer service by email using support@handpoint.com
             </p>
-        </div>
-    </div>
-    <div class="column no-padding display-small-screen-only">
-    <img class="ui image image-resize" src="/images/unsplash/user-experience.jpg" alt= "user experience"></img>
-    </div>
-</div>
-<!-- End Content for Section 6 - UX-->
-
-<!-- Content for Section 7 - Security-->
-<div class="ui two column middle aligned stackable grid grey-background">
-    <div class="center aligned column">
-         <div class="row">
-             <h1>Security is the Foundation of our technology</h1>
-        </div>
-        <div class="row paragraph">
             <p>
-                All sensitive cardholder data information is encrypted on the card reader and transmitted via secure connections all the way to the acquirer. The fact that your app will never receive any unmasked or unencrypted cardholder data information keeps <strong>your software company fully out of the PCI-DSS scope</strong> and does not obligate your company to comply with any card security standard.
+               or by phone  +1 844 442 6378 (US office) +354 510 3300 (Icelandic Office)
+            </p>
+            <p>
+              Even simpler, get in touch directly through our <a href="#" onclick="zE.activate({hideOnClose: true});">Support Form</a>
             </p>
         </div>
     </div>
-     <div class="column no-padding">
-         <img class="ui image image-resize" src="/images/unsplash/locks.jpg" alt= "locks"></img>
-    </div>
 </div>
-<!-- End Content for Section 7 - Security-->
+<!-- End Content for Section 3 - Secure and reliable gateway-->
 
 
 <!--footer-->
