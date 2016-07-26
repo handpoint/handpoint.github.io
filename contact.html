@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-<!-- Content for Section 1 - Catchline -->
+<!-- Content for Section - Catchline -->
 <div class="ui middle aligned stackable grid contact-background">
     <div class="center aligned column">
         <div class="row">
@@ -14,36 +14,9 @@ title: Contact
         </div>  
     </div>
 </div>
-<!-- End Content for Section 1 - Catchline--> 
-<!-- Content for Section 2 - google maps -->
-<section id="canvas1"class="display-big-screen-only">
-    <iframe
-      id="map_canvas1"
-      width="1400"
-      height="250"
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55694.05160275778!2d-21.82332107178285!3d64.13704117634062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d674c69db6e7df%3A0xed037b1b3caf6562!2zQm9yZ2FydMO6biAyOCwgUmV5a2phdsOtaw!5e0!3m2!1sen!2sis!4v1469443964376" frameborder="0" style="border:0" allowfullscreen>
-    </iframe>
-    <script>
-        $(document).ready(function () {
+<!-- End Content for Section - Catchline-->
 
-            // you want to enable the pointer events only on click;
-
-            $('#map_canvas1').addClass('scrolloff'); // set the pointer events to none on doc ready
-            $('#canvas1').on('click', function () {
-                $('#map_canvas1').removeClass('scrolloff'); // set the pointer events true on click
-            });
-
-            // you want to disable pointer events when the mouse leave the canvas area;
-
-            $("#map_canvas1").mouseleave(function () {
-                $('#map_canvas1').addClass('scrolloff'); // set the pointer events to none when mouse leaves the map area
-            });
-        });
-    </script>
-</section>
-<!-- End of Content for Section 2 - google maps -->
-
-<!-- Content for Section 3 - Contact Form-->
+<!-- Content for Section - Contact Form-->
 <div class="ui two column center aligned stackable grid relaxed-padding">
     <div class="six wide column">
         <div class="row">
@@ -88,9 +61,9 @@ title: Contact
         </div>
     </div>
 </div>
-<!-- End Content for Section 3 - Contact Form-->
+<!-- End Content for Section - Contact Form-->
 
-<!-- Content for Section 4 - Customer Service-->
+<!-- Content for Section - Customer Service-->
 <div class="ui center aligned stackable grid grey-background relaxed-padding">
      <div class="middle aligned three wide column">
         <div class="row">
@@ -114,4 +87,51 @@ title: Contact
         </div>
     </div>
 </div>
-<!-- End Content for Section 3 - Secure and reliable gateway-->
+<!-- End Content for Section - Customer Service-->
+
+<!-- Content for Section  - google maps -->
+<section id="canvas1"class="display-big-screen-only">
+    <iframe
+    id="map_canvas1"
+    width="1400"
+    height="300"
+    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13918.648308017635!2d-21.9156104!3d64.146745!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d674c41b750879%3A0x6cf2859d59a32471!2zQm9yZ2FydMO6biAyNywgQXVzdHVyYsOmciBSZXlramF2w61r!5e0!3m2!1sen!2sis!4v1469550318463" frameborder="0" style="border:0" allowfullscreen>
+    </iframe>
+    <script>
+        $(document).ready(function () {
+
+            // you want to enable the pointer events only on click;
+
+            $('#map_canvas1').addClass('scrolloff'); // set the pointer events to none on doc ready
+            $('#canvas1').on('click', function () {
+                $('#map_canvas1').removeClass('scrolloff'); // set the pointer events true on click
+            });
+
+            // you want to disable pointer events when the mouse leave the canvas area;
+
+            $("#map_canvas1").mouseleave(function () {
+                $('#map_canvas1').addClass('scrolloff'); // set the pointer events to none when mouse leaves the map area
+            });
+        });
+    </script>
+</section>
+<!-- End of Content for Section - google maps -->
+    <script>
+        $(document).ready(function () {
+
+            // you want to enable the pointer events only on click;
+
+            $('#map_canvas1').addClass('scrolloff'); // set the pointer events to none on doc ready
+            $('#canvas1').on('click', function () {
+                $('#map_canvas1').removeClass('scrolloff'); // set the pointer events true on click
+            });
+
+            // you want to disable pointer events when the mouse leave the canvas area;
+
+            $("#map_canvas1").mouseleave(function () {
+                $('#map_canvas1').addClass('scrolloff'); // set the pointer events to none when mouse leaves the map area
+            });
+        });
+    </script>
+</section>
+<!-- End of Content for Section - google maps -->
