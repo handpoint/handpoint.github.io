@@ -223,8 +223,25 @@
 <!-- End Content for Section - Customer Service-->
 
 <!-- Content for Section  - google maps -->
-<section id="canvas1"class="display-big-screen-only">
+
+
+
+<div class="ui center aligned stackable grid relaxed-padding">
+    <div class="middle aligned eight wide column">
+        <div class="row">
+            <h1>Our Office Rocks!</h1>
+        </div>
+        <div class="row paragraph">
+            <p>Our headquarters office is located in Downtown Reykjavik, overlooking the faxafloi bay, it has an amazing view onto the surrounding mountains. If you’re in the area looking for a place to warm up (even during summer temperatures are rarely above 15 degrees celsius), please come and say hi – oh, and we can talk about payments too.</p>
+        </div>
+    </div>
+    <div class="middle aligned three wide column">
+        <img class="ui medium circular centered image" src="/images/misc-photos/handpoint-office.jpg" alt= "handpoint office"></img>
+    </div>
+</div>
+<div class="ui grid display-big-screen-only">
     <iframe
+    class="no-padding"
     id="map_canvas1"
     width="1400"
     height="300"
@@ -236,9 +253,6 @@
             // you want to enable the pointer events only on click;
 
             $('#map_canvas1').addClass('scrolloff'); // set the pointer events to none on doc ready
-            $('#canvas1').on('click', function () {
-                $('#map_canvas1').removeClass('scrolloff'); // set the pointer events true on click
-            });
 
             // you want to disable pointer events when the mouse leave the canvas area;
 
@@ -247,7 +261,9 @@
             });
         });
     </script>
-</section>
+</div>
+
+
 
 <!--footer-->
     <div class="ui center aligned stackable grid footer-background">
