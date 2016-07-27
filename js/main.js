@@ -80,10 +80,13 @@ $('.ui.form')
         ]
       },
       description: {
-        identifier: 'description',
+        identifier: '00N6100000Gq1GE',
         rules: [
           {
             type   : 'empty',
+          },
+          {
+            type   : 'maxLength[255]',
           }
         ]
       }
