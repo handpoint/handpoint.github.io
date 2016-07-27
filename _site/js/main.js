@@ -62,6 +62,30 @@ $('.ui.form')
             type   : 'empty',
           }
         ]
+      },
+      company: {
+        identifier: 'company',
+        rules: [
+          {
+            type   : 'empty',
+          }
+        ]
+      },
+      phone: {
+        identifier: 'phone',
+        rules: [
+          {
+            type   : 'empty',
+          }
+        ]
+      },
+      description: {
+        identifier: 'description',
+        rules: [
+          {
+            type   : 'empty',
+          }
+        ]
       }
     }
   })
