@@ -103,6 +103,11 @@ h3.ui.inverted.header{
 	background-size: cover;
 	height: 600px;
 }
+.thankyou-background{
+	background-image: url("/images/unsplash/iceland-waterfall.jpg") !important;
+	background-size: cover;
+	height: 600px;
+}
 					/*navbar css*/
 /*---------------------------------------------------*/
 
