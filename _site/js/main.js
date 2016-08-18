@@ -34,3 +34,62 @@ $('.ui.accordion')
  $('.modal-button-partner').click(function(){
       $('#modal-partners-list').modal('show');
     });
+
+
+$('.ui.form')
+  .form({
+    fields: {
+      first_name: {
+        identifier: 'first_name',
+        rules: [
+          {
+            type   : 'empty',
+          }
+        ]
+      },
+      last_name: {
+        identifier: 'last_name',
+        rules: [
+          {
+            type   : 'empty',
+          }
+        ]
+      },
+      email: {
+        identifier: 'email',
+        rules: [
+          {
+            type   : 'empty',
+          }
+        ]
+      },
+      company: {
+        identifier: 'company',
+        rules: [
+          {
+            type   : 'empty',
+          }
+        ]
+      },
+      phone: {
+        identifier: 'phone',
+        rules: [
+          {
+            type   : 'empty',
+          }
+        ]
+      },
+      description: {
+        identifier: '00N6100000Gq1GE',
+        rules: [
+          {
+            type   : 'empty',
+          },
+          {
+            type   : 'maxLength[255]',
+          }
+        ]
+      }
+    }
+  })
+;

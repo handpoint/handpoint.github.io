@@ -1,0 +1,131 @@
+---
+layout: default
+title: Contact
+---
+
+<!-- Content for Section - Catchline -->
+<div class="ui middle aligned stackable grid contact-background">
+    <div class="center aligned column">
+        <div class="row">
+            <h1 class="ui header inverted uppercase special-font">Need assistance or advice ?</h1>
+        </div>
+        <div class="row">
+            <h2 class="ui header inverted">We would love to hear about your business and find a time to discuss your projects.
+        </div>  
+    </div>
+</div>
+<!-- End Content for Section - Catchline-->
+
+<!-- Content for Section - Contact Form-->
+<div class="ui two column center aligned stackable grid relaxed-padding">
+    <div class="six wide column">
+        <div class="row">
+            <h1 class="ui dividing header"> Let's Get Started</h1>
+            <div class="ui left aligned basic segment paragraph">
+                 <p>Whether you’re new to accepting credit cards, interested to resell a mobile payment solution or simply want to start offering an integrated experience to your merchants we are here to adapt to your business needs.</p>
+                 <h3><i class="checkmark icon"></i>Fair Pricing</h3>
+                 <h3><i class="checkmark icon"></i>Excellent Support</h3>
+                 <h3><i class="checkmark icon"></i>Seamless Integration with our SDK's</h3>
+                 <h3><i class="checkmark icon"></i>Transparent Partnership</h3>
+                 <h3><i class="checkmark icon"></i>Simple Merchant On-Boarding</h3>
+                <h3><i class="checkmark icon"></i>Effortless Terminal Distribution</h3>
+                 <p>Join the community of businesses like yours across the world who trust Handpoint to handle their payments.</p>
+             </div>
+        </div>
+    </div>
+    <div class="six wide column">
+        <div class="row">
+            <h1 class="ui dividing header">Let’s talk!</h1>
+            <form class="ui form" action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
+                <input type=hidden name="oid" value="00D61000000eyXd">
+                <input type=hidden name="retURL" value="http://handpoint.github.io/thankyou/">
+                <input type=hidden name="lead_source" value="Handpoint Website">
+                <h3>Our <strong>Sales Team</strong> will get back to you soon</h3>
+                <div class="required field">
+                    <input  id="first_name" maxlength="40" name="first_name" size="20" type="text" placeholder="First Name" />
+                </div>
+                <div class="required field">
+                    <input  id="last_name" maxlength="80" name="last_name" size="20" type="text" placeholder="Last Name" />
+                </div>
+                <div class="required field">
+                    <input  id="email" maxlength="80" name="email" size="20" type="text" placeholder="Email" />
+                </div>
+                <div class="required field">
+                    <input  id="phone" maxlength="40" name="phone" size="20" type="text" placeholder="Phone" /><br>
+                </div>
+                <div class="required field">
+                    <input  id="company" maxlength="40" name="company" size="20" type="text" placeholder="Company" />
+                </div>
+                <div class="required field">
+                <textarea  id="00N6100000Gq1GE" name="00N6100000Gq1GE" type="text" wrap="soft" placeholder="Tell us about your business and how we can help you"></textarea><br>
+                </div>
+                <input class="ui orange basic big button" type="submit" name="submit" value="Let's Go!">
+            </form>
+        </div>
+    </div>
+</div>
+<!-- End Content for Section - Contact Form-->
+
+<!-- Content for Section - Customer Service-->
+<div class="ui center aligned stackable grid grey-background relaxed-padding">
+     <div class="middle aligned three wide column">
+        <div class="row">
+            <img class="ui medium centered image" src="/images/icons/customer-service.png" alt= "customer service">
+        </div>
+    </div>
+    <div class="middle aligned eight wide column">
+        <div class="row">
+             <h1>For Customer &amp; Integration Support</h1>
+               <button class="ui orange basic big button" onclick="zE.activate({hideOnClose: true});"><div>Click here</div></button>       
+        </div>
+
+        <div class="row">
+            <p>
+               You can also  contact our customer service by email using support@handpoint.com
+            </p>
+            <p>
+               or by phone  +1 844 442 6378 (US office) +354 510 3300 (Icelandic Office)
+            </p>
+        </div>  
+    </div>
+</div>
+<!-- End Content for Section - Customer Service-->
+
+<!-- Content for Section  - Our office -->
+<div class="ui center aligned stackable grid relaxed-padding">
+    <div class="middle aligned eight wide column">
+        <div class="row">
+            <h1>Our Office Rocks!</h1>
+        </div>
+        <div class="row paragraph">
+            <p>Our headquarters office is located in Downtown Reykjavik, overlooking the faxafloi bay, it has an amazing view onto the surrounding mountains. If you’re in the area looking for a place to warm up (even during summer temperatures are rarely above 15 degrees celsius), please come and say hi – oh, and we can talk about payments too.</p>
+        </div>
+    </div>
+    <div class="middle aligned three wide column">
+        <img class="ui medium circular centered image" src="/images/misc-photos/handpoint-office.jpg" alt= "handpoint office"></img>
+    </div>
+</div>
+<div class="ui grid display-big-screen-only">
+    <iframe
+    class="no-padding"
+    id="map_canvas1"
+    width="1400"
+    height="300"
+    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13918.648308017635!2d-21.9156104!3d64.146745!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d674c41b750879%3A0x6cf2859d59a32471!2zQm9yZ2FydMO6biAyNywgQXVzdHVyYsOmciBSZXlramF2w61r!5e0!3m2!1sen!2sis!4v1469550318463" frameborder="0" style="border:0" allowfullscreen>
+    </iframe>
+    <script>
+        $(document).ready(function () {
+
+            // you want to enable the pointer events only on click;
+
+            $('#map_canvas1').addClass('scrolloff'); // set the pointer events to none on doc ready
+
+            // you want to disable pointer events when the mouse leave the canvas area;
+
+            $("#map_canvas1").mouseleave(function () {
+                $('#map_canvas1').addClass('scrolloff'); // set the pointer events to none when mouse leaves the map area
+            });
+        });
+    </script>
+</div>
+<!-- ENd of Content for Section  - our office -->
