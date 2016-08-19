@@ -84,9 +84,6 @@ $('.ui.form')
         rules: [
           {
             type   : 'empty',
-          },
-          {
-            type   : 'maxLength[255]',
           }
         ]
       }
