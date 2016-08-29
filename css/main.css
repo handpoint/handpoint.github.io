@@ -108,6 +108,16 @@ h3.ui.inverted.header{
 	background-size: cover;
 	height: 600px;
 }
+.about-background{
+	background-image: url("/images/unsplash/mountain.jpg") !important;
+	background-size: cover;
+	height: 600px;
+}
+.team-background{
+	background-image: url("/images/misc-photos/team.jpg") !important;
+	background-size: cover;
+	height: 600px;
+}
 					/*navbar css*/
 /*---------------------------------------------------*/
 
@@ -229,6 +239,11 @@ i.circular.icon{
 }
 .underline{
 	text-decoration: underline;
+}
+
+.photo-team-resize{
+	height: 150px;
+	width: auto;
 }
 					/*Video css*/
 /*---------------------------------------------------*/
