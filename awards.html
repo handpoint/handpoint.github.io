@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="ui center aligned stackable grid relaxed-padding">
+  <div class="ten wide left aligned column">
+    <h1>Posts</h1>
+    <ul style="list-style-type:none">
+      {% for post in site.posts %}
+        {% if post.categories contains 'awards' %}
+            <li class="ui segment">
+                <h1 class="orange-color">
+                   <i class="trophy icon"></i><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h1>
+                <p>{{ post.date | date: "%b %-d, %Y" }}</p>
+                <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+            </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>  
+</div>
