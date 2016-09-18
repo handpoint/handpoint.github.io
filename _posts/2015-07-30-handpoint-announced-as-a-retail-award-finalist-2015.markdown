@@ -13,7 +13,7 @@ Handpoint is shortlisted for the Card and Payments Solution of the Year and Paym
 <i>David Gudjonsson, CEO of Handpoint.</i>
 
 The Retail Systems Awards, which are celebrating their 10th Anniversary have experience the highest number of entries on record, making it an even greater achievement to be shortlisted this year. The winners will be determined by an independent judging panel and announced at the renowned Retail Systems Awards Gala and Dinner on 15 October 2015 at the prestigious location London Marriott Hotel, Grosvenor Square.
-To celebrate the 10th anniversary of the Retail Systems Awards, Retail Systems are giving you the chance to vote for your landmark retail technology moment from the last 10 years. The ‘Retail Systems Most Defining Moment’ winner will be determined by public vote and announced at the awards gala, vote now at www.retail-systems.com/awards
+To celebrate the 10th anniversary of the Retail Systems Awards, Retail Systems are giving you the chance to vote for your landmark retail technology moment from the last 10 years. The ‘Retail Systems Most Defining Moment’ winner will be determined by public vote and announced at the awards gala, [please vote now](http://www.retail-systems.com/awards).
 
 About the Retail Systems Awards:
 The Retail Systems Awards recognise technology excellence and innovation within the retail sector. Winning entries come from retailers, technology suppliers etc. who are leading the way in such areas as mobile, online, payments, loyalty and personalisation. It’s FREE to enter the awards and you can put your organisation forward in as many categories as you wish.

@@ -109,12 +109,12 @@ h3.ui.inverted.header{
 	height: 600px;
 }
 .about-background{
-	background-image: url("/images/unsplash/mountain.jpg") !important;
+	background-image: url("/images/misc-photos/about.jpg") !important;
 	background-size: cover;
 	height: 600px;
 }
-.team-background{
-	background-image: url("/images/misc-photos/team.jpg") !important;
+.awards-background{
+	background-image: url("/images/misc-photos/awards.jpg") !important;
 	background-size: cover;
 	height: 600px;
 }

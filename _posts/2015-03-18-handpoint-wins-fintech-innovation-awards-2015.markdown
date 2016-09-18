@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "handpoint wins the 2015 Fintech Innovation Awards"
+title:  "Handpoint wins the 2015 Fintech Innovation Awards"
 date:   2015-03-18 17:00:00 +0000
 categories: awards
 ---

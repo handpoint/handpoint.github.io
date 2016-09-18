@@ -1,2 +1,8 @@
+#Build Settings
 permalink: pretty
 baseurl: ""
+paginate: 10
+paginate_path: /awards/page:num/
+
+#Gems
+gems: [jekyll-paginate]
