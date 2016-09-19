@@ -25,6 +25,10 @@ p, li, ul{
 	font-size: 1.0625rem !important;
 }
 
+.ui.secondary.menu a.item, div.item {
+		font-weight: 400 !important;
+	}
+
 h1.ui.inverted.header{
 	text-shadow: 0px 0px 10px rgba(0,0,0,1) !important;
 	color: white !important;
@@ -40,16 +44,15 @@ h3.ui.inverted.header{
 	color: white!important;
 }
 .special-font{
-	font-size: 40px !important; 
-	font-weight: 500 !important;
+	font-size: 35px !important; 
+	font-weight: 400 !important;
 }
 					/*Background css*/
 /*---------------------------------------------------*/
 
 .landing-background{
-	background-image: url("/images/card-readers/hilite-live-scenario-bakery.jpg") !important;
-	background-size: cover;
-	background-position: left left;
+	background-image: url("/images/card-readers/hilite-boat.jpg") !important; 
+    background-size: cover;
 	height: 600px;
 }
 .contact-landing-background{
@@ -84,17 +87,17 @@ h3.ui.inverted.header{
 	height: 600px;
 }
 .merchants-background{
-	background-image: url("/images/unsplash/in-store.jpg") !important;
+	background-image: url("/images/card-readers/merchant.jpg") !important;
 	background-size: cover;
 	height: 600px;
 }
 .developers-background{
-	background-image: url("/images/unsplash/project.jpg") !important;
+	background-image: url("/images/card-readers/developers.jpg") !important;
 	background-size: cover;
 	height: 600px;
 }
 .resellers-background{
-	background-image: url("/images/unsplash/reporting.jpg") !important;
+	background-image: url("/images/card-readers/reseller.jpg") !important;
 	background-size: cover;
 	height: 600px;
 }
@@ -179,10 +182,7 @@ div.row{
 	padding-right: 0px !important;
 	padding-bottom: 0px !important;
 }	
-.flexslider{
-	border-color: #F0F0F0 !important;
-	background-color: #F0F0F0 !important; 
-}
+
 .uppercase {
     text-transform: uppercase !important;
 }
@@ -192,9 +192,6 @@ div.row{
     padding-right:30px;
     padding-left:30px;
     text-align:justify;
-}
-.divider-position{
-	position: relative;
 }
 
 i.bordered.icon{
@@ -234,6 +231,10 @@ i.circular.icon{
 .relaxed-padding{
 	padding-top: 60px !important;
 	padding-bottom: 60px !important;
+}
+.slight-padding{
+	padding-top: 5px !important;
+	padding-bottom: 5px !important;
 }
 .orange-color{
 	color: rgb(255, 118, 56) !important;

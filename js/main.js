@@ -17,7 +17,6 @@ $(window).load(function() {
 $('.ui.accordion')
   .accordion()
 ;
-
 //modals
  $('.modal-button-hilite').click(function(){
         $('#modal-hilite-specs').modal('show');
