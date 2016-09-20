@@ -29,6 +29,9 @@ layout: default
                   </h1>
                   <p>{{ post.date | date: "%b %-d, %Y" }}</p>
                   <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+                  <div class="row">
+                    <button class="ui small orange button" onclick="location.href='{{ post.url | prepend: site.baseurl }}'">Read More</button>
+                  </div>
               </li>
           {% endif %}
         {% endfor %}
@@ -38,14 +41,14 @@ layout: default
       <div class="ui two column center aligned stackable grid">
         <div class="five wide left aligned column">
             {% if paginator.previous_page %}
-              <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+              <a href="{{ paginator.previous_page_path }}" class="previous">Previous &nbsp;</a>
             {% else %}
-              <span class="previous">Previous</span>
+              <span class="previous">Previous &nbsp;</span>
             {% endif %}
             {% if paginator.next_page %}
-              <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+              <a href="{{ paginator.next_page_path }}" class="next"> &nbsp;Next</a>
             {% else %}
-              <span class="next">Next</span>
+              <span class="next"> &nbsp;Next</span>
             {% endif %}
         </div>
         <div class="five wide right aligned column">
