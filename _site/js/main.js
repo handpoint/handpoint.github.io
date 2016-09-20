@@ -33,6 +33,9 @@ $('.ui.accordion')
  $('.modal-button-partner').click(function(){
       $('#modal-partners-list').modal('show');
     });
+$('.modal-button-video').click(function(){
+      $('#modal-video').modal('show');
+    });
 
 
 $('.ui.form')
