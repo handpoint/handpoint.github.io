@@ -5,7 +5,7 @@ date:   2014-02-13 17:00:00 +0000
 categories: awards
 ---
 
-<img class="ui medium centered image" src="/images/logos/mpe-award-2014-logo.jpg" alt="mpe award logo 2014">
+<img class="ui medium centered image" src="/images/logos/mpe-award-2014-logo.png" alt="mpe award logo 2014">
 
 Handpoint has been shortlisted for the CHANNEL Awards 2014 and is among the top three companies in the payments industry in the category. The winner of the MPE Awards will be announced at the awards ceremony on February 19th in InterContinental Hotel Berlin.
 
