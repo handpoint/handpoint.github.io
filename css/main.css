@@ -122,6 +122,11 @@ h3.ui.inverted.header{
 	background-size: cover;
 	height: 600px;
 }
+.pressreleases-background{
+	background-image: url("/images/unsplash/pressreleases.jpg") !important;
+	background-size: cover;
+	height: 600px;
+}
 					/*navbar css*/
 /*---------------------------------------------------*/
 

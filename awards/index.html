@@ -21,7 +21,7 @@ layout: default
     <div class="ten wide left aligned column">
       <h1>Posts</h1>
       <ul style="list-style-type:none; padding:0;">
-        {% for post in paginator.posts %}
+        {% for post in site.posts %}
           {% if post.categories contains 'awards' %}
               <li class="ui segment">
                   <h1 class="orange-color">
@@ -36,24 +36,5 @@ layout: default
           {% endif %}
         {% endfor %}
       </ul>
-    </div>
-    <div class="row">
-      <div class="ui two column center aligned stackable grid">
-        <div class="five wide left aligned column">
-            {% if paginator.previous_page %}
-              <a href="{{ paginator.previous_page_path }}" class="previous">Previous &nbsp;</a>
-            {% else %}
-              <span class="previous">Previous &nbsp;</span>
-            {% endif %}
-            {% if paginator.next_page %}
-              <a href="{{ paginator.next_page_path }}" class="next"> &nbsp;Next</a>
-            {% else %}
-              <span class="next"> &nbsp;Next</span>
-            {% endif %}
-        </div>
-        <div class="five wide right aligned column">
-            <span class="page_number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-        </div>
-      </div>
     </div>
 </div>
