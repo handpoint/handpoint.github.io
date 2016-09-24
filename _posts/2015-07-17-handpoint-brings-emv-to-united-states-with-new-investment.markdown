@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Handpoint brings EMV to mobile point of sale in the United States with new investment"
+title:  "Handpoint brings EMV to mobile point of sale in the United States with new Investments"
 date:   2015-07-17 17:00:00 +0000
 categories: press releases
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sureswipe move powered by Handpoint mPOS"
+title:  "Sureswipe Move powered by Handpoint mPOS"
 date:   2014-10-14 17:00:00 +0000
 categories: press releases
 ---
