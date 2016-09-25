@@ -5,6 +5,9 @@ date:   2016-03-02 17:00:00 +0000
 categories: press releases
 ---
 
+<img class="ui medium centered image" src="/images/logos/tsys-logo-color.jpg" alt="TSYS payment services logo">
+
+
 TSYS, a leading global payments provider, has certified the mobile EMV solution brought to the US by Handpoint, a global leader in next generation point of sale. TSYS is the first processor in the US to certify Handpoint’s mobile EMV solution, which is designed to enable partners with the ability to offer semi-integrated EMV on iOS, Android, and Windows devices.
 
 Handpoint’s semi-integrated offering provides pre-certified EMV payments to Integrated Software Vendors (ISVs) and Value-Added Resellers (VARs) of NextGenPOS (mPOS/tabletPOS). This easy-to-implement solution enables integration to a range of card readers and all payment types with P2PE security in just a few lines of code.  This industry-leading simplicity enables developers to focus on core product innovation, while adding a secure method for accepting payments, including magnetic stripe, EMV and NFC contactless payments.

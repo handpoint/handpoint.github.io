@@ -5,6 +5,9 @@ date:   2013-11-10 17:00:00 +0000
 categories: press releases
 ---
 
+<img class="ui medium centered image" src="/images/logos/lymington-harbour-logo.jpg" alt="lymington harbour logo">
+
+
 **About the Mobile POS Project**
 
 As one of the major leisure boating destinations in the UK Lymington Harbour needed an ability to make ‘on the water’ sales using a mobile payment system. The company needed a highly portable electronic mobile point-of-sale system that addressed these issues and selected Harbour POS from Zero-One Data Ltd with Handpoint’s fully integrated card payment acceptance solution.

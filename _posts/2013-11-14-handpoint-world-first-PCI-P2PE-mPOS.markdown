@@ -5,6 +5,8 @@ date:   2013-11-14 17:00:00 +0000
 categories: press releases
 ---
 
+<img class="ui small right floated image" src="/images/logos/pci-p2pe-logo.png" alt="pci p2pe validated solution logo">
+
 Foregenix secures Handpoint as the world’s first PCI-accredited P2PE Mobile POS application.
 
 **Introduction**

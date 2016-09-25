@@ -5,6 +5,15 @@ date:   2015-07-17 17:00:00 +0000
 categories: press releases
 ---
 
+<div class="ui two column grid">
+ <div class="column">
+	<img class="ui tiny centered image" src="/images/logos/eyrir-sprotar.png" alt="eyrir sprotar investment firm logo">
+ </div>
+ <div class="column">
+	<img class="ui small centered image" src="/images/logos/frumtak-ventures.png" alt="frumtak ventures investment firm logo">
+ </div>
+</div>
+
 Handpoint, the award-winning Icelandic FinTech provider **powering NextGen POS by offering enabling hardware and software**, has announced its expansion to the US in the wake of the EMV liability shift with investment from Icelandic VCs Eyrir Sprotar and Frumtak.
 
 Handpoint makes it easy to deploy turnkey NextGenPOS with enabling software: a complete, cloud-based platform with pre-certified EMV, minimising PCI-scope with exceptional security and a full set of multi-platform APIs for ISVs. Handpoint then closes the loop with enabling hardware: mobile, contactless/NFC-enabled devices for merchants.
@@ -19,3 +28,4 @@ David Gudjonsson, Payments Evangelist and CEO, Co-Founder of Handpoint
 **About Eyrir Sprotar and Frumtak Ventures:**
 
 Eyrir is an international investor with focus on potential global market leaders while Frumtak Ventures who is a previous investor in Handpoint is an Icelandic investor with FinTech experience in high growth technology players.
+
