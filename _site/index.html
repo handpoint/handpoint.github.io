@@ -76,17 +76,25 @@
         <div class="inactive content menu">
             <a class="item" href="/company">Company</a>
             <a class="item" href="/team">Team</a>
-          <!--   <a class="item" href="awards.html">Awards</a>
-            <a class="item" href="pressreleases.html">Press Releases</a>
-            <a class="item" href="careers.html">Careers</a> -->
+            <a class="item" href="/awards">Awards</a>
+            <a class="item" href="/press_releases">Press Releases</a>
         </div>
     </div>
-    <a class="item" href="/contact"><i class="comment icon"></i>Contact Us</a>
+    <div class="ui vertical inverted accordion item">
+        <a class="active title item">
+        <i class="comments icon"></i>Blogs
+        </a>
+        <div class="inactive content menu">
+            <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">CEO's Blog</a>
+            <a class="item" target="_blank" href="https://medium.com/handpoint">Company's Blog</a>
+        </div>
+    </div>
+    <a class="item" href="/contact"><i class="call icon"></i>Contact Us</a>
 </div>
 <!-- Sidebar for Smaller Screens End -->
 
 <!-- Navbar -->
-<div class="ui fixed secondary inverted menu"style="max-width: 1300px; position: relative;">
+<div class="ui fixed secondary inverted menu slight-padding" style="max-width: 1300px; position: relative;">
     <div class="ui fluid container">
         <div class="left item">
             <a class="ui small image" href="/">
@@ -122,9 +130,16 @@
                 <div class="menu">
                     <a class="item" href="/company">The Company</a>
                     <a class="item" href="/team">Our Team</a>
-<!--                     <a class="item" href="awards.html">Awards</a>
-                    <a class="item" href="pressreleases.html">Press Releases</a>
-                    <a class="item" href="careers.html">Careers</a> -->
+                    <a class="item" href=/awards>Awards</a>
+                    <a class="item" href="/press_releases">Press Releases</a>
+                </div>
+            </div>
+            <div class="ui pointing dropdown item dropdown-css" title="Blogs">
+                Blogs
+                <i class="dropdown icon dropdown-icon-css"></i>
+                <div class="menu">
+                    <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">CEO's Blog</a>
+                    <a class="item" target="_blank" href="https://medium.com/handpoint">Company's Blog</a>
                 </div>
             </div>
             <a class="item" title="Contact" href="/contact">Contact Us</a>
@@ -141,33 +156,51 @@
 <!-- CSS Properties -->
 <link rel="stylesheet" href="morphext/morphext.css" type="text/css">
 <!-- CSS Properties End -->
+<script src="morphext/morphext.js"></script>
+
 
 <!-- Content for Section 1 - Catchline -->
-<div class="ui bottom aligned stackable grid landing-background">
-    <div class="center aligned column">
-		<div style="text-align:center">
-			<h1 class="ui header inverted uppercase">
-                offering mobile payments for <span id="js-rotating" class="rotating-word">merchants, developers, resellers</span>
-			</h1>
-        </div>
-        <script src="morphext/morphext.js"></script>
-		<script>
-			$("#js-rotating").Morphext({
-					animation: "flipInX",
-					speed: 3000,
-					complete: function () {
-							console.log("This is called after a phrase is animated in! Current phrase index: " + this.index);
-					}
-			});
-		</script>
+<div class="ui two column stackable grid landing-background">
+    <div class="two wide column">
+    </div>
+    <div class="seven wide column">
         <div class="row">
-            <h3 class="ui header inverted">Unlock the potential of integrated payments with the pre-certified EMV Handpoint solution</h3>
+    		<div>
+    			<h1 class="ui header inverted uppercase special-font landing-catchline">
+                    offering mobile payments for <span id="js-rotating" class="rotating-word">merchants, developers, resellers</span>
+    			</h1>
+                <script>
+                    $("#js-rotating").Morphext({
+                        animation: "flipInX",
+                        speed: 3000,
+                        complete: function () {
+                        console.log("This is called after a phrase is animated in! Current phrase index: " + this.index);
+                        }
+                    });
+                </script>
+            </div>
         </div>
         <div class="row">
-            <button class="ui huge inverted button modal-button-start-now">Start Now</button>
+            <h2 class="ui header inverted">
+            Unlock the potential of integrated payments with Handpoint pre-certified EMV payment terminals.</h2>
+        </div>
+        <div class="row">
+            <button class="ui big inverted button modal-button-start-now">Start Now</button>
+            <button class="ui big inverted button modal-button-video">Watch Video</button>
         </div>
     </div>
 </div>
+
+<!-- modal video button -->
+<div id="modal-video" class="ui basic modal">
+    <div class="row">
+        <video class="video-playing" controls muted>
+        <source src="/video/CaseStudyVideo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+        </video>
+     </div>
+</div>
+<!-- modal video button End -->
 
 <!-- modal start now button -->
 <div id="modal-start-now" class="ui basic modal">
@@ -272,7 +305,7 @@
 <!-- End of Content for Section 2 - value proposition -->
 
 <!-- Content for Section 3 - SDK / Card Reader-->
-<div class="ui two column stackable grid divider-position relaxed-padding">
+<div class="ui two column stackable grid relaxed-padding">
     <div class="center aligned column">
         <div class="row">
             <h1>Enabling Hardware</h1>
@@ -295,8 +328,6 @@
             </button>
         </div>
     </div>
-
-    <div class="ui vertical divider"> AND</div>
 
     <div class="center aligned column">
         <div class="row">
@@ -400,13 +431,19 @@
     <div class="row">
         <div class="two wide middle aligned column display-big-screen-only">
             <div class="ui segment">
-                <img class="ui small centered image" src="/images/logos/TSYS_logo.png" alt= "TSYS logo"></img>
+                <a target="_blank" href="http://tsys.com/">
+                    <img class="ui small centered image" src="/images/logos/TSYS_logo.png" alt= "TSYS logo"></img>
+                </a>
             </div>
             <div class="ui segment">
-               <img class="ui small centered image" src="/images/logos/first_data_logo.png" alt= "First Data logo"></img>
+                <a target="_blank" href="https://www.firstdata.com/en_us/home.html">
+                    <img class="ui small centered image" src="/images/logos/first_data_logo.png" alt= "First Data logo"></img>
+                </a>
             </div>
             <div class="ui segment">
-               <img class="ui small centered image" src="/images/logos/Vantiv_logo.png" alt= "Vantiv logo"></img>
+                <a target="_blank" href="https://www.vantiv.com/">
+                    <img class="ui small centered image" src="/images/logos/Vantiv_logo.png" alt= "Vantiv logo"></img>
+                </a>
            </div>
         </div>
         <div class="nine wide middle aligned column">
@@ -416,13 +453,19 @@
         </div>
         <div class="two wide middle aligned column display-big-screen-only">
             <div class="ui segment">
-                <img class="ui small centered image" src="/images/logos/Borgun_logo.png" alt= "Borgun logo"></img>
+                <a target="_blank" href="https://www.borgun.com/">
+                    <img class="ui small centered image" src="/images/logos/Borgun_logo.png" alt= "Borgun logo"></img>
+                </a>
             </div>
             <div class="ui segment">
-                <img class="ui small centered image" src="/images/logos/EVO_logo.png" alt= "EVO logo"></img>
+                <a target="_blank" href="https://www.evopayments.com/home/">
+                    <img class="ui small centered image" src="/images/logos/EVO_logo.png" alt= "EVO logo"></img>
+                </a>
             </div>
             <div class="ui segment">
-               <img class="ui small centered image" src="/images/logos/sureswipe_logo.png" alt= "sureswipe logo"></img>
+                <a target="_blank" href="http://sureswipe.co.za/">
+                    <img class="ui small centered image" src="/images/logos/sureswipe_logo.png" alt= "sureswipe logo"></img>
+                </a>
            </div>
         </div>
     </div>
@@ -437,15 +480,17 @@
 </div>
 <!-- End Content for Section 5 - Processors-->
 
+<div class="ui divider"></div>
+
 <!-- Content for Section 6 - ISV / merchants Reviews-->
-<div class="ui two column center aligned stackable grid grey-background relaxed-padding">
+<div class="ui center aligned stackable grid relaxed-padding">
     <div class="row">
         <h1 class="ui header">Join the <span class="orange-color">#</span>NEXTGENPOS Revolution</h1>
     </div>
-    <div class="middle aligned column">
+    <div class="ten wide column">
         <div class="row">
             <div class="flexslider">
-                <ul class="slides grey-background">
+                <ul class="slides">
                     <li>
                         <div class="ui two column left aligned stackable grid">
                             <div class="five wide column">
@@ -454,7 +499,7 @@
                                 </div>
                             </div>
                             <div class="eleven wide column">
-                                <div class="ui segment">
+                                <div class="ui basic segment">
                                     <p><i class="quote left orange icon"></i>Countr was able to seamlessly and rapidly integrate Handpoint into its Point of Sale. This integration lets you make sales and accept card payments in one swift process.  It's easy, secure and fast.<i class="quote right orange icon"></i></p>
                                     <strong>John Staunton<br> CEO | Countr</strong>
                                 </div>
@@ -469,7 +514,7 @@
                                 </div>
                             </div>
                             <div class="eleven wide column">
-                                <div class="ui segment">
+                                <div class="ui basic segment">
                                     <p><i class="quote left orange icon"></i>At connected EPOS we evaluated all possible partners for our payment terminals integration. We needed a partner that would be there to support us along the way, we found this in Handpoint !<i class="quote right orange icon"></i></p>
                                     <strong>David Cameron<br>MD | Connected EPOS</strong>
                                 </div>
@@ -485,7 +530,7 @@
                                 </div>
                             </div>
                             <div class="eleven wide column">
-                                <div class="ui segment">
+                                <div class="ui basic segment">
                                     <p><i class="quote left orange icon"></i>We chose a Handpoint card reader to use in a brand new shop venture, based on the very reasonable costs involved and the customer service provided. We found it extremely easy to integrate with their APIs.<i class="quote right orange icon"></i></p>
                                     <strong>Shirley Smith<br>Treasurer | Cavetsy Ltd.</strong>
                                 </div>
@@ -500,7 +545,7 @@
                                 </div>
                             </div>
                             <div class="eleven wide column">
-                                <div class="ui segment">
+                                <div class="ui basic segment">
                                     <p><i class="quote left orange icon"></i>Through only a single integration to the Handpoint Payment Solution, we can deliver the complete SalesVu POS system to our merchants on a global scale. This includes solving the liability issue for our US customers with a seamless EMV solution.<i class="quote right orange icon"></i></p>
                                     <strong>Jarod Stirling<br>COO | SalesVu</strong>
                                 </div>
@@ -527,14 +572,6 @@
             </div>
         </div>
     </div>
-    <div class="center aligned column">
-        <div class="row">
-            <video class="video-playing" controls muted>
-            <source src="/video/CaseStudyVideo.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-            </video>
-         </div>
-    </div>
 </div>
 <!-- End of Content for Section 6 - ISV / merchants Reviews-->
 
@@ -542,10 +579,10 @@
 <div class="ui middle aligned stackable grid contact-landing-background">
     <div class=" center aligned column">
         <div class="row">
-            <h1 class="ui header inverted uppercase">not sure where to start?</h1>
+            <h1 class="ui header inverted uppercase special-font">not sure where to start?</h1>
         </div>
         <div class="row">
-            <h3 class="ui header inverted">Contact our wonderful team directly and get personalized advice</h3>
+            <h2 class="ui header inverted">Contact our wonderful team directly and get personalized advice</h2>
         </div>
         <div class="ui hidden divider"></div>
         <div class="row">
@@ -605,16 +642,13 @@
                 <div class="ui left aligned basic segment">
                     <ul class="no-padding">
                         <li>
-                            <h3 class="ui header footer-color">API Documentation</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" target='_blank' href="https://www.handpoint.com/docs/basics/">SDK Docs</a>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help Center</a>
+                            <h3 class="ui header footer-color">Support</h3>
                         </li>
                         <li>
                             <a class="footer-color underline" href="/getstarted">Get Started</a>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Portal &amp; FAQ</a>
                         </li>
                     </ul>
                 </div>
@@ -623,16 +657,31 @@
                 <div class="ui left aligned basic segment">
                     <ul class="no-padding">
                         <li>
-                            <h3 class="ui header footer-color">Contact Us</h3>
+                        <h3 class="ui header footer-color">About</h3>
                         </li>
                         <li>
-                            <a class="footer-color">sales@handpoint.com</a>
+                            <a class="footer-color underline" href="/company">The Company</a>
                         </li>
                         <li>
-                            <a class="footer-color">support@handpoint.com</a>
+                            <a class="footer-color underline" href="/team">Our Team</a>
                         </li>
                         <li>
-
+                            <a class="footer-color underline" href="/awards">Awards</a>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" href="/press_releases">Press Releases</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+             <div class="three wide column">
+                <div class="ui left aligned basic segment">
+                    <ul class="no-padding">
+                        <li>
+                            <h3 class="ui header footer-color">API Docs</h3>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" target='_blank' href="https://www.handpoint.com/docs/basics/">Handpoint SDK's</a>
                         </li>
                     </ul>
                 </div>
@@ -697,14 +746,31 @@
                 <div class="ui left aligned basic segment">
                     <ul class="no-padding">
                         <li>
+                            <h3 class="ui header footer-color">Contact Us</h3>
+                        </li>
+                        <li>
+                            <a class="footer-color">sales@handpoint.com</a>
+                        </li>
+                        <li>
+                            <a class="footer-color">support@handpoint.com</a>
+                        </li>
+                        <li>
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="three wide column">
+                <div class="ui left aligned basic segment">
+                    <ul class="no-padding">
+                        <li>
                             <h3 class="ui header footer-color">Follow Us</h3>
                         </li>
 
                         <a class="item footer-color" target="_blank" href="https://www.facebook.com/Handpoint"><i class="big facebook square icon"></i></a>
                         <a class="item footer-color" href="https://twitter.com/handpointltd"><i class="big twitter square icon"></i></a>
                         <a class="item footer-color" target="_blank" href="https://plus.google.com/+Handpoint/posts"><i class="big google plus square icon"></i></a>
-                        <a class="item footer-color" target="_blank" href="https://www.linkedin.com/company/handpoint"><i class="big linkedin square icon"></i></a>
-                        <a class="item footer-color" target="_blank" href="http://blog.handpoint.com/"><i class="big tumblr square icon"></i></a>
+                        <a class="item footer-color" target="_blank" href="https://www.linkedin.com/company/handpoint"><i class="big linkedin square icon"></i></a> 
                         <a class="item footer-color" target="_blank" href="https://vimeo.com/handpoint"><i class="big vimeo square icon"></i></a>
                         <a class="item footer-color" target="_blank" href="https://www.youtube.com/channel/UCZRWCS7V0c4kvodVSWgdGHg"><i class="big youtube square icon"></i></a>
                     </ul>

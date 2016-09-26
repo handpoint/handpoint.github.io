@@ -17,7 +17,6 @@ $(window).load(function() {
 $('.ui.accordion')
   .accordion()
 ;
-
 //modals
  $('.modal-button-hilite').click(function(){
         $('#modal-hilite-specs').modal('show');
@@ -33,6 +32,9 @@ $('.ui.accordion')
     });
  $('.modal-button-partner').click(function(){
       $('#modal-partners-list').modal('show');
+    });
+$('.modal-button-video').click(function(){
+      $('#modal-video').modal('show');
     });
 
 

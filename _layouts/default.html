@@ -76,17 +76,25 @@
         <div class="inactive content menu">
             <a class="item" href="{{site.baseurl}}/company">Company</a>
             <a class="item" href="{{site.baseurl}}/team">Team</a>
-          <!--   <a class="item" href="awards.html">Awards</a>
-            <a class="item" href="pressreleases.html">Press Releases</a>
-            <a class="item" href="careers.html">Careers</a> -->
+            <a class="item" href="{{site.baseurl}}/awards">Awards</a>
+            <a class="item" href="{{site.baseurl}}/press_releases">Press Releases</a>
         </div>
     </div>
-    <a class="item" href="{{site.baseurl}}/contact"><i class="comment icon"></i>Contact Us</a>
+    <div class="ui vertical inverted accordion item">
+        <a class="active title item">
+        <i class="comments icon"></i>Blogs
+        </a>
+        <div class="inactive content menu">
+            <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">CEO's Blog</a>
+            <a class="item" target="_blank" href="https://medium.com/handpoint">Company's Blog</a>
+        </div>
+    </div>
+    <a class="item" href="{{site.baseurl}}/contact"><i class="call icon"></i>Contact Us</a>
 </div>
 <!-- Sidebar for Smaller Screens End -->
 
 <!-- Navbar -->
-<div class="ui fixed secondary inverted menu"style="max-width: 1300px; position: relative;">
+<div class="ui fixed secondary inverted menu slight-padding" style="max-width: 1300px; position: relative;">
     <div class="ui fluid container">
         <div class="left item">
             <a class="ui small image" href="/">
@@ -122,9 +130,16 @@
                 <div class="menu">
                     <a class="item" href="{{site.baseurl}}/company">The Company</a>
                     <a class="item" href="{{site.baseurl}}/team">Our Team</a>
-<!--                     <a class="item" href="awards.html">Awards</a>
-                    <a class="item" href="pressreleases.html">Press Releases</a>
-                    <a class="item" href="careers.html">Careers</a> -->
+                    <a class="item" href={{site.baseurl}}/awards>Awards</a>
+                    <a class="item" href="{{site.baseurl}}/press_releases">Press Releases</a>
+                </div>
+            </div>
+            <div class="ui pointing dropdown item dropdown-css" title="Blogs">
+                Blogs
+                <i class="dropdown icon dropdown-icon-css"></i>
+                <div class="menu">
+                    <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">CEO's Blog</a>
+                    <a class="item" target="_blank" href="https://medium.com/handpoint">Company's Blog</a>
                 </div>
             </div>
             <a class="item" title="Contact" href="{{site.baseurl}}/contact">Contact Us</a>
@@ -183,16 +198,13 @@
                 <div class="ui left aligned basic segment">
                     <ul class="no-padding">
                         <li>
-                            <h3 class="ui header footer-color">API Documentation</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" target='_blank' href="https://www.handpoint.com/docs/basics/">SDK Docs</a>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help Center</a>
+                            <h3 class="ui header footer-color">Support</h3>
                         </li>
                         <li>
                             <a class="footer-color underline" href="{{site.baseurl}}/getstarted">Get Started</a>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Portal &amp; FAQ</a>
                         </li>
                     </ul>
                 </div>
@@ -201,16 +213,31 @@
                 <div class="ui left aligned basic segment">
                     <ul class="no-padding">
                         <li>
-                            <h3 class="ui header footer-color">Contact Us</h3>
+                        <h3 class="ui header footer-color">About</h3>
                         </li>
                         <li>
-                            <a class="footer-color">sales@handpoint.com</a>
+                            <a class="footer-color underline" href="{{site.baseurl}}/company">The Company</a>
                         </li>
                         <li>
-                            <a class="footer-color">support@handpoint.com</a>
+                            <a class="footer-color underline" href="{{site.baseurl}}/team">Our Team</a>
                         </li>
                         <li>
-
+                            <a class="footer-color underline" href="{{site.baseurl}}/awards">Awards</a>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" href="{{site.baseurl}}/press_releases">Press Releases</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+             <div class="three wide column">
+                <div class="ui left aligned basic segment">
+                    <ul class="no-padding">
+                        <li>
+                            <h3 class="ui header footer-color">API Docs</h3>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" target='_blank' href="https://www.handpoint.com/docs/basics/">Handpoint SDK's</a>
                         </li>
                     </ul>
                 </div>
@@ -275,14 +302,31 @@
                 <div class="ui left aligned basic segment">
                     <ul class="no-padding">
                         <li>
+                            <h3 class="ui header footer-color">Contact Us</h3>
+                        </li>
+                        <li>
+                            <a class="footer-color">sales@handpoint.com</a>
+                        </li>
+                        <li>
+                            <a class="footer-color">support@handpoint.com</a>
+                        </li>
+                        <li>
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="three wide column">
+                <div class="ui left aligned basic segment">
+                    <ul class="no-padding">
+                        <li>
                             <h3 class="ui header footer-color">Follow Us</h3>
                         </li>
 
                         <a class="item footer-color" target="_blank" href="https://www.facebook.com/Handpoint"><i class="big facebook square icon"></i></a>
                         <a class="item footer-color" href="https://twitter.com/handpointltd"><i class="big twitter square icon"></i></a>
                         <a class="item footer-color" target="_blank" href="https://plus.google.com/+Handpoint/posts"><i class="big google plus square icon"></i></a>
-                        <a class="item footer-color" target="_blank" href="https://www.linkedin.com/company/handpoint"><i class="big linkedin square icon"></i></a>
-                        <a class="item footer-color" target="_blank" href="http://blog.handpoint.com/"><i class="big tumblr square icon"></i></a>
+                        <a class="item footer-color" target="_blank" href="https://www.linkedin.com/company/handpoint"><i class="big linkedin square icon"></i></a> 
                         <a class="item footer-color" target="_blank" href="https://vimeo.com/handpoint"><i class="big vimeo square icon"></i></a>
                         <a class="item footer-color" target="_blank" href="https://www.youtube.com/channel/UCZRWCS7V0c4kvodVSWgdGHg"><i class="big youtube square icon"></i></a>
                     </ul>

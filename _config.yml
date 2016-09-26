@@ -1,2 +1,8 @@
+#Build Settings
 permalink: pretty
 baseurl: ""
+paginate: 10
+paginate_path: /press_releases/page:num/
+
+#Gems
+gems: [jekyll-paginate]
