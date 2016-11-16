@@ -38,7 +38,7 @@ $('.modal-button-video').click(function(){
     });
 
 
-$('.ui.form')
+$('#contact-sales-form')
   .form({
     fields: {
       first_name: {
@@ -61,7 +61,7 @@ $('.ui.form')
         identifier: 'email',
         rules: [
           {
-            type   : 'empty',
+            type   : 'email',
           }
         ]
       },
