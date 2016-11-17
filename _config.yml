@@ -4,5 +4,7 @@ baseurl: ""
 paginate: 10
 paginate_path: /press_releases/page:num/
 
+#readme.md contains information specific to the project
+exclude: [README.md]
 #Gems
 gems: [jekyll-paginate]
