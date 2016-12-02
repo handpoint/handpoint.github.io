@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Metadata -->
+    <meta charset="utf-8">
+    <meta name="description" content="Handpoint Payment Services">
+    <meta name="keywords" content="nextgenpos, handpoint, hipro, Hifive, hilite, api, pos developer, integration, payments, card present, mobile payments, mobile pos, mobile, p2pe, encryption, point, point to point encryption, credit cards, point of sale, card reader, payment terminals, payment API, payment SDK, API, SDK, gateway, processors">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="mobile-web-app-capable" content="yes">
+<!-- Metadata End -->
+
+    <title>  Lymington Harbour case study powered by Handpoint |  Handpoint </title>
+
+<!-- CSS Properties -->
+    <link rel="shortcut icon" href="/images/logos/handpoint_favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="/semantic-ui/semantic.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link href="/jqvmap/dist/jqvmap.css" media="screen" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/flexslider/flexslider.css" type="text/css">
+	<link rel="stylesheet" href="/css/animate.min.css" type="text/css">
+<!-- CSS Properties End-->
+
+<!-- Scripts -->
+    <script type="text/javascript" src="/js/jquery-1.12.3.js"></script>
+    <script type="text/javascript" src="/semantic-ui/semantic.min.js"></script>
+    <script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","handpoint.zendesk.com");/*]]>*/</script>
+        <!-- End of Handpoint Zendesk Widget script --><script>
+        zE(function() {
+            zE.hide();
+        });
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-1295190-7', 'auto');
+      ga('send', 'pageview');
+    </script>
+    <script type="text/javascript">
+        adroll_adv_id = "ULLHKIRUNZH5ZIMGQEFL6J";
+        adroll_pix_id = "XGCB7MBUAZAGRJD6RO7HAP";
+        /* OPTIONAL: provide email to improve user identification */
+        /* adroll_email = "username@example.com"; */
+        (function () {
+        var _onload = function(){
+        if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+        if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+        var scr = document.createElement("script");
+        var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+        scr.setAttribute('async', 'true');
+        scr.type = "text/javascript";
+        scr.src = host + "/j/roundtrip.js";
+        ((document.getElementsByTagName('head') || [null])[0] ||
+        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
+        }());
+    </script>
+    <!-- Segment Analytics -->
+    <script type="text/javascript">
+        !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+        analytics.load("vKRdtoZtYofXbIl8kI8fXunNLNROYlqR");
+        analytics.page();
+        analytics.debug(false);
+        }}();
+    </script>
+    <!-- End Segment Analytics -->
+<!-- Scripts End-->
+</head>
+
+<body>
+<!-- Sidebar for Smaller screens -->
+<div class="ui left demo vertical inverted sidebar labeled icon menu">
+    <a class="item" href="/"><i class="home icon"></i>Home</a>
+    <div class="ui vertical inverted accordion item">
+        <a class="active title item">
+            <i class="heart icon"></i>Our Solutions
+        </a>
+        <div class="inactive content menu">
+            <a class="item" href="/merchants">For Merchants</a>
+            <a class="item" href="/developers">For Developers</a>
+            <a class="item" href="/resellers">For Resellers</a>
+            <div class="ui divider"></div>
+            <a class="item" href="/cardreaders">Card Readers</a>
+            <a class="item" href="/sdk">SDKs</a>
+            <a class="item" href="/gateway">Gateway</a>
+        </div>
+    </div>
+    <a class="item" target='_blank' href="https://www.handpoint.com/docs/basics/"><i class="code icon"></i>Docs</a>
+    <div class="ui vertical inverted accordion item">
+        <a class="active title item">
+            <i class="lab icon"></i>Support
+        </a>
+        <div class="inactive content menu">
+            <a class="item" href="/getstarted">Get Started</a>
+            <a class="item" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Portal &amp; FAQ</a>
+            <a class="item" onclick="zE.activate({hideOnClose: true});">Contact Support</a>
+        </div>
+    </div>
+    <div class="ui vertical inverted accordion item">
+        <a class="active title item">
+        <i class="building icon"></i>About
+        </a>
+        <div class="inactive content menu">
+            <a class="item" href="/company">Company</a>
+            <a class="item" href="/team">Team</a>
+            <a class="item" href="/awards">Awards</a>
+            <a class="item" href="/press_releases">Press Releases</a>
+        </div>
+    </div>
+    <div class="ui vertical inverted accordion item">
+        <a class="active title item">
+        <i class="comments icon"></i>Our Blogs
+        </a>
+        <div class="inactive content menu">
+            <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">Latest in Fintech</a>
+            <a class="item" target="_blank" href="http://nextgenpos.com/">NextGenPos</a>
+            <a class="item" target="_blank" href="https://medium.com/handpoint">Handpoint News</a>
+        </div>
+    </div>
+    <a class="item" href="/contact"><i class="call icon"></i>Contact Us</a>
+</div>
+<!-- Sidebar for Smaller Screens End -->
+
+<!-- Navbar -->
+<div class="ui fixed secondary inverted menu slight-padding" style="max-width: 1300px; position: relative;">
+    <div class="ui fluid container">
+        <div class="left item">
+            <a class="ui small image" href="/">
+                <img src="/images/logos/handpoint-logo-white.png" alt="Handpoint Logo">
+            </a>
+        </div>
+        <div class="right item">
+            <a class="item" title="Home" href="/">Home</a>
+            <div class="ui pointing dropdown item dropdown-css" title="Solutions">Our Solutions
+                <i class="dropdown icon dropdown-icon-css"></i>
+                <div class="ui menu">
+                    <a class="item" href="/merchants">For Merchants</a>
+                    <a class="item" href="/developers">For Developers</a>
+                    <a class="item" href="/resellers">For Resellers</a>
+                    <div class="ui divider"></div>
+                    <a class="item" href="/cardreaders">Payment Terminals</a>
+                    <a class="item" href="/sdk">Soft. Development Kit</a>
+                    <a class="item" href="/gateway">Gateway &amp; Processors</a>
+                </div>
+            </div>
+            <a class="item" title="Documentation" target='_blank' href="https://www.handpoint.com/docs/basics/">API Documentation</a>
+            <div class="ui pointing dropdown item dropdown-css" title="support">Support
+                <i class="dropdown icon dropdown-icon-css"></i>
+                <div class="menu">
+                    <a class="item" href="/getstarted">Get Started Guide</a>
+                    <a class="item" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Support Portal &amp; FAQ</a>
+                    <a class="item" onclick="zE.activate({hideOnClose: true});">Contact Support</a>
+                </div>
+            </div>
+            <div class="ui pointing dropdown item dropdown-css" title="About">
+                About
+                <i class="dropdown icon dropdown-icon-css"></i>
+                <div class="menu">
+                    <a class="item" href="/company">The Company</a>
+                    <a class="item" href="/team">Our Team</a>
+                    <a class="item" href=/awards>Awards</a>
+                    <a class="item" href="/press_releases">Press Releases</a>
+                </div>
+            </div>
+            <div class="ui pointing dropdown item dropdown-css" title="Blogs">
+                Our Blogs
+                <i class="dropdown icon dropdown-icon-css"></i>
+                <div class="menu">
+                    <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">Latest in Fintech</a>
+                    <a class="item" target="_blank" href="http://nextgenpos.com/">NextGenPos</a>
+                    <a class="item" target="_blank" href="https://medium.com/handpoint">Handpoint News</a>
+                </div>
+            </div>
+            <a class="item" title="Contact" href="/contact">Contact Us</a>
+            <a class="launch-sidebar">
+            <i class="sidebar big icon"></i>
+            </a>
+        </div>
+    </div>
+</div>
+<!-- Navbar End-->
+
+<div class="pusher">
+
+<div class="ui center aligned stackable grid relaxed-padding">
+  <div class="eight wide left aligned column">
+  	<div class="ui segment">
+		<article itemscope itemtype="http://schema.org/BlogPosting">
+		  <header>
+		    <h1 itemprop="name headline">Lymington Harbour case study powered by Handpoint</h1>
+		    <p><time datetime="2013-11-10T17:00:00+00:00" itemprop="datePublished">Nov 10, 2013</time></p>
+		  </header>
+		  <div class="post-content" itemprop="articleBody"><br>
+		    <p><img class="ui medium centered image" src="/images/logos/lymington-harbour-logo.jpg" alt="lymington harbour logo" /></p>
+
+<p><strong>About the Mobile POS Project</strong></p>
+
+<p>As one of the major leisure boating destinations in the UK Lymington Harbour needed an ability to make ‘on the water’ sales using a mobile payment system. The company needed a highly portable electronic mobile point-of-sale system that addressed these issues and selected Harbour POS from Zero-One Data Ltd with Handpoint’s fully integrated card payment acceptance solution.</p>
+
+<p><strong>About Lymington Harbour</strong></p>
+
+<p>Lymington Harbour is an independent port situated in a beautiful Georgian market town on the southern edge of the New Forest at the western end of the Solent. The company prides itself on providing a friendly welcome to all harbour guests that enjoy their marine services, local stakeholders and other harbour users.</p>
+
+<p><strong>The Challenge</strong></p>
+
+<p>One of the main priorities was that the new system needed to be highly portable and robust as Lymington harbour patrols need to be able to make sales while alongside customer’s boats. The system also had to be robust enough to be used in all weathers and have the capability to accept card payments.</p>
+
+<p>“Previously this was achieved with a hand written ticketing system. The downside was that the previous system was labour intensive and provided little management information. Also, we could only accept cash and cheques as payment options for on the water sales.”
+-Ryan Willegers, Harbour Master &amp; Chief Executive at Lymington Harbour.</p>
+
+<p>The key goal for Zero One Data, the Independent Software Vendor, was to provide the Harbour Master’s office with a system to better manage the data regarding boats utilising moorings, electric, water and other services provided at the Harbour and to include integrated card payments acceptance as part of that overall solution.</p>
+
+<p><strong>About Zero One</strong></p>
+
+<p>Zero One Data provide specialist web- based systems and mobile applications for business use. Most of the software is provided as ‘software as a service’ - meaning the company provides a complete package including a fully hosted system without any need for the customer to install any software.</p>
+
+<p><strong>The Solution</strong></p>
+
+<p>The solution consists of a small mobile chip and PIN card reader and a customer relationship management system that sits on an Android tablet. The payment solution from Handpoint is integrated with a customised software application made by Zero One Data and the two devices communicate over Bluetooth. The integrated payment solution is capable of accepting both Chip &amp; PIN and magstripe payments using debit and credit cards. The software application sitting on the Android tablet allows for analysis of customer databases and card transactions information as well as conducting the sales transactions themselves.</p>
+
+<p><strong>Mobile POS Case Study</strong></p>
+
+<p>“The integration with the software application was relatively simple. The Handpoint payment API for Android was accessible from handpoint.com. Our development team downloaded the software development kit (SDK) and started the integration process between the payment solution and our software application. To finalise the process and test the solution we ordered a demo-kit on the website, which contains the card reader and a test card from Handpoint, and integrated the payment solution with our application. The integration process went pretty smooth. There were some technical challenges to overcome, most notably the need for the mobile payment system to communicate by WiFi with the main server to ensure that all mobile payment units were updated as sales were made. To overcome this, WiFi aerials were installed in strategic locations around the harbour. In the case of card sales, there is a need for the card authorisation process to be conducted in real time. If the WiFi signal is weak or there is an issue with the broadband connection, the mobile payment system has the option of communicating via 3G.”
+-Steve Goacher, Zero One data</p>
+
+<p><strong>Results</strong></p>
+
+<ul>
+  <li>Ability to accept, track and reconcile payments</li>
+  <li>The system provides the information necessary to ensure an auditable collection of revenue and with the collection of email addresses, helps Lymington Harbour to keep in touch with customers with offers and promotions</li>
+  <li>Accuracy of payment processing – less susceptible to human error</li>
+  <li>Solution is well suited to the needs of Harbour Masters – extremely mobile with a long battery life</li>
+</ul>
+
+<p>“The new system has been well received by customers. The main benefits to them are that repeat transactions can be processed much more quickly as we already hold their details on the system, and they can now pay by card where previously this was not possible. The system benefits our Harbour Patrol staff because they can now see at a glance which boats have paid and where they are moored. Because the system is fully automated, it also saves them time when undertaking their end of shift reconciliations. From a corporate perspective, the main benefit of the new system is that it allows us to collect much more management information about our customer’s use of the harbour which in turn allows us to make informed strategic decisions.”
+-Ryan Willegers, Harbour Master at Lymington Harbour</p>
+
+		  </div>
+		</article>
+	</div>
+  </div>
+</div>
+
+<!--footer-->
+    <div class="ui center aligned stackable grid footer-background">
+        <div class="row no-padding no-margin">
+            <div class="three wide column">
+                <div class="ui left aligned basic segment">
+                    <ul class="no-padding">
+                        <li>
+                        <h3 class="ui header footer-color">Our Solutions</h3>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" href="/merchants">For Merchants</a>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" href="/developers">For Developers</a>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" href="/resellers">For Resellers</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="three wide column">
+                <div class="ui left aligned basic segment">
+                    <ul class="no-padding">
+                        <li>
+                        <h3 class="ui header footer-color">Tools</h3>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" href="/cardreaders">Card Readers</a>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" href="/sdk">SDKs</a>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" href="/gateway">Processors</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="three wide column">
+                <div class="ui left aligned basic segment">
+                    <ul class="no-padding">
+                        <li>
+                            <h3 class="ui header footer-color">Support</h3>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" href="/getstarted">Get Started</a>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Portal &amp; FAQ</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="three wide column">
+                <div class="ui left aligned basic segment">
+                    <ul class="no-padding">
+                        <li>
+                        <h3 class="ui header footer-color">About</h3>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" href="/company">The Company</a>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" href="/team">Our Team</a>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" href="/awards">Awards</a>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" href="/press_releases">Press Releases</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+             <div class="three wide column">
+                <div class="ui left aligned basic segment">
+                    <ul class="no-padding">
+                        <li>
+                            <h3 class="ui header footer-color">API Docs</h3>
+                        </li>
+                        <li>
+                            <a class="footer-color underline" target='_blank' href="https://www.handpoint.com/docs/basics/">Handpoint SDK's</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row no-padding no-margin">
+            <div class="three wide column">
+                <div class="ui left aligned basic segment">
+                    <ul class="no-padding">
+                        <li>
+                            <h3 class="ui header footer-color">UK Office</h3>
+                        </li>
+                        <li>
+                            <a class="footer-color">20 Bridge St.</a>
+                        </li>
+                        <li>
+                            <a class="footer-color">Cambridge</a>
+                        </li>
+                        <li>
+                            <a class="footer-color">CB2 1UF</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="three wide column">
+                <div class="ui left aligned basic segment">
+                    <ul class="no-padding">
+                        <li>
+                            <h3 class="ui header footer-color">US Office</h3>
+                        </li>
+                        <li>
+                            <a class="footer-color">470 Ramona St.</a>
+                        </li>
+                        <li>
+                            <a class="footer-color">Palo Alto, CA 94301</a>
+                        </li>
+                        <li>
+                            <a class="footer-color">+1 844 442 6378</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="three wide column">
+                <div class="ui left aligned basic segment">
+                    <ul class="no-padding">
+                        <li>
+                            <h3 class="ui header footer-color">Iceland Office</h3>
+                        </li>
+                        <li>
+                            <a class="footer-color">Borgartun 27</a>
+                        </li>
+                        <li>
+                            <a class="footer-color">105 Reykjavik</a>
+                        </li>
+                        <li>
+                            <a class="footer-color">+354 510 3300</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="three wide column">
+                <div class="ui left aligned basic segment">
+                    <ul class="no-padding">
+                        <li>
+                            <h3 class="ui header footer-color">Contact Us</h3>
+                        </li>
+                        <li>
+                            <a class="footer-color">sales@handpoint.com</a>
+                        </li>
+                        <li>
+                            <a class="footer-color">support@handpoint.com</a>
+                        </li>
+                        <li>
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="three wide column">
+                <div class="ui left aligned basic segment">
+                    <ul class="no-padding">
+                        <li>
+                            <h3 class="ui header footer-color">Follow Us</h3>
+                        </li>
+
+                        <a class="item footer-color" target="_blank" href="https://www.facebook.com/Handpoint"><i class="big facebook square icon"></i></a>
+                        <a class="item footer-color" href="https://twitter.com/handpointltd"><i class="big twitter square icon"></i></a>
+                        <a class="item footer-color" target="_blank" href="https://plus.google.com/+Handpoint/posts"><i class="big google plus square icon"></i></a>
+                        <a class="item footer-color" target="_blank" href="https://www.linkedin.com/company/handpoint"><i class="big linkedin square icon"></i></a> 
+                        <a class="item footer-color" target="_blank" href="https://vimeo.com/handpoint"><i class="big vimeo square icon"></i></a>
+                        <a class="item footer-color" target="_blank" href="https://www.youtube.com/channel/UCZRWCS7V0c4kvodVSWgdGHg"><i class="big youtube square icon"></i></a>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--footer End-->
+<!-- Segment link tracking -->
+    <script type="text/javascript">
+        $( document ).ready(function() {
+            HTMLCollection.prototype.forEach = Array.prototype.forEach;            
+            var links = document.links;
+            var buttons = document.getElementsByTagName('button');
+            links.forEach(function(element, i){
+                analytics.trackLink(element, element.innerHTML);
+            });
+            buttons.forEach(function(element, i){
+                analytics.trackLink(element, element.textContent);
+            });
+        });
+    </script>
+<!--Segment link tracking End-->
+</body>
+
+<!-- Scripts -->
+<script type="text/javascript" src="/js/main.js"></script>
+<script src="/flexslider/jquery.flexslider.js"></script>
+<!-- Scripts End-->
+</html>
