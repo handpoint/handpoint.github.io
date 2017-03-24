@@ -73,14 +73,6 @@ $('#contact-sales-form')
           }
         ]
       },
-      phone: {
-        identifier: 'phone',
-        rules: [
-          {
-            type   : 'empty',
-          }
-        ]
-      },
       description: {
         identifier: '00N6100000Gq1GE',
         rules: [
