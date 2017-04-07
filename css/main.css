@@ -32,7 +32,7 @@ p, li, ul{
 h1.ui.inverted.header{
 	text-shadow: 0px 0px 10px rgba(0,0,0,1) !important;
 	color: white !important;
-	letter-spacing: 1px;
+	letter-spacing: 0.5px;
 
 }
 h2.ui.inverted.header{
@@ -51,7 +51,7 @@ h3.ui.inverted.header{
 /*---------------------------------------------------*/
 
 .landing-background{
-	background-image: url("/images/card-readers/hilite-boat.jpg") !important; 
+	background-image: url("/images/card-readers/hilite-boat.jpg") !important;
     background-size: cover;
 	height: 600px;
 }
@@ -255,7 +255,7 @@ i.circular.icon{
 	width: auto;
 }
 .landing-catchline{
-	margin-top: 250px !important;
+	margin-top: 200px !important;
 }
 					/*Video css*/
 /*---------------------------------------------------*/
