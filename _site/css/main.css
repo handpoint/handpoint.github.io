@@ -162,7 +162,6 @@ h3.ui.inverted.header{
 .rotating-word{
 	color: #ff7638 !important;
 	width: 6em;
-	display: inline-block;
 	z-index: 100;
 	position: relative;
 }
