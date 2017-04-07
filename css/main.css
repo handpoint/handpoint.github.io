@@ -199,11 +199,11 @@ div.row{
 }
 
 i.bordered.icon{
-	box-shadow: 0 0 0 .02em !important;
+	box-shadow: 0 0 0 0 !important;
 	margin-top:19px;
     margin-bottom:19px;
-    margin-right:19px;
-    margin-left:19px;
+    margin-right:0px;
+    margin-left:0px;
 }
 i.circular.icon{
 	box-shadow: 0 0 0 .02em !important;
@@ -385,7 +385,6 @@ i.circular.icon{
 	i.bordered.icon{
 		text-align: left;
 		box-shadow: 0 0 0 0 !important;
-		margin-bottom: 0px !important;
 		font-size: 3em !important;
 	}
 	i.circular.icon{
@@ -464,7 +463,10 @@ i.circular.icon{
 		font-size: 1em !important;
 	}
 	i.bordered.icon{
+		text-align: left;
 		box-shadow: 0 0 0 0 !important;
+		font-size: 3em !important;
+		margin-bottom: 0px;
 	}
 	.ui.small.image{
 		width: 100px !important;
@@ -484,5 +486,9 @@ i.circular.icon{
 	background-image: url("/images/card-readers/hilite-boat-small-laptop-screen.jpg") !important;
 	background-size: cover;
 	height: 600px;
+	}
+	i.bordered.icon{
+		box-shadow: 0 0 0 0 !important;
+		font-size: 4em !important;
 	}
 }
