@@ -136,10 +136,20 @@ h3.ui.inverted.header{
 .ui.secondary.inverted.menu {
 	background-color: #34495e !important;
 	max-width: 1400px;
+	position: relative;
+	margin: auto;
+	float: none;
+}
+
+#menu {
+	background-color: #34495e !important;
+	max-width: 1400px;
 	margin: auto;
 	float: none;
 	left: 50%;
 	transform: translateX(-50%);
+	position: fixed;
+	display: none;
 }
 .ui.secondary.inverted.menu a.item, div.item{
 	color: white !important;
