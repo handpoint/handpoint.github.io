@@ -44,6 +44,7 @@ h1.ui.inverted.header{
 h2.ui.inverted.header{
 	text-shadow: 0px 0px 10px rgba(0,0,0,1) !important;
 	color: white!important;
+	letter-spacing: 1px;
 }
 h3.ui.inverted.header{
 	text-shadow: 0px 0px 10px rgba(0,0,0,1) !important;
