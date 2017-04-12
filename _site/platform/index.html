@@ -168,8 +168,10 @@
 </div>
 <!-- Sidebar for Smaller Screens End -->
 
-<!-- Navbar -->
-<div class="ui fixed secondary inverted menu slight-padding" style="max-width: 1400px; position: relative;">
+<div class="pusher">
+
+<!-- Navbar when scrolling -->
+<div id="menu" class="ui top fixed secondary inverted menu">
     <div class="ui fluid container">
         <div class="left item">
             <a class="ui small image" href="/">
@@ -224,14 +226,75 @@
             </div>
             <a class="item" title="Contact" href="/contact">Contact Us</a>
             <a class="launch-sidebar">
-            <i class="sidebar big icon"></i>
+                <i class="sidebar big icon"></i>
             </a>
         </div>
     </div>
 </div>
-<!-- Navbar End-->
+<!-- Navbar when scrolling End-->
 
-<div class="pusher">
+<!-- Top Navbar -->
+<div class="ui secondary inverted menu">
+    <div class="ui fluid container">
+        <div class="left item">
+            <a class="ui small image" href="/">
+                <img src="/images/logos/handpoint-logo-white.png" alt="Handpoint Logo">
+            </a>
+        </div>
+        <div class="right item">
+            <a class="item" title="Home" href="/">Home</a>
+            <div class="ui pointing dropdown item dropdown-css" title="Solutions">PaaS Partners
+                <i class="dropdown icon dropdown-icon-css"></i>
+                <div class="ui menu">
+                    <a class="item" href="/processors">ISOs & Processors</a>
+                    <a class="item" href="/developers">Developers</a>
+                    <a class="item" href="/resellers">Hardware Resellers</a>
+                </div>
+            </div>
+            <div class="ui pointing dropdown item dropdown-css" title="Solutions">The Platform
+                <i class="dropdown icon dropdown-icon-css"></i>
+                <div class="ui menu">
+                    <a class="item" href="/cardreaders">Card Readers</a>
+                    <a class="item" href="/sdk">Software Development Kit</a>
+                    <a class="item" href="/platform">Integrated Payments Platform</a>
+                </div>
+            </div>
+            <a class="item" title="Documentation" target='_blank' href="https://www.handpoint.com/docs/basics/">API Documentation</a>
+            <div class="ui pointing dropdown item dropdown-css" title="support">Support
+                <i class="dropdown icon dropdown-icon-css"></i>
+                <div class="menu">
+                    <a class="item" href="/getstarted">MPOS Merchants Guide</a>
+                    <a class="item" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help Center</a>
+                    <a class="item" onclick="zE.activate({hideOnClose: true});">Contact Support</a>
+                </div>
+            </div>
+            <div class="ui pointing dropdown item dropdown-css" title="About">
+                About
+                <i class="dropdown icon dropdown-icon-css"></i>
+                <div class="menu">
+                    <a class="item" href="/company">The Company</a>
+                    <a class="item" href="/team">Our Team</a>
+                    <a class="item" href=/awards>Awards</a>
+                    <a class="item" href="/press_releases">Press Releases</a>
+                </div>
+            </div>
+            <div class="ui pointing dropdown item dropdown-css" title="Blogs">
+                Our Blogs
+                <i class="dropdown icon dropdown-icon-css"></i>
+                <div class="menu">
+                    <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">Latest in Fintech</a>
+                    <a class="item" target="_blank" href="http://nextgenpos.com/">NextGenPos</a>
+                    <a class="item" target="_blank" href="https://medium.com/handpoint">Handpoint News</a>
+                </div>
+            </div>
+            <a class="item" title="Contact" href="/contact">Contact Us</a>
+            <a class="launch-sidebar">
+                <i class="sidebar big icon"></i>
+            </a>
+        </div>
+    </div>
+</div>
+<!-- Top Navbar End-->
 
 <!-- Content for Section 1 - Catchline -->
 <div class="ui bottom aligned stackable grid processors-background">
@@ -254,8 +317,8 @@
         </div>
         <div class="row paragraph">
             <p>
-                Handpoint’s award winning platform as a service solution (PaaS) is the glue that holds the payments ecosystem together for ISOs, Resellers, and ISVs.
-                By building the essential software that lives on top of card readers all the way through to the processor,
+                Handpoint’s award winning Platform-as-a-Service solution (PaaS) is the glue that holds the payments ecosystem together for ISOs, Resellers, and ISVs.
+                By building the essential software from our card readers all the way through to the processor,
                 and everything in between, Handpoint’s PaaS solution is perfect for companies that value ease, security, and time to market.
             </p>
         </div>
@@ -282,7 +345,7 @@
         <div class="row paragraph">
             <p>
                 Yes, even you can have an integration path in an EMV world.  Offer our simple yet powerful SDKs for iOS, Android, Windows, and Browser to your developer partners.
-                Handpoint documentation is unsurpassed, and we’ll validate every integrated solution before it is ever in your merchants’ hands.
+                Handpoint documentation is unsurpassed, and we’ll validate every integrated solution before it ever is in your merchants’ hands.
             </p>
         </div>
     </div>
@@ -328,7 +391,8 @@
         </div>
         <div class="row paragraph">
             <p>
-                Handpoint’s semi-integrated architecture and P2PE encryption eliminate any sensitive data from the POS environment, reducing both risks from hackers and PCI audit issues, plus delivering all the savings from chargebacks that an EMV card reader offers.
+                Handpoint’s semi-integrated architecture and P2PE encryption eliminate any sensitive data from the POS environment,
+                reducing both risks from hackers and PCI audit issues, plus delivering all the savings from chargebacks that an EMV card reader offers.
             </p>
             <p>
                 How does it work? The POS simply tells an amount to the Handpoint card reader, and the card reader does all the rest.
@@ -379,7 +443,9 @@
         </div>
         <div class="row paragraph">
             <p>
-                If you work with multiple ISVs or channels, no problem. Manage them all in the Handpoint TMS, with heirarchies to manage relationships, tools to board terminals seamlessly with custom configs and to multiple processors, plus reporting and analytics to evaluate your best channels.
+                If you work with multiple ISVs or channels, no problem. Manage them all in the Handpoint TMS,
+                with heirarchies to manage relationships, tools to board terminals seamlessly with custom configs
+                and to multiple processors, plus reporting and analytics to evaluate your best channels.
            </p>
         </div>
     </div>
@@ -398,7 +464,9 @@
         </div>
         <div class="row paragraph">
             <p>
-                Handpoint works with a variety of industries that are inclusive of, but go way beyond, traditional restaurant and retail. From plane refueling to musical artists and Manchester United, Handpoint has been utilized in a wide variety of industries, but particularly where mobility and security matter.
+                Handpoint works with a variety of industries that are inclusive of, but go way beyond,
+                traditional restaurant and retail. From plane refueling to musical artists and Manchester United,
+                Handpoint has been utilized in a wide variety of industries, but particularly where mobility and security matter.
             </p>
         </div>
     </div>
@@ -422,7 +490,11 @@
         </div>
         <div class="row paragraph">
             <p>
-                Handpoint’s cloud-hosted middleware on AWS makes it easy for you to activate, maintain, and enhance your integrated solutions over time.  To add a merchant - all you need is some basic VAR sheet information and the device serial number.  Enter that info into your cloud-based Terminal Management System.  It takes less than a minute... and that's it!  Coming soon… APIs to integrate the TMS functionality into your merchant boarding tools.
+                Handpoint’s cloud-hosted middleware on AWS makes it easy for you to activate, maintain, and enhance
+                your integrated solutions over time.  To add a merchant - all you need is some basic VAR sheet information
+                and the device serial number.  Enter that info into your cloud-based Terminal Management System.
+                It takes less than a minute... and that's it!  Coming soon… APIs to integrate the TMS functionality into
+                your merchant boarding tools.
             </p>
         </div>
     </div>
@@ -441,7 +513,8 @@
         </div>
         <div class="row paragraph">
             <p>
-                With Handpoint’s remote key injection, the card reader can be shipped directly to the merchant. No delays and no costs for key injection. The card reader travels securely with no ability to process.
+                With Handpoint’s remote key injection, the card reader can be shipped directly to the merchant.
+                No delays and no costs for key injection. The card reader travels securely with no ability to process.
             </p>
         </div>
     </div>
@@ -465,7 +538,11 @@
         </div>
         <div class="row paragraph">
             <p>
-                The Handpoint customer journey is designed for busy merchants and no onsite support.  When merchants receive their card reader, a secure key governs the pairing with the POS.  Once authenticated, the card reader automatically calls out to the Handpoint security service and downloads the latest terminal software, encryption keys, and merchant configuration, going live in less than 2 minutes with no on-site support. It is plug and play.
+                The Handpoint customer journey is designed for busy merchants and no onsite support.
+                When merchants receive their card reader, a secure key governs the pairing with the POS.
+                Once authenticated, the card reader automatically calls out to the Handpoint security
+                service and downloads the latest terminal software, encryption keys, and merchant configuration,
+                going live in less than 2 minutes with no on-site support. It is plug and play.
             </p>
         </div>
     </div>
@@ -484,10 +561,14 @@
         </div>
         <div class="row paragraph">
             <p>
-                Maintain remote connectivity to your merchants’ card readers over time.  So if you want to update card readers or even upsell new features, you simply use the same cloud-hosted system to push an update to the card reader with essentially zero merchant effort and no downtime.
+                Maintain remote connectivity to your merchants’ card readers over time. If you want to update card readers
+                or even upsell new features, you simply use the same cloud-hosted system to push an update to the card reader
+                with essentially zero merchant effort and no downtime.
             </p>
             <p>
-                So if you need to support a Southern California merchant and your support team is located in Atlanta - no problem.  You can diagnose and troubleshoot from the TMS, keep merchant terminals up to date over time, and enable relationship management to promote new solutions with the push of a button.
+                So if you need to support a Southern California merchant and your support team is located in Atlanta -
+                no problem.  You can diagnose and troubleshoot from the TMS, keep merchant terminals up to date over time,
+                and enable relationship management to promote new solutions with the push of a button.
            </p>
         </div>
     </div>
@@ -511,10 +592,17 @@
         </div>
         <div class="row paragraph">
             <p>
-                Our secure payment Gateway is hosted on Amazon Web Services, for maximum uptime and reliability with redundancy and distributed coverage built in. And if we experience peak loads, we can replicate our gateway with the push of a button.
+                Our secure payment Gateway is hosted on Amazon Web Services, for maximum uptime and reliability with
+                redundancy and distributed coverage built in. And if we experience peak loads, we can replicate our
+                gateway with the push of a button.
             </p>
             <p>
-                The Gateway is PCI-DSS compliant and capable of processing high volumes of transactions. It was developed in 2013 with the needs of developers in mind, using the latest technology, such as a fast and scalable noSQL technology, giving it flexibility, scalability and stability. It handles online and offline PIN verification and supports both authorization and capture in a single message, as well as a dual message protocol where the capture / settlement message is typically sent in batches once a day.
+                The Gateway is PCI-DSS compliant and capable of processing high volumes of transactions.
+                It was developed in 2013 with the needs of developers in mind, using the latest technology,
+                such as a fast and scalable noSQL technology, giving it flexibility, scalability and stability.
+                It handles online and offline PIN verification and supports both authorization and capture in a single message,
+                as well as a dual message protocol where the capture / settlement message is typically sent in batches
+                once a day.
             </p>
         </div>
     </div>
@@ -533,7 +621,10 @@
         </div>
         <div class="row paragraph">
             <p>
-                Knowledge is only valuable when shared. That’s why we’ve built a custom analytics platform to give you the actionable data you need to make informed decisions about your payments software. From a heat map of where transactions are being performed, to types of transactions, and a plethora of other data, we provide the insights necessary to take your payments solution to the next level.
+                Knowledge is only valuable when shared. That’s why we’ve built a custom analytics platform to give
+                you the actionable data you need to make informed decisions about your payments software.
+                From a heat map of where transactions are being performed, to types of transactions, and a plethora of other
+                data, we provide the insights necessary to take your payments solution to the next level.
            </p>
         </div>
     </div>
@@ -557,7 +648,9 @@
         </div>
         <div class="row paragraph">
             <p>
-                We built it all. We control the technology. The Handpoint team is constantly working to support new processors and functionalities. We have the power to add a card reader, processor, SDK, workflow, you name it. If your requirement is missing from this list, please contact us directly so we can discuss custom integration.
+                We built it all. We control the technology. The Handpoint team is constantly working to support new processors
+                and functionalities. We have the power to add a card reader, processor, SDK, workflow, you name it.
+                If your requirement is missing from this list, please contact us directly so we can discuss custom integration.
              </p>
         </div>
     </div>
@@ -576,7 +669,8 @@
         </div>
         <div class="row paragraph">
             <p>
-                Our gateway gives you access to processors on three continents. See below for the full list of processors and supported features.
+                Our gateway gives you access to processors on three continents. See below for the full list of processors
+                and supported features.
             </p>
         </div>
     </div>
@@ -834,7 +928,7 @@
 </div>
 <!--End of Content for Section 17 - Processors-->
 <!-- End Content for Section 18 - contact form-->
-<div class="ui center aligned stackable grid relaxed-padding">
+<div class="ui center aligned stackable grid grey-background">
     <div class="middle aligned eight wide column">
         <div class="row">
             <h1 class="ui dividing header">Let’s talk!</h1>
@@ -866,192 +960,165 @@
             </form>
         </div>
     </div>
-    <!-- End Content for Section 18 - end of contact form-->
+</div>
+<!-- End Content for Section 18 - end of contact form-->
 
 <!--footer-->
-    <div class="ui center aligned stackable grid footer-background">
-        <div class="row no-padding no-margin">
-            <div class="three wide column">
-                <div class="ui left aligned basic segment">
-                    <ul class="no-padding">
-                        <li>
-                        <h3 class="ui header footer-color">PaaS Partners</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" href="/merchants">ISOs & Processors</a>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" href="/developers">Developers</a>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" href="/resellers">VARs & Resellers</a>
-                        </li>
-                    </ul>
-                </div>
+    <div class="ui stackable grid footer-background">
+        <div class="five column row">
+            <div class="column">
+                <ul>
+                    <li>
+                    <h3 class="ui header footer-color">PaaS Partners</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color underline" href="/processors">ISOs & Processors</a>
+                    </li>
+                    <li>
+                        <a class="footer-color underline" href="/developers">Developers</a>
+                    </li>
+                    <li>
+                        <a class="footer-color underline" href="/resellers">Hardware Resellers</a>
+                    </li>
+                </ul>
             </div>
-            <div class="three wide column">
-                <div class="ui left aligned basic segment">
-                    <ul class="no-padding">
-                        <li>
-                        <h3 class="ui header footer-color">The Platform</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" href="/cardreaders">Card Readers</a>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" href="/sdk">SDKs</a>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" href="/platform">Integrated Payments Platform</a>
-                        </li>
-                    </ul>
-                </div>
+            <div class="column">
+                <ul>
+                    <li>
+                    <h3 class="ui header footer-color">The Platform</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color underline" href="/cardreaders">Card Readers</a>
+                    </li>
+                    <li>
+                        <a class="footer-color underline" href="/sdk">Software Development Kit</a>
+                    </li>
+                    <li>
+                        <a class="footer-color underline" href="/platform">Integrated Payments Platform</a>
+                    </li>
+                </ul>
             </div>
-            <div class="three wide column">
-                <div class="ui left aligned basic segment">
-                    <ul class="no-padding">
-                        <li>
-                            <h3 class="ui header footer-color">Support</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" href="/getstarted">MPOS Merchants Guide</a>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Portal &amp; FAQ</a>
-                        </li>
-                    </ul>
-                </div>
+            <div class="column">
+                <ul>
+                    <li>
+                        <h3 class="ui header footer-color">Support</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color underline" href="/getstarted">MPOS Merchants Guide</a>
+                    </li>
+                    <li>
+                        <a class="footer-color underline" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help Center</a>
+                    </li>
+                </ul>
             </div>
-            <div class="three wide column">
-                <div class="ui left aligned basic segment">
-                    <ul class="no-padding">
-                        <li>
-                        <h3 class="ui header footer-color">About</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" href="/company">The Company</a>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" href="/team">Our Team</a>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" href="/awards">Awards</a>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" href="/press_releases">Press Releases</a>
-                        </li>
-                    </ul>
-                </div>
+            <div class="column">
+                <ul>
+                    <li>
+                    <h3 class="ui header footer-color">About</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color underline" href="/company">The Company</a>
+                    </li>
+                    <li>
+                        <a class="footer-color underline" href="/team">Our Team</a>
+                    </li>
+                    <li>
+                        <a class="footer-color underline" href="/awards">Awards</a>
+                    </li>
+                    <li>
+                        <a class="footer-color underline" href="/press_releases">Press Releases</a>
+                    </li>
+                </ul>
             </div>
-             <div class="three wide column">
-                <div class="ui left aligned basic segment">
-                    <ul class="no-padding">
-                        <li>
-                            <h3 class="ui header footer-color">API Docs</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" target='_blank' href="https://www.handpoint.com/docs/basics/">Handpoint SDK's</a>
-                        </li>
-                    </ul>
-                    <ul class="no-padding">
-                        <li>
-                            <h3 class="ui header footer-color">Legal</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color underline" href="/privacypolicy">Privacy Policy</a>
-                        </li>
-                    </ul>
-                </div>
+            <div class="column">
+                <ul>
+                    <li>
+                        <a class="footer-color underline" target='_blank' href="https://www.handpoint.com/docs/basics/">API Documentation</a>
+                    </li>
+                    <li>
+                        <a class="footer-color underline" href="/privacypolicy">Privacy Policy</a>
+                    </li>
+                </ul>
             </div>
         </div>
-        <div class="row no-padding no-margin">
-            <div class="three wide column">
-                <div class="ui left aligned basic segment">
-                    <ul class="no-padding">
-                        <li>
-                            <h3 class="ui header footer-color">UK Office</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color">20 Bridge St.</a>
-                        </li>
-                        <li>
-                            <a class="footer-color">Cambridge</a>
-                        </li>
-                        <li>
-                            <a class="footer-color">CB2 1UF</a>
-                        </li>
-                    </ul>
-                </div>
+        <div class="five column row">
+            <div class="column">
+                <ul>
+                    <li>
+                        <h3 class="ui header footer-color">UK Office</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color">20 Bridge St.</a>
+                    </li>
+                    <li>
+                        <a class="footer-color">Cambridge</a>
+                    </li>
+                    <li>
+                        <a class="footer-color">CB2 1UF</a>
+                    </li>
+                </ul>
             </div>
-            <div class="three wide column">
-                <div class="ui left aligned basic segment">
-                    <ul class="no-padding">
-                        <li>
-                            <h3 class="ui header footer-color">US Office</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color">470 Ramona St.</a>
-                        </li>
-                        <li>
-                            <a class="footer-color">Palo Alto, CA 94301</a>
-                        </li>
-                        <li>
-                            <a class="footer-color">+1 844 442 6378</a>
-                        </li>
-                    </ul>
-                </div>
+            <div class="column">
+                <ul>
+                    <li>
+                        <h3 class="ui header footer-color">US Office</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color">470 Ramona St.</a>
+                    </li>
+                    <li>
+                        <a class="footer-color">Palo Alto, CA 94301</a>
+                    </li>
+                    <li>
+                        <a class="footer-color">+1 844 442 6378</a>
+                    </li>
+                </ul>
             </div>
-            <div class="three wide column">
-                <div class="ui left aligned basic segment">
-                    <ul class="no-padding">
-                        <li>
-                            <h3 class="ui header footer-color">Iceland Office</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color">Borgartun 27</a>
-                        </li>
-                        <li>
-                            <a class="footer-color">105 Reykjavik</a>
-                        </li>
-                        <li>
-                            <a class="footer-color">+354 510 3300</a>
-                        </li>
-                    </ul>
-                </div>
+            <div class="column">
+                <ul>
+                    <li>
+                        <h3 class="ui header footer-color">Iceland Office</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color">Borgartun 27</a>
+                    </li>
+                    <li>
+                        <a class="footer-color">105 Reykjavik</a>
+                    </li>
+                    <li>
+                        <a class="footer-color">+354 510 3300</a>
+                    </li>
+                </ul>
             </div>
-            <div class="three wide column">
-                <div class="ui left aligned basic segment">
-                    <ul class="no-padding">
-                        <li>
-                            <h3 class="ui header footer-color">Contact Us</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color">sales@handpoint.com</a>
-                        </li>
-                        <li>
-                            <a class="footer-color">support@handpoint.com</a>
-                        </li>
-                        <li>
+            <div class="column">
+                <ul>
+                    <li>
+                        <h3 class="ui header footer-color">Contact Us</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color">sales@handpoint.com</a>
+                    </li>
+                    <li>
+                        <a class="footer-color">support@handpoint.com</a>
+                    </li>
+                    <li>
 
-                        </li>
-                    </ul>
-                </div>
+                    </li>
+                </ul>
             </div>
-            <div class="three wide column">
-                <div class="ui left aligned basic segment">
-                    <ul class="no-padding">
-                        <li>
-                            <h3 class="ui header footer-color">Follow Us</h3>
-                        </li>
+            <div class="column">
+                <ul>
+                    <li>
+                        <h3 class="ui header footer-color">Follow Us</h3>
+                    </li>
 
-                        <a class="item footer-color" target="_blank" href="https://www.facebook.com/Handpoint"><i class="big facebook square icon"></i></a>
-                        <a class="item footer-color" href="https://twitter.com/handpointltd"><i class="big twitter square icon"></i></a>
-                        <a class="item footer-color" target="_blank" href="https://plus.google.com/+Handpoint/posts"><i class="big google plus square icon"></i></a>
-                        <a class="item footer-color" target="_blank" href="https://www.linkedin.com/company/handpoint"><i class="big linkedin square icon"></i></a> 
-                        <a class="item footer-color" target="_blank" href="https://vimeo.com/handpoint"><i class="big vimeo square icon"></i></a>
-                        <a class="item footer-color" target="_blank" href="https://www.youtube.com/channel/UCZRWCS7V0c4kvodVSWgdGHg"><i class="big youtube square icon"></i></a>
-                    </ul>
-                </div>
+                    <a class="item footer-color" target="_blank" href="https://www.facebook.com/Handpoint"><i class="big facebook square icon"></i></a>
+                    <a class="item footer-color" href="https://twitter.com/handpointltd"><i class="big twitter square icon"></i></a>
+                    <a class="item footer-color" target="_blank" href="https://plus.google.com/+Handpoint/posts"><i class="big google plus square icon"></i></a>
+                    <a class="item footer-color" target="_blank" href="https://www.linkedin.com/company/handpoint"><i class="big linkedin square icon"></i></a>
+                    <a class="item footer-color" target="_blank" href="https://vimeo.com/handpoint"><i class="big vimeo square icon"></i></a>
+                    <a class="item footer-color" target="_blank" href="https://www.youtube.com/channel/UCZRWCS7V0c4kvodVSWgdGHg"><i class="big youtube square icon"></i></a>
+                </ul>
             </div>
         </div>
     </div>
@@ -1077,5 +1144,18 @@
 <!-- Scripts -->
 <script type="text/javascript" src="/js/main.js"></script>
 <script src="/flexslider/jquery.flexslider.js"></script>
-<!-- Scripts End-->
+<script type="text/javascript">
+    (function($) {
+        $(document).ready(function(){
+            $(window).scroll(function(){
+                if ($(this).scrollTop() > 400) {
+                    $('#menu').fadeIn(500);
+                } else {
+                    $('#menu').fadeOut(500);
+                }
+            });
+        });
+    })(jQuery);
+</script>
+ <!--Scripts End-->
 </html>
