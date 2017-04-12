@@ -71,7 +71,7 @@ h3.ui.inverted.header{
 	background: #F0F0F0;
 }
 .footer-background{
-	background-color: #34495e;
+	background-color: black;
 }
 .getstarted-background{
 	background-image: url("/images/unsplash/family.jpg") !important;
@@ -265,11 +265,14 @@ i.circular.icon{
 .orange-color{
 	color: rgb(255, 118, 56) !important;
 }
-.footer-color{
+.footer-color-title{
 	color: white !important;
 }
-.underline{
-	text-decoration: underline;
+.footer-color{
+	color: #787980;
+}
+.footer-list-no-bullet{
+	list-style-type: none;
 }
 
 .photo-team-resize{
