@@ -8,6 +8,12 @@ html {
 	background-color: #d3d3d3;
 }
 
+/*Anti aliasing*/
+/*---------------------------------------------------*/
+* {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
 				/*font css*/
 /*---------------------------------------------------*/
 
@@ -17,8 +23,9 @@ body.pushable {
 
 h1, h2, h3, h4, h5, body, p, a, div{
 	font-weight: 300 !important;
-	font-family: 'Helvetica Neue',Arial,Helvetica,sans-serif !important;
+	font-family: 'Open Sans', sans-serif;
 }
+
 h1, h2, h3, h4, h5, body, p{
 	color: #34495e !important;
 }
@@ -31,7 +38,7 @@ p, li, ul{
 h1.ui.inverted.header{
 	text-shadow: 0px 0px 10px rgba(0,0,0,1) !important;
 	color: white !important;
-	letter-spacing: 0.5px;
+	letter-spacing: 0.3px;
 
 }
 h2.ui.inverted.header{
@@ -269,7 +276,7 @@ i.circular.icon{
 	width: auto;
 }
 .landing-catchline{
-	margin-top: 180px !important;
+	margin-top: 200px !important;
 }
 					/*Video css*/
 /*---------------------------------------------------*/
