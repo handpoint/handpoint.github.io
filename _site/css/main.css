@@ -163,22 +163,20 @@ h3.ui.inverted.header{
 	color: white !important;
 	font-size: 14px;
 }
-.dropdown-icon-css{
-	margin-left: 5px !important; 
-	padding-top: 2px !important;
-}
-.dropdown-css{
-	margin-bottom: 0px !important;
-	font-size: 14px;
-}
 .ui.menu .ui.dropdown .menu>.item{
 	color: #34495e !important;
 }
 .ui.menu .ui.dropdown .menu>.active.item{
 	color: #34495e !important;
 }
+.ui.primary.button{
+	background-color: #ff7638 !important;
+}
+.ui.secondary.inverted.pointing.menu .active.item{
+	border-color: #ff7638 !important;
+}
 
-					/*main css*/
+		/*main css*/
 /*---------------------------------------------------*/
 
 .rotating-word{

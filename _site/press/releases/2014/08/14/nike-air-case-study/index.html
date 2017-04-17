@@ -172,43 +172,45 @@
 <div class="pusher">
 
 <!-- Navbar when scrolling -->
-<div id="menu" class="ui top fixed secondary inverted menu">
+<div id="menu" class="ui top fixed secondary inverted pointing menu">
     <div class="ui fluid container">
-        <div class="left item">
-            <a class="ui small image" href="/">
-                <img src="/images/logos/handpoint-logo-white.png" alt="Handpoint Logo">
-            </a>
-        </div>
+        <a class="left item" href='/'>
+            <img  class="ui image" style="height: 38px;" src="/images/logos/handpoint-logo-white.png" alt="Handpoint Logo">
+        </a>
         <div class="right item">
-            <a class="item" title="Home" href="/">Home</a>
-            <div class="ui pointing dropdown item dropdown-css" title="Solutions">PaaS Partners
-                <i class="dropdown icon dropdown-icon-css"></i>
+            <div onclick="location.href='/'">
+                <a class="item">Home</a>
+            </div>
+            <div class="ui dropdown item" title="platform-as-a-service partners">PaaS Partners
+                <i class="dropdown icon"></i>
                 <div class="ui menu">
                     <a class="item" href="/processors">ISOs & Processors</a>
                     <a class="item" href="/developers">Developers</a>
                     <a class="item" href="/resellers">Hardware Resellers</a>
                 </div>
             </div>
-            <div class="ui pointing dropdown item dropdown-css" title="Solutions">The Platform
-                <i class="dropdown icon dropdown-icon-css"></i>
+            <div class="ui dropdown item" title="Solutions">The Platform
+                <i class="dropdown icon"></i>
                 <div class="ui menu">
                     <a class="item" href="/cardreaders">Card Readers</a>
                     <a class="item" href="/sdk">Software Development Kit</a>
                     <a class="item" href="/platform">Integrated Payments Platform</a>
                 </div>
             </div>
-            <a class="item" title="Documentation" target='_blank' href="https://www.handpoint.com/docs/basics/">API Documentation</a>
-            <div class="ui pointing dropdown item dropdown-css" title="support">Support
-                <i class="dropdown icon dropdown-icon-css"></i>
+            <div onclick="window.open('https://www.handpoint.com/docs/basics/')">
+                <a class="ui item" title="Documentation">API Documentation</a>
+            </div>
+            <div class="ui dropdown item" title="support">Support
+                <i class="dropdown icon"></i>
                 <div class="menu">
                     <a class="item" href="/getstarted">MPOS Merchants Guide</a>
                     <a class="item" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help Center</a>
                     <a class="item" onclick="zE.activate({hideOnClose: true});">Contact Support</a>
                 </div>
             </div>
-            <div class="ui pointing dropdown item dropdown-css" title="About">
+            <div class="ui dropdown item" title="About">
                 About
-                <i class="dropdown icon dropdown-icon-css"></i>
+                <i class="dropdown icon"></i>
                 <div class="menu">
                     <a class="item" href="/company">The Company</a>
                     <a class="item" href="/team">Our Team</a>
@@ -216,16 +218,18 @@
                     <a class="item" href="/press_releases">Press Releases</a>
                 </div>
             </div>
-            <div class="ui pointing dropdown item dropdown-css" title="Blogs">
+            <div class="ui dropdown item" title="Blogs">
                 Our Blogs
-                <i class="dropdown icon dropdown-icon-css"></i>
+                <i class="dropdown icon"></i>
                 <div class="menu">
                     <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">Latest in Fintech</a>
                     <a class="item" target="_blank" href="http://nextgenpos.com/">NextGenPos</a>
                     <a class="item" target="_blank" href="https://medium.com/handpoint">Handpoint News</a>
                 </div>
             </div>
-            <a class="item" title="Contact" href="/contact">Contact Us</a>
+            <div class="ui primary button" onclick="location.href='/contact'">
+                Contact Us
+            </div>
             <a class="launch-sidebar">
                 <i class="sidebar big icon"></i>
             </a>
@@ -235,43 +239,45 @@
 <!-- Navbar when scrolling End-->
 
 <!-- Top Navbar -->
-<div class="ui secondary inverted menu">
+<div class="ui secondary inverted pointing menu">
     <div class="ui fluid container">
-        <div class="left item">
-            <a class="ui small image" href="/">
-                <img src="/images/logos/handpoint-logo-white.png" alt="Handpoint Logo">
-            </a>
-        </div>
+        <a class="left item" href='/'>
+            <img  class="ui image" style="height: 38px;" src="/images/logos/handpoint-logo-white.png" alt="Handpoint Logo">
+        </a>
         <div class="right item">
-            <a class="item" title="Home" href="/">Home</a>
-            <div class="ui pointing dropdown item dropdown-css" title="Solutions">PaaS Partners
-                <i class="dropdown icon dropdown-icon-css"></i>
+            <div onclick="location.href='/'">
+                <a class="item">Home</a>
+            </div>
+            <div class="ui dropdown item" title="platform-as-a-service partners">PaaS Partners
+                <i class="dropdown icon"></i>
                 <div class="ui menu">
                     <a class="item" href="/processors">ISOs & Processors</a>
                     <a class="item" href="/developers">Developers</a>
                     <a class="item" href="/resellers">Hardware Resellers</a>
                 </div>
             </div>
-            <div class="ui pointing dropdown item dropdown-css" title="Solutions">The Platform
-                <i class="dropdown icon dropdown-icon-css"></i>
+            <div class="ui dropdown item" title="Solutions">The Platform
+                <i class="dropdown icon"></i>
                 <div class="ui menu">
                     <a class="item" href="/cardreaders">Card Readers</a>
                     <a class="item" href="/sdk">Software Development Kit</a>
                     <a class="item" href="/platform">Integrated Payments Platform</a>
                 </div>
             </div>
-            <a class="item" title="Documentation" target='_blank' href="https://www.handpoint.com/docs/basics/">API Documentation</a>
-            <div class="ui pointing dropdown item dropdown-css" title="support">Support
-                <i class="dropdown icon dropdown-icon-css"></i>
+            <div onclick="window.open('https://www.handpoint.com/docs/basics/')">
+                <a class="ui item" title="Documentation">API Documentation</a>
+            </div>
+            <div class="ui dropdown item" title="support">Support
+                <i class="dropdown icon"></i>
                 <div class="menu">
                     <a class="item" href="/getstarted">MPOS Merchants Guide</a>
                     <a class="item" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help Center</a>
                     <a class="item" onclick="zE.activate({hideOnClose: true});">Contact Support</a>
                 </div>
             </div>
-            <div class="ui pointing dropdown item dropdown-css" title="About">
+            <div class="ui dropdown item" title="About">
                 About
-                <i class="dropdown icon dropdown-icon-css"></i>
+                <i class="dropdown icon"></i>
                 <div class="menu">
                     <a class="item" href="/company">The Company</a>
                     <a class="item" href="/team">Our Team</a>
@@ -279,16 +285,18 @@
                     <a class="item" href="/press_releases">Press Releases</a>
                 </div>
             </div>
-            <div class="ui pointing dropdown item dropdown-css" title="Blogs">
+            <div class="ui dropdown item" title="Blogs">
                 Our Blogs
-                <i class="dropdown icon dropdown-icon-css"></i>
+                <i class="dropdown icon"></i>
                 <div class="menu">
                     <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">Latest in Fintech</a>
                     <a class="item" target="_blank" href="http://nextgenpos.com/">NextGenPos</a>
                     <a class="item" target="_blank" href="https://medium.com/handpoint">Handpoint News</a>
                 </div>
             </div>
-            <a class="item" title="Contact" href="/contact">Contact Us</a>
+            <div class="ui primary button" onclick="location.href='/contact'">
+                Contact Us
+            </div>
             <a class="launch-sidebar">
                 <i class="sidebar big icon"></i>
             </a>
