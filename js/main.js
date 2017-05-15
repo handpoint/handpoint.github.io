@@ -19,18 +19,6 @@ $('.ui.accordion')
 ;
 
 //modals
- $('.modal-button-hilite').click(function(){
-        $('#modal-hilite-specs').modal('show');
-    });
- $('.modal-button-hipro').click(function(){
-        $('#modal-hipro-specs').modal('show');
-    });
- $('.modal-button-hifive').click(function(){
-        $('#modal-hifive-specs').modal('show');
-    });
- $('.modal-button-partner').click(function(){
-      $('#modal-partners-list').modal('show');
-    });
 $('.modal-button-video').click(function(){
       $('#modal-video').modal('show');
     });

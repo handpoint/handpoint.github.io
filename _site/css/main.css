@@ -176,6 +176,9 @@ h3.ui.inverted.header{
 	border-color: #ff7638 !important;
 }
 
+.logo-size{
+	max-height: 38px; !important;
+}
 		/*main css*/
 /*---------------------------------------------------*/
 
@@ -323,6 +326,9 @@ i.circular.icon{
 	.ui.secondary.menu div.item {
 		display: none;
 	}
+	.ui.secondary.menu a.button {
+		display: none;
+	}
 	.ui.vertical.inverted.menu .menu .item {
 		color: white!important;
 	}
@@ -375,7 +381,7 @@ i.circular.icon{
 	height: 600px;
 	}
 	.special-font{
-	font-size: 22px !important; 
+	font-size: 22px !important;
 	font-weight: 400 !important;
 	}
 	h1{
@@ -389,7 +395,7 @@ i.circular.icon{
 	}
 	p, li, ul {
 		font-size: 14px !important;
-	}	
+	}
 	.display-small-screen-only{
 		display:inline-block !important;
 	}
@@ -426,6 +432,9 @@ i.circular.icon{
 	width: auto;
 
 	}
+	.logo-size{
+		max-height: 25px; !important;
+	}
 }
 				/*tablet responsive css*/
 /*---------------------------------------------------*/
@@ -438,6 +447,9 @@ i.circular.icon{
 		display: none;
 	}
 	.ui.secondary.menu div.item {
+		display: none;
+	}
+	.ui.secondary.menu a.button {
 		display: none;
 	}
 	.ui.vertical.inverted.menu .menu .item {
@@ -467,21 +479,21 @@ i.circular.icon{
 	height: 600px;
 	}
 	.special-font{
-	font-size: 24px !important; 
+	font-size: 26px !important;
 	font-weight: 400 !important;
 	}
 	h1{
-		font-size: 22px !important;
+		font-size: 24px !important;
 	}
 	h2{
-		font-size: 20px !important;
+		font-size: 22px !important;
 	}
 	h3{
-		font-size: 18px !important;
+		font-size: 20px !important;
 	}
 	p, li, ul{
 		font-size: 14px !important;
-	}	
+	}
 	.ui.button{
 		font-size: 1em !important;
 	}
@@ -497,11 +509,32 @@ i.circular.icon{
 	.vmap{
 	height:200px;
 	}
+	.logo-size{
+		max-height: 30px; !important;
+	}
 }
 
 			/*small laptop responsive css*/
 /*---------------------------------------------------*/
 @media (max-width:1219px) and (min-width:801px){
+	.ui.secondary.menu a.launch-sidebar{
+		display: block;
+	}
+	.ui.secondary.menu a.item {
+		display: none;
+	}
+	.ui.secondary.menu div.item {
+		display: none;
+	}
+	.ui.secondary.menu a.button {
+		display: none;
+	}
+	.ui.vertical.inverted.menu .menu .item {
+		color: white!important;
+	}
+	.ui.vertical.icon.menu{
+		width: 120px !important;
+	}
 	.landing-catchline {
 		margin-top: 180px !important;
 	}
@@ -513,5 +546,8 @@ i.circular.icon{
 	i.bordered.icon{
 		box-shadow: 0 0 0 0 !important;
 		font-size: 4em !important;
+	}
+	.logo-size{
+		max-height: 30px; !important;
 	}
 }
