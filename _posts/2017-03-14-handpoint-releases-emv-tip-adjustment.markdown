@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Handpoint Releases EMV Tip Adjustment, Leading the Way in Integrated Mobile Payments Solutions"
-date:   2017-01-16 17:00:00 +0000
+date:   2017-03-14 17:00:00 +0000
 categories: press releases
 ---
 
