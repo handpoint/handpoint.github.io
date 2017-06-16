@@ -1,13 +1,13 @@
 RewriteEngine On
 RewriteBase /
 #Hack to fix the dev.handpoint.com shortcut
-RewriteCond %{HTTP_HOST} !^dev.handpoint.com$ [NC]
-RewriteCond %{HTTP_HOST} !^developer.handpoint.com$ [NC]
-RewriteCond %{HTTP_HOST} !^developers.handpoint.com$ [NC]
+RewriteCond %{HTTP_HOST} dev.handpoint.com$ [OR]
+RewriteCond %{HTTP_HOST} developer.handpoint.com$ [OR]
+RewriteCond %{HTTP_HOST} developers.handpoint.com$ 
 RewriteRule ^(.*)$ https://www.handpoint.com/docs/$1 [L,R=301]
 
 #Hack to fix temporarily old configs for QA
-RewriteCond %{HTTP_HOST} !^terminalclient.handpoint.com$ [NC]
+RewriteCond %{HTTP_HOST} terminalclient.handpoint.com$
 RewriteRule ^(.*)$ https://terminalclient.handpoint.io/$1 [L,R=301]
 
  
