@@ -4,7 +4,7 @@ title: "Sureswipe, powered by Handpoint wins the best deployment in Africa at th
 date: 2015-12-07 17:00:00 +0000
 categories: awards
 description: Sureswipe Move mPOS solution relying on Handpoint payments platform wins the best payment deployment award in Africa
-
+---
 <img class="ui small centered image" src="/images/logos/sureswipe-new-logo.png" alt="sureswipe payment services logo">
 
 Istanbul, Global Payments Awards – Sureswipe wins best payment deployment in Africa
