@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Handpoint finalist of the 2015 Fintech Innovation awards"
-date:   2014-12-03 17:00:00 +0000
+title: "Handpoint finalist of the 2015 Fintech Innovation awards"
+date: 2014-12-03 17:00:00 +0000
 categories: awards
+description: Handpoint is shortlisted in two categories Security initiative and best mPOS solution at the Fintech innovation awards 2015
 ---
 <img class="ui medium centered image" src="/images/logos/fintech-innovation-awards-2015.png" alt="fintech innovation awards 2015">
 

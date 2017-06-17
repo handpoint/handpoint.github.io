@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Borgun partners with Handpoint to bring a mobile POS solution to market in Iceland"
-date:   2014-08-14 17:00:00 +0000
+title: "Borgun partners with Handpoint to bring a mobile POS solution to market in Iceland"
+date: 2014-08-14 17:00:00 +0000
 categories: press releases
+description: Handpoint and Borgun launch jointly a mobile point of sale solution (mPOS) for the Icelandic market
 ---
 
 <img class="ui medium centered image" src="/images/logos/borgun-logo-color.png" alt="borgun logo">

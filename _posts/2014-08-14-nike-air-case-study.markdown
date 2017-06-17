@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Nike Air Case Study powered by Handpoint"
-date:   2014-08-14 17:00:00 +0000
+title: "Nike Air Case Study powered by Handpoint"
+date: 2014-08-14 17:00:00 +0000
 categories: press releases
+description: Handpoint introduces a queue busting mobile POS solution | You can now pay on the fly in Nike Air Stores
 ---
 
 Handpoint launched a new Mobile POS Solution in a retail store called Air this May. The Video Case Study shows a game changing new mPOS device for EMV payments – One device with a built in cradle for iPhone 5 and a hybrid reader for chip and magstripe cards along with a scanner.

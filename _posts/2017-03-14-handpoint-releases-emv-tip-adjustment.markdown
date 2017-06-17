@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Handpoint Releases EMV Tip Adjustment, Leading the Way in Integrated Mobile Payments Solutions"
-date:   2017-03-14 17:00:00 +0000
+title: "Handpoint Releases EMV Tip Adjustment, Leading the Way in Integrated Mobile Payments Solutions"
+date: 2017-03-14 17:00:00 +0000
 categories: press releases
+description: Handpoint enters the US hospitality market by offering EMV tip adjustment capabilities to merchants
 ---
 
 As restaurants and services have looked to upgrade their POS, many of them have had to

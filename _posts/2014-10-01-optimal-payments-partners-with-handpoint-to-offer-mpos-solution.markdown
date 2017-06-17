@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Optimal Payments announces partnership with Handpoint to offer a mobile point of sale solution"
-date:   2014-10-01 17:00:00 +0000
+title: "Optimal Payments announces partnership with Handpoint to offer a mobile point of sale solution"
+date: 2014-10-01 17:00:00 +0000
 categories: press releases
+description: Optimal Payments and Handpoint partner to offer an innovative mPOS solution to Canadian, UK and US merchants
 ---
 
 
