@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Sureswipe Move powered by Handpoint mPOS"
-date:   2014-10-14 17:00:00 +0000
+title: "Sureswipe Move powered by Handpoint mPOS"
+date: 2014-10-14 17:00:00 +0000
 categories: press releases
+description: Sureswipe and Handpoint partner to offer an innovative mPOS solution to South African merchants
 ---
 
 Johannesburg, SA, July, SureSwipe – Payment Services provider launches the first mPOS application to achieve PCI-P2PE certification in South-Africa. SureSwipe Move is a mobile card machine that works with a smart device to accept all major card payments. The mobile point of sale solution powered by Handpoint is tailored to address the needs of small and medium sized merchants.

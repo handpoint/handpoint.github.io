@@ -3,6 +3,7 @@ layout: post
 title: "Handpoint Enables Integrated Payments with Mobile EMV for Cloud POS"
 date: 2017-01-16 17:00:00 +0000
 categories: press releases
+description: Handpoint brings the possibility for cloud point-of-sale companies to accept card present payments
 ---
 
 With today’s competitive and evolving retail landscape, Handpoint is proud to announce

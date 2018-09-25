@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Handpoint finalist of the 2015 System Retail Awards"
-date:   2015-07-30 17:00:00 +0000
+title: "Handpoint finalist of the 2015 System Retail Awards"
+date: 2015-07-30 17:00:00 +0000
 categories: awards
+description: Handpoint brings its partners Cha Cha Cha and My Cookie Dough as finalists of the 2015 System Retail Awards in the category Payments Solution of the Year
 ---
 
 Handpoint is shortlisted for the Card and Payments Solution of the Year and Payments Partnership of the Year for projects with the partners My Cookie Dough and Cha Cha Cha. Handpoint has been working with both partners on introducing NextGen POS to their retail environment, enabling a seamless user experience across a variety efficient card readers which are fully integrated into the POS software with the stringent PCI-P2PE security.

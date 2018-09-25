@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "DalPay Adds mPOS Solution to Global E-Commerce Suite in Deal with Mobile Payments Expert Handpoint"
-date:   2014-11-19 17:00:00 +0000
+title: "DalPay Adds mPOS Solution to Global E-Commerce Suite in Deal with Mobile Payments Expert Handpoint"
+date: 2014-11-19 17:00:00 +0000
 categories: press releases
+description: Dalpay acquires Handpoint merchant portfolio in the Icelandic market
 ---
 <img class="ui small centered image" src="/images/logos/dalpay-logo.png" alt="dalpay logo">
 

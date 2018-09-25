@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Handpoint wins the 2015 Fintech Innovation Awards"
-date:   2015-03-18 17:00:00 +0000
+title: "Handpoint wins the 2015 Fintech Innovation Awards"
+date: 2015-03-18 17:00:00 +0000
 categories: awards
+description: Handpoint wins the best mPOS solution award at the Fintech innovation awards 2015
 ---
 
 <img class="ui medium centered image" src="/images/logos/fintech-innovation-awards-2015.png" alt="fintech innovation awards 2015">

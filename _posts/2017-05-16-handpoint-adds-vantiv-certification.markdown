@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Handpoint Adds Vantiv Certification to its Turn-Key Integrated Payments Platform for ISOs and Developers"
-date:   2017-05-16 17:00:00 +0000
+title: "Handpoint Adds Vantiv Certification to its Turn-Key Integrated Payments Platform for ISOs and Developers"
+date: 2017-05-16 17:00:00 +0000
 categories: press releases
+description: Vantiv certified Handpoint semi-integrated payment solution for EMV processing in the United States
 ---
 
 With the payments industry in a period of rapid evolution, it’s essential that ISOs and ISVs move swiftly to

@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Handpoint brings EMV to mobile point of sale in the United States with new Investments"
-date:   2015-07-17 17:00:00 +0000
+title: "Handpoint brings EMV to mobile point of sale in the United States with new Investments"
+date: 2015-07-17 17:00:00 +0000
 categories: press releases
+description: As an expert in EMV Technology, Handpoint decides to bring its end-to-end payment solution to the United States to help merchants transition from traditional magnetic stripe to EMV
 ---
 
 <div class="ui two column grid">

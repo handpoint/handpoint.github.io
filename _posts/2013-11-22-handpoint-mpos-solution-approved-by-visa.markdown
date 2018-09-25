@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Handpoint mPOS solution approved by the VISA Ready Program"
-date:   2013-11-22 17:00:00 +0000
+title: "Handpoint mPOS solution approved by the VISA Ready Program"
+date: 2013-11-22 17:00:00 +0000
 categories: press releases
+description: Handpoint payment solution enters the restricted circle of the Visa Ready Program for mobile point of sale (mPOS)
 ---
 
 <img class="ui small centered image" src="/images/logos/visa-logo.jpg" alt="visa logo">

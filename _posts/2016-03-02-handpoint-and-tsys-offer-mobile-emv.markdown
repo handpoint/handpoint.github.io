@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "TSYS partners with Handpoint to offer mobile EMV"
-date:   2016-03-02 17:00:00 +0000
+title: "TSYS partners with Handpoint to offer mobile EMV"
+date: 2016-03-02 17:00:00 +0000
 categories: press releases
+description: TSYS certified Handpoint semi-integrated payment solution for EMV processing in the United States and Canada
 ---
 
 <img class="ui medium centered image" src="/images/logos/tsys-logo-color.jpg" alt="TSYS payment services logo">

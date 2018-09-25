@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Handpoint finalist of the 2014 MPE Awards"
-date:   2014-02-13 17:00:00 +0000
+title: "Handpoint finalist of the 2014 MPE Awards"
+date: 2014-02-13 17:00:00 +0000
 categories: awards
+description: Handpoint solution is shortlisted in the category channel awards at the MPE awards 2014 for its innovative offering regarding mobile payment acceptance in different channels.
 ---
 
 <img class="ui medium centered image" src="/images/logos/mpe-award-2014-logo.png" alt="mpe award logo 2014">

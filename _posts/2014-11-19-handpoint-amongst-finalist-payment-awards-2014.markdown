@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Handpoint finalist of the 2014 Payments Awards"
-date:   2014-11-19 17:00:00 +0000
+title: "Handpoint finalist of the 2014 Payments Awards"
+date: 2014-11-19 17:00:00 +0000
 categories: awards
+description: Handpoint P2PE payment application is shortlisted has compliance project of the year at the Payments Awards 2014
 ---
 
 <img class="ui medium centered image" src="/images/logos/payments_awards_2014.png" alt="payment awards 2014 logo">

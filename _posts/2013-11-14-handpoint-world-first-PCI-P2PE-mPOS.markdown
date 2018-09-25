@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Handpoint is the world's first PCI P2PE mPOS solution"
-date:   2013-11-14 17:00:00 +0000
+title: "Handpoint is the world's first PCI P2PE mPOS solution"
+date: 2013-11-14 17:00:00 +0000
 categories: press releases
+description: Handpoint card readers payment application becomes the world's first certified point-to-point encryption (P2PE) application for mobile point of sale (POS)
 ---
 
 <img class="ui small right floated image" src="/images/logos/pci-p2pe-logo.png" alt="pci p2pe validated solution logo">
