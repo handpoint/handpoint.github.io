@@ -5,7 +5,7 @@ date:   2014-08-14 17:00:00 +0000
 categories: press releases
 ---
 
-<img class="ui medium centered image" src="/images/logos/borgun-logo-color.png" alt="borgun logo">
+<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/logos/borgun-logo-color.png" alt="borgun logo">
 
 The Acquiring Bank Borgun today launched a Mobile Point of Sale solution in Iceland in partnership with Handpoint. Borgun’s mPOS is tailored to address the needs of small and medium sized merchants and relies on Handpoint’s secure mPOS Platform as a Service (PaaS) – the only mPOS that has achieved PCI-P2PE application certification.
 
