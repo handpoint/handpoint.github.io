@@ -172,7 +172,7 @@ h3.ui.inverted.header{
 }
 
 .logo-size{
-	max-height: 38px; !important;
+	max-height: 38px !important;
 }
 		/*main css*/
 /*---------------------------------------------------*/
@@ -428,7 +428,7 @@ i.circular.icon{
 
 	}
 	.logo-size{
-		max-height: 25px; !important;
+		max-height: 25px !important;
 	}
 }
 				/*tablet responsive css*/
@@ -505,7 +505,7 @@ i.circular.icon{
 	height:200px;
 	}
 	.logo-size{
-		max-height: 30px; !important;
+		max-height: 30px !important;
 	}
 }
 
@@ -543,6 +543,6 @@ i.circular.icon{
 		font-size: 4em !important;
 	}
 	.logo-size{
-		max-height: 30px; !important;
+		max-height: 30px !important;
 	}
 }
