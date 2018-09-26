@@ -7,12 +7,8 @@
 
 RewriteEngine On
 
-#RewriteCond %{HTTPS} !on
-#RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
-#RewriteCond %{REQUEST_URI} !^/\google[a-f0-9]{16}\.html$
-#RewriteCond %{REQUEST_URI} !^/\[a-f0-9]{32}\.txt$
-#RewriteCond %{REQUEST_URI} !^/atlassian-domain-verification.html$
-#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 
 RewriteBase /
 #Hack to fix the dev.handpoint.com shortcut
