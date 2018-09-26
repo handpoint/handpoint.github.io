@@ -2,14 +2,13 @@
 <html lang="en">
 
 <head>
-    <!-- Metadata -->
+<!-- Metadata -->
     <meta charset="utf-8">
-    {% if page.description %}
-    <meta name="description" content="{{ page.description | escape }}">{% endif %}
+    {% if page.description %}<meta name="description" content="{{ page.description | escape }}">{% endif %}
     <meta name="keywords" content="the platform for integrated payments, nextgenpos, handpoint, hipro, Hifive, hilite, api, pos developer, integration, payments, card present, mobile payments, mobile pos, mobile, p2pe, encryption, point, point to point encryption, credit cards, point of sale, card reader, payment terminals, payment API, payment SDK, API, SDK, gateway, processors">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <meta name="mobile-web-app-capable" content="yes">
-    <!-- Metadata End -->
+<!-- Metadata End -->
 
     <title> {% if page.title %} {{ page.title }} {% endif %}</title>
 
@@ -19,17 +18,17 @@
     <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/main.css">
     <link href="{{site.baseurl}}/jqvmap/dist/jqvmap.css" media="screen" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="{{site.baseurl}}/flexslider/flexslider.css" type="text/css">
-    <link rel="stylesheet" href="{{site.baseurl}}/css/animate.min.css" type="text/css">
+	<link rel="stylesheet" href="{{site.baseurl}}/css/animate.min.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    <!-- CSS Properties End-->
+<!-- CSS Properties End-->
 
-    <!-- Scripts -->
+<!-- Scripts -->
     <script type="text/javascript" src="{{site.baseurl}}/js/jquery-1.12.3.js"></script>
     <script type="text/javascript" src="{{site.baseurl}}/semantic-ui/semantic.min.js"></script>
     <!-- Handpoint Zendesk Widget-->
-    <script>/*<![CDATA[*/window.zEmbed || function (e, t) { var n, o, d, i, s, a = [], r = document.createElement("iframe"); window.zEmbed = function () { a.push(arguments) }, window.zE = window.zE || window.zEmbed, r.src = "javascript:false", r.title = "", r.role = "presentation", (r.frameElement || r).style.cssText = "display: none", d = document.getElementsByTagName("script"), d = d[d.length - 1], d.parentNode.insertBefore(r, d), i = r.contentWindow, s = i.document; try { o = s } catch (c) { n = document.domain, r.src = 'javascript:var d=document.open();d.domain="' + n + '";void(0);', o = s } o.open()._l = function () { var o = this.createElement("script"); n && (this.domain = n), o.id = "js-iframe-async", o.src = e, this.t = +new Date, this.zendeskHost = t, this.zEQueue = a, this.body.appendChild(o) }, o.write('<body onload="document._l();">'), o.close() }("//assets.zendesk.com/embeddable_framework/main.js", "handpoint.zendesk.com");/*]]>*/</script>
+    <script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","handpoint.zendesk.com");/*]]>*/</script>
     <script>
-        zE(function () {
+        zE(function() {
             zE.hide();
         });
     </script>
@@ -42,14 +41,12 @@
     </script>
     <!-- End of Handpoint Zendesk Widget-->
     <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date(); a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-        ga('create', 'UA-1295190-7', 'auto');
-        ga('send', 'pageview');
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-1295190-7', 'auto');
+      ga('send', 'pageview');
     </script>
     <script type="text/javascript">
         adroll_adv_id = "ULLHKIRUNZH5ZIMGQEFL6J";
@@ -57,38 +54,35 @@
         /* OPTIONAL: provide email to improve user identification */
         /* adroll_email = "username@example.com"; */
         (function () {
-            var _onload = function () {
-                if (document.readyState && !/loaded|complete/.test(document.readyState)) { setTimeout(_onload, 10); return }
-                if (!window.__adroll_loaded) { __adroll_loaded = true; setTimeout(_onload, 50); return }
-                var scr = document.createElement("script");
-                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-                scr.setAttribute('async', 'true');
-                scr.type = "text/javascript";
-                scr.src = host + "/j/roundtrip.js";
-                ((document.getElementsByTagName('head') || [null])[0] ||
-                    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-            };
-            if (window.addEventListener) { window.addEventListener('load', _onload, false); }
-            else { window.attachEvent('onload', _onload) }
+        var _onload = function(){
+        if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+        if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+        var scr = document.createElement("script");
+        var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+        scr.setAttribute('async', 'true');
+        scr.type = "text/javascript";
+        scr.src = host + "/j/roundtrip.js";
+        ((document.getElementsByTagName('head') || [null])[0] ||
+        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
         }());
     </script>
     <!-- Segment Analytics -->
     <script type="text/javascript">
-        !function () {
-            var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
-                analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"]; analytics.factory = function (t) { return function () { var e = Array.prototype.slice.call(arguments); e.unshift(t); analytics.push(e); return analytics } }; for (var t = 0; t < analytics.methods.length; t++) { var e = analytics.methods[t]; analytics[e] = analytics.factory(e) } analytics.load = function (t) { var e = document.createElement("script"); e.type = "text/javascript"; e.async = !0; e.src = ("https:" === document.location.protocol ? "https://" : "http://") + "cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js"; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(e, n) }; analytics.SNIPPET_VERSION = "4.0.0";
-                analytics.load("vKRdtoZtYofXbIl8kI8fXunNLNROYlqR");
-                analytics.page();
-                analytics.debug(false);
-            }
-        }();
+        !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+        analytics.load("vKRdtoZtYofXbIl8kI8fXunNLNROYlqR");
+        analytics.page();
+        analytics.debug(false);
+        }}();
     </script>
     <!-- End Segment Analytics -->
     <!-- Cookie consent script -->
     <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
     <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
     <script>
-        window.addEventListener("load", function () {
+        window.addEventListener("load", function(){
             window.cookieconsent.initialise({
                 "palette": {
                     "popup": {
@@ -103,401 +97,390 @@
                 "theme": "edgeless",
                 "position": "top",
                 "static": true
-            })
-        });
+            })});
     </script>
     <!-- End Cookie consent script -->
     <!-- begin olark code -->
-    <script type="text/javascript" async> ; (function (o, l, a, r, k, y) { if (o.olark) return; r = "script"; y = l.createElement(r); r = l.getElementsByTagName(r)[0]; y.async = 1; y.src = "//" + a; r.parentNode.insertBefore(y, r); y = o.olark = function () { k.s.push(arguments); k.t.push(+new Date) }; y.extend = function (i, j) { y("extend", i, j) }; y.identify = function (i) { y("identify", k.i = i) }; y.configure = function (i, j) { y("configure", i, j); k.c[i] = j }; k = y._ = { s: [], t: [+new Date], c: {}, l: a }; })(window, document, "static.olark.com/jsclient/loader.js");
-        /* custom configuration goes here (www.olark.com/documentation) */
-        olark.identify('6493-653-10-7614');
-        olark.configure('system.hb_primary_color', '#f2711c');
+    <script type="text/javascript" async> ;(function(o,l,a,r,k,y){if(o.olark)return; r="script";y=l.createElement(r);r=l.getElementsByTagName(r)[0]; y.async=1;y.src="//"+a;r.parentNode.insertBefore(y,r); y=o.olark=function(){k.s.push(arguments);k.t.push(+new Date)}; y.extend=function(i,j){y("extend",i,j)}; y.identify=function(i){y("identify",k.i=i)}; y.configure=function(i,j){y("configure",i,j);k.c[i]=j}; k=y._={s:[],t:[+new Date],c:{},l:a}; })(window,document,"static.olark.com/jsclient/loader.js");
+    /* custom configuration goes here (www.olark.com/documentation) */
+    olark.identify('6493-653-10-7614');
+    olark.configure('system.hb_primary_color', '#f2711c');
     </script>
     <!-- end olark code -->
-    <!-- Scripts End-->
+<!-- Scripts End-->
 </head>
 
 <body>
-    <!-- Sidebar for Smaller screens -->
-    <div class="ui left demo vertical inverted sidebar labeled icon menu">
-        <div class="ui vertical inverted accordion item">
-            <a class="active title item">
-                <i class="heart icon"></i>PaaS Partners
-            </a>
-            <div class="inactive content menu">
-                <a class="item" href="{{site.baseurl}}/processors">ISOs & Processors</a>
-                <a class="item" href="{{site.baseurl}}/developers">Developers</a>
-                <a class="item" href="{{site.baseurl}}/resellers">Hardware Resellers</a>
-            </div>
+<!-- Sidebar for Smaller screens -->
+<div class="ui left demo vertical inverted sidebar labeled icon menu">
+    <div class="ui vertical inverted accordion item">
+        <a class="active title item">
+            <i class="heart icon"></i>PaaS Partners
+        </a>
+        <div class="inactive content menu">
+            <a class="item" href="{{site.baseurl}}/processors">ISOs & Processors</a>
+            <a class="item" href="{{site.baseurl}}/developers">Developers</a>
+            <a class="item" href="{{site.baseurl}}/resellers">Hardware Resellers</a>
         </div>
-        <div class="ui vertical inverted accordion item">
-            <a class="active title item">
-                <i class="lab icon"></i>Our Platform
-            </a>
-            <div class="inactive content menu">
-                <a class="item" href="{{site.baseurl}}/cardreaders">Card Readers</a>
-                <a class="item" href="{{site.baseurl}}/sdk">SDKs</a>
-                <a class="item" href="{{site.baseurl}}/platform">Integrated Payments Platform</a>
-            </div>
-        </div>
-        <a class="item" target='_blank' href="https://www.handpoint.com/docs/device/Basics/"><i class="code icon"></i>Docs</a>
-        <div class="ui vertical inverted accordion item">
-            <a class="active title item">
-                <i class="talk icon"></i>Support
-            </a>
-            <div class="inactive content menu">
-                <a class="item" href="{{site.baseurl}}/getstarted">MPOS Merchants</a>
-                <a class="item" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help Center</a>
-                <a class="item" onclick="zE.activate({hideOnClose: true});">Contact Support</a>
-            </div>
-        </div>
-        <div class="ui vertical inverted accordion item">
-            <a class="active title item">
-                <i class="building icon"></i>About
-            </a>
-            <div class="inactive content menu">
-                <a class="item" href="{{site.baseurl}}/company">Company</a>
-                <a class="item" href="{{site.baseurl}}/team">Team</a>
-                <a class="item" href="{{site.baseurl}}/awards">Awards</a>
-                <a class="item" href="{{site.baseurl}}/press_releases">Press Releases</a>
-            </div>
-        </div>
-        <div class="ui vertical inverted accordion item">
-            <a class="active title item">
-                <i class="cubes icon"></i>Our Blogs
-            </a>
-            <div class="inactive content menu">
-                <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">Latest in Fintech</a>
-                <a class="item" target="_blank" href="http://nextgenpos.com/">NextGenPos</a>
-                <a class="item" target="_blank" href="https://medium.com/handpoint">Handpoint News</a>
-            </div>
-        </div>
-        <a class="item" href="{{site.baseurl}}/contact"><i class="call icon"></i>Contact Us</a>
     </div>
-    <!-- Sidebar for Smaller Screens End -->
+    <div class="ui vertical inverted accordion item">
+        <a class="active title item">
+            <i class="lab icon"></i>Our Platform
+        </a>
+        <div class="inactive content menu">
+            <a class="item" href="{{site.baseurl}}/cardreaders">Card Readers</a>
+            <a class="item" href="{{site.baseurl}}/sdk">SDKs</a>
+            <a class="item" href="{{site.baseurl}}/platform">Integrated Payments Platform</a>
+        </div>
+    </div>
+    <a class="item" target='_blank' href="https://www.handpoint.com/docs/device/Basics/"><i class="code icon"></i>Docs</a>
+    <div class="ui vertical inverted accordion item">
+        <a class="active title item">
+            <i class="talk icon"></i>Support
+        </a>
+        <div class="inactive content menu">
+            <a class="item" href="{{site.baseurl}}/getstarted">MPOS Merchants</a>
+            <a class="item" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help Center</a>
+            <a class="item" onclick="zE.activate({hideOnClose: true});">Contact Support</a>
+        </div>
+    </div>
+    <div class="ui vertical inverted accordion item">
+        <a class="active title item">
+        <i class="building icon"></i>About
+        </a>
+        <div class="inactive content menu">
+            <a class="item" href="{{site.baseurl}}/company">Company</a>
+            <a class="item" href="{{site.baseurl}}/team">Team</a>
+            <a class="item" href="{{site.baseurl}}/awards">Awards</a>
+            <a class="item" href="{{site.baseurl}}/press_releases">Press Releases</a>
+        </div>
+    </div>
+    <div class="ui vertical inverted accordion item">
+        <a class="active title item">
+        <i class="cubes icon"></i>Our Blogs
+        </a>
+        <div class="inactive content menu">
+            <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">Latest in Fintech</a>
+            <a class="item" target="_blank" href="http://nextgenpos.com/">NextGenPos</a>
+            <a class="item" target="_blank" href="https://medium.com/handpoint">Handpoint News</a>
+        </div>
+    </div>
+    <a class="item" href="{{site.baseurl}}/contact"><i class="call icon"></i>Contact Us</a>
+</div>
+<!-- Sidebar for Smaller Screens End -->
 
-    <div class="pusher">
+<div class="pusher">
 
-        <!-- Navbar when scrolling -->
-        <div id="menu" class="ui top fixed secondary inverted pointing menu">
-            <div class="ui fluid container">
-                <a class="left item" href='/'>
-                    <img class="ui image logo-size" src="https://handpoint.imgix.net/web/images/logos/handpoint-logo-white.png" alt="Handpoint Logo">
-                </a>
-                <div class="right item">
-                    <div class="ui dropdown item" title="platform-as-a-service partners">PaaS Partners
-                        <i class="dropdown icon"></i>
-                        <div class="ui menu">
-                            <a class="item" href="{{site.baseurl}}/processors">ISOs & Processors</a>
-                            <a class="item" href="{{site.baseurl}}/developers">Developers</a>
-                            <a class="item" href="{{site.baseurl}}/resellers">Hardware Resellers</a>
-                        </div>
-                    </div>
-                    <div class="ui dropdown item" title="Solutions">The Platform
-                        <i class="dropdown icon"></i>
-                        <div class="ui menu">
-                            <a class="item" href="{{site.baseurl}}/cardreaders">Card Readers</a>
-                            <a class="item" href="{{site.baseurl}}/sdk">Software Development Kit</a>
-                            <a class="item" href="{{site.baseurl}}/platform">Integrated Payments Platform</a>
-                        </div>
-                    </div>
-                    <a onclick="window.open('https://www.handpoint.com/docs/device/Basics/')" class="ui item" title="Documentation">API
-                        Documentation</a>
-                    <div class="ui dropdown item" title="support">Support
-                        <i class="dropdown icon"></i>
-                        <div class="menu">
-                            <a class="item" href="{{site.baseurl}}/getstarted">MPOS Merchants Guide</a>
-                            <a class="item" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help
-                                Center</a>
-                            <a class="item" onclick="zE.activate({hideOnClose: true});">Contact Support</a>
-                        </div>
-                    </div>
-                    <div class="ui dropdown item" title="About">
-                        About
-                        <i class="dropdown icon"></i>
-                        <div class="menu">
-                            <a class="item" href="{{site.baseurl}}/company">The Company</a>
-                            <a class="item" href="{{site.baseurl}}/team">Our Team</a>
-                            <a class="item" href={{site.baseurl}}/awards>Awards </a> <a class="item" href="{{site.baseurl}}/press_releases">Press
-                                Releases</a>
-                        </div>
-                    </div>
-                    <div class="ui dropdown item" title="Blogs">
-                        Our Blogs
-                        <i class="dropdown icon"></i>
-                        <div class="menu">
-                            <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">Latest in Fintech</a>
-                            <a class="item" target="_blank" href="http://nextgenpos.com/">NextGenPos</a>
-                            <a class="item" target="_blank" href="https://medium.com/handpoint">Handpoint News</a>
-                        </div>
-                    </div>
-                    <a class="ui primary button" onclick="location.href='{{site.baseurl}}/contact'">
-                        Contact Us
-                    </a>
-                    <a class="launch-sidebar">
-                        <i class="sidebar big icon"></i>
-                    </a>
+<!-- Navbar when scrolling -->
+<div id="menu" class="ui top fixed secondary inverted pointing menu">
+    <div class="ui fluid container">
+        <a class="left item" href='/'>
+            <img  class="ui image logo-size" src="https://handpoint.imgix.net/web/images/logos/handpoint-logo-white.png" alt="Handpoint Logo">
+        </a>
+        <div class="right item">
+            <div class="ui dropdown item" title="platform-as-a-service partners">PaaS Partners
+                <i class="dropdown icon"></i>
+                <div class="ui menu">
+                    <a class="item" href="{{site.baseurl}}/processors">ISOs & Processors</a>
+                    <a class="item" href="{{site.baseurl}}/developers">Developers</a>
+                    <a class="item" href="{{site.baseurl}}/resellers">Hardware Resellers</a>
                 </div>
+            </div>
+            <div class="ui dropdown item" title="Solutions">The Platform
+                <i class="dropdown icon"></i>
+                <div class="ui menu">
+                    <a class="item" href="{{site.baseurl}}/cardreaders">Card Readers</a>
+                    <a class="item" href="{{site.baseurl}}/sdk">Software Development Kit</a>
+                    <a class="item" href="{{site.baseurl}}/platform">Integrated Payments Platform</a>
+                </div>
+            </div>
+            <a onclick="window.open('https://www.handpoint.com/docs/device/Basics/')" class="ui item" title="Documentation">API Documentation</a>
+            <div class="ui dropdown item" title="support">Support
+                <i class="dropdown icon"></i>
+                <div class="menu">
+                    <a class="item" href="{{site.baseurl}}/getstarted">MPOS Merchants Guide</a>
+                    <a class="item" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help Center</a>
+                    <a class="item" onclick="zE.activate({hideOnClose: true});">Contact Support</a>
+                </div>
+            </div>
+            <div class="ui dropdown item" title="About">
+                About
+                <i class="dropdown icon"></i>
+                <div class="menu">
+                    <a class="item" href="{{site.baseurl}}/company">The Company</a>
+                    <a class="item" href="{{site.baseurl}}/team">Our Team</a>
+                    <a class="item" href={{site.baseurl}}/awards>Awards</a>
+                    <a class="item" href="{{site.baseurl}}/press_releases">Press Releases</a>
+                </div>
+            </div>
+            <div class="ui dropdown item" title="Blogs">
+                Our Blogs
+                <i class="dropdown icon"></i>
+                <div class="menu">
+                    <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">Latest in Fintech</a>
+                    <a class="item" target="_blank" href="http://nextgenpos.com/">NextGenPos</a>
+                    <a class="item" target="_blank" href="https://medium.com/handpoint">Handpoint News</a>
+                </div>
+            </div>
+            <a class="ui primary button" onclick="location.href='{{site.baseurl}}/contact'">
+                Contact Us
+            </a>
+            <a class="launch-sidebar">
+                <i class="sidebar big icon"></i>
+            </a>
+        </div>
+    </div>
+</div>
+<!-- Navbar when scrolling End-->
+
+<!-- Top Navbar -->
+<div class="ui secondary inverted pointing menu">
+    <div class="ui fluid container">
+        <a class="left item" href='/'>
+            <img  class="ui image logo-size" src="https://handpoint.imgix.net/web/images/logos/handpoint-logo-white.png" alt="Handpoint Logo">
+        </a>
+        <div class="right item">
+            <div class="ui dropdown item" title="platform-as-a-service partners">PaaS Partners
+                <i class="dropdown icon"></i>
+                <div class="ui menu">
+                    <a class="item" href="{{site.baseurl}}/processors">ISOs & Processors</a>
+                    <a class="item" href="{{site.baseurl}}/developers">Developers</a>
+                    <a class="item" href="{{site.baseurl}}/resellers">Hardware Resellers</a>
+                </div>
+            </div>
+            <div class="ui dropdown item" title="Solutions">The Platform
+                <i class="dropdown icon"></i>
+                <div class="ui menu">
+                    <a class="item" href="{{site.baseurl}}/cardreaders">Card Readers</a>
+                    <a class="item" href="{{site.baseurl}}/sdk">Software Development Kit</a>
+                    <a class="item" href="{{site.baseurl}}/platform">Integrated Payments Platform</a>
+                </div>
+            </div>
+            <a onclick="window.open('https://www.handpoint.com/docs/device/Basics/')" class="ui item" title="Documentation">API Documentation</a>
+            <div class="ui dropdown item" title="support">Support
+                <i class="dropdown icon"></i>
+                <div class="menu">
+                    <a class="item" href="{{site.baseurl}}/getstarted">MPOS Merchants Guide</a>
+                    <a class="item" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help Center</a>
+                    <a class="item" onclick="zE.activate({hideOnClose: true});">Contact Support</a>
+                </div>
+            </div>
+            <div class="ui dropdown item" title="About">
+                About
+                <i class="dropdown icon"></i>
+                <div class="menu">
+                    <a class="item" href="{{site.baseurl}}/company">The Company</a>
+                    <a class="item" href="{{site.baseurl}}/team">Our Team</a>
+                    <a class="item" href={{site.baseurl}}/awards>Awards</a>
+                    <a class="item" href="{{site.baseurl}}/press_releases">Press Releases</a>
+                </div>
+            </div>
+            <div class="ui dropdown item" title="Blogs">
+                Our Blogs
+                <i class="dropdown icon"></i>
+                <div class="menu">
+                    <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">Latest in Fintech</a>
+                    <a class="item" target="_blank" href="http://nextgenpos.com/">NextGenPos</a>
+                    <a class="item" target="_blank" href="https://medium.com/handpoint">Handpoint News</a>
+                </div>
+            </div>
+                <a class="ui primary button" onclick="location.href='{{site.baseurl}}/contact'">
+                    Contact Us
+                </a>
+            <a class="launch-sidebar">
+                <i class="sidebar big icon"></i>
+            </a>
+        </div>
+    </div>
+</div>
+<!-- Top Navbar End-->
+
+{{ content }}
+
+<!--footer-->
+    <div class="ui stackable grid footer-background">
+        <div class="five column row no-margin no-padding">
+            <div class="column">
+                <ul class="footer-list-no-bullet">
+                    <li>
+                    <h3 class="ui header footer-color-title">PaaS Partners</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color" href="{{site.baseurl}}/processors">ISOs & Processors</a>
+                    </li>
+                    <li>
+                        <a class="footer-color" href="{{site.baseurl}}/developers">Developers</a>
+                    </li>
+                    <li>
+                        <a class="footer-color" href="{{site.baseurl}}/resellers">Hardware Resellers</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="column">
+                <ul class="footer-list-no-bullet">
+                    <li>
+                    <h3 class="ui header footer-color-title">The Platform</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color" href="{{site.baseurl}}/cardreaders">Card Readers</a>
+                    </li>
+                    <li>
+                        <a class="footer-color" href="{{site.baseurl}}/sdk">Software Development Kit</a>
+                    </li>
+                    <li>
+                        <a class="footer-color" href="{{site.baseurl}}/platform">Integrated Payments Platform</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="column">
+                <ul class="footer-list-no-bullet">
+                    <li>
+                        <h3 class="ui header footer-color-title">Support</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color" href="{{site.baseurl}}/getstarted">MPOS Merchants Guide</a>
+                    </li>
+                    <li>
+                        <a class="footer-color" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help Center</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="column">
+                <ul class="footer-list-no-bullet">
+                    <li>
+                    <h3 class="ui header footer-color-title">About</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color" href="{{site.baseurl}}/company">The Company</a>
+                    </li>
+                    <li>
+                        <a class="footer-color" href="{{site.baseurl}}/team">Our Team</a>
+                    </li>
+                    <li>
+                        <a class="footer-color" href="{{site.baseurl}}/awards">Awards</a>
+                    </li>
+                    <li>
+                        <a class="footer-color" href="{{site.baseurl}}/press_releases">Press Releases</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="column">
+                <ul class="footer-list-no-bullet">
+                    <li>
+                        <h3 class="ui header footer-color-title">Follow Us</h3>
+                    </li>
+                    <li>
+                        <a class="item footer-color" target="_blank" href="https://www.facebook.com/Handpoint"><i class="big facebook square icon"></i></a>
+                        <a class="item footer-color" href="https://twitter.com/handpointltd"><i class="big twitter square icon"></i></a>
+                        <a class="item footer-color" target="_blank" href="https://plus.google.com/+Handpoint/posts"><i class="big google plus square icon"></i></a>
+                        <a class="item footer-color" target="_blank" href="https://www.linkedin.com/company/handpoint"><i class="big linkedin square icon"></i></a>
+                        <a class="item footer-color" target="_blank" href="https://vimeo.com/handpoint"><i class="big vimeo square icon"></i></a>
+                        <a class="item footer-color" target="_blank" href="https://www.youtube.com/channel/UCZRWCS7V0c4kvodVSWgdGHg"><i class="big youtube square icon"></i></a>
+                    </li>
+                </ul>
+                <ul class="footer-list-no-bullet">
+                    <li>
+                        <a class="footer-color" target='_blank' href="https://www.handpoint.com/docs/device/Basics/">API Documentation</a>
+                    </li>
+                    <li>
+                        <a class="footer-color" href="{{site.baseurl}}/privacypolicy">Privacy Policy</a>
+                    </li>
+                </ul>
             </div>
         </div>
-        <!-- Navbar when scrolling End-->
-
-        <!-- Top Navbar -->
-        <div class="ui secondary inverted pointing menu">
-            <div class="ui fluid container">
-                <a class="left item" href='/'>
-                    <img class="ui image logo-size" src="https://handpoint.imgix.net/web/images/logos/handpoint-logo-white.png" alt="Handpoint Logo">
-                </a>
-                <div class="right item">
-                    <div class="ui dropdown item" title="platform-as-a-service partners">PaaS Partners
-                        <i class="dropdown icon"></i>
-                        <div class="ui menu">
-                            <a class="item" href="{{site.baseurl}}/processors">ISOs & Processors</a>
-                            <a class="item" href="{{site.baseurl}}/developers">Developers</a>
-                            <a class="item" href="{{site.baseurl}}/resellers">Hardware Resellers</a>
-                        </div>
-                    </div>
-                    <div class="ui dropdown item" title="Solutions">The Platform
-                        <i class="dropdown icon"></i>
-                        <div class="ui menu">
-                            <a class="item" href="{{site.baseurl}}/cardreaders">Card Readers</a>
-                            <a class="item" href="{{site.baseurl}}/sdk">Software Development Kit</a>
-                            <a class="item" href="{{site.baseurl}}/platform">Integrated Payments Platform</a>
-                        </div>
-                    </div>
-                    <a onclick="window.open('https://www.handpoint.com/docs/device/Basics/')" class="ui item" title="Documentation">API
-                        Documentation</a>
-                    <div class="ui dropdown item" title="support">Support
-                        <i class="dropdown icon"></i>
-                        <div class="menu">
-                            <a class="item" href="{{site.baseurl}}/getstarted">MPOS Merchants Guide</a>
-                            <a class="item" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help
-                                Center</a>
-                            <a class="item" onclick="zE.activate({hideOnClose: true});">Contact Support</a>
-                        </div>
-                    </div>
-                    <div class="ui dropdown item" title="About">
-                        About
-                        <i class="dropdown icon"></i>
-                        <div class="menu">
-                            <a class="item" href="{{site.baseurl}}/company">The Company</a>
-                            <a class="item" href="{{site.baseurl}}/team">Our Team</a>
-                            <a class="item" href={{site.baseurl}}/awards>Awards </a> <a class="item" href="{{site.baseurl}}/press_releases">Press
-                                Releases</a>
-                        </div>
-                    </div>
-                    <div class="ui dropdown item" title="Blogs">
-                        Our Blogs
-                        <i class="dropdown icon"></i>
-                        <div class="menu">
-                            <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">Latest in Fintech</a>
-                            <a class="item" target="_blank" href="http://nextgenpos.com/">NextGenPos</a>
-                            <a class="item" target="_blank" href="https://medium.com/handpoint">Handpoint News</a>
-                        </div>
-                    </div>
-                    <a class="ui primary button" onclick="location.href='{{site.baseurl}}/contact'">
-                        Contact Us
-                    </a>
-                    <a class="launch-sidebar">
-                        <i class="sidebar big icon"></i>
-                    </a>
-                </div>
+        <div class="five column row no-margin no-padding">
+            <div class="column">
+                <ul class="footer-list-no-bullet">
+                    <li>
+                        <h3 class="ui header footer-color-title">UK Office</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color">20 Bridge St.</a>
+                    </li>
+                    <li>
+                        <a class="footer-color">Cambridge</a>
+                    </li>
+                    <li>
+                        <a class="footer-color">CB2 1UF</a>
+                    </li>
+                </ul>
             </div>
-        </div>
-        <!-- Top Navbar End-->
-
-        {{ content }}
-
-        <!--footer-->
-        <div class="ui stackable grid footer-background">
-            <div class="five column row no-margin no-padding">
-                <div class="column">
-                    <ul class="footer-list-no-bullet">
-                        <li>
-                            <h3 class="ui header footer-color-title">PaaS Partners</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color" href="{{site.baseurl}}/processors">ISOs & Processors</a>
-                        </li>
-                        <li>
-                            <a class="footer-color" href="{{site.baseurl}}/developers">Developers</a>
-                        </li>
-                        <li>
-                            <a class="footer-color" href="{{site.baseurl}}/resellers">Hardware Resellers</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="column">
-                    <ul class="footer-list-no-bullet">
-                        <li>
-                            <h3 class="ui header footer-color-title">The Platform</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color" href="{{site.baseurl}}/cardreaders">Card Readers</a>
-                        </li>
-                        <li>
-                            <a class="footer-color" href="{{site.baseurl}}/sdk">Software Development Kit</a>
-                        </li>
-                        <li>
-                            <a class="footer-color" href="{{site.baseurl}}/platform">Integrated Payments Platform</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="column">
-                    <ul class="footer-list-no-bullet">
-                        <li>
-                            <h3 class="ui header footer-color-title">Support</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color" href="{{site.baseurl}}/getstarted">MPOS Merchants Guide</a>
-                        </li>
-                        <li>
-                            <a class="footer-color" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help
-                                Center</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="column">
-                    <ul class="footer-list-no-bullet">
-                        <li>
-                            <h3 class="ui header footer-color-title">About</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color" href="{{site.baseurl}}/company">The Company</a>
-                        </li>
-                        <li>
-                            <a class="footer-color" href="{{site.baseurl}}/team">Our Team</a>
-                        </li>
-                        <li>
-                            <a class="footer-color" href="{{site.baseurl}}/awards">Awards</a>
-                        </li>
-                        <li>
-                            <a class="footer-color" href="{{site.baseurl}}/press_releases">Press Releases</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="column">
-                    <ul class="footer-list-no-bullet">
-                        <li>
-                            <h3 class="ui header footer-color-title">Follow Us</h3>
-                        </li>
-                        <li>
-                            <a class="item footer-color" target="_blank" href="https://www.facebook.com/Handpoint"><i
-                                    class="big facebook square icon"></i></a>
-                            <a class="item footer-color" href="https://twitter.com/handpointltd"><i class="big twitter square icon"></i></a>
-                            <a class="item footer-color" target="_blank" href="https://plus.google.com/+Handpoint/posts"><i
-                                    class="big google plus square icon"></i></a>
-                            <a class="item footer-color" target="_blank" href="https://www.linkedin.com/company/handpoint"><i
-                                    class="big linkedin square icon"></i></a>
-                            <a class="item footer-color" target="_blank" href="https://vimeo.com/handpoint"><i class="big vimeo square icon"></i></a>
-                            <a class="item footer-color" target="_blank" href="https://www.youtube.com/channel/UCZRWCS7V0c4kvodVSWgdGHg"><i
-                                    class="big youtube square icon"></i></a>
-                        </li>
-                    </ul>
-                    <ul class="footer-list-no-bullet">
-                        <li>
-                            <a class="footer-color" target='_blank' href="https://www.handpoint.com/docs/device/Basics/">API
-                                Documentation</a>
-                        </li>
-                        <li>
-                            <a class="footer-color" href="{{site.baseurl}}/privacypolicy">Privacy Policy</a>
-                        </li>
-                    </ul>
-                </div>
+            <div class="column">
+                <ul class="footer-list-no-bullet">
+                    <li>
+                        <h3 class="ui header footer-color-title">US Office</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color">470 Ramona St.</a>
+                    </li>
+                    <li>
+                        <a class="footer-color">Palo Alto, CA 94301</a>
+                    </li>
+                    <li>
+                        <a class="footer-color">+1 844 442 6378</a>
+                    </li>
+                </ul>
             </div>
-            <div class="five column row no-margin no-padding">
-                <div class="column">
-                    <ul class="footer-list-no-bullet">
-                        <li>
-                            <h3 class="ui header footer-color-title">UK Office</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color">20 Bridge St.</a>
-                        </li>
-                        <li>
-                            <a class="footer-color">Cambridge</a>
-                        </li>
-                        <li>
-                            <a class="footer-color">CB2 1UF</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="column">
-                    <ul class="footer-list-no-bullet">
-                        <li>
-                            <h3 class="ui header footer-color-title">US Office</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color">470 Ramona St.</a>
-                        </li>
-                        <li>
-                            <a class="footer-color">Palo Alto, CA 94301</a>
-                        </li>
-                        <li>
-                            <a class="footer-color">+1 844 442 6378</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="column">
-                    <ul class="footer-list-no-bullet">
-                        <li>
-                            <h3 class="ui header footer-color-title">Iceland Office</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color">Borgartun 27</a>
-                        </li>
-                        <li>
-                            <a class="footer-color">105 Reykjavik</a>
-                        </li>
-                        <li>
-                            <a class="footer-color">+354 510 3300</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="column">
-                    <ul class="footer-list-no-bullet">
-                        <li>
-                            <h3 class="ui header footer-color-title">Contact Us</h3>
-                        </li>
-                        <li>
-                            <a class="footer-color">sales@handpoint.com</a>
-                        </li>
-                        <li>
-                            <a class="footer-color">support@handpoint.com</a>
-                        </li>
-                        <li>
+            <div class="column">
+                <ul class="footer-list-no-bullet">
+                    <li>
+                        <h3 class="ui header footer-color-title">Iceland Office</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color">Borgartun 27</a>
+                    </li>
+                    <li>
+                        <a class="footer-color">105 Reykjavik</a>
+                    </li>
+                    <li>
+                        <a class="footer-color">+354 510 3300</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="column">
+                <ul class="footer-list-no-bullet">
+                    <li>
+                        <h3 class="ui header footer-color-title">Contact Us</h3>
+                    </li>
+                    <li>
+                        <a class="footer-color">sales@handpoint.com</a>
+                    </li>
+                    <li>
+                        <a class="footer-color">support@handpoint.com</a>
+                    </li>
+                    <li>
 
-                        </li>
-                    </ul>
-                </div>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
-    <!--footer End-->
-    <!-- Segment link tracking -->
+</div>
+<!--footer End-->
+<!-- Segment link tracking -->
     <script type="text/javascript">
-        $(document).ready(function () {
+        $( document ).ready(function() {
             HTMLCollection.prototype.forEach = Array.prototype.forEach;
             var links = document.links;
             var buttons = document.getElementsByTagName('button');
-            links.forEach(function (element, i) {
+            links.forEach(function(element, i){
                 analytics.trackLink(element, element.innerHTML);
             });
-            buttons.forEach(function (element, i) {
+            buttons.forEach(function(element, i){
                 analytics.trackLink(element, element.textContent);
             });
         });
     </script>
-    <!--Segment link tracking End-->
+<!--Segment link tracking End-->
 </body>
 
 <!-- Scripts -->
 <script type="text/javascript" src="{{site.baseurl}}/js/main.js"></script>
 <script src="{{site.baseurl}}/flexslider/jquery.flexslider.js"></script>
 <script type="text/javascript">
-    (function ($) {
-        $(document).ready(function () {
-            $(window).scroll(function () {
+    (function($) {
+        $(document).ready(function(){
+            $(window).scroll(function(){
                 if ($(this).scrollTop() > 400) {
                     $('#menu').fadeIn(500);
                 } else {
@@ -507,6 +490,5 @@
         });
     })(jQuery);
 </script>
-<!--Scripts End-->
-
+ <!--Scripts End-->
 </html>
