@@ -5,7 +5,7 @@ date:   2015-12-07 17:00:00 +0000
 categories: awards
 ---
 
-<img class="ui small centered image" src="/images/logos/sureswipe-new-logo.png" alt="sureswipe payment services logo">
+<img class="ui small centered image" src="https://handpoint.imgix.net/web/images/logos/sureswipe-new-logo.png" alt="sureswipe payment services logo">
 
 Istanbul, Global Payments Awards – Sureswipe wins best payment deployment in Africa
 South African payment service provider (PSP), Sureswipe wins the best payment deployment programme in Africa.

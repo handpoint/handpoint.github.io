@@ -5,7 +5,7 @@ date:   2015-03-18 17:00:00 +0000
 categories: awards
 ---
 
-<img class="ui medium centered image" src="/images/logos/fintech-innovation-awards-2015.png" alt="fintech innovation awards 2015">
+<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/logos/fintech-innovation-awards-2015.png" alt="fintech innovation awards 2015">
 
 There is a group of very happy people in Iceland at the moment, and some in the UK and the US that we wished could just pop over and celebrate with us.
 
@@ -17,5 +17,5 @@ This award is a great recognition for all the hard work the team has put into th
 
 Again, thank you!
 
-<img class="ui medium centered image" src="/images/misc-photos/david-and-clive-woodward.jpg" alt="fintech innovation awards trophy 2015">
+<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/misc-photos/david-and-clive-woodward.jpg" alt="fintech innovation awards trophy 2015">
 
