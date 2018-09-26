@@ -7,10 +7,10 @@ categories: press releases
 
 <div class="ui two column grid">
  <div class="column">
-	<img class="ui tiny centered image" src="https://handpoint.imgix.net/web/images/logos/eyrir-sprotar.png" alt="eyrir sprotar investment firm logo">
+	<img class="ui tiny centered image" src="https://handpoint.imgix.net/web/images/logos/eyrir-sprotar.png?auto=compress alt="eyrir sprotar investment firm logo">
  </div>
  <div class="column">
-	<img class="ui small centered image" src="https://handpoint.imgix.net/web/images/logos/frumtak-ventures.png" alt="frumtak ventures investment firm logo">
+	<img class="ui small centered image" src="https://handpoint.imgix.net/web/images/logos/frumtak-ventures.png?auto=compress alt="frumtak ventures investment firm logo">
  </div>
 </div>
 

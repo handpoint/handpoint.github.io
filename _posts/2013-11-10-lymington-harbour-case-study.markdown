@@ -5,7 +5,7 @@ date:   2013-11-10 17:00:00 +0000
 categories: press releases
 ---
 
-<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/logos/lymington-harbour-logo.jpg" alt="lymington harbour logo">
+<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/logos/lymington-harbour-logo.jpg?auto=compress alt="lymington harbour logo">
 
 
 **About the Mobile POS Project**

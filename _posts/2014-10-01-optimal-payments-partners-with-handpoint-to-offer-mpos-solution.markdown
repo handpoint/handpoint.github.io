@@ -6,7 +6,7 @@ categories: press releases
 ---
 
 
-<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/logos/optimal-payments-logo.png" alt="optimal payments logo">
+<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/logos/optimal-payments-logo.png?auto=compress alt="optimal payments logo">
 
 LONDON (October 22, 2014) — Optimal Payments (LSE AIM: OPAY), a leading global online payments provider, has partnered with Handpoint to provide a Mobile Point of Sale (MPOS) solution to merchants in the United Kingdom and Ireland. The new MPOS solution allows merchants to securely accept face-to-face Chip and PIN card payments from customers anywhere. The solution can be used with the NETBANX® mobile application or is available as a white label version using the Handpoint Software Development Kit (SDK)*, allowing it to be easily integrated into existing applications. All sensitive data is encrypted within the card reader and sent securely and instantly to the PCI-DSS compliant payment gateway, meaning no card details are stored on the card reader or mobile device. Leveraging Handpoint technology, Optimal Payments’ MPOS solution can be used to accept and process transactions on Android and iOS smartphones as well as tablets, using an EMV card reader linked by Bluetooth. It gives consumers a convenient and secure way to pay for a variety of goods and services.
 

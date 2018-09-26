@@ -4,7 +4,7 @@ title:  "DalPay Adds mPOS Solution to Global E-Commerce Suite in Deal with Mobil
 date:   2014-11-19 17:00:00 +0000
 categories: press releases
 ---
-<img class="ui small centered image" src="https://handpoint.imgix.net/web/images/logos/dalpay-logo.png" alt="dalpay logo">
+<img class="ui small centered image" src="https://handpoint.imgix.net/web/images/logos/dalpay-logo.png?auto=compress alt="dalpay logo">
 
 Snorrason Holdings ehf, a leading provider of international payment processing services, announced today that it has signed an agreement with Handpoint, a leading mPOS (mobile point-of-sale) platform provider, to acquire Handpoint’s Icelandic merchant portfolio. Subsequently, Snorrason Holdings will in the future offer mPOS solutions through its existing payment brands such as DalPay, to merchants wanting to add in-person card payments as a complement to their online payment methods.
 
