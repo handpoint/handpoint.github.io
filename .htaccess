@@ -1,14 +1,28 @@
+#Uncomment when making changes to the website
 
-<IfModule mod_headers.c>
-	Header set Cache-Control "no-cache, no-store, must-revalidate"
-	Header set Pragma "no-cache"
-	Header set Expires 0
-</IfModule>
+#<IfModule mod_headers.c>
+#	Header set Cache-Control "no-cache, no-store, must-revalidate"
+#	Header set Pragma "no-cache"
+#	Header set Expires 0
+#</IfModule>
 
 RewriteEngine On
 
 RewriteCond %{HTTPS} !on
-RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+#RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+#RewriteCond %{REQUEST_URI} !^/\google[a-f0-9]{16}\.html$
+#RewriteCond %{REQUEST_URI} !^/\[a-f0-9]{32}\.txt$
+#RewriteCond %{REQUEST_URI} !^/atlassian-domain-verification.html$
+
+# If we receive a forwarded http request from a proxy...
+RewriteCond %{HTTP:X-Forwarded-Proto} =http [OR]
+
+# ...or just a plain old http request directly from the client
+RewriteCond %{HTTP:X-Forwarded-Proto} =""
+RewriteCond %{HTTPS} !=on
+
+# Redirect to https version
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 RewriteBase /
 #Hack to fix the dev.handpoint.com shortcut
