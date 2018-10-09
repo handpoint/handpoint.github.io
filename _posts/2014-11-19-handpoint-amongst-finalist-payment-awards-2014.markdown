@@ -5,7 +5,7 @@ date:   2014-11-19 17:00:00 +0000
 categories: awards
 ---
 
-<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/logos/payments_awards_2014.png?auto=compress alt="payment awards 2014 logo">
+<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/logos/payments_awards_2014.png" alt="payment awards 2014 logo">
 
 Handpoint has been shortlisted in the **Compliance Project of the Year** category of the **Payments Awards 2014** for its mPOS Application PCI-P2PE certification. The winners will be announced at the Awards Gala Dinner and Ceremony on 20 November 2014 at the Grosvenor House Hote in London.
 

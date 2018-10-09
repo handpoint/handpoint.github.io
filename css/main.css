@@ -58,12 +58,12 @@ h3.ui.inverted.header{
 /*---------------------------------------------------*/
 
 .landing-background{
-	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hilite-boat.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hilite-boat.jpg?h=900") !important;
     background-size: cover;
 	height: 600px;
 }
 .contact-landing-background{
-	background-image: url("https://handpoint.imgix.net/web/images/misc-photos/chicken-roast-restaurant.jpg?h=400&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/misc-photos/chicken-roast-restaurant.jpg?h=400") !important;
 	background-size: cover;
 	height: 400px;
 }
@@ -74,62 +74,62 @@ h3.ui.inverted.header{
 	background-color: black;
 }
 .getstarted-background{
-	background-image: url("https://handpoint.imgix.net/web/images/unsplash/family.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/family.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 }
 .sdk-background{
-	background-image: url("https://handpoint.imgix.net/web/images/unsplash/photo-coding.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/photo-coding.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 }
 .cardreaders-background{
-	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hipro-live-scenario-coffee-shop.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hipro-live-scenario-coffee-shop.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 }
 .processors-background{
-	background-image: url("https://handpoint.imgix.net/web/images/unsplash/engine.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/engine.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 }
 .merchants-background{
-	background-image: url("https://handpoint.imgix.net/web/images/card-readers/merchant.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/merchant.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 }
 .developers-background{
-	background-image: url("https://handpoint.imgix.net/web/images/card-readers/developers.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/developers.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 }
 .resellers-background{
-	background-image: url("https://handpoint.imgix.net/web/images/card-readers/reseller.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/reseller.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 }
 .contact-background{
-	background-image: url("https://handpoint.imgix.net/web/images/unsplash/mailbox.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/mailbox.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 }
 .about-background{
-	background-image: url("https://handpoint.imgix.net/web/images/misc-photos/about.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/misc-photos/about.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 }
 .team-background{
-	background-image: url("https://handpoint.imgix.net/web/images/misc-photos/team.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/misc-photos/team.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 }
 .awards-background{
-	background-image: url("https://handpoint.imgix.net/web/images/unsplash/awards.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/awards.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 }
 .pressreleases-background{
-	background-image: url("https://handpoint.imgix.net/web/images/unsplash/pressreleases.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/pressreleases.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 }
@@ -331,47 +331,47 @@ i.circular.icon{
 		width: 120px !important;
 	}
 	div.landing-background {
-	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hilite-boat-small-screen.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hilite-boat-small-screen.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 	}
 	div.cardreaders-background{
-	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hipro-live-scenario-coffee-shop-small-screen.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hipro-live-scenario-coffee-shop-small-screen.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 	}
 	div.merchants-background{
-	background-image: url("https://handpoint.imgix.net/web/images/card-readers/merchant-small-screen.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/merchant-small-screen.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 	}
 	div.developers-background{
-	background-image: url("https://handpoint.imgix.net/web/images/card-readers/developers-small-screen.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/developers-small-screen.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 	}
 	div.resellers-background{
-	background-image: url("https://handpoint.imgix.net/web/images/card-readers/reseller-small-screen.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/reseller-small-screen.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 	}
 	div.getstarted-background{
-	background-image: url("https://handpoint.imgix.net/web/images/unsplash/family-small-screen.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/family-small-screen.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 	}
 	.contact-background{
-	background-image: url("https://handpoint.imgix.net/web/images/unsplash/mailbox-small-screen.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/mailbox-small-screen.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 	}
 	.awards-background{
-	background-image: url("https://handpoint.imgix.net/web/images/unsplash/awards-small-screen.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/awards-small-screen.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 	}
 	.pressreleases-background{
-	background-image: url("https://handpoint.imgix.net/web/images/unsplash/pressreleases-small-screen.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/pressreleases-small-screen.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 	}
@@ -454,22 +454,22 @@ i.circular.icon{
 		width: 120px !important;
 	}
 	div.landing-background {
-	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hilite-boat-tablet-screen.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hilite-boat-tablet-screen.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 	}
 	div.merchants-background{
-	background-image: url("https://handpoint.imgix.net/web/images/card-readers/merchant-tablet-screen.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/merchant-tablet-screen.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 	}
 	div.cardreaders-background{
-	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hipro-live-scenario-coffee-shop-tablet-screen.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hipro-live-scenario-coffee-shop-tablet-screen.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 	}
 	div.awards-background{
-	background-image: url("https://handpoint.imgix.net/web/images/unsplash/awards-tablet-screen.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/awards-tablet-screen.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 	}
@@ -534,7 +534,7 @@ i.circular.icon{
 		margin-top: 180px !important;
 	}
 	div.landing-background {
-	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hilite-boat-small-laptop-screen.jpg?h=600&auto=compress") !important;
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hilite-boat-small-laptop-screen.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 	}

@@ -4,7 +4,7 @@ title:  "Handpoint finalist of the 2015 Fintech Innovation awards"
 date:   2014-12-03 17:00:00 +0000
 categories: awards
 ---
-<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/logos/fintech-innovation-awards-2015.png?auto=compress alt="fintech innovation awards 2015">
+<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/logos/fintech-innovation-awards-2015.png" alt="fintech innovation awards 2015">
 
 The good news just won’t stop at Handpoint these days! While we are still celebrating our recent Payments Awards, we just got the news that we are amongst the finalists at the FinTech Innovation Awards 2015 and this time in two categories!
 

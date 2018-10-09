@@ -7,7 +7,7 @@ categories: awards
 
 Handpoint is shortlisted for the Card and Payments Solution of the Year and Payments Partnership of the Year for projects with the partners My Cookie Dough and Cha Cha Cha. Handpoint has been working with both partners on introducing NextGen POS to their retail environment, enabling a seamless user experience across a variety efficient card readers which are fully integrated into the POS software with the stringent PCI-P2PE security.
 
-<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/logos/retail-system-awards-2015.jpg?auto=compress alt="retail system awards 2015">
+<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/logos/retail-system-awards-2015.jpg" alt="retail system awards 2015">
 
 <strong>“What we are witnessing is another example of mobile devices acting as a swiss knife, taking over more and more functionalities, and in this case the Point of Sale.”</strong>
 <i>David Gudjonsson, CEO of Handpoint.</i>

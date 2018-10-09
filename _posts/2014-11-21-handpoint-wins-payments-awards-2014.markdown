@@ -5,7 +5,7 @@ date:   2014-11-21 17:00:00 +0000
 categories: awards
 ---
 
-<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/logos/payments-awards-2014.jpg?auto=compress alt="payments awards 2014 compliance of the year">
+<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/logos/payments-awards-2014.jpg" alt="payments awards 2014 compliance of the year">
 
 
 FStech and Retail Systems had previously announced Handpoint as shortlisted for the Compliand Project of the Year category, and last week at the 2014 Payments Award Ceremony, they announced Handpoint as the winner! The whole team at Handpoint is extremely grateful for this honour and appreciation of our work.
@@ -18,6 +18,6 @@ Handpoint has focused its efforts on simplifying the integration process across 
 
 REVAMPED RETAILER
 
-<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/misc-photos/nike-store.png?auto=compress alt="nike store mPOS prototype">
+<img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/misc-photos/nike-store.png" alt="nike store mPOS prototype">
 
 Early adopters have already been taking advantage of this advanced mPOS technology, by transforming their store with Handpoint’s highly secure payment solution; heightening customer interaction and sales. See this excellent case study, which captures this system in action.
