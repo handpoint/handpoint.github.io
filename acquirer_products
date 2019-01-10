@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Add Integrated Payments to Your Point Of Sale (POS) System | A Simple and Secure Solution for POS Developers
+title: Use integrated mobile payments to power your growth | From mPOS to integrated POS to Smart POS to NoPOS
 ---
 
 <script>
@@ -18,42 +18,21 @@ title: Add Integrated Payments to Your Point Of Sale (POS) System | A Simple and
         <div class="row">
             <div>
                 <h1 class="ui header uppercase special-font landing-catchline">
-                    build your perfect point of sale</h1>
+                    Nextgen acquiring solutions on a global scale</h1>
             </div>
         </div>
         <div class="row">
-            <h2 class="ui header inverted">Create the payment experience you have been dreaming of.</h2>
-            <h2 class="ui header orange">Seamless. Mobile. Secure. </h2>
+            <h2 class="ui header inverted">Get to market fast with the suite of solutions you need to win software
+            partners and merchants alike.</h2>
+            <h2 class="ui header orange">Integrated. Mobile. Reliable. </h2>
         </div>
         <div class="row">
-                    <button class="ui basic inverted big button" onclick="location.href='{{site.baseurl}}/docs/device/Basics'">        
-                        <div>Explore the Docs</div>
+                    <button class="ui basic inverted big button" onclick="location.href='{{site.baseurl}}/contact'">        
+                        <div>Get started</div>
                     </button>
         </div>
     </div>
 </div>
-
-
-
-<!--<div class="ui bottom aligned stackable grid developers-background">
-    <div class="middle aligned three wide column">
-        <div class="row">
-            <h1 class="ui header inverted uppercase special-font">Build your perfect POS</h1>
-        </div>
-        <div class="row">
-            <h2 class="ui header inverted"> Create the payment experience you have been dreaming of. 
-                Seamless, mobile, secure.  
-            </h2>
-        </div>
-        <div class="row">
-                    <button class="ui orange basic big button" onclick="location.href='{{site.baseurl}}/docs/device/Basics/'">
-                        <div>Explore the Docs</div>
-                    </button>
-        </div>
-    </div>
-</div>
- End Content for Section 1 - Catchline-->
-
 
 <!-- Content for Section 2 - 3 USPs-->
     <div class="ui middle aligned stackable grid no-padding">
@@ -62,25 +41,25 @@ title: Add Integrated Payments to Your Point Of Sale (POS) System | A Simple and
         <div class="ui stackable grid"> 
             <div class="three column row no-padding">
                 <div class="column">
-                    <h2>Launch faster</h2>
-                    <p class="paragraph">Move to integrated payments. Semi-integrated, 
-                        simple SDKs for native apps and web, pre-certified terminals. 
-                        With P2PE and EMV baked in. Get payments done and get back to work.
+                    <h2>Lead with mobile</h2>
+                    <p class="paragraph">Increase your revenue with solutions built to reach a global audience, drive incremental
+                    volume, and retain valuable merchants. All using a platform that enables you to scale easily.
                     </p>
                 </div>
                 <div class="column">
-                    <h2>Go global</h2>
-                    <p class="paragraph">Offer processing to your merchants on three continents with a single integration. 
-                        Our international gateway makes your life easier and your customers happy.
+                    <h2>Customer experience</h2>
+                    <p class="paragraph">Give your merchants and software partners instant on-boarding, effortless terminal setup,
+                    and real-time support.  Handpoint's cloud-hosted estate management, remote key injection and remote software updates,
+                    and real-time transaction data enable you to offer the customer experience your merchants deserve, at any scale.
                     </p>
                 <button class="ui orange basic big button" onclick="location.href='{{site.baseurl}}/processors'">
-               <div>Processors</div>
+               <div>Explore the platform/div>
                </button>
                </div>
                 <div class="column">
                     <h2>Omni-enabled</h2>
-                    <p class="paragraph">Payment solutions for the future of commerce.  Tokenization for memberships. Pre-auths
-                        for showrooming, rentals, restaurants, delivery. Omni-channel accounts. Do more.
+                    <p class="paragraph">Payment solutions for the future of commerce.  Tokenization for memberships, loyalty,
+                    recurrent payments. Pre-auths for showrooming, rentals, restaurants, delivery. Do more.
                     </p>
                 </div>
             </div>
@@ -89,7 +68,7 @@ title: Add Integrated Payments to Your Point Of Sale (POS) System | A Simple and
 </div>
 <!-- End Content for Section 2 - 3 USPs-->
 
-<!-- Content for Section 3 - Built for Developers-->
+<!-- Content for Section 3 - Integrated payment APIs for Developers-->
 <div class="ui center aligned stackable grid grey-background relaxed-padding">
     <div class="middle aligned three wide column display-big-screen-only">
         <div class="row">
@@ -99,27 +78,17 @@ title: Add Integrated Payments to Your Point Of Sale (POS) System | A Simple and
     </div>
     <div class="middle aligned eight wide column">
         <div class="row">
-            <h1>Built for Developers</h1>
+            <h1>Integrated Payments</h1>
         </div>
         <div class="row paragraph">
             <p>
-                Integrations are simple, secure, and supported, 
-                with tools to make your work easier, life happier.  
-                We have sample apps, starter guides, and the world’s friendliest support to get you started should you
-                have any questions.
-                 <ol>
-                <li>
-                    <a target="_blank" href="https://www.handpoint.com/docs/device/Basics/">Download the SDK</a> and
-                    import the libraries into your project.
-                </li>
-                <li>
-                    <a href="{{site.baseurl}}/contact">Contact Us Today</a> we’ll be happy to send your first terminal
-                    and test cards for your full integration.
-                </li>
-            </ol>
+                Win software partners with Handpoint APIs for native apps and web POS. From SMBs to enterprise retailers
+                to field services and more, merchants are looking for innovative mobile payment solutions that allow them 
+                to take payments wherever they interact with customers.  We'll support the integrations and give you 
+                tools to support your new merchants.
             </p>
         <div class="row">
-            <button class="ui orange basic big button" onclick="location.href='{{site.baseurl}}/contact'">Have questions? Just Ask!</button>
+            <button class="ui orange basic big button" onclick="location.href='{{site.baseurl}}/contact'">Handpoint APIs</button>
 </div>        
         </div>
     </div>
@@ -130,19 +99,20 @@ title: Add Integrated Payments to Your Point Of Sale (POS) System | A Simple and
         </div>
     </div>
 </div>
-<!-- End Content for Section 3 - Built for Developers -->
+<!-- End Content for Section 3 - Integrated payment APIs for Developers -->
 
 
 <!-- Content for Section 4 - Pre-certified mobile terminals-->
 <div class="ui center aligned stackable grid relaxed-padding">
     <div class="middle aligned eight wide column">
         <div class="row">
-            <h1>Pre-certified mobile terminals</h1>
+            <h1>Mobile terminals</h1>
         </div>
         <div class="row paragraph">
             <p>
-                Payments should add value.  Mobile enables customer interaction, higher sales, and streamlined operations. 
-                For everyeone from brick and mortar retailers to field service technicians.  Let mobile be your growth engine.
+                The Handpoint software terminal runs on a range of hardware mobile terminals, from ultra-portable 
+                to all-in-ones. Help your merchants find the solution that delivers value for their business, and
+                manage them all in one cloud-hosted portal.
             </p>
         </div>
                 <button class="ui orange basic big button" onclick="location.href='{{site.baseurl}}/processors'">
@@ -159,7 +129,7 @@ title: Add Integrated Payments to Your Point Of Sale (POS) System | A Simple and
 <!-- End Content for Section 4 - Pre-certified mobile terminals-->
 
 
-<!-- Content for Section 5 - Customer experience & control-->
+<!-- Content for Section 5 - Brandable MPOS-->
 <div class="ui center aligned stackable grid grey-background relaxed-padding">
     <div class="middle aligned three wide column display-big-screen-only">
         <div class="row">
@@ -168,17 +138,16 @@ title: Add Integrated Payments to Your Point Of Sale (POS) System | A Simple and
     </div>
     <div class="middle aligned eight wide column">
         <div class="row">
-            <h1>Customer experience & control</h1>
+            <h1>Brandable MPOS</h1>
         </div>
         <div class="row paragraph">
             <p>
-                Give your merchants instant on-boarding, effortless terminal setup, and real-time support. Cloud-hosted
-                estate management, remote key injection + software updates, and real-time transaction data enable you to 
-                offer the customer experience your merchants deserve, at any scale.
+                Offer a sleek and simple application to your merchants that is simple to use, with transaction history 
+                on their phone or online.  
             </p>
              </div>
                 <button class="ui orange basic big button" onclick="location.href='{{site.baseurl}}/processors'">
-               <div>Platform</div>
+               <div>mPOS</div>
                </button>
             </div>
             
@@ -190,10 +159,10 @@ title: Add Integrated Payments to Your Point Of Sale (POS) System | A Simple and
         </div>
     </div>
 </div>
-<!-- End Content for Section 5 - Customer experience & control-->
+<!-- End Content for Section 5 - Brandable MPOS-->
 
 
-<!-- Content for Section 6 - Integration Support-->
+<!-- Content for Section 6 - Integrated-ready Standalone-->
 <div class="ui center aligned stackable grid relaxed-padding">
     <div class="middle aligned three wide column display-big-screen-only">
         <div class="row">
@@ -202,15 +171,14 @@ title: Add Integrated Payments to Your Point Of Sale (POS) System | A Simple and
     </div>
     <div class="middle aligned eight wide column">
         <div class="row">
-            <h1>Real Humans, At Your Service</h1>
+            <h1>Integrated-ready standalone</h1>
         </div>
         <div class="row paragraph">
             <p>
-                Partner success is serious business around these parts. No forced forums or multi-week long email
-                replies.
-                We have real humans ready to help you with troubleshooting, technical questions, or just a friendly
-                chat.
-                Slack, email, call, or hit our chat box to speak to someone right away.
+                If your merchants are moving to integrated payments, but not all at once, you need an integrated-ready terminal.
+                Give your merchants standalone mobile payments today.  When they switch to using a POS integrated with Handpoint, 
+                a click of the mouse in your cloud-hosted platform switches the terminal to integrated.  No costs for reterminalization.
+                No delays for key injections.
             </p>
         </div>
     </div>
@@ -220,14 +188,21 @@ title: Add Integrated Payments to Your Point Of Sale (POS) System | A Simple and
         </div>
     </div>
 </div>
-<!-- End Content for Section 6 - Integration Support-->
+<!-- End Content for Section 6 - Integrated-Ready Standalone-->
 
 
-<!-- Content for Section 7 - POS partners-->
+<!-- Content for Section 7 - Processors and platforms TSYS First Data OmniPay Paysafe Borgun Lloyds-->
 <div class="ui center aligned stackable grid grey-background">
     <div class="middle aligned eight wide column">
         <div class="row">
-            <h1>You're in good company</h1>
+            <h1>Bring Handpoint to your market</h1>
+        </div>
+        <div class="row paragraph">
+            <p>
+                Chances are we can already work together. Handpoint is integrated to a number of processing platforms and 
+                utilizes a number of standard protocols. But if your platform isn't below, let's talk.  We specialize in 
+                helping acquirers go after new markets.  
+            </p>
         </div>
     </div>
     <div class="four column row">
@@ -276,4 +251,4 @@ title: Add Integrated Payments to Your Point Of Sale (POS) System | A Simple and
         </div>
     </div>
 </div>
-<!-- End of Content for Section 9 - POS partners-->
+<!-- End of Content for Section 9 - Processors-->
