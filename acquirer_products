@@ -1,0 +1,279 @@
+---
+layout: default
+title: Add Integrated Payments to Your Point Of Sale (POS) System | A Simple and Secure Solution for POS Developers
+---
+
+<script>
+    $(function () {
+        $("#includeWebForm").load("{{site.baseurl}}/web-form.html");
+    });
+</script>
+
+<!-- Content for Section 1 - Catchline -->
+<!-- Content for Section 1 - Catchline -->
+<div class="ui two column stackable grid landing-background">
+    <div class="two wide column">
+    </div>
+    <div class="seven wide column">
+        <div class="row">
+            <div>
+                <h1 class="ui header uppercase special-font landing-catchline">
+                    build your perfect point of sale</h1>
+            </div>
+        </div>
+        <div class="row">
+            <h2 class="ui header inverted">Create the payment experience you have been dreaming of.</h2>
+            <h2 class="ui header orange">Seamless. Mobile. Secure. </h2>
+        </div>
+        <div class="row">
+                    <button class="ui basic inverted big button" onclick="location.href='{{site.baseurl}}/docs/device/Basics'">        
+                        <div>Explore the Docs</div>
+                    </button>
+        </div>
+    </div>
+</div>
+
+
+
+<!--<div class="ui bottom aligned stackable grid developers-background">
+    <div class="middle aligned three wide column">
+        <div class="row">
+            <h1 class="ui header inverted uppercase special-font">Build your perfect POS</h1>
+        </div>
+        <div class="row">
+            <h2 class="ui header inverted"> Create the payment experience you have been dreaming of. 
+                Seamless, mobile, secure.  
+            </h2>
+        </div>
+        <div class="row">
+                    <button class="ui orange basic big button" onclick="location.href='{{site.baseurl}}/docs/device/Basics/'">
+                        <div>Explore the Docs</div>
+                    </button>
+        </div>
+    </div>
+</div>
+ End Content for Section 1 - Catchline-->
+
+
+<!-- Content for Section 2 - 3 USPs-->
+    <div class="ui middle aligned stackable grid no-padding">
+    <div class="center aligned column">
+        <div class="ui hidden divider"></div>
+        <div class="ui stackable grid"> 
+            <div class="three column row no-padding">
+                <div class="column">
+                    <h2>Launch faster</h2>
+                    <p class="paragraph">Move to integrated payments. Semi-integrated, 
+                        simple SDKs for native apps and web, pre-certified terminals. 
+                        With P2PE and EMV baked in. Get payments done and get back to work.
+                    </p>
+                </div>
+                <div class="column">
+                    <h2>Go global</h2>
+                    <p class="paragraph">Offer processing to your merchants on three continents with a single integration. 
+                        Our international gateway makes your life easier and your customers happy.
+                    </p>
+                <button class="ui orange basic big button" onclick="location.href='{{site.baseurl}}/processors'">
+               <div>Processors</div>
+               </button>
+               </div>
+                <div class="column">
+                    <h2>Omni-enabled</h2>
+                    <p class="paragraph">Payment solutions for the future of commerce.  Tokenization for memberships. Pre-auths
+                        for showrooming, rentals, restaurants, delivery. Omni-channel accounts. Do more.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Content for Section 2 - 3 USPs-->
+
+<!-- Content for Section 3 - Built for Developers-->
+<div class="ui center aligned stackable grid grey-background relaxed-padding">
+    <div class="middle aligned three wide column display-big-screen-only">
+        <div class="row">
+            <img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/icons/delivery-cart.png"
+                alt="delivery-cart">
+        </div>
+    </div>
+    <div class="middle aligned eight wide column">
+        <div class="row">
+            <h1>Built for Developers</h1>
+        </div>
+        <div class="row paragraph">
+            <p>
+                Integrations are simple, secure, and supported, 
+                with tools to make your work easier, life happier.  
+                We have sample apps, starter guides, and the world’s friendliest support to get you started should you
+                have any questions.
+                 <ol>
+                <li>
+                    <a target="_blank" href="https://www.handpoint.com/docs/device/Basics/">Download the SDK</a> and
+                    import the libraries into your project.
+                </li>
+                <li>
+                    <a href="{{site.baseurl}}/contact">Contact Us Today</a> we’ll be happy to send your first terminal
+                    and test cards for your full integration.
+                </li>
+            </ol>
+            </p>
+        <div class="row">
+            <button class="ui orange basic big button" onclick="location.href='{{site.baseurl}}/contact'">Have questions? Just Ask!</button>
+</div>        
+        </div>
+    </div>
+    <div class="middle aligned three wide column display-small-screen-only">
+        <div class="row">
+            <img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/icons/delivery-cart.png"
+                alt="delivery-cart">
+        </div>
+    </div>
+</div>
+<!-- End Content for Section 3 - Built for Developers -->
+
+
+<!-- Content for Section 4 - Pre-certified mobile terminals-->
+<div class="ui center aligned stackable grid relaxed-padding">
+    <div class="middle aligned eight wide column">
+        <div class="row">
+            <h1>Pre-certified mobile terminals</h1>
+        </div>
+        <div class="row paragraph">
+            <p>
+                Payments should add value.  Mobile enables customer interaction, higher sales, and streamlined operations. 
+                For everyeone from brick and mortar retailers to field service technicians.  Let mobile be your growth engine.
+            </p>
+        </div>
+                <button class="ui orange basic big button" onclick="location.href='{{site.baseurl}}/processors'">
+               <div>Handpoint-enabled terminals</div>
+               </button>
+    </div>
+    <div class="middle aligned three wide column">
+        <div class="row">
+            <img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/icons/speedometer.png"
+                alt="speedometer"></img>
+        </div>
+    </div>
+</div>
+<!-- End Content for Section 4 - Pre-certified mobile terminals-->
+
+
+<!-- Content for Section 5 - Customer experience & control-->
+<div class="ui center aligned stackable grid grey-background relaxed-padding">
+    <div class="middle aligned three wide column display-big-screen-only">
+        <div class="row">
+            <img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/icons/growth.png" alt="growth"></img>
+        </div>
+    </div>
+    <div class="middle aligned eight wide column">
+        <div class="row">
+            <h1>Customer experience & control</h1>
+        </div>
+        <div class="row paragraph">
+            <p>
+                Give your merchants instant on-boarding, effortless terminal setup, and real-time support. Cloud-hosted
+                estate management, remote key injection + software updates, and real-time transaction data enable you to 
+                offer the customer experience your merchants deserve, at any scale.
+            </p>
+             </div>
+                <button class="ui orange basic big button" onclick="location.href='{{site.baseurl}}/processors'">
+               <div>Platform</div>
+               </button>
+            </div>
+            
+        </div>
+    </div>
+    <div class="middle aligned three wide column display-small-screen-only">
+        <div class="row">
+            <img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/icons/growth.png" alt="growth"></img>
+        </div>
+    </div>
+</div>
+<!-- End Content for Section 5 - Customer experience & control-->
+
+
+<!-- Content for Section 6 - Integration Support-->
+<div class="ui center aligned stackable grid relaxed-padding">
+    <div class="middle aligned three wide column display-big-screen-only">
+        <div class="row">
+            <img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/icons/chat.png" alt="chat"></img>
+        </div>
+    </div>
+    <div class="middle aligned eight wide column">
+        <div class="row">
+            <h1>Real Humans, At Your Service</h1>
+        </div>
+        <div class="row paragraph">
+            <p>
+                Partner success is serious business around these parts. No forced forums or multi-week long email
+                replies.
+                We have real humans ready to help you with troubleshooting, technical questions, or just a friendly
+                chat.
+                Slack, email, call, or hit our chat box to speak to someone right away.
+            </p>
+        </div>
+    </div>
+    <div class="middle aligned three wide column display-small-screen-only">
+        <div class="row">
+            <img class="ui medium centered image" src="https://handpoint.imgix.net/web/images/icons/chat.png" alt="chat"></img>
+        </div>
+    </div>
+</div>
+<!-- End Content for Section 6 - Integration Support-->
+
+
+<!-- Content for Section 7 - POS partners-->
+<div class="ui center aligned stackable grid grey-background">
+    <div class="middle aligned eight wide column">
+        <div class="row">
+            <h1>You're in good company</h1>
+        </div>
+    </div>
+    <div class="four column row">
+        <div class=" middle aligned column">
+            <a target="_blank" href="http://www.pepperkorn.com/en/">
+                <img class="ui small centered image" src="https://handpoint.imgix.net/web/images/logos/pepperkorn-logo.jpg"
+                    alt="pepperkorn pos logo">
+            </a>
+        </div>
+        <div class="middle aligned column">
+            <a target="_blank" href="http://www.lsretail.com/">
+                <img class="ui small centered image" src="https://handpoint.imgix.net/web/images/logos/lsRetail_logo.png"
+                    alt="LS Retail logo">
+            </a>
+        </div>
+        <div class="middle aligned column">
+            <a target="_blank" href="https://www.salesvu.com/">
+                <img class="ui small centered image" src="https://handpoint.imgix.net/web/images/logos/salesvu_logo.png"
+                    alt="SalesVu logo">
+            </a>
+        </div>
+        <div class="middle aligned column">
+            <a target="_blank" href="http://www.salontracker.co.uk/">
+                <img class="ui small centered image" src="https://handpoint.imgix.net/web/images/logos/salontracker_logo.png"
+                    alt="Salon tracker logo">
+            </a>
+        </div>
+    </div>
+    <div class="four column row">
+        <div class="middle aligned column">
+            <a target="_blank" href="https://ivend.com/">
+                <img class="ui small centered image" src="https://handpoint.imgix.net/web/images/logos/ivend_logo.png"
+                    alt="ivend logo">
+            </a>
+        </div>
+        <div class="middle aligned column">
+            <a target="_blank" href="http://www.emobilepos.com/">
+                <img class="ui small centered image" src="https://handpoint.imgix.net/web/images/logos/emobilepos.png"
+                    alt="emobilepos logo">
+            </a>
+        </div>
+        <div class="middle aligned column">
+            <a target="_blank" href="https://www.appossystems.com/">
+                <img class="ui small centered image" src="https://handpoint.imgix.net/web/images/logos/Appos.png" alt="appos logo">
+            </a>
+        </div>
+    </div>
+</div>
+<!-- End of Content for Section 9 - POS partners-->
