@@ -119,6 +119,11 @@ h3.ui.inverted.header{
 	background-size: cover;
 	height: 600px;
 }
+.management_platform-background{
+	background-image: url("https://s3.amazonaws.com/handpoint.imgix.net/handpoint.com/Website%20refresh%20photos/HiPro%20in%20market.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}
 .contact-background{
 	background-image: url("https://handpoint.imgix.net/web/images/unsplash/mailbox.jpg?h=900") !important;
 	background-size: cover;
