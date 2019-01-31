@@ -260,6 +260,10 @@ i.circular.icon{
 	height: 100px;
 	width: auto;
 }
+.image-resize-5{
+	height: 200px;
+	width: auto;
+}
 .relaxed-padding{
 	padding-top: 60px !important;
 	padding-bottom: 60px !important;
