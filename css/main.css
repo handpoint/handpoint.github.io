@@ -130,7 +130,7 @@ h3.ui.inverted.header{
 	height: 600px;
 }
 .about-background{
-	background-image: url("https://handpoint.imgix.net/web/images/misc-photos/about.jpg?h=900") !important;
+	background-image: url("https://s3.amazonaws.com/handpoint.imgix.net/handpoint.com/Website%20refresh%20photos/Bump%20on%20concourse.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 }
