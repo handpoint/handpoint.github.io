@@ -302,60 +302,59 @@
         <a class="left item" href='/'>
             <img  class="ui image logo-size" src="https://handpoint.imgix.net/web/images/logos/handpoint-logo-white.png?w=300" alt="Handpoint Logo">
         </a>
+        <div class="ui right item">
+            <a class="item" href="{{site.baseurl}}/developers">Solutions for Developers</a>
+            </div>
         <div class="right item">
-            <div class="ui dropdown item" title="platform-as-a-service partners">PaaS Partners
+            <a class="item" href="{{site.baseurl}}/acquirer_products">Products for Acquirers</a>
+            </div>
+        <div class="right item">
+            <a class="item" href="{{site.baseurl}}/management_platform">Management Platform</a>
+            </div>   
+        <div class="ui dropdown item" title="Specs">
+                Specs
                 <i class="dropdown icon"></i>
-                <div class="ui menu">
-                    <a class="item" href="{{site.baseurl}}/processors">ISOs & Processors</a>
-                    <a class="item" href="{{site.baseurl}}/developers">Developers</a>
-                    <a class="item" href="{{site.baseurl}}/resellers">Hardware Resellers</a>
+                <div class="menu">
+                    <a class="item" href="{{site.baseurl}}/HiLite">HiLite</a>
+                    <a class="item" href="{{site.baseurl}}/Hi5">Hi5</a>
+                    <a class="item" href={{site.baseurl}}/HiPro>HiPro</a>
+                    <a class="item" href="{{site.baseurl}}/HiStore mPOS">HiStore mPOS</a>
+	            <a class="item" href="{{site.baseurl}}/API Range">APIs</a>
+                    <a class="item" href="{{site.baseurl}}/Payment Types">Payment Types</a>
+                    <a class="item" href="{{site.baseurl}}/P2PE">P2PE</a>
+                    <a class="item" href={{site.baseurl}}/HiWay>HiWay Gateway</a>
+                    <a class="item" href="{{site.baseurl}}/Acquirers_Protocols">Protocols & Acquiring Platforms</a>
+	            <a class="item" href="{{site.baseurl}}/Geographies">Geographies</a>			
+                </div>
+        <div class="ui dropdown item" title="Insights">
+                Insights
+                <i class="dropdown icon"></i>
+                <div class="menu">
+                    <a class="item" href="{{site.baseurl}}/about_handpoint">About Handpoint</a>
+		    <a class="item" target="_blank" href="https://medium.com/handpoint">Handpoint News</a>
+		    <a class="item" href="{{site.baseurl}}/press_releases">Press Releases</a>	
+		    <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">Latest in Fintech</a>
+                    <a class="item" target="_blank" href="http://nextgenpos.com/">NextGenPos</a>
                 </div>
             </div>
-            <div class="ui dropdown item" title="Solutions">The Platform
-                <i class="dropdown icon"></i>
-                <div class="ui menu">
-                    <a class="item" href="{{site.baseurl}}/cardreaders">Card Readers</a>
-                    <a class="item" href="{{site.baseurl}}/sdk">Software Development Kit</a>
-                    <a class="item" href="{{site.baseurl}}/platform">Integrated Payments Platform</a>
-                </div>
-            </div>
-            <a onclick="window.open('https://www.handpoint.com/docs/device/Basics/')" class="ui item" title="Documentation">API Documentation</a>
             <div class="ui dropdown item" title="support">Support
                 <i class="dropdown icon"></i>
                 <div class="menu">
+                    <a onclick="window.open('https://www.handpoint.com/docs/device/Basics/')" class="ui item" title="Documentation">API Documentation</a>
+                    <a onclick="window.open('https://www.handpoint.com/docs/device/Basics/')" class="ui item" title="Partner Portal">Partner Portal</a>
                     <a class="item" href="{{site.baseurl}}/getstarted">mPOS App Guide</a>
                     <a class="item" target="_blank" href="https://handpoint.atlassian.net/wiki/display/PD">Help Center</a>
                     <a class="item" onclick="zE.activate({hideOnClose: true});">Contact Support</a>
                 </div>
             </div>
-            <div class="ui dropdown item" title="About">
-                About
-                <i class="dropdown icon"></i>
-                <div class="menu">
-                    <a class="item" href="{{site.baseurl}}/company">The Company</a>
-                    <a class="item" href="{{site.baseurl}}/team">Our Team</a>
-                    <a class="item" href={{site.baseurl}}/awards>Awards</a>
-                    <a class="item" href="{{site.baseurl}}/press_releases">Press Releases</a>
-                </div>
-            </div>
-            <div class="ui dropdown item" title="Blogs">
-                Our Blogs
-                <i class="dropdown icon"></i>
-                <div class="menu">
-                    <a class="item" target="_blank" href="http://www.davidgudjonsson.com/">Latest in Fintech</a>
-                    <a class="item" target="_blank" href="http://nextgenpos.com/">NextGenPos</a>
-                    <a class="item" target="_blank" href="https://medium.com/handpoint">Handpoint News</a>
-                </div>
-            </div>
-                <a class="ui primary button" onclick="location.href='{{site.baseurl}}/contact'">
-                    Contact Us
-                </a>
+            <a class="ui primary button" onclick="location.href='{{site.baseurl}}/contact'">
+                Contact Us
+            </a>
             <a class="launch-sidebar">
                 <i class="sidebar big icon"></i>
             </a>
         </div>
-    </div>
-</div>
+    </di
 <!-- Top Navbar End-->
 
 {{ content }}
