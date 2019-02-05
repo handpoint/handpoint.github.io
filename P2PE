@@ -1,0 +1,50 @@
+---
+layout: default
+title: About Handpoint | Pioneers in global mobile payments and omni-commerce
+---
+
+<!-- CSS Properties -->
+<link rel="stylesheet" href="morphext/morphext.css" type="text/css">
+<!-- CSS Properties End -->
+<script src="morphext/morphext.js"></script>
+
+
+<!-- Content for Section 1 - Catchline -->
+<div class="ui middle aligned stackable grid about-background">
+  <div class="center aligned column">
+    <div class="row">
+      <h1 class="ui header inverted uppercase special-font">Security | Alwyas | Everywhere</h1>
+    </div>
+    <div class="row">
+      <h2 class="ui header inverted"></h2>
+    </div>
+  </div>
+</div>
+<!-- End Content for Section 1 - Catchline-->
+
+<!-- Content for Section 2 - Security-->
+<div class="ui two column center aligned stackable grid relaxed-padding">
+  <div class="row">
+    <h1>Leading the Way.  Doing it Right.</h1>
+  </div>
+  <div class="ui eight wide middle aligned column">
+    <div class="row paragraph">
+      <p>
+        Handpoint has been a pioneer in defining integrated payments, 
+        from advancing the checkout experience with mobile technology 
+        to launching open payment integrations for all emerging POS platforms -- on 3 continents.
+      </p>
+      <p>
+        We provide solutions for merchants, acquirers, payfacs, ISOs and ISVs who are delivering 
+        this edge for payments: where customer experience and management matter, 
+        where payments are embedded seamlessly, and where mobile technology fuels growth. 
+        Handpoint's software terminal, international gateway, and terminal management system
+        enable the future of acquiring, from mPOS and integrated POS to a future without terminals.
+      </p>
+      <p>
+      Handpoint. Go Mobile. Go Global.
+      </p>
+    </div>
+  </div>
+</div>
+<!-- End Content for Section 2 - about Handpoint-->
