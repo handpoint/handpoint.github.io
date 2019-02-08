@@ -109,6 +109,21 @@ h3.ui.inverted.header{
 	background-image: url("https://s3.amazonaws.com/handpoint.imgix.net/handpoint.com/Website%20refresh%20photos/HiPro%20Background.png") !important;
 	background-size: cover;
 	height: 600px;
+}   
+.historeMPOS{
+	background-image: url("https://s3.amazonaws.com/handpoint.imgix.net/handpoint.com/Website%20refresh%20photos/HiLite%20SAf%20Vetkoek.jpg") !important;
+	background-size: cover;
+	height: 600px;
+}    
+.payment-type{
+	background-image: url("https://s3.amazonaws.com/handpoint.imgix.net/handpoint.com/Website%20refresh%20photos/Payment%20Types%20background%20image.png") !important;
+	background-size: cover;
+	height: 600px;
+}   
+.security-background{
+	background-image: url("https://s3.amazonaws.com/handpoint.imgix.net/handpoint.com/Website%20refresh%20photos/HiLite%20white%20tshirts.png") !important;
+	background-size: cover;
+	height: 600px;
 } 
 .cardreaders-background{
 	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hipro-live-scenario-coffee-shop.jpg?h=900") !important;
