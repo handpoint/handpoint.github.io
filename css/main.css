@@ -91,7 +91,7 @@ h3.ui.inverted.header{
 }
 
 .api-background{
-	background-image: url("/api.jpg") !important;
+	background-image: url("https://s3.amazonaws.com/handpoint.imgix.net/handpoint.com/Website%20refresh%20photos/Payment%20Types%20background%20image.png") !important;
 	background-size: cover;
 	height: 600px;
 } 
@@ -116,7 +116,7 @@ h3.ui.inverted.header{
 	height: 600px;
 }    
 .payment-type{
-	background-image: url("https://s3.amazonaws.com/handpoint.imgix.net/handpoint.com/Website%20refresh%20photos/Payment%20Types%20background%20image.png") !important;
+	background-image: url("https://s3.amazonaws.com/handpoint.imgix.net/handpoint.com/Website%20refresh%20photos/Payment%20Types%20Background.png") !important;
 	background-size: cover;
 	height: 600px;
 }   
