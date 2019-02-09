@@ -201,8 +201,11 @@ h3.ui.inverted.header{
 	background-size: cover;
 	height: 600px;
 }
-
-
+.terminalrange-background{
+        background-image: url("https://s3.amazonaws.com/handpoint.imgix.net/handpoint.com/Website%20refresh%20photos/Terminal%20Range%20Background.png?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}
 
 					/*navbar css*/
 /*---------------------------------------------------*/
