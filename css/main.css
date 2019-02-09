@@ -196,6 +196,14 @@ h3.ui.inverted.header{
 	background-size: cover;
 	height: 600px;
 }
+.geographies-background{
+	background-image: url("https://s3.amazonaws.com/handpoint.imgix.net/handpoint.com/Website%20refresh%20photos/HiLite%20SAf%20Vetkoek.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}
+
+
+
 					/*navbar css*/
 /*---------------------------------------------------*/
 
