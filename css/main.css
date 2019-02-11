@@ -408,6 +408,13 @@ i.circular.icon{
 
 @media only screen and (max-width: 767px){
 	.ui.stackable.grid.newcol50>.column{width:33% !important;}
+	.head-bg{height: 100% !important;
+    min-height: 200px;}
+	.map-center {display: flex !important;
+    align-items: center;
+    justify-content: center;}
+	.map-center .vmap{overflow:initial !important}
+	
 	.landing-catchline{margin-top:0px !important;}
 	.ui.secondary.menu a.launch-sidebar{
 		display: block;
