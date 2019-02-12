@@ -411,7 +411,7 @@ i.circular.icon{
 	.head-bg{height: 100% !important;
     min-height: 200px;}
 	
-	.head-bg{font-size:14px !important}
+	.head-bg .big-font{font-size:14px !important;}
 	.map-center {display: flex !important;
     align-items: center;
     justify-content: center;}
