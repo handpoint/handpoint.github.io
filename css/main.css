@@ -410,6 +410,8 @@ i.circular.icon{
 	.ui.stackable.grid.newcol50>.column{width:33% !important;}
 	.head-bg{height: 100% !important;
     min-height: 200px;}
+	
+	.head-bg{font-size:14px !important}
 	.map-center {display: flex !important;
     align-items: center;
     justify-content: center;}
