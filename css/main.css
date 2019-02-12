@@ -412,6 +412,11 @@ i.circular.icon{
     min-height: 200px;}
 	
 	.head-bg .big-font{font-size:14px !important;}
+	.lg-small{font-size: 42px !important;}
+	
+	.hidden-sm{display:none !important;}
+	
+	    .head-bg.bg100{background-size: 100% 100%;}
 	.map-center {display: flex !important;
     align-items: center;
     justify-content: center;}
