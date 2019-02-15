@@ -146,7 +146,7 @@ h3.ui.inverted.header{
 	height: 600px;
 } 
 .geographies-background{
-	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Geographies_background.jpg?w=500&h=900&fit=crop&crop=edges") !important;
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Geographies_background.jpg?w=1600&h=900&fit=crop&crop=edges") !important;
 	background-size: cover;
 	height: 600px;
 }
