@@ -91,7 +91,7 @@ h3.ui.inverted.header{
 	align: bottom;
 }
 .management_platform-background{
-	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HiPro_NikeAir.jpg?h=900") !important;
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HiPro_NikeAir.jpg?w=1600&h=900&fit=crop&crop=bottom") !important;
 	background-size: cover;
 	height: 600px;
 }
