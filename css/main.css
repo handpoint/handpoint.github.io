@@ -390,6 +390,17 @@ i.circular.icon{
     pointer-events: none;
 }
 
+/**********Table **********/
+.headbg{background:#f9fafb; font-weight:bold;}
+	.greybg{background:#f0efef;}
+	.darkgrey{background:#d9d9d9;}
+	.yellowtxt{color:#bf8f00; }
+		.lightyellowtxt{color:#ed7d31 !important; font-weight:normal !important; font-size:18px;}
+	.txtcentr{text-align:center !important;}
+	.txtgreen{color:#70ad47;}
+	.dot {height:10px; width:10px; background-color:#70ad47; border-radius:50%; display:inline-block;}
+	.dotyellow {height:10px; width:10px; background-color:#bf8f00; border-radius:50%; display:inline-block;}
+	
 
 			/*hidden css for small screens*/
 /*---------------------------------------------------*/
@@ -415,6 +426,7 @@ i.circular.icon{
 
 @media only screen and (max-width: 767px){
 	.ui.stackable.grid.newcol50>.column{width:33% !important;}
+	.about-background.head-bg{min-height:auto;}
 	.max-w-img{max-width:auto}
 
 	.head-bg{height: 100% !important;
