@@ -68,10 +68,12 @@ h3.ui.inverted.header{
 /*---------------------------------------------------*/
 
 .landing-background{
-	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hilite-boat.jpg?h=900") !important;
+	/*background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hilite-boat.jpg?h=900") !important;*/
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos//Backgrounds/MPE_background.png") !important;
     background-size: cover;
 	height: 600px;
 }
+
 .contact-landing-background{
 	background-image: url("https://handpoint.imgix.net/web/images/misc-photos/chicken-roast-restaurant.jpg?h=400") !important;
 	background-size: cover;
@@ -420,6 +422,12 @@ i.circular.icon{
 .bg-white{background:#fff !important;}
 .img-eq{min-height:250px;}
 .max-w-img{max-width:80% !important}
+
+.tableresponsive{border:1px solid rgba(34,36,38,.15); border-spacing:0; border-collapse:collapse;}
+.tableresponsive tr{padding-top:1em; padding-bottom:1em;}
+.tableresponsive tr>th{padding:.25em .75em!important;}
+.tableresponsive td{padding:1em; border:1px solid #000; border:1px solid rgba(34,36,38,.15); border-collapse:collapse;}
+
 
 			/*mobile phone responsive css*/
 /*---------------------------------------------------*/
