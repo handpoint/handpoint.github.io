@@ -69,8 +69,8 @@ h3.ui.inverted.header{
 
 .landing-background{
 	/*background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hilite-boat.jpg?h=900") !important;*/
-	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos//Backgrounds/MPE_background.png") !important;
-    background-size: cover;
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/MPE_background.png") !important;
+        background-size: cover;
 	height: 600px;
 }
 
@@ -471,7 +471,8 @@ i.circular.icon{
 		width: 120px !important;
 	}
 	div.landing-background {
-	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hilite-boat-small-screen.jpg?h=900") !important;
+	/*background-image: url("https://handpoint.imgix.net/web/images/card-readers/hilite-boat-small-screen.jpg?h=900") !important;*/
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/MPE_background.png") !important;
 	background-size: cover;
 	height: 600px;
 	}
