@@ -66,11 +66,13 @@ h3.ui.inverted.header{
 
 					/*Background css*/
 /*---------------------------------------------------*/
+.bannercontainer {width:100%; float:left;}
+.bannercontainer img{width:100%; min-height:600px;}
 
 .landing-background{
 	/*background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hilite-boat.jpg?h=900") !important;*/
 	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/MPE_background.png") !important;
-        background-size: cover;
+        background-size: contain !important;
 	height: 600px;
 }
 
@@ -571,6 +573,8 @@ i.circular.icon{
 	.logo-size{
 		max-height: 25px !important;
 	}
+	
+	.bannercontainer img{min-height:inherit !important;}
 }
 				/*tablet responsive css*/
 /*---------------------------------------------------*/
