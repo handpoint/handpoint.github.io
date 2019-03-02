@@ -72,7 +72,7 @@ h3.ui.inverted.header{
 .landing-background{
 	/*background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hilite-boat.jpg?h=900") !important;*/
 	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/MPE_background.png?w=600") !important;
-        background-size: contain !important;
+        background-size: cover !important;
 	height: 600px;
 }
 
