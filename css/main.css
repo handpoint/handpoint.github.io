@@ -173,7 +173,7 @@ h3.ui.inverted.header{
 	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Boat_with_HiLite.jpg?h=900&fit=crop&crop=bottom") !important;
 	background-size: cover;
 	height: 600px;
-	background-position: right 0px bottom -293px !important;
+	/*background-position: right 0px bottom -293px !important;*/
 }
 .pressreleases-background{
 	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/pressreleases.jpg?h=900") !important;
