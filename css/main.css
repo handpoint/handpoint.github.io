@@ -119,7 +119,8 @@ h3.ui.inverted.header{
 	height: 600px;
 }  
 .hipro{
-	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HiPro_Background.jpg?w=1600&h=900&fit=crop&crop=bottom") !important;
+	/*background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HiPro_Background.jpg?w=1600&h=900&fit=crop&crop=bottom") !important;*/
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Techstyle_HiPro.jpg?h=600&w=1600&fit=crop") !important;
 	background-size: cover;
 	height: 600px;
 } 
