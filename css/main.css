@@ -120,7 +120,7 @@ h3.ui.inverted.header{
 }  
 .hipro{
 	/*background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HiPro_Background.jpg?w=1600&h=900&fit=crop&crop=bottom") !important;*/
-	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Techstyle_HiPro.jpg?h=600&w=1600&fit=crop") !important;
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Techstyle_HiPro.jpg?h=600&w=1600&fit=crophttps://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Techstyle_HiPro.jpg?h=600&w=1600&fit=crop&crop=right") !important;
 	background-size: cover;
 	height: 600px;
 } 
