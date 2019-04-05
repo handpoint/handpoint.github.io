@@ -433,10 +433,10 @@ i.circular.icon{
 .img-eq{min-height:250px;}
 .max-w-img{max-width:80% !important}
 
-.tableresponsive{border:1px solid rgba(34,36,38,.15); border-spacing:0; border-collapse:collapse;}
+.tableresponsive{/*border:1px solid rgba(34,36,38,.15);*/ border-spacing:0; border-collapse:collapse;}
 .tableresponsive tr{padding-top:1em; padding-bottom:1em;}
 .tableresponsive tr>th{padding:.25em .75em!important;}
-.tableresponsive td{padding:1em; border:1px solid #000; border:1px solid rgba(34,36,38,.15); border-collapse:collapse;}
+.tableresponsive td{padding:1em; /*border:1px solid #000; border:1px solid rgba(34,36,38,.15);*/ border-collapse:collapse;}
 
 
 			/*mobile phone responsive css*/
