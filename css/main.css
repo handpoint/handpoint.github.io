@@ -88,7 +88,8 @@ h3.ui.inverted.header{
 	background-color: black;
 }
 .developers-background{
-	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Handpoint%20Bump%20HiLite%20at%20NHL%20in%20Stands.jpg?h=900") !important;
+	/*background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Handpoint%20Bump%20HiLite%20at%20NHL%20in%20Stands.jpg?h=900") !important;*/
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Techstyle_Scanner.jpg?h=900&fit=crop&fp-y=.35") !important;
 	background-size: cover;
 	height: 600px;
 }
@@ -135,7 +136,8 @@ h3.ui.inverted.header{
 	height: 600px;
 }  
 .api-background{
-	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/API_Background_Bump.png?h=900") !important;
+	/*background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/API_Background_Bump.png?h=900") !important;*/
+        background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Handpoint%20Bump%20HiLite%20at%20NHL%20in%20Stands.jpg?h=900") !important;
 	background-size: cover;
 	height: 600px;
 } 
