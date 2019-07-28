@@ -1,0 +1,59 @@
+/* CUSTOMIZE THE CAROUSEL
+   -------------------------------------------------- */
+.carousel {
+}
+
+.carousel p {
+	text-shadow:none;
+	line-height: 24px;
+	font-size: 16px;
+}
+
+
+
+/* ARROWS */	
+.carousel-control {
+	color: #5c707f;
+	text-shadow:none;
+	border: 0;
+	font-size: 18px;
+	opacity: 0.2;
+}
+@media only screen and (max-width : 767px) {
+.carousel-control {
+	top: 12%;
+}
+}
+
+.carousel-control:hover,
+.carousel-control:focus,
+.carousel-control:focus,
+.carousel-control:active,
+.carousel-control:focus,
+.carousel-control:focus {
+	color: #34495c !important;
+}
+
+/* Remove gradient background from arrows */
+.carousel-control.left, .carousel-control.right {
+    background-image: none;
+}
+
+.carousel-control.left {
+	left: -100px;
+}
+@media only screen and (max-width : 767px) {
+.carousel-control.left {
+	display:none;
+}
+}
+.carousel-control.right {
+	right: -100px;
+}
+@media only screen and (max-width : 767px) {
+.carousel-control.right {
+	display:none;
+}
+}
+
+

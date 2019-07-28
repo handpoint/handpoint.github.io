@@ -1,0 +1,24 @@
+<div class="section section-blurbs">
+	<div class="container">
+		<div class="row text-center">
+			<div class="col-md-8 col-sm-10 col-md-offset-2 col-sm-offset-2">
+				<h1>{{ page.blurbs.title }}</h1>
+			</div>
+		</div>
+		<div class="row">
+			{% for blurb in page.blurbs.list %}
+			<div class="blurb col-md-4 col-sm-4">
+		    	<img src={{ blurb.image }} alt=""/>
+				<p>{{ blurb.title }}</p>
+		    </div>
+			{% endfor %}
+		</div>
+		<div class="row text-center">
+			<div class="col-md-12">
+				<a class="btn btn-default bt-custom-out" href="#" role="button">
+					{{ page.blurbs.buttontext }}
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
