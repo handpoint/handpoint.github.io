@@ -1,0 +1,24 @@
+<div class="section section-cloudlogos section-acquirer-logos">
+	<div class="container">
+		<div class="row">	
+			<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 section-internal-intro">	
+				<h2>{{page.cloudlogos.title}}</h2>
+				<h3 class="specialtxt">{{page.cloudlogos.subtitle}}</h3>
+				<p>{{page.cloudlogos.description}}</p>
+			</div>	
+		</div>
+		<!-- END row 1 -->
+		<div class="row">
+			{% for row in page.cloudlogos.logos %}
+			<ul class="list-inline">
+			{% for logo in row.list %}
+				<li><img src={{logo.image}} alt=""/></li>
+			{% endfor %}
+			</ul>
+			{% endfor %}
+		</div>
+		<div class="section-internal-bottom">
+			<a class="btn btn-default bt-custom-out" href="#" role="button">{{ page.cloudlogos.buttontxt }}</a>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,16 @@
+<div class="container">
+	<div class="row">
+		{% for blurb in page.blurbs %}
+		<div class="blurb col-md-4 col-sm-4">
+	    	<img src={{ blurb.image }} alt=""/>
+			<h3>{{ blurb.title }}</h3>
+			<p>{{ blurb.description }}</p>
+			{% if blurb.buttontxt %}
+			<a class="btn btn-default bt-custom-out" href="#" role="button">
+				{{ blurb.buttontxt }}
+			</a>
+			{% endif %}
+	    </div>
+	    {% endfor %}
+   	</div>
+</div>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}	
+	<body>
+		{% include header.html %}
+		<div class="hero-internal hero-solutions">
+			{% include hero.html %}
+		</div>
+		<div class="section section-lightcolor blurbs-solutions">
+			{% include blurbs.html %}
+		</div>
+		<div class="section section-internal section-internal-paymenttypes">
+			{% include solution-content.html %}
+		</div>
+		<div class="section section-orange">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 section-internal-intro">	
+						<h1>{{page.security.title}}</h1>	
+						<p>{{page.security.description}}</p>
+					</div>
+				</div>
+				<div class="row">
+					{% for blurb in page.security.list %}
+					<div class="blurb-media blurb-media-solutions col-md-5 col-md-offset-1 col-sm-6 col-sm-offset-0">
+					  	<div class="pull-left">
+					    	<img src={{ blurb.image }} alt=""/>
+					  	</div>
+					  	<div class="media-body">
+							<p>{{blurb.description}}</p>
+					  	</div>
+					</div>
+					{% endfor %}
+				</div>
+
+			</div>
+		</div>	
+		{% include single-section.html %}
+		{% include cloudlogos.html %}
+		{% include footer.html %}
+		{% include js.html %}
+	</body>
+</html>

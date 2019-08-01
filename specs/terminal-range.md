@@ -1,0 +1,106 @@
+---
+layout: specs-terminal
+hero:
+  title: "Handpoint's mobile<br>terminals"
+  description: <span class="specialtxt">Go mobile</span> and watch your <br>merchants grow
+  buttontxt: "Get started"
+  buttonlink: "/"
+intro:
+  title: Handpoint mobile terminals
+  description: Handpoint’s innovative range of mobile terminals help you reach new verticals and become a strategic partner in your merchant's growth. Merchants finally can choose a card reader that delivers value for their business - integrated, cost-effective, revenue-driving.<br><br>Offer your merchants and software partners the pre-certified solutions they need.
+blurbs:
+  description: "Handpoint's innovative range of readers covers your key use cases. <br> Find the solution right for your opportunity:"
+  list: 
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiLite_big.jpg?fit=crop&crop=focalpoint&fp-y=.53&h=750&w=600&fp-z=4.5&fp-x=.5
+      title: HiLite NFC
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled.png
+      title: Hi5
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled.png
+      title: HiPro NFC
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus.png
+      title: HiPlus
+---
+
+<table class="table table-striped table-custom">
+  <tbody>
+    <tr class="table-custom-header">
+      <td>Card readers</td>
+      <td>Sample use cases</td>
+      <td>Fixed</td>
+      <td>Mobile</td>
+      <td>EMV</td>
+      <td>NFC</td>
+      <td>MSR</td>
+      <td>IOS SDK</td>
+      <td>Android SDK</td>
+      <td>Windows SDK</td>
+      <td>Web SDK</td>
+      <td>Barcode scanner</td>
+      <td>Stand-alone integrated ready</td>
+    </tr>
+    <tr>
+      <td>HiLite, mPOS</td>
+      <td>Counter-top, retail, rentals, field service, QSR, direct sales</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Hi5</td>
+      <td>Counter-top, retail, transportations, delivery, table-side service</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>HiPro</td>
+      <td>High touch retail, transportation, line-busting, table-side service, mobile, POS events</td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>HiPlus</td>
+      <td>Sports & camps, retail, transportation delivery, salon & spa</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+    </tr>
+  </tbody>
+</table>
+  
+<li>New terminal lines being added in 2019!</li>
+<li>A single integration of Handpoint to your acquiring platform gives you the ability to offer multiple terminal lines.</li>
+<li>If you don’t see the terminal you need, we can add new terminals all with the benefits of the Handpoint platform.</li>

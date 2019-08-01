@@ -20,35 +20,35 @@ solutions:
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Hi5_Contactless_Cropped.png
       description: "If your merchants are moving to integrated payments, but not all at once, you need a P2PE mobile terminal that you can deploy today to any merchant and flip to integrated with a click of your mouse. No costs for reterminalization. No delays for key injections. No risks to your merchant relationship. You need the Handpoint integrated-ready standalone."
       buttontxt: "Integrated-Ready Hi5"
-      buttonlink: "/Hi5/"
+      buttonlink: "/specs/hi5"
     - title: Brandable mPOS
       id: "brandablempos"
       ariacontrol: profile
       image: http://handpoint.imgix.net/dev.handpoint.com/Website%20refresh%20photos/product-images/mPOS_with_HiLite.png?w=200&h=206
       description: "Offer your merchants a sleek application that is simple to use and provides a full transaction history on their phone or online. Use the Handpoint mPOS app off the shelf and out of the box, or let us brand a solution for you."
       buttontxt: "mPOS App"
-      buttonlink: "/HiStore-mPOS/"
+      buttonlink: "/specs/mpos"
     - title: Integrated APIs
       id: "integratedapis"
       ariacontrol: messages
       image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration.png
       description: "Win software partners with Handpoint APIs for native apps and web POS. From SMBs to enterprise retailers to field service agents, merchants are looking for secure, innovative mobile payment solutions to take payments wherever they interact with customers. We'll support their payment integrations. You won't need to certify them AND you'll get the tools you need to support your new integrated merchants."
       buttontxt: Handpoint APIs
-      buttonlink: "/API/"
+      buttonlink: "/specs/apis"
     - title: Mobile extensions
       id: "mobileextensions"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled.png
       description: "Handpoint delivers the mobile retail experience your merchants want. Offer your merchants integraged mobile solutions for high-touch retail, line-busting, and large format retail. And with our omni-enabled terminals, merchants can deliver the future of unified commerce."
       buttontxt: HIPro
-      buttonlink: "/HiPro/"
+      buttonlink: "/specs/hipro"
     - title: Omni-enabled
       id: "omnienabled"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/OmniEnabled_HiLite.png
       description: "Handpoint's mobile terminals with tokenization integrations and web POS APIs are used today by merchants at the forefront: showrooming, membership models, online refunds, unified omni-commerce merchant accounts, high-touch retail, online booking with face-to-face payments, and more. Handpoint's flexible platform enables us to build new solutions for your opportunities. If you are an ecommerce acquirer, we can take you to omni with a seamless card present platform and deep expertise. In the world of nextgen acquiring, where will mobile take you?"
       buttontxt: "Payment Types"
-      buttonlink: "/Payment_Types/"
+      buttonlink: "/specs/paymenttypes"
     - title: SmartPOS
       id: "smartpos"
       ariacontrol: settings

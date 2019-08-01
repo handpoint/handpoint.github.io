@@ -10,17 +10,17 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
 
-    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ "img/favicon.png" | prepend: site.baseurl | replace: '//', '/' }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "img/favicon.png" | prepend: site.baseurl | replace: '//', '/' }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "img/favicon.png" | prepend: site.baseurl | replace: '//', '/' }}">
     <link rel="manifest" href="site.webmanifest">
     <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
-    <link rel="stylesheet" href="css/animate.min.css">
-    <link rel="stylesheet" href="css/morphext.css">
+    <!-- <link rel="stylesheet" href="{{ "/css/animate.min.css" | prepend: site.baseurl | replace: '//', '/' }}">
+    <link rel="stylesheet" href="{{ "/css/morphext.css" | prepend: site.baseurl | replace: '//', '/' }}"> -->
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
-    <link rel="stylesheet" href="{{ "/style.css" }}">
+    <link rel="stylesheet" href="{{ "/style.css" | prepend: site.baseurl | replace: '//', '/' }}">
 
     <!-- Google verification -->
     {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
@@ -38,7 +38,7 @@
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <script src="js/ie-emulation-modes-warning.js"></script>
+    <script src="{{ "js/ie-emulation-modes-warning.js" | prepend: site.baseurl | replace: '//', '/' }}"></script>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

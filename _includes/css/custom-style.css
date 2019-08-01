@@ -380,10 +380,10 @@ select {
 /* SLIDER
    ------------------------- */
 
-/*.carousel-inner img {margin-left: 200px !important;}*/
+/*   .carousel-inner img {margin-left: 200px !important;}*/
    
 
-#testimonials img {margin-left: 0px !important;}
+   #testimonials img {margin-left: 0px !important;}
 .main-text {
     position: absolute;
     width: 60%;
@@ -1088,7 +1088,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 }
 @media only screen and (max-width : 767px) {
 .hero-internal {
-	background: url(../img/hero_mob.png) no-repeat center bottom !important;
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_mob.png) no-repeat center bottom !important;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1393,7 +1393,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SPECS HI5
    ------------------------- */
 .hero-hi5 {
-	background: url(../img/hero_hi5.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_hi5.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-hi5 {
@@ -1405,7 +1405,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SPECS HILITE
    ------------------------- */
 .hero-hilite {
-	background: url(../img/hero_hilite.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_hilite.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-hilite {
@@ -1417,7 +1417,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SPECS HILITE
    ------------------------- */
 .hero-hiplus {
-	background: url(../img/hero_hiplus.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_hiplus.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-hiplus{
@@ -1429,7 +1429,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SPECS HIPRO
    ------------------------- */
 .hero-hipro {
-	background: url(../img/hero_hipro.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_hipro.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-hipro {
@@ -1441,7 +1441,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SPECS HIWAY
    ------------------------- */
 .hero-hiway {
-	background: url(../img/hero_hiway.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_hiway.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-hiway {
@@ -1467,7 +1467,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* PAYMENT TYPES
    ------------------------- */
 .hero-paymenttypes {
-	background: url(../img/hero_paymenttypes.jpg) no-repeat bottom center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_paymenttypes.jpg) no-repeat bottom center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-paymenttypes {
@@ -1526,7 +1526,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* MANAGEMENTPLATFORM
    ------------------------- */
 .hero-managementplatform {
-	background: url(../img/hero_managementplatform.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_managementplatform.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-managementplatform {
@@ -1546,7 +1546,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SPECS MPOS
    ------------------------- */
 .hero-mpos {
-	background: url(../img/hero_mpos.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_mpos.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-mpos {
@@ -1558,7 +1558,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* GEOGRAPHIES
    ------------------------- */
 .hero-geographies {
-	background: url(../img/hero_geographies.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_geographies.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-geographies {
@@ -1570,7 +1570,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SPECS APIS
    ------------------------- */
 .hero-apis {
-	background: url(../img/hero_apis.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_apis.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-apis {
@@ -1618,7 +1618,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SOLUTIONS FOR DEVELOPERS
    ------------------------- */
 .hero-solutions {
-	background: url(../img/hero_solutions.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_solutions.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-solutions {
@@ -1685,7 +1685,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SOLUTIONS FOR ACQUIRER
    ------------------------- */
 .hero-acquirer {
-	background: url(../img/hero_acquirer.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_acquirer.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-acquirer {
@@ -1702,7 +1702,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* CONTACT
    ------------------------- */
 .hero-contact {
-	background: url(../img/hero_contact.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_contact.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-contact {
@@ -1744,7 +1744,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SECURITY
    ------------------------- */
 .hero-security {
-	background: url(../img/hero_security.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_security.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-security {
@@ -1783,7 +1783,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* TERMINAL RANGE
    ------------------------- */
 .hero-terminalrange {
-	background: url(../img/hero_terminalrange.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_terminalrange.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-terminalrange {
@@ -1878,7 +1878,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* ACQUIRERS PROTOCOLS
    ------------------------- */
 .hero-acquirersprotocols {
-	background: url(../img/hero_acquirersprotocols.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_acquirersprotocols.jpg) no-repeat center top; 
 }
 @media only screen and (max-width : 767px) {
 .hero-acquirersprotocols {
@@ -1891,7 +1891,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* GET STARTED
    ------------------------- */
 .hero-getstarted {
-	background: url(../img/hero_getstarted.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_getstarted.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-getstarted {
@@ -1974,7 +1974,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* INSIGHTS ABOUT
    ------------------------- */
 .hero-insights-about {
-	background: url(../img/hero_insights_about.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_insights_about.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-insights-about {
@@ -2091,7 +2091,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SPECS PAX A920
    ------------------------- */
 .hero-paxa920 {
-	background: url(../img/hero_paxa920.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_paxa920.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-paxa920 {
@@ -2116,10 +2116,27 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SPECS PAX A80
    ------------------------- */
 .hero-paxa80 {
-	background: url(../img/hero_paxa80.jpg) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_paxa80.jpg) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-paxa80 {
 	background: none;
+}
+}
+
+.section-internal-left-paxa80 {
+	padding-left: 90px;
+	padding-right: 90px;
+}
+@media only screen and (max-width : 992px) {
+.section-internal-left-paxa80 {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+}
+@media only screen and (max-width : 767px) {
+.section-internal-left-paxa80 {
+	padding-left: 100px;
+	padding-right: 100px;
 }
 }
