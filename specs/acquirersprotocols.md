@@ -5,7 +5,7 @@ hero:
   title: Handpoint<br>processing reach
   description: Chances are, we already <br>can <span class="specialtxt">work together.</span>
   buttontxt: Get started
-  buttonlink: /
+  buttonlink: /contact
 intro: 
   title: "Acquirers, ISOs, & protocols"
   description: "Handpoint gives you the world. Handpoint is EMV-certified today to many of the world’s leading acquiring platforms using several of the most widely-used protocols and is supported by leading ISOs. The routes to market we support include:"
@@ -280,7 +280,7 @@ intro:
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 section-internal-intro">	
 				<p>If we can’t yet work together, let us know. We are launching new features and new integrations for our partners around the world.</p><br>
-				<a class="btn btn-default bt-custom-out" href="#" role="button">How can we help you grow?</a>
+				<a class="btn btn-default bt-custom-out" href="/contact" role="button">How can we help you grow?</a>
 			</div>
 		</div>	
 	</div>

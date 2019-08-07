@@ -5,12 +5,12 @@ hero:
   title: Handpoint<br>APIs
   description: <span class="specialtxt">Integrated payments</span> have <br>never been so easy
   buttontxt: Get started
-  buttonlink: /
+  buttonlink: https://www.handpoint.com/docs/device/Basics/
 intro: 
   title: It's all about the APIs
   description: At Handpoint, it is all about APIs. Handpoint's semi-integrated architecture means all complex payment handling is abstracted and developers simply have to use one of our easy APIs to integrate their POS software to our platform to offer face-to-face payments on three continents.
   buttontxt: API DOCUMENTATION
-  buttonlink: /
+  buttonlink: https://www.handpoint.com/docs/device/Basics/
 ---
 <div class="section section-lightcolor section-blurbs blurbs-apis">
 	<div class="container">
@@ -370,7 +370,7 @@ intro:
 		<div class="row text-center">
 			<div class="col-md-12"><br><br>
 				<p><b>Check out the Handpoint Developer Portal for lots more information!</b></p><br>
-			<a class="btn btn-default bt-custom-out" href="#" role="button">GET STARTED</a>
+			<a class="btn btn-default bt-custom-out" href="https://www.handpoint.com/docs/device/Basics/" role="button">GET STARTED</a>
 			</div>
 		</div>
 	</div>	

@@ -1,4 +1,4 @@
-<nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+<nav class="navbar navbar-default navbar-custom" id="navbar-top">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -12,15 +12,10 @@
         <!-- collapse --> 
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right navbar-nav-right">
-                <li><a href="/solutionsfordevelopers">Solutions for Developers</a></li>
-                <li><a href="/acquirers">Products for Acquirers</a></li>
-                <li><a href="/management">Management Platform</a></li>
-                <li class="hidden-lg"><a href="#">Specs</a></li>
-                <li class="hidden-lg"><a href="#">Insights</a></li>
-                <li class="hidden-lg"><a href="#">Support</a></li>
-                <li class="hidden-lg"><a href="#">Contact Us</a></li>
-                <!-- DROP -->
-                <li class="visible-lg">
+                <li><button class="btn btn-default dropdown-toggle nav-bt-drop" ><a href="/solutionsfordevelopers">Solutions for Developers</a></button></li>
+                <li><button class="btn btn-default dropdown-toggle nav-bt-drop" ><a href="/solutionsfordevelopers"><a href="/acquirers">Products for Acquirers</a></button></li>
+                <li><button class="btn btn-default dropdown-toggle nav-bt-drop" ><a href="/solutionsfordevelopers"><a href="/management">Management Platform</a></button></li>
+                <li>
                     <div class="btn-group">
                         <button type="button" class="btn btn-default dropdown-toggle nav-bt-drop" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Specs <i class="fa fa-chevron-down" aria-hidden="true"></i>
@@ -31,46 +26,41 @@
                             <li><a href="{{"/specs/hi5" | prepend: site.baseurl | replace: '//', '/' }}">Hi5</a></li>
                             <li><a href="{{"/specs/hipro" | prepend: site.baseurl | replace: '//', '/' }}">HiPro</a></li>
                             <li><a href="{{"/specs/hiplus" | prepend: site.baseurl | replace: '//', '/' }}">NEW! HiPlus</a></li>
-                            <li><a href="{{"/specs/mpos" | prepend: site.baseurl | replace: '//', '/' }}">HiStore mPOS</a></li>
+                            <li><a href="{{"/specs/mpos" | prepend: site.baseurl | replace: '//', '/' }}">Handpoint mPOS App</a></li>
                             <li><a href="{{"/specs/apis" | prepend: site.baseurl | replace: '//', '/' }}">APIs</a></li>
                             <li><a href="{{"/specs/paymenttypes" | prepend: site.baseurl | replace: '//', '/' }}">Payment Types</a></li>
                             <li><a href="{{"/specs/security" | prepend: site.baseurl | replace: '//', '/' }}">Security</a></li>
                             <li><a href="{{"/specs/hiway" | prepend: site.baseurl | replace: '//', '/' }}">HiWay Gateway</a></li>
                             <li><a href="{{"/specs/acquirersprotocols" | prepend: site.baseurl | replace: '//', '/' }}">Protocols & Acquiring Platforms</a></li>
                             <li><a href="{{"/specs/geographies" | prepend: site.baseurl | replace: '//', '/' }}">Geographies</a></li>
-                            <li><a href="{{"/specs/paxa80" | prepend: site.baseurl | replace: '//', '/' }}">PaxA80</a></li>
-                            <li><a href="{{"/specs/paxa920" | prepend: site.baseurl | replace: '//', '/' }}">PaxA920</a></li>
+                            <li><a href="{{"/specs/paxa80" | prepend: site.baseurl | replace: '//', '/' }}">COMING SOON! PAX A80</a></li>
+                            <li><a href="{{"/specs/paxa920" | prepend: site.baseurl | replace: '//', '/' }}">COMING SOON! PAX A920</a></li>
                         </ul>
                     </div>  
                 </li>
-                <!-- END drop -->
-                <!-- DROP -->
-                <li class="visible-lg">
+               <li>
                     <div class="btn-group">
                         <button type="button" class="btn btn-default dropdown-toggle nav-bt-drop" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Insights <i class="fa fa-chevron-down" aria-hidden="true"></i>
                         </button>
                         <ul class="dropdown-menu">
                             <li><a href="{{ "/about" | prepend: site.baseurl | replace: '//', '/' }}">About Handpoint</a></li>
-                            <li><a href="#">Press Releases</a></li>
-                            <li><a href="#">NextGenPos</a></li>
+                            <li><a href="https://www.nextgenpos.com">NextGenPos</a></li>
                         </ul>
                     </div>  
                 </li>
-                <!-- END drop -->
-                <!-- DROP -->
-                <li class="visible-lg">
+                <li>
                     <div class="btn-group">
                         <button type="button" class="btn btn-default dropdown-toggle nav-bt-drop" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Support <i class="fa fa-chevron-down" aria-hidden="true"></i>
                         </button>
                         <ul class="dropdown-menu">
-                            <li><a href="{{"/getstarted" | prepend: site.baseurl | replace: '//', '/'}}">mPOS App Guide</a></li>
-                            <li><a href="#">Help Center</a></li>
+                            <li><a href="{{"/getstarted" | prepend: site.baseurl | replace: '//', '/'}}">mPOS Getting Started</a></li>
+                            <li><a href="https://handpoint.atlassian.net/wiki/spaces/PD/overview">Help Center</a></li>
                         </ul>
                     </div>  
                 </li>
-                <!-- END drop -->
+                <li class="hidden-lg"><a href="{{"/contact" | prepend: site.baseurl | replace: '//', '/'}}">Contact Us</a></li>
                 <li><a class="btn btn-default nav-bt-special visible-lg" href="{{"/contact" | prepend: site.baseurl | replace: '//', '/'}}" role="button">Contact Us</a></li>
             </ul>
         </div>

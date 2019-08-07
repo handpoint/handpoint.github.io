@@ -8,9 +8,9 @@ appdownload:
   title: Download the Handpoint mPOS App from the App Store or Google Play Store on your phone or tablet
   description: Don’t see it in the app store?  Search for Handpoint mPOS in the app store or try these links
   googleimage: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/google_badge.png
-  googlelink: /
+  googlelink: https://play.google.com/store/apps/details?id=com.handpoint.hipos
   appstore: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/apple_badge.svg
-  appstorelink: /
+  appstorelink: https://apps.apple.com/us/app/handpoint/id1450546788
 lefttext: 
   - header: Getting set up
     txt: >
@@ -38,9 +38,7 @@ lefttext:
 intro: 
   title: Need more help?
   links: >
-    <a href="#">Handpoint mPOS website</a><br>
-    <a href="#">FAQs</a><br>
-    <a href="#">User Guide</a>
+    <a href="https://handpoint.atlassian.net/wiki/spaces/PD/overview">FAQs</a><br>
 ---
 
 <div class="col-md-3 col-sm-3 col-md-offset-1 col-sm-offset-1">

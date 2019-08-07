@@ -3,6 +3,20 @@
 <script src="{{ "js/jquery.min.js" | prepend: site.baseurl | replace: '//', '/' }}"></script> 
 <script src="{{ "js/bootstrap.min.js" | prepend: site.baseurl | replace: '//', '/' }}"></script>
 <script src="{{ "js/ie10-viewport-bug-workaround.js" | prepend: site.baseurl | replace: '//', '/' }}"></script>
+<script>
+window.onscroll = function() {myFunction()};
+
+var navbar = document.getElementById("navbar-top");
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("navbar-fixed-top")
+  } else {
+    navbar.classList.remove("navbar-fixed-top");
+  }
+}
+</script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
 <script>

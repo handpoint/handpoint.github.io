@@ -5,7 +5,7 @@ hero:
   title: Handpoint <br>HiLite
   description: Sleek + secure integrated<br><span class="specialtxt">payments</span>
   buttontxt: Contact Us
-  buttonlink: /
+  buttonlink: /contact
 ---
 
 <div class="section section-internal">
@@ -13,7 +13,7 @@ hero:
     <div class="row">
       <div class="col-md-3 col-sm-4 section-internal-left">
         <img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiLite_big.jpg?fit=crop&crop=focalpoint&fp-y=.53&h=750&w=600&fp-z=4.5&fp-x=.5" class="img-responsive" alt=""/> 
-        <a class="btn btn-default bt-custom-out" href="#" role="button">Download HiLite spec sheet</a>
+        <a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/SpecSheets%20HiLite.pdf" role="button">Download HiLite spec sheet</a>
         <div class="section-internal-left-specbox">
           <p class="small">
             <b>

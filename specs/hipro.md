@@ -5,14 +5,14 @@ hero:
   title: Handpoint HiPro
   description: <span class="specialtxt">Complete mobile</span> point of sale
   buttontxt: Get started
-  buttonlink: /
+  buttonlink: /contact
 ---
 <div class="section section-internal">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3 col-sm-4 section-internal-left">
 				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled.png" class="img-responsive" alt=""/> 
-				<a class="btn btn-default bt-custom-out" href="#" role="button">Download HiPro spec sheet</a>
+				<a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/SpecSheets%20HiPro.pdf" role="button">Download HiPro spec sheet</a>
 			</div>
 			<div class="col-md-8 col-sm-8">
 				<h1>HiPro NFC</h1>

@@ -4,7 +4,7 @@ hero:
   class: hero-geographies
   title: 'Handpoint: <br><span class="specialtxt">Go Global</span>'
   buttontxt: Contact us
-  buttonlink: /
+  buttonlink: /contact
 ---
 
 <div class="section section-internal">

@@ -3,8 +3,6 @@ layout: contact
 hero: 
   title: Ready to get<br>started?
   description: <span class="specialtxt">Contact us now</span> and<br>we’ll be in touch right away
-  buttontxt: Contact us
-  buttonlink: /
 intro:
   title: We’re ready if you are
   description: "We have a variety of solutions specialists with deep industry experience ready to work with you to see if the Handpoint platform is a good fit for your payments needs. We primarily work with:"
@@ -31,6 +29,6 @@ contact:
   title: Let’s talk
   description: Please fill out the form below and one of our solution consultants will be in touch with you in the near future.
 cta:
-  title: For customer & integration support <span class="hero-box-specialtxt">click here</span>
+  title: For customer & integration support 
   description: You can also contact customer service by email at <a href="mailto:support@handpoint.com">support@handpoint.com</a>
 ---

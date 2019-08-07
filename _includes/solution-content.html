@@ -10,7 +10,7 @@
 				<h3>{{ row.title }}</h3>
 				<p>{{ row.description | saftHTML}}</p>
 				<div class="section-internal-bottom" style="margin-top:-20px;">
-					<a class="btn btn-default bt-custom-out" href="#" role="button">{{ row.buttontxt }}</a>
+					<a class="btn btn-default bt-custom-out" href={{row.buttonlink}} role="button">{{ row.buttontxt }}</a>
 				</div>
 			</div>
 		</div>
@@ -25,7 +25,7 @@
 				<h3>{{ row.title }}</h3>
 				<p>{{ row.description }}</p>
 				<div class="section-internal-bottom" style="margin-top:-20px;">
-					<a class="btn btn-default bt-custom-out" href="#" role="button">{{ row.buttontxt }}</a>
+					<a class="btn btn-default bt-custom-out" href={{row.buttonlink}} role="button">{{ row.buttontxt }}</a>
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-6 col-md-offset-1 col-sm-offset-0 hidden-xs">

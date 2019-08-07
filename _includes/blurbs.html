@@ -6,7 +6,7 @@
 			<h3>{{ blurb.title }}</h3>
 			<p>{{ blurb.description }}</p>
 			{% if blurb.buttontxt %}
-			<a class="btn btn-default bt-custom-out" href="#" role="button">
+			<a class="btn btn-default bt-custom-out" href={{blurb.buttonlink}} role="button">
 				{{ blurb.buttontxt }}
 			</a>
 			{% endif %}

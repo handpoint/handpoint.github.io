@@ -11,7 +11,7 @@
 		</div>
 		<div class="section section-internal section-internal-paymenttypes">
 			<div class="container">
-				<div class="row section-internal-paymenttypes-module">
+				<div class="row section-internal-paymenttypes-module" id={{page.m-terminal.id}}>
 					<div class="col-md-4 col-sm-6 col-md-offset-1 col-sm-offset-0">
 						<img src={{page.m-terminal.image}} class="img-responsive" alt=""/>
 					</div>
@@ -19,11 +19,11 @@
 						<h3>{{page.m-terminal.title}}</h3>
 						<p>{{page.m-terminal.description}}</p>
 						<div class="section-internal-bottom" style="margin-top:-20px;">
-							<a class="btn btn-default bt-custom-out" href="#" role="button">{{page.m-terminal.buttontxt}}</a>
+							<a class="btn btn-default bt-custom-out" href={{page.m-terminal.buttonlink}} role="button">{{page.m-terminal.buttontxt}}</a>
 						</div>
 					</div>
 				</div>
-				<div class="row section-internal-paymenttypes-module">
+				<div class="row section-internal-paymenttypes-module" id={{page.standalone.id}}>
 					<div class="visible-xs">
 						<img src={{page.standalone.image}} class="img-responsive" alt=""/>
 					</div>
@@ -31,14 +31,14 @@
 						<h3>{{page.standalone.title}}</h3>
 						<p>{{page.standalone.description}}</p>
 						<div class="section-internal-bottom" style="margin-top:-20px;">
-							<a class="btn btn-default bt-custom-out" href="#" role="button">{{page.standalone.buttontxt}}</a>
+							<a class="btn btn-default bt-custom-out" href={{page.standalone.buttonlink}} role="button">{{page.standalone.buttontxt}}</a>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-5 col-md-offset-1 col-sm-offset-0 hidden-xs">
 						<img src={{page.standalone.image}} class="img-responsive" alt=""/>
 					</div>
 				</div>
-				<div class="row section-internal-paymenttypes-module">
+				<div class="row section-internal-paymenttypes-module" id={{page.mpos.id}}>
 					<div class="col-md-3 col-sm-4 col-md-offset-2 col-sm-offset-1">
 						<img src={{page.mpos.image}} class="img-responsive" alt=""/>
 					</div>
@@ -46,11 +46,11 @@
 						<h3>{{page.mpos.title}}</h3>
 						<p>{{page.mpos.description}}</p>
 						<div class="section-internal-bottom" style="margin-top:-20px;">
-							<a class="btn btn-default bt-custom-out" href="#" role="button">{{page.mpos.buttontxt}}</a>
+							<a class="btn btn-default bt-custom-out" href={{page.mpos.buttonlink}} role="button">{{page.mpos.buttontxt}}</a>
 						</div>
 					</div>
 				</div>
-				<div class="row section-internal-paymenttypes-module">
+				<div class="row section-internal-paymenttypes-module" id={{page.payment-apis.id}}>
 					<div class="visible-xs">
 						<img src={{page.payment-apis.image}} class="img-responsive" alt=""/>
 					</div>
@@ -58,14 +58,14 @@
 						<h3>{{page.payment-apis.title}}</h3>
 						<p>{{page.payment-apis.description}}</p>
 						<div class="section-internal-bottom" style="margin-top:-20px;">
-							<a class="btn btn-default bt-custom-out" href="#" role="button">{{page.payment-apis.buttontxt}}</a>
+							<a class="btn btn-default bt-custom-out" href={{page.payment-apis.buttonlink}} role="button">{{page.payment-apis.buttontxt}}</a>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 col-md-offset-1 col-sm-offset-0 hidden-xs">
 						<img src={{page.payment-apis.image}} class="img-responsive" alt=""/>
 					</div>
 				</div>
-				<div class="row section-internal-paymenttypes-module section-internal-paymenttypes-module-small">
+				<div class="row section-internal-paymenttypes-module section-internal-paymenttypes-module-small" id={{page.m-extensions.id}}>
 					<div class="col-md-2 col-sm-3 col-md-offset-2 col-sm-offset-1">
 						<img src={{page.m-extensions.image}} class="img-responsive" alt=""/>
 					</div>
@@ -73,11 +73,11 @@
 						<h3>{{page.m-extensions.title}}</h3>
 						<p>{{page.m-extensions.description}}</p>
 						<div class="section-internal-bottom" style="margin-top:-20px;">
-							<a class="btn btn-default bt-custom-out" href="#" role="button">{{page.m-extensions.buttontxt}}</a>
+							<a class="btn btn-default bt-custom-out" href={{page.m-extensions.buttonlink}} role="button">{{page.m-extensions.buttontxt}}</a>
 						</div>
 					</div>
 				</div>
-				<div class="row section-internal-paymenttypes-module">
+				<div class="row section-internal-paymenttypes-module" id={{page.omni-enabled.id}}>
 					<div class="visible-xs">
 						<img src={{page.omni-enabled.image}} class="img-responsive" alt=""/>
 					</div>
@@ -85,14 +85,14 @@
 						<h3>{{page.omni-enabled.title}}</h3>
 						<p>{{page.omni-enabled.description}}</p>
 						<div class="section-internal-bottom" style="margin-top:-20px;">
-							<a class="btn btn-default bt-custom-out" href="#" role="button">{{page.omni-enabled.buttontxt}}</a>
+							<a class="btn btn-default bt-custom-out" href={{page.omni-enabled.buttonlink}} role="button">{{page.omni-enabled.buttontxt}}</a>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 col-md-offset-1 col-sm-offset-0 hidden-xs">
 						<img src={{page.omni-enabled.image}} class="img-responsive" alt=""/>
 					</div>
 				</div>
-				<div class="row section-internal-paymenttypes-module section-internal-paymenttypes-module-smaller">
+				<div class="row section-internal-paymenttypes-module section-internal-paymenttypes-module-smaller" id={{page.smartpos.id}}>
 					<div class="col-md-2 col-sm-3 col-md-offset-2 col-sm-offset-1">
 						<img src={{page.smartpos.image}} class="img-responsive" alt=""/>
 					</div>
@@ -100,11 +100,11 @@
 						<h3>{{page.smartpos.title}}</h3>
 						<p>{{page.smartpos.description}}</p>
 						<div class="section-internal-bottom" style="margin-top:-20px;">
-							<a class="btn btn-default bt-custom-out" href="#" role="button">{{page.smartpos.buttontxt}}</a>
+							<a class="btn btn-default bt-custom-out" href={{page.smartpos.buttonlink}} role="button">{{page.smartpos.buttontxt}}</a>
 						</div>
 					</div>
 				</div>
-				<div class="row section-internal-paymenttypes-module section-internal-paymenttypes-module-smaller">
+				<div class="row section-internal-paymenttypes-module section-internal-paymenttypes-module-smaller" id={{page.softpos.id}}>
 					<div class="visible-xs">
 						<img src={{page.softpos.image}} alt=""/>
 					</div>
@@ -112,7 +112,7 @@
 						<h3>{{page.softpos.title}}</h3>
 						<p>{{page.softpos.description}}</p>
 						<div class="section-internal-bottom" style="margin-top:-20px;">
-							<a class="btn btn-default bt-custom-out" href="#" role="button">{{page.softpos.buttontxt}}</a>
+							<a class="btn btn-default bt-custom-out" href={{page.softpos.buttonlink}} role="button">{{page.softpos.buttontxt}}</a>
 						</div>
 					</div>
 					<div class="col-md-2 col-sm-3 col-md-offset-2 col-sm-offset-2 hidden-xs">
