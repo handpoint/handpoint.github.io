@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %} 
+  <body>
+    {% include header.html %}
+    <div class="hero-internal hero-terminalrange">
+      {% include hero.html %}
+    </div>
+    <div class="section section-internal">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 section-internal-intro"> 
+            <h1>{{ page.intro.title }}</h1> 
+            <p>{{ page.intro.description }}</p>
+          </div>
+        </div>  
+      </div>
+    </div>
+    <div class="section section-terminalrange-blurbs">
+      <div class="container">
+        <div class="row">
+          {% for blurb in page.blurbs.list %}
+          <div class="blurb col-md-3 col-sm-3">
+            <img src={{blurb.image}} alt=""/>
+            <a href={{blurb.link}}>
+              <p>{{ blurb.title }}</p>
+            </a>
+          </div>
+          {% endfor %}
+        </div>
+        <p class="specialtxt">{{ page.blurbs.description }}</p>
+      </div>
+    </div>
+    <div class="section section-terminalrange-table">
+      <div class="container">
+        {{ content }}
+      </div>
+    </div>
+    {% include footer.html %}
+    {% include js.html %}
+  </body>
+</html>

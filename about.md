@@ -1,0 +1,82 @@
+---
+layout: about
+hero: 
+  title: About <br>Handpoint
+  description: Global Pioneers in Mobile & <span class="specialtxt">#NextGenPOS</span>
+intro: 
+  title: "Leading the way. Doing it right."
+  description: > 
+    <p>Handpoint has been a pioneer in defining integrated payments and #NextGenPOS, from advancing the checkout experience with mobile technology to launching open payment integrations for all emerging POS platforms -- on 3 continents.</p><p>We provide solutions for merchants, acquirers, payfacs, ISOs and ISVs who are delivering this edge for payments: where customer experience and management matter, where payments are embedded seamlessly, and where mobile technology fuels growth. Handpoint's software terminal, international gateway, and terminal management system enable the future of acquiring, from mPOS and integrated POS to a future without terminals.</p><p class="specialtxt">Handpoint. Go Mobile. Go Global.</p>
+blurbs:
+  title: Powering business in the aisle and around the globe
+  description: With over 20 years of experience helping acquirers, enterprise merchants, and ISVs on 3 continents, we have built a platform that goes way beyond hardware to make mobile payments simple, secure, and scalable.
+  list: 
+    - title: Founded
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico22.svg
+      description: >
+        <p>Handpoint’s roots date back to 1999 when the founders set up a company to leverage first generation mobile technology to help merchants gain visibility and simplify operations.</p><p>Having built the business twice and sold to start over again, the founders have built on years of experience and progressed Handpoint into a leading payments platform designed for next generation point-of-sale.</p>
+    - title: Core business
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico25.svg
+      description: >
+        <p>At Handpoint, we have built the world's most flexible and robust platform as a service (PaaS) solution for the payments industry. Driven by our core values and goals of making the world of accepting payments more open and accessible, we’ve combined the best of security, modern development best practices, and accessibility to create the payments platform solution of the future.</p>	
+    - title: Products
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico16.svg
+      buttontxt: Interested?
+      buttonlink: /contact
+      description: >
+        <p>Handpoint is singularly focused on providing the best payments platform experience possible. To that end, we’ve pre-integrated with a number of card readers, POS solutions, and other payments partners to provide the highest amount of flexibility and power to our customers.</p>
+milestones:
+  title: Milestones
+  description: >
+    <p>Handpoint led the way in mobile EMV – introducing mobile POS to the airlines, emv enabling several airlines for the first time, and delivering the worlds first EMV mobile POS a decade ago. We delivered the world‘s first PCI-P2PE payment applications for mobile EMV and built a state of the art platform for making mobile POS scalable, sustainable, and secure.</p><p>We opened access to that platform with the first simple APIs for iOS and Android, bringing secure EMV to the dynamic space of nextgen pos. We then certified the Handpoint platform on 2 then 3 continents. In 2017 we focused on the cloud, migrating and certifying our platform on AWS and delivering EMV and NFC for web-based points of sale.</p><p>And now as the opportunity for omnicommerce continues to grow, we have expanded from to serve that opportunity with tokenization with multiple acquirers, standalone integrated-ready terminals, and new payment types for omnicommerce, while continuing our global expansion.</p>
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Timeline.png
+awards: 
+  title: "Awards & certifications"
+  description: >
+    Check back soon - we are updating our list of awards and certifications, but we were shortlisted for two 2019 MPE Awards in Best POS Innovation and Best Merchant Payments Partnership, and WON the Best Merchant Payments Partnership in recognition of our innovative international integrated omni-commerce solution with Paysafe.
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/Widgets%20Awards%202019_Page_08.jpg
+leadership:
+  title: Meet our leadership team
+  description: >
+   “My team can move payments mountains and we're lucky to have so much talent at our fingertips. Creating the right enabling technology to be the necessary glue in payments is a lot easier when you have great talent that has understanding of the market, experience and background in FinTech, and from an economy where nearly all payments are digital”
+  author: David Gudjonsson
+  role: "CEO & Co-Founder | Handpoint"
+  team1: 
+    - name: David Gudjonsson 
+      linkedin: /
+      role: CEO & Co-founder
+      image: https://handpoint.imgix.net/web/images/team/david.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
+    - name: Thordur Thorarinsson 
+      linkedin: /
+      role: CEO & Co-founder
+      image: https://handpoint.imgix.net/web/images/team/thordur.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
+  team2:
+    - name: Jody Muehlegger 
+      linkedin: /
+      role: "COO | Head pf North America"
+      image: https://handpoint.imgix.net/web/images/team/jody.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
+    - name: Juan Jaramillo 
+      linkedin: /
+      role: CTO | Chief Technology Officer
+      image: https://handpoint.imgix.net/web/images/team/juan.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
+    - name: Antoine Trota
+      linkedin: /
+      role: Product Director
+      image: https://handpoint.imgix.net/web/images/team/antoine.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
+bottomblurbs:
+  - title: Funding raised
+    description: "$10M institutional investment"
+    image: img/ico26.svg
+  - title: Headquarters
+    description: "Reykjavik, Iceland"
+    image: img/ico27.svg
+  - title: Our motto
+    description: Simplifying Card Payments
+    image: img/ico28.svg
+cta: 
+  title: Careers
+  subtitle: We're hiring! Join our brilliant and friendly team
+  description: "Madrid Office: SDK Developer"
+  buttontxt: Contact us
+  buttonlink: /contact
+--- 
