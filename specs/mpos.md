@@ -5,7 +5,7 @@ hero:
   title: Handpoint <br>mPOS
   description: <span class="specialtxt">Brandable mPOS</span> app with instant terminal activation
   buttontxt: Get started
-  buttonlink: /
+  buttonlink: /getstarted
 ---
 
 <div class="section section-internal">
@@ -13,7 +13,7 @@ hero:
 		<div class="row">
 			<div class="col-md-3 col-sm-4 section-internal-left">
 				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/mPOS_app.png?h=300" class="img-responsive" alt=""/> 
-				<a class="btn btn-default bt-custom-out" href="#" role="button">Learn more</a>
+				<a class="btn btn-default bt-custom-out" href="https://www.handpoint.com/contact" role="button">Learn more</a>
 			</div>
 			<div class="col-md-8 col-sm-8">
 				<h1>Handpoint mPOS</h1>
