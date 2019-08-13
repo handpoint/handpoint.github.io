@@ -47,13 +47,14 @@
 <!-- MOBILE ONLY -->
 <div class="hero-box visible-xs">
 	<div class="container">
-	    <h1>Go mobile | Go global</h1>
+	    <h1>{{ page.hero.title }}</h1>
 	    <p>
-	    	Grow with Handpoint’s Integrated Payments Platform for 
-	    	<span id="js-rotating" class="hero-box-specialtxt">Acquirers , ISOs, ISVs</span>
+	    	{{ page.hero.description }}
 	    </p>
-		<a class="btn btn-default bt-custom-out-wh" href="#" role="button">Get started</a>
-		<p class="hero-box-small">looking for POS Developers solutions? <a href="#">Click here</a></p>
+		<a class="btn btn-default bt-custom-out-wh" href={{page.hero.buttonlink}} role="button">
+			{{ page.hero.buttontxt}}
+		</a>
+		<p class="hero-box-small">{{ page.hero.hypertext }}</p>
     </div>
 </div>
 <!-- END mobile only --> 

@@ -611,9 +611,15 @@ select {
 	margin-top: 40px;
 }
 @media (max-width: 767px) {	
-.section-solutions img {
-	margin-top: 0;
-}
+	.solution-solutions {
+		padding-top: 20px;
+	}
+	.section-solutions img {
+		margin-top: 0;
+	}
+	.solution-solutions .media-body {
+		display: inline !important;
+	}
 }
 
 .section-solutions h3 {
