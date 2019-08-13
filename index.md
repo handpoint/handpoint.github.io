@@ -24,8 +24,8 @@ solutions:
     - title: Integrated ready
       id: "integrateddata"
       ariacontrol: home
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Hi5_Contactless_Cropped.png
-      description: "If your merchants are moving to integrated payments, but not all at once, you need a P2PE mobile terminal that you can deploy today to any merchant and flip to integrated with a click of your mouse. No costs for reterminalization. No delays for key injections. No risks to your merchant relationship. You need the Handpoint integrated-ready standalone."
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Hi5_Contactless_Cropped.png?w=200
+      description: "If your merchants are moving to integrated payments, but not all at once, you need a standalone P2PE mobile terminal that you can deploy today to any merchant and flip to integrated with a click of your mouse. No costs for reterminalization. No delays for key injections. No risks to your merchant relationship. You need the Handpoint integrated-ready standalone."
       buttontxt: "Integrated-Ready Hi5"
       buttonlink: "/acquirers/"
     - title: Brandable mPOS
@@ -47,7 +47,7 @@ solutions:
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled.png
       description: "Handpoint delivers the mobile retail experience your merchants want. Offer your merchants integraged mobile solutions for high-touch retail, line-busting, and large format retail. And with our omni-enabled terminals, merchants can deliver the future of unified commerce."
-      buttontxt: HIPro
+      buttontxt: HiPro
       buttonlink: "/acquirers/#m-extensions"
     - title: Omni-enabled
       id: "omnienabled"
