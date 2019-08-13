@@ -25,6 +25,16 @@ blurbs:
       buttonlink: /contact
       description: >
         <p>Handpoint is singularly focused on providing the best payments platform experience possible. To that end, we’ve pre-integrated with a number of card readers, POS solutions, and other payments partners to provide the highest amount of flexibility and power to our customers.</p>
+bottomblurbs:
+  - title: Funding raised
+    description: "$10M institutional investment"
+    image: img/ico26.svg
+  - title: Headquarters
+    description: "Reykjavik, Iceland"
+    image: img/ico27.svg
+  - title: Our motto
+    description: Simplifying Card Payments
+    image: img/ico28.svg
 milestones:
   title: Milestones
   description: >
@@ -42,7 +52,7 @@ leadership:
   author: David Gudjonsson
   role: "CEO & Co-Founder | Handpoint"
   team1: 
-    - name: David Gudjonsson 
+    - name: David GudjonssonTEST 
       linkedin: /davidgudjonsson
       role: CEO & Co-founder
       image: https://handpoint.imgix.net/web/images/team/david.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
