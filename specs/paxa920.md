@@ -9,8 +9,8 @@ hero:
 <div class="section section-internal">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-4 col-sm-4 section-internal-left">
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_new.png?w=150&trim=auto" class="img-responsive" alt=""/>
+			<div class="col-md-3 col-sm-4 section-internal-left">
+				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_new.png?w=250&trim=auto" class="img-responsive" alt=""/>
 				<a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/SpecSheets_PaxA920.pdf" role="button">Pax A920 Spec Sheet</a>
 			</div>
 			<div class="col-md-8 col-sm-8">
