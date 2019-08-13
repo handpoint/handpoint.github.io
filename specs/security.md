@@ -59,7 +59,7 @@ hero:
 					<li><i class="fas fa-check"></i> Handpoint’s combined semi-integrated architecture and P2PE encryption eliminate any sensitive data from the POS environment, reducing both risks from hackers and PCI audit issues, plus delivering all the savings from chargebacks that an EMV card reader offers.</li>
 					<li><i class="fas fa-check"></i> How does it work? The POS simply tells an amount to the Handpoint card reader, and the card reader does all the rest. Our P2PE payment application, hosted on the card reader, encrypts the entire message with DUKPT and 3DES from the first dip, tap, or swipe. The encrypted message is routed directly to our security service and gateway switch, utilizing PCI-mandated security protocols, and then sent to your processor for authorization. The corresponding authorization is sent back directly to the Handpoint card reader, which simply returns the authorization and receipt to the POS.</li>	
 				</ul>
-				<div class="security-pic"><img src="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Semi%20Integrated%20Flow.png" class="img-responsive" alt=""/></div>
+				<div class="security-pic"><img src="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/specs_security_pic01.jpg" class="img-responsive" alt=""/></div>
 			</div>
 		</div>
 	</div>
