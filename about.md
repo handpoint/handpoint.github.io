@@ -43,7 +43,7 @@ leadership:
   role: "CEO & Co-Founder | Handpoint"
   team1: 
     - name: David Gudjonsson 
-      linkedin: /in/davidgudjonsson
+      linkedin: https://www.linkedin.com/in/davidgudjonsson/
       role: CEO & Co-founder
       image: https://handpoint.imgix.net/web/images/team/david.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
     - name: Thordur Thorarinsson 
