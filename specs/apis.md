@@ -44,7 +44,7 @@ intro:
 			      <td>&nbsp;</td>
 			      <td>&nbsp;</td>
 			      <td style="vertical-align: bottom;">Standalone Terminal<br>(Integrated Ready)</td>
-			      <td style="vertical-align: bottom;">Express SDK</td>
+			      <td style="vertical-align: bottom;">Web SDK</td>
 			      <td style="vertical-align: bottom;">iOS SDK</td>
 			      <td style="vertical-align: bottom;">Android SDK</td>
 			      <td style="vertical-align: bottom;">Windows SDK</td>
@@ -218,7 +218,7 @@ intro:
 			      <td>&nbsp;</td>
 			      <td>&nbsp;</td>
 			      <td style="vertical-align: bottom;">Standalone Terminal<br>(Integrated Ready)</td>
-			      <td style="vertical-align: bottom;">Express SDK</td>
+			      <td style="vertical-align: bottom;">Web SDK</td>
 			      <td style="vertical-align: bottom;">iOS SDK</td>
 			      <td style="vertical-align: bottom;">Android SDK</td>
 			      <td style="vertical-align: bottom;">Windows SDK</td>
