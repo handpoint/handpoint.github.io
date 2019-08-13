@@ -26,13 +26,7 @@ hero:
 				<li>P2PE semi-integrated payments with remote key injection with plug and play activation</li>
 				<li>Over-the-air support direct to your Handpoint card reader, no matter where you take it</li>
 				<li>Compatible with HiLite, Hi5, and HiPro for EMV, NFC, & MSR payments</li>
-				<div class="section-internal-botpics">
-					<ul class="list-inline">
-						<li><img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiLite.png" alt=""/></li>
-						<li><img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled.png" alt=""/></li>
-						<li><img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Hi5.png" alt=""/></li>
-					</ul>
-				</div>
+
 			</div>
 		</div>
 	</div>
