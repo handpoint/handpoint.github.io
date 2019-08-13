@@ -34,10 +34,8 @@ hero:
 				<li>Dual Camera, 1D & 2D scanner</li>
 				<li>Certified with Paysafe for use in the US and Canada, with rich omni-commerce capabilities.</li>
 				<div class="row">
-					<div class="section-internal-bottom">
 				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Pax_A920_charger.png?w=150" class="img-responsive" alt=""/>
 				<p class="section-internal-left-custom-txt">Accessories: Charging dock</p>
-					</div>
 				</div>
 			</div>
 		</div>
