@@ -55,7 +55,7 @@ intro:
 		      <td>&nbsp;</td>
 		    </tr>
 			<tr>
-		      <td>First Data Rapid Connect</td>
+		      <td>First Data OmniPay</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
