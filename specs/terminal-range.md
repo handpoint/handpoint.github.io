@@ -4,7 +4,7 @@ hero:
   title: "Handpoint's mobile<br>terminals"
   description: <span class="specialtxt">Go mobile</span> and watch your <br>merchants grow
   buttontxt: "Get started"
-  buttonlink: "/"
+  buttonlink: "/contact"
 intro:
   title: Handpoint mobile terminals
   description: Handpoint’s innovative range of mobile terminals help you reach new verticals and become a strategic partner in your merchant's growth. Merchants finally can choose a card reader that delivers value for their business - integrated, cost-effective, revenue-driving.<br><br>Offer your merchants and software partners the pre-certified solutions they need.
