@@ -27,14 +27,14 @@ solutions:
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Hi5_Contactless_Cropped.png?w=200
       description: "If your merchants are moving to integrated payments, but not all at once, you need a standalone P2PE mobile terminal that you can deploy today to any merchant and flip to integrated with a click of your mouse. No costs for reterminalization. No delays for key injections. No risks to your merchant relationship. You need the Handpoint integrated-ready standalone."
       buttontxt: "Integrated-Ready Hi5"
-      buttonlink: "/acquirers/"
+      buttonlink: "/acquirers"
     - title: Brandable mPOS
       id: "brandablempos"
       ariacontrol: profile
       image: http://handpoint.imgix.net/dev.handpoint.com/Website%20refresh%20photos/product-images/mPOS_with_HiLite.png?w=200&h=206
       description: "Offer your merchants a sleek application that is simple to use and provides a full transaction history on their phone or online. Use the Handpoint mPOS app off the shelf and out of the box, or let us brand a solution for you."
       buttontxt: "mPOS App"
-      buttonlink: "/acquirers/#mpos"
+      buttonlink: "/acquirers#mpos"
     - title: Integrated APIs
       id: "integratedapis"
       ariacontrol: messages
