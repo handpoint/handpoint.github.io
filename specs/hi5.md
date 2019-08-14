@@ -13,9 +13,8 @@ hero:
 			<div class="col-md-3 col-sm-3 section-internal-left">
 				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Hi5.png" class="img-responsive" alt=""/> 
 				<ul>
-					<li><a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/SpecSheets%20Hi5%20Standalone.pdf" role="button">Learn more</a></li>
-					<li><a href="#" class="section-internal-left-custom-txt">Hi5 semi-integrated spec sheet</a></li>
-					<li><a href="#" class="section-internal-left-custom-txt">Hi5 standalone spec sheet</a></li>
+					<li><a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/SpecSheets%20Hi5%20Standalone.pdf" role="button">Download Hi5 Spec Sheet</a></li>
+
 				</ul>
 			</div>
 			<div class="col-md-8 col-sm-8">
