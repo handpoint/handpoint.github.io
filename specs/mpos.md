@@ -4,7 +4,7 @@ hero:
   class: hero-mpos
   title: Handpoint <br>mPOS
   description: <span class="specialtxt">Brandable mPOS</span> app with instant terminal activation
-  buttontxt: Get started
+  buttontxt: Get started with your app
   buttonlink: /getstarted
 ---
 
