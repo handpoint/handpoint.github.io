@@ -1,13 +1,9 @@
 ---
 layout: about
-hero: 
-  title: About <br>Handpoint
-  description: Global Pioneers in Mobile & <span class="specialtxt">#NextGenPOS</span>
 milestones:
-  title: Milestones
+  title: Handpoint Ltd. Terms of Service and Privacy Policy
   description: >
     <p>
-Handpoint Ltd. Terms of Service and Privacy Policy
 1. Terms
 
 By accessing the website at handpoint.com, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
@@ -42,6 +38,7 @@ Handpoint Ltd. may revise these terms of service for its website at any time wit
 8. Governing Law
 
 These terms and conditions are governed by and construed in accordance with the laws of Iceland and you irrevocably submit to the exclusive jurisdiction of the courts in that country.
+
 9. Privacy Policy
 
 Your privacy is important to us. It is Handpoint Ltd.'s policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.
@@ -55,6 +52,8 @@ Your privacy is important to us. It is Handpoint Ltd.'s policy to respect your p
     We will only retain personal information for as long as necessary for the fulfilment of those purposes.
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. Handpoint Ltd. may change this privacy policy from time to time at Handpoint Ltd.'s sole discretion.</p>
-</p><p>We opened access to that platform with the first simple APIs for iOS and Android, bringing secure EMV to the dynamic space of nextgen pos. We then certified the Handpoint platform on 2 then 3 continents. In 2017 we focused on the cloud, migrating and certifying our platform on AWS and delivering EMV and NFC for web-based points of sale.</p><p>And now as the opportunity for omnicommerce continues to grow, we have expanded from to serve that opportunity with tokenization with multiple acquirers, standalone integrated-ready terminals, and new payment types for omnicommerce, while continuing our global expansion.</p>
+</p>
+
+<p>We opened access to that platform with the first simple APIs for iOS and Android, bringing secure EMV to the dynamic space of nextgen pos. We then certified the Handpoint platform on 2 then 3 continents. In 2017 we focused on the cloud, migrating and certifying our platform on AWS and delivering EMV and NFC for web-based points of sale.</p><p>And now as the opportunity for omnicommerce continues to grow, we have expanded from to serve that opportunity with tokenization with multiple acquirers, standalone integrated-ready terminals, and new payment types for omnicommerce, while continuing our global expansion.</p>
   
 --- 
