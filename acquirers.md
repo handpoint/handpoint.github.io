@@ -61,14 +61,14 @@ omni-enabled:
   buttontxt: Payment types
   buttonlink: /specs/paymenttypes
 smartpos: 
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png?w=350
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png?
   title: SmartPOS
   id: "smartpos"
   description: "All-in-one payment terminals with business apps built in, PLUS all the security and flexibility of the Handpoint software terminal, international gateway, remote key injection, and terminal mangement sytem. Handpoint makes SmartPOS smarter business."
   buttontxt: "Looking to sell SmartPOS?"
   buttonlink: /contact
 softpos:
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/nopos_center.png
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/nopos_center.png?h=200
   title: SoftPOS
   id: "softpos"
   description: "Hardware terminals are going away, giving way to consumer off-the-shelf solutions. Handpoint is leading the way building the tools you need for the future: a software terminal with interfaces to mobile platforms and acquirers that enable you to manage transactions, security, and your portfolios."
