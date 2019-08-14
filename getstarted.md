@@ -43,7 +43,7 @@ intro:
 
 <div class="col-md-3 col-sm-3 col-md-offset-1 col-sm-offset-1">
   <div class="row">
-    <img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/mPOS_app_clean.png" class="img-responsive section-getstarted-mainpic" alt=""/>
+    <img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/mpos_app_clean.png" class="img-responsive section-getstarted-mainpic" alt=""/>
   </div>
 
 </div>
