@@ -66,6 +66,14 @@ function myFunction() {
     });
 </script>
 <script>
+    $("#js-mobile-rotating").Morphext({
+        animation: "fadeIn",
+        complete: function () {
+            console.log("This is called after a phrase is animated in! Current phrase index: " + this.index);
+        }
+    });
+</script>
+<script>
     $(document).ready(function() {
        $("#myCarousel").swiperight(function() {
           $(this).carousel('prev');
