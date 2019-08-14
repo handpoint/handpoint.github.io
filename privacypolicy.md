@@ -1,11 +1,5 @@
 ---
-layout: about
-hero: 
-  title: About <br>Handpoint
-  description: Global Pioneers in Mobile & <span class="specialtxt">#NextGenPOS</span>
-intro: 
-  title: "Leading the way. Doing it right."
-  description: > 
+layout: privacypolicy
 milestones:
   title: Milestones
   description: >
