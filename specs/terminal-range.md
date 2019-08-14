@@ -14,7 +14,7 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiLite_big.jpg?fit=crop&crop=focalpoint&fp-y=.53&h=750&w=600&fp-z=4.5&fp-x=.5
       title: HiLite NFC
       link: /specs/hilite
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Hi5.png?h=300
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Hi5.png?h=300&w=200
       title: Hi5
       link: /specs/hi5
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled.png
