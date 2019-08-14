@@ -27,7 +27,7 @@ solutions:
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Hi5_Contactless_Cropped.png?w=200
       description: "If your merchants are moving to integrated payments, but not all at once, you need a standalone P2PE mobile terminal that you can deploy today to any merchant and flip to integrated with a click of your mouse. No costs for reterminalization. No delays for key injections. No risks to your merchant relationship. You need the Handpoint integrated-ready standalone."
       buttontxt: "Integrated-Ready Hi5"
-      buttonlink: "/acquirers"
+      buttonlink: "/acquirers#standalone"
     - title: Brandable mPOS
       id: "brandablempos"
       ariacontrol: profile
@@ -41,35 +41,35 @@ solutions:
       image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration.png
       description: "Win software partners with Handpoint APIs for native apps and web POS. From SMBs to enterprise retailers to field service agents, merchants are looking for secure, innovative mobile payment solutions to take payments wherever they interact with customers. We'll support their payment integrations. You won't need to certify them AND you'll get the tools you need to support your new integrated merchants."
       buttontxt: Handpoint APIs
-      buttonlink: "/acquirers/#payment-apis"
+      buttonlink: "/acquirer#payment-apis"
     - title: Mobile extensions
       id: "mobileextensions"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled.png
       description: "Handpoint delivers the mobile retail experience your merchants want. Offer your merchants integraged mobile solutions for high-touch retail, line-busting, and large format retail. And with our omni-enabled terminals, merchants can deliver the future of unified commerce."
       buttontxt: HiPro
-      buttonlink: "/acquirers/#m-extensions"
+      buttonlink: "/acquirers#m-extensions"
     - title: Omni-enabled
       id: "omnienabled"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/OmniEnabled_HiLite.png
       description: "Handpoint's mobile terminals with tokenization integrations and web POS APIs are used today by merchants at the forefront: showrooming, membership models, online refunds, unified omni-commerce merchant accounts, high-touch retail, online booking with face-to-face payments, and more. Handpoint's flexible platform enables us to build new solutions for your opportunities. If you are an ecommerce acquirer, we can take you to omni with a seamless card present platform and deep expertise. In the world of nextgen acquiring, where will mobile take you?"
       buttontxt: "Payment Types"
-      buttonlink: "/acquirers/#omni-enabled"
+      buttonlink: "/acquirers#omni-enabled"
     - title: SmartPOS
       id: "smartpos"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png?h=200
       description: "All-in-one payment terminals with business apps built in, PLUS all the security and flexibility of the Handpoint software terminal, international gateway, remote key injection, and terminal mangement sytem. Handpoint makes SmartPOS smarter business."
       buttontxt: "Looking to Sell SmartPOS?"
-      buttonlink: "/acquirers/#smartpos"
+      buttonlink: "/acquirer#smartpos"
     - title: SoftPOS
       id: "nopos"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/softpos.png?h=200
       description: "Hardware terminals are going away, giving way to consumer off-the-shelf solutions. Handpoint is leading the way building the tools you need for the future: a software terminal with interfaces to mobile platforms and acquirers that enable you to manage transactions, security, and your portfolios."
       buttontxt: "Want to learn more?"
-      buttonlink: "/acquirers/#softpos"
+      buttonlink: "/acquirers#softpos"
 businessicons:
   title: "Accept Payments Everywhere. Go Mobile."
   subtitle: "See where mobile will take your business"
