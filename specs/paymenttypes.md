@@ -5,7 +5,7 @@ hero:
   title: Payment types
   description: <span class="specialtxt">Global payment reach</span> with rich payment options
   buttontxt: LET’S GET STARTED
-  buttonlink: /
+  buttonlink: /contact
 ---
 
 <div class="section section-internal section-internal-paymenttypes">
