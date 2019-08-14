@@ -1,34 +1,6 @@
 ---
-layout: contact
-hero: 
-  title: Ready to get<br>started?
-  description: <span class="specialtxt">Contact us now</span> and<br>we’ll be in touch right away
-intro:
-  title: We’re ready if you are
-  description: "We have a variety of solutions specialists with deep industry experience ready to work with you to see if the Handpoint platform is a good fit for your payments needs. We primarily work with:"
-businessicons:
-  icons: 
-    - icon: img/slide_ico01.svg
-      name: Sports & Camps
-    - icon: img/slide_ico02.svg
-      name: Venues & Attractions
-    - icon: img/slide_ico03.svg
-      name: Home Service
-    - icon: img/slide_ico04.svg
-      name: Restaurant
-    - icon: img/slide_ico01.svg
-      name: Sports & Camps
-    - icon: img/slide_ico02.svg
-      name: Venues & Attractions
-    - icon: img/slide_ico03.svg
-      name: Home Service
-    - icon: img/slide_ico04.svg
-      name: Restaurant
-contact-intro: Join a group of the most innovative and forward thinking payments professionals in the world. If you’d like to learn more, please fill out our form to contact a solutions specialist today.
-contact:
-  title: Let’s talk
-  description: Please fill out the form below and one of our solution consultants will be in touch with you in the near future.
-cta:
-  title: For customer & integration support 
-  description: You can also contact customer service by email at <a href="mailto:support@handpoint.com">support@handpoint.com</a>
----
+layout: about
+milestones:
+  title: Milestones
+  description: >
+    <p>Handpoint led the way in mobile EMV – introducing mobile POS to the airlines, emv enabling several airlines for the first time, and delivering the worlds first EMV mobile POS a decade ago. We delivered the world‘s first PCI-P2PE payment applications for mobile EMV and built a state of the art platform for making mobile POS scalable, sustainable, and secure.</p><p>We opened access to that platform with the first simple APIs for iOS and Android, bringing secure EMV to the dynamic space of nextgen pos. We then certified the Handpoint platform on 2 then 3 continents. In 2017 we focused on the cloud, migrating and certifying our platform on AWS and delivering EMV and NFC for web-based points of sale.</p><p>And now as the opportunity for omnicommerce continues to grow, we have expanded from to serve that opportunity with tokenization with multiple acquirers, standalone integrated-ready terminals, and new payment types for omnicommerce, while continuing our global expansion.</p>
