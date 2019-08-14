@@ -1827,6 +1827,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 .table-custom > tfoot > tr > td {
 	font-size: 13px !important;
 	line-height: 16px;
+	text-align: center !important;
 }
 @media (max-width: 992px) {
   .table-custom > thead > tr > th,
@@ -1837,6 +1838,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
   .table-custom > tfoot > tr > td {
 	font-size: 11px !important;
 	line-height: 13px;
+	text-align: center !important;
   }
 }
 @media (max-width: 767px) {
@@ -1848,6 +1850,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
   .table-custom > tfoot > tr > td {
 	font-size: 9px !important;
 	line-height: 10px;
+	text-align: center !important;
     padding: 7px 2px;
   }
 }
@@ -1856,11 +1859,13 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 	font-size: 10px;
 	padding: 2px 5px;
 	font-weight: 600;
+	text-align: center !important;
 }
 @media (max-width: 767px) {
 .table-custom .btn {
 	font-size: 8px;
 	padding: 1px 3px;
+	text-align: center !important;
 }
 }
 
@@ -1876,6 +1881,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 	background-color:#e8f0f5 !important;
 	color: #082a52;
 	font-weight: 700;
+	
 }
 
 
