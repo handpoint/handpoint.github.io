@@ -1896,7 +1896,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* GET STARTED
    ------------------------- */
 .hero-getstarted {
-	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_getstarted_new.jpg?w=600&fit=crop&crop=right) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_gettingstarted.png) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-getstarted {
