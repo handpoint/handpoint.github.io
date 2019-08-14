@@ -11,8 +11,8 @@ hero:
 <div class="section section-internal">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-1 col-sm-4 section-internal-left">
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/mPOS_app.png?h=300" class="img-responsive" alt=""/> 
+			<div class="col-md-3 col-sm-4 section-internal-left">
+				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/mpos_center.png?h=500" class="img-responsive" alt=""/> 
 				<a class="btn btn-default bt-custom-out" href="https://www.handpoint.com/contact" role="button">Learn more</a>
 			</div>
 			<div class="col-md-8 col-sm-8">

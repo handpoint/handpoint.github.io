@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}	
+	<body>
+		<!--NAV -->
+		{% include header.html %}
+		<div class="hero-internal hero-insights-about">
+			{% include hero.html %}
+		</div>
+		<div class="section">
+			<div class="container">
+				<h2>{{ page.intro.title }}</h2>
+				<div>{{ page.intro.description }}</div>
+			</div>
+		</div>
+		<!-- BLURBS -->
+		<div class="section insights-milestones">
+			<div class="container">
+				<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+					<div class="text-center"><h1>{{ page.milestones.title }}</h1></div>
+				    <img src="{{ page.milestones.image }}" class="img-responsive" alt=""/>
+				    <div>{{ page.milestones.description }} </div>
+				</div>	
+			</div>
+		</div>
+		{% include footer.html %}
+		{% include js.html %}
+	</body>
+</html>

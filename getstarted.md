@@ -43,21 +43,9 @@ intro:
 
 <div class="col-md-3 col-sm-3 col-md-offset-1 col-sm-offset-1">
   <div class="row">
-    <img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/mPOS_app.png" class="img-responsive section-getstarted-mainpic" alt=""/>
+    <img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/mpos_app_clean.png" class="img-responsive section-getstarted-mainpic" alt=""/>
   </div>
-  <div class="row text-center">
-    <ul class="section-paxa920-pics list-inline">
-      <li>
-        <img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiLite.png" alt=""/>
-      </li>
-      <li>
-        <img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Hi5.png" alt=""/>
-      </li>
-      <li>
-        <img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_new.png" alt=""/>
-      </li>
-    </ul>
-  </div>
+
 </div>
 
 
