@@ -68,7 +68,7 @@ smartpos:
   buttontxt: "Looking to sell SmartPOS?"
   buttonlink: /contact
 softpos:
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/nopos_center.png?w=400
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/nopos_right.png
   title: SoftPOS
   id: "softpos"
   description: "Hardware terminals are going away, giving way to consumer off-the-shelf solutions. Handpoint is leading the way building the tools you need for the future: a software terminal with interfaces to mobile platforms and acquirers that enable you to manage transactions, security, and your portfolios."
