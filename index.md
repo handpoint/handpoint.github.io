@@ -59,14 +59,14 @@ solutions:
     - title: SmartPOS
       id: "smartpos"
       ariacontrol: settings
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png?h=200
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png
       description: "All-in-one payment terminals with business apps built in, PLUS all the security and flexibility of the Handpoint software terminal, international gateway, remote key injection, and terminal mangement sytem. Handpoint makes SmartPOS smarter business."
       buttontxt: "Looking to Sell SmartPOS?"
       buttonlink: "/acquirers#smartpos"
     - title: SoftPOS
       id: "nopos"
       ariacontrol: settings
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/softpos.png?h=200
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/softpos.png
       description: "Hardware terminals are going away, giving way to consumer off-the-shelf solutions. Handpoint is leading the way building the tools you need for the future: a software terminal with interfaces to mobile platforms and acquirers that enable you to manage transactions, security, and your portfolios."
       buttontxt: "Want to learn more?"
       buttonlink: "/acquirers#softpos"
