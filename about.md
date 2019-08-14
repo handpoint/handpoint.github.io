@@ -43,24 +43,24 @@ leadership:
   role: "CEO & Co-Founder | Handpoint"
   team1: 
     - name: David Gudjonsson 
-      linkedin: "https://www.linkedin.com/in/davidgudjonsson/"
+      linkedin: /in/davidgudjonsson/
       role: CEO & Co-founder
       image: https://handpoint.imgix.net/web/images/team/david.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
     - name: Thordur Thorarinsson 
-      linkedin: /
+      linkedin: /in/thordur-heidar-thorarinsson-a1727a3/
       role: CEO & Co-founder
       image: https://handpoint.imgix.net/web/images/team/thordur.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
   team2:
     - name: Jody Muehlegger 
-      linkedin: /
+      linkedin: /in/jodymuehlegger/
       role: "COO | Head pf North America"
       image: https://handpoint.imgix.net/web/images/team/jody.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
     - name: Juan Jaramillo 
-      linkedin: /
+      linkedin: /in/juan-núñez-jaramillo-125ab322/
       role: CTO | Chief Technology Officer
       image: https://handpoint.imgix.net/web/images/team/juan.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
     - name: Antoine Trota
-      linkedin: /
+      linkedin: /in/antoine-trota-67707954/
       role: Product Director
       image: https://handpoint.imgix.net/web/images/team/antoine.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
 bottomblurbs:
