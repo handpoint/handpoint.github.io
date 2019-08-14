@@ -5,7 +5,7 @@ hero:
   title: Handpoint <br>HiPlus
   description: Brilliant <span class="specialtxt">mobile payments</span>
   buttontxt: Contact Handpoint
-  buttonlink: /
+  buttonlink: /contact
 ---
 
 <div class="section section-internal">
