@@ -66,7 +66,7 @@ solutions:
     - title: SoftPOS
       id: "nopos"
       ariacontrol: settings
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/softpos.png
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/softpos.png?h=250
       description: "Hardware terminals are going away, giving way to consumer off-the-shelf solutions. Handpoint is leading the way building the tools you need for the future: a software terminal with interfaces to mobile platforms and acquirers that enable you to manage transactions, security, and your portfolios."
       buttontxt: "Want to learn more?"
       buttonlink: "/acquirers/#softpos"
