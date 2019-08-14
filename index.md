@@ -41,7 +41,7 @@ solutions:
       image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration.png
       description: "Win software partners with Handpoint APIs for native apps and web POS. From SMBs to enterprise retailers to field service agents, merchants are looking for secure, innovative mobile payment solutions to take payments wherever they interact with customers. We'll support their payment integrations. You won't need to certify them AND you'll get the tools you need to support your new integrated merchants."
       buttontxt: Handpoint APIs
-      buttonlink: "/acquirer#payment-apis"
+      buttonlink: "/acquirers#payment-apis"
     - title: Mobile extensions
       id: "mobileextensions"
       ariacontrol: settings
@@ -62,7 +62,7 @@ solutions:
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png?h=200
       description: "All-in-one payment terminals with business apps built in, PLUS all the security and flexibility of the Handpoint software terminal, international gateway, remote key injection, and terminal mangement sytem. Handpoint makes SmartPOS smarter business."
       buttontxt: "Looking to Sell SmartPOS?"
-      buttonlink: "/acquirer#smartpos"
+      buttonlink: "/acquirers#smartpos"
     - title: SoftPOS
       id: "nopos"
       ariacontrol: settings
