@@ -1398,7 +1398,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SPECS HI5
    ------------------------- */
 .hero-hi5 {
-	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_hi5_best.png) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_hi5_final.png) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-hi5 {
@@ -1551,7 +1551,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SPECS MPOS
    ------------------------- */
 .hero-mpos {
-	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_mpos_sleek.png) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_mposapp_01.png) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-mpos {
