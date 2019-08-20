@@ -14,7 +14,7 @@ hero:
 			<div class="col-md-3 col-sm-3 section-internal-left">
 				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus_in_dock.jpg?w=426&h=736" class="img-responsive" alt=""/><br>
 				<p class="section-internal-left-custom-txt">HiPlus Mobile Printer Dock</p>
-				<a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/Handpoint-HiPlus-STANDALONE.pdf" download="HiPlus-STANDALONE.pdf" role="button">Download HiPlus spec sheet</a>
+				<a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/Handpoint-HiPlus-STANDALONE.pdf" download="HiPlus-STANDALONE.pdf" role="button">HiPlus spec sheet</a>
 			</div>
 			<div class="col-md-8 col-sm-8">
 				<h1>HiPlus</h1>
