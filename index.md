@@ -31,7 +31,7 @@ solutions:
     - title: Brandable mPOS
       id: "brandablempos"
       ariacontrol: profile
-      image: http://handpoint.imgix.net/dev.handpoint.com/Website%20refresh%20photos/product-images/mPOS_with_HiLite.png?w=200&h=206
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/mPOS_with_HiLite.png?w=200&h=206
       description: "Offer your merchants a sleek application that is simple to use and provides a full transaction history on their phone or online. Use the Handpoint mPOS app off the shelf and out of the box, or let us brand a solution for you."
       buttontxt: "mPOS App"
       buttonlink: "/acquirers#mpos"

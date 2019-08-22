@@ -1,0 +1,660 @@
+
+		/*Fixed Length on Large screens*/
+/*---------------------------------------------------*/
+
+html {
+	max-width: 1400px;
+	margin: auto;
+	background-color: #d3d3d3;
+}
+
+/*Anti aliasing*/
+/*---------------------------------------------------*/
+* {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+				/*font css*/
+/*---------------------------------------------------*/
+
+body.pushable {
+    background: transparent !important;
+}
+
+h1, h2, h3, h4, h5, body, p, a, div{
+	font-weight: 300 !important;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, body, p{
+	color: #34495e !important;
+}
+
+p, li, ul{
+	line-height: 1.62rem !important;
+	font-size: 1.0625rem !important;
+}
+
+h1.ui.inverted.header{
+	text-shadow: 0px 0px 10px rgba(0,0,0,1) !important;
+	color: white !important;
+	letter-spacing: 0.3px;
+
+}
+h2.ui.inverted.header{
+	text-shadow: 0px 0px 10px rgba(0,0,0,1) !important;
+	color: white!important;
+	letter-spacing: 1px;
+}
+h3.ui.inverted.header{
+	text-shadow: 0px 0px 10px rgba(0,0,0,1) !important;
+	color: white!important;
+}
+.special-font{
+	font-size: 55px !important; 
+	font-weight: 400 !important;
+}
+
+.big-font{
+	font-size: 45px !important; 
+	font-weight: 400 !important;
+}
+
+					/*Background css*/
+/*---------------------------------------------------*/
+
+.landing-background{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hilite-boat.jpg?h=900") !important;
+    background-size: cover;
+	height: 600px;
+}
+.contact-landing-background{
+	background-image: url("https://handpoint.imgix.net/web/images/misc-photos/chicken-roast-restaurant.jpg?h=400") !important;
+	background-size: cover;
+	height: 400px;
+}
+.grey-background{
+	background: #F0F0F0;
+}
+.footer-background{
+	background-color: black;
+}
+.developers-background{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Handpoint%20Bump%20HiLite%20at%20NHL%20in%20Stands.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}
+.acquirer_products-background{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HiLite%20SureSwipe%20Helmet%20and%20Shop.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+	align: bottom;
+}
+.management_platform-background{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HiPro_NikeAir.jpg?w=1600&h=900&fit=crop&crop=bottom") !important;
+	background-size: cover;
+	height: 600px;
+}
+.terminalrange-background{
+        background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Terminal_Range_Background.jpg?w=1600&h=900&fit=crop&crop=bottom") !important;
+	background-size: cover;
+	height: 600px;
+}
+.hilite{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HiLite_Background.png?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}  
+.hi5{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Hi5%20in%20Cafe.png?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}  
+.hipro{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HiPro_Background.jpg?w=1600&h=900&fit=crop&crop=bottom") !important;
+	background-size: cover;
+	height: 600px;
+}   
+.historeMPOS{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HiLite%20SAf%20Vetkoek.png?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}  
+.api-background{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Payment%20Types%20background%20image.png?h=900") !important;
+	background-size: cover;
+	height: 600px;
+} 
+.payment-type{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Payment%20Types%20Background.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}   
+.security-background{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HiLite%20white%20tshirts.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}  
+.hi-gateway{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HiWay%20image.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}  
+.acquirers-protocols{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HiLite%20Mobile%20at%20Cafe.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+} 
+.geographies-background{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Geographies_background.jpg?w=1600&h=900&fit=crop&crop=bottom") !important;
+	background-size: cover;
+	height: 600px;
+}
+.contact-background{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/mailbox.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}
+.about-background{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/Boat_with_HiLite.jpg?h=900&fit=crop&crop=bottom") !important;
+	background-size: cover;
+	height: 600px;
+}
+.pressreleases-background{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/pressreleases.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}
+.getstarted-background{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/family.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}
+
+
+					/*OLD PAGES*/
+.sdk-background{
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/photo-coding.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}
+.cardreaders-background{
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hipro-live-scenario-coffee-shop.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}
+.resellers-background{
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/reseller.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}
+.processors-background{
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/merchant.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}
+.merchants-background{
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/merchant.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}
+.team-background{
+	background-image: url("https://handpoint.imgix.net/web/images/misc-photos/team.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}
+.awards-background{
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/awards.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+}
+					/*navbar css*/
+/*---------------------------------------------------*/
+
+.ui.secondary.inverted.menu {
+	background-color: #34495e !important;
+	max-width: 1400px;
+	position: relative;
+	margin: auto;
+	float: none;
+}
+
+#menu {
+	background-color: #34495e !important;
+	max-width: 1400px;
+	margin: auto;
+	float: none;
+	left: 50%;
+	transform: translateX(-50%);
+	position: fixed;
+	display: none;
+}
+.ui.secondary.inverted.menu a.item, div.item{
+	color: white !important;
+	font-size: 14px;
+}
+.ui.menu .ui.dropdown .menu>.item{
+	color: #34495e !important;
+}
+.ui.menu .ui.dropdown .menu>.active.item{
+	color: #34495e !important;
+}
+.ui.primary.button{
+	background-color: #ff7638 !important;
+}
+.ui.secondary.inverted.pointing.menu .active.item{
+	border-color: #ff7638 !important;
+}
+
+.logo-size{
+	max-height: 38px !important;
+}
+.ui.secondary.inverted.menu a.item.logo{
+	flex-direction: column;
+	align-items: flex-start;
+}
+.ui.secondary.inverted.menu a.item.logo small{color:#ff7638 ;}
+		/*main css*/
+/*---------------------------------------------------*/
+
+.rotating-word{
+	color: #ff7638 !important;
+	width: 6em;
+	z-index: 100;
+	position: relative;
+}
+.ui.mini.image{
+	width: 50px !important;
+}
+div.row{
+    margin-top: 10px;
+    margin-bottom:10px;
+    margin-right:10px;
+    margin-left:10px;
+}
+.no-margin{
+	margin-top: 0px !important;
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+	margin-bottom: 0px !important;
+}
+.no-padding{
+	padding-top: 0px !important;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+	padding-bottom: 0px !important;
+}	
+
+.uppercase {
+    text-transform: uppercase !important;
+}
+.paragraph{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:30px;
+    padding-left:30px;
+    text-align:justify;
+}
+
+i.bordered.icon{
+	box-shadow: 0 0 0 0 !important;
+	margin-top:19px;
+    margin-bottom:19px;
+    margin-right:0px;
+    margin-left:0px;
+}
+i.circular.icon{
+	box-shadow: 0 0 0 .02em !important;
+	margin-top: 10px;
+	margin-bottom:7px;
+	margin-right:10px;
+	margin-left:10px;
+}
+.image-resize{
+	height: 400px;
+	width: 100%;
+}
+.image-resize-2{
+	max-height: 250px;
+	width: auto;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+.image-resize-3{
+	max-height: 320px;
+	width: auto;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+.image-resize-4{
+	height: 100px;
+	width: auto;
+}
+.image-resize-5{
+	height: 200px;
+	width: auto;
+}
+.relaxed-padding{
+	padding-top: 60px !important;
+	padding-bottom: 60px !important;
+}
+.slight-padding{
+	padding-top: 5px !important;
+	padding-bottom: 5px !important;
+}
+.orange-color{
+	color: rgb(255, 118, 56) !important;
+}
+.footer-color-title{
+	color: white !important;
+}
+.footer-color{
+	color: #787980;
+}
+.footer-list-no-bullet{
+	list-style-type: none;
+}
+
+.photo-team-resize{
+	height: 150px;
+	width: auto;
+}
+.landing-catchline{
+	margin-top: 200px !important;
+}
+					/*Video css*/
+/*---------------------------------------------------*/
+
+.video-playing{
+	width: 90%;
+	height: auto;
+}
+
+					/*world map and google map css*/
+/*---------------------------------------------------*/
+
+.vmap{
+	width: 650px;
+	height:360px;
+}
+.scrolloff {
+    pointer-events: none;
+}
+
+
+			/*hidden css for small screens*/
+/*---------------------------------------------------*/
+
+.secondary.menu a.launch-sidebar {
+		display: none;
+}
+.display-small-screen-only{
+	display: none !important;
+}
+
+
+.title-lg{font-size: 42px;
+    color: #ff7638 !important;
+    font-weight: 900 !important; display:inline-block}
+	
+.bg-white{background:#fff !important;}
+.img-eq{min-height:250px;}
+
+			/*mobile phone responsive css*/
+/*---------------------------------------------------*/
+
+@media only screen and (max-width: 767px){
+	.ui.stackable.grid.newcol50>.column{width:33% !important;}
+	.head-bg{height: 100% !important;
+    min-height: 200px;}
+	
+	.head-bg .big-font{font-size:14px !important;}
+	.lg-small{font-size: 42px !important;}
+	
+	.hidden-sm{display:none !important;}
+	
+	    .head-bg.bg100{background-size: 100% 100%;}
+	.map-center {display: flex !important;
+    align-items: center;
+    justify-content: center;}
+	.map-center .vmap{overflow:initial !important}
+	
+	.landing-catchline{margin-top:0px !important;}
+	.ui.secondary.menu a.launch-sidebar{
+		display: block;
+	}
+	.ui.secondary.menu a.item {
+		display: none;
+	}
+	.ui.secondary.menu div.item {
+		display: none;
+	}
+	.ui.secondary.menu a.button {
+		display: none;
+	}
+	.ui.vertical.inverted.menu .menu .item {
+		color: white!important;
+	}
+	.ui.vertical.icon.menu{
+		width: 120px !important;
+	}
+	div.landing-background {
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hilite-boat-small-screen.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+	}
+	div.cardreaders-background{
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hipro-live-scenario-coffee-shop-small-screen.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+	}
+	div.merchants-background{
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/merchant-small-screen.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+	}
+	div.developers-background{
+	background-image: url("https://handpoint.imgix.net/Website%20refresh%20photos/Handpoint%20Bump%20HiLite%20at%20NHL%20in%20Stands.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+	}
+	div.resellers-background{
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/reseller-small-screen.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+	}
+	div.getstarted-background{
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/family-small-screen.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+	}
+	.contact-background{
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/mailbox-small-screen.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+	}
+	.awards-background{
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/awards-small-screen.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+	}
+	.pressreleases-background{
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/pressreleases-small-screen.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+	}
+	.special-font{
+	font-size: 22px !important;
+	font-weight: 400 !important;
+	}
+	h1{
+		font-size: 20px !important;
+	}
+	h2{
+		font-size: 18px !important;
+	}
+	h3{
+		font-size: 16px !important;
+	}
+	p, li, ul {
+		font-size: 14px !important;
+	}
+	.display-small-screen-only{
+		display:inline-block !important;
+	}
+	.display-big-screen-only{
+		display: none !important;
+	}
+	.ui.button{
+		font-size: 1em !important;
+	}
+	.ui.mini.image{
+		width: 30px !important;
+	}
+	.ui.medium.image{
+		width: 150px !important;
+	}
+	i.bordered.icon{
+		text-align: left;
+		box-shadow: 0 0 0 0 !important;
+		font-size: 3em !important;
+	}
+	i.circular.icon{
+		margin-bottom: 0px !important;
+		font-size: 3em !important;
+	}
+	.vmap{
+	height:200px;
+	}
+	.video-playing{
+	width: 100%;
+	height: auto;
+	}
+	.image-resize{
+	height: auto;
+	width: auto;
+
+	}
+	.logo-size{
+		max-height: 25px !important;
+	}
+}
+				/*tablet responsive css*/
+/*---------------------------------------------------*/
+
+@media (max-width:800px) and (min-width:768px){
+	.ui.secondary.menu a.launch-sidebar{
+		display: block;
+	}
+	.ui.secondary.menu a.item {
+		display: none;
+	}
+	.ui.secondary.menu div.item {
+		display: none;
+	}
+	.ui.secondary.menu a.button {
+		display: none;
+	}
+	.ui.vertical.inverted.menu .menu .item {
+		color: white!important;
+	}
+	.ui.vertical.icon.menu{
+		width: 120px !important;
+	}
+	div.landing-background {
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hilite-boat-tablet-screen.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+	}
+	div.merchants-background{
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/merchant-tablet-screen.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+	}
+	div.cardreaders-background{
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hipro-live-scenario-coffee-shop-tablet-screen.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+	}
+	div.awards-background{
+	background-image: url("https://handpoint.imgix.net/web/images/unsplash/awards-tablet-screen.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+	}
+	.special-font{
+	font-size: 26px !important;
+	font-weight: 400 !important;
+	}
+	h1{
+		font-size: 24px !important;
+	}
+	h2{
+		font-size: 22px !important;
+	}
+	h3{
+		font-size: 20px !important;
+	}
+	p, li, ul{
+		font-size: 14px !important;
+	}
+	.ui.button{
+		font-size: 1em !important;
+	}
+	i.bordered.icon{
+		text-align: left;
+		box-shadow: 0 0 0 0 !important;
+		font-size: 3em !important;
+		margin-bottom: 0px;
+	}
+	.ui.small.image{
+		width: 100px !important;
+	}
+	.vmap{
+	height:200px;
+	}
+	.logo-size{
+		max-height: 30px !important;
+	}
+}
+
+			/*small laptop responsive css*/
+/*---------------------------------------------------*/
+@media (max-width:1219px) and (min-width:801px){
+	.ui.secondary.menu a.launch-sidebar{
+		display: block;
+	}
+	.ui.secondary.menu a.item {
+		display: none;
+	}
+	.ui.secondary.menu div.item {
+		display: none;
+	}
+	.ui.secondary.menu a.button {
+		display: none;
+	}
+	.ui.vertical.inverted.menu .menu .item {
+		color: white!important;
+	}
+	.ui.vertical.icon.menu{
+		width: 120px !important;
+	}
+	.landing-catchline {
+		margin-top: 180px !important;
+	}
+	div.landing-background {
+	background-image: url("https://handpoint.imgix.net/web/images/card-readers/hilite-boat-small-laptop-screen.jpg?h=900") !important;
+	background-size: cover;
+	height: 600px;
+	}
+	i.bordered.icon{
+		box-shadow: 0 0 0 0 !important;
+		font-size: 4em !important;
+	}
+	.logo-size{
+		max-height: 30px !important;
+	}
+}
