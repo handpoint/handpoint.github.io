@@ -6,13 +6,17 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
     <meta name="keywords" content="{{ site.keywords }}" />
-    {% if site.meta_author %}<meta name="author" content="{{ site.meta_author }}">{% endif %}
+    {% if site.meta_author %}
+    <meta name="author" content="{{ site.meta_author }}">{% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
 
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ "img/favicon.png" | prepend: site.baseurl | replace: '//', '/' }}">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ "img/favicon.png" | prepend: site.baseurl | replace: '//', '/' }}">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ "img/favicon.png" | prepend: site.baseurl | replace: '//', '/' }}">
+    <link rel="apple-touch-icon" sizes="180x180"
+        href="{{ "img/favicon.png" | prepend: site.baseurl | replace: '//', '/' }}">
+    <link rel="icon" type="image/png" sizes="32x32"
+        href="{{ "img/favicon.png" | prepend: site.baseurl | replace: '//', '/' }}">
+    <link rel="icon" type="image/png" sizes="16x16"
+        href="{{ "img/favicon.png" | prepend: site.baseurl | replace: '//', '/' }}">
     <link rel="manifest" href="site.webmanifest">
     <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
@@ -23,41 +27,45 @@
     <link rel="stylesheet" href="{{ "/style.css" | prepend: site.baseurl | replace: '//', '/' }}">
 
     <!-- Google verification -->
-    {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
+    {% if site.google_verify %}
+    <meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
 
     <!-- Bing Verification -->
-    {% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
+    {% if site.bing_verify %}
+    <meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
 
     <!-- Custom Fonts -->
-     
+
     <!-- Google font -->
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
-    
+
     <!-- Fontawsome -->
-    <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js"
+        integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl"
+        crossorigin="anonymous"></script>
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="{{ "/js/ie-emulation-modes-warning.js" | prepend: site.baseurl | replace: '//', '/' }}"></script>
 
-    <script src="{{ "/js/jquery.min.js" | prepend: site.baseurl | replace: '//', '/' }}"></script> 
+    <script src="{{ "/js/jquery.min.js" | prepend: site.baseurl | replace: '//', '/' }}"></script>
 
     <script>/*<![CDATA[*/
-    window.zEmbed || function (e, t) {
-        var n, o, d, i, s, a = [], r = document.createElement("iframe");
-        window.zEmbed = function () {
-            a.push(arguments)
-        }, window.zE = window.zE || window.zEmbed, r.src = "javascript:false", r.title = "", r.role = "presentation", (r.frameElement || r).style.cssText = "display: none", d = document.getElementsByTagName("script"), d = d[d.length - 1], d.parentNode.insertBefore(r, d), i = r.contentWindow, s = i.document;
-        try {
-            o = s
-        } catch (c) {
-            n = document.domain, r.src = 'javascript:var d=document.open();d.domain="' + n + '";void(0);', o = s
-        }
-        o.open()._l = function () {
-            var o = this.createElement("script");
-            n && (this.domain = n), o.id = "js-iframe-async", o.src = e, this.t = +new Date, this.zendeskHost = t, this.zEQueue = a, this.body.appendChild(o)
-        }, o.write('<body onload="document._l();">'), o.close()
-    }("//assets.zendesk.com/embeddable_framework/main.js", "handpoint.zendesk.com");
+        window.zEmbed || function (e, t) {
+            var n, o, d, i, s, a = [], r = document.createElement("iframe");
+            window.zEmbed = function () {
+                a.push(arguments)
+            }, window.zE = window.zE || window.zEmbed, r.src = "javascript:false", r.title = "", r.role = "presentation", (r.frameElement || r).style.cssText = "display: none", d = document.getElementsByTagName("script"), d = d[d.length - 1], d.parentNode.insertBefore(r, d), i = r.contentWindow, s = i.document;
+            try {
+                o = s
+            } catch (c) {
+                n = document.domain, r.src = 'javascript:var d=document.open();d.domain="' + n + '";void(0);', o = s
+            }
+            o.open()._l = function () {
+                var o = this.createElement("script");
+                n && (this.domain = n), o.id = "js-iframe-async", o.src = e, this.t = +new Date, this.zendeskHost = t, this.zEQueue = a, this.body.appendChild(o)
+            }, o.write('<body onload="document._l();">'), o.close()
+        }("//assets.zendesk.com/embeddable_framework/main.js", "handpoint.zendesk.com");
     /*]]>*/</script>
     <script>
         zE(function () {
@@ -67,7 +75,7 @@
     <script type="text/javascript">
         window.zESettings = {
             webWidget: {
-                position: {horizontal: 'left', vertical: 'bottom'}
+                position: { horizontal: 'left', vertical: 'bottom' }
             }
         };
     </script>
@@ -119,44 +127,9 @@
             }
         }());
     </script>
-    <!-- Segment Analytics -->
-    <script type="text/javascript">
-        !function () {
-            var analytics = window.analytics = window.analytics || [];
-            if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
-                analytics.invoked = !0;
-                analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"];
-                analytics.factory = function (t) {
-                    return function () {
-                        var e = Array.prototype.slice.call(arguments);
-                        e.unshift(t);
-                        analytics.push(e);
-                        return analytics
-                    }
-                };
-                for (var t = 0; t < analytics.methods.length; t++) {
-                    var e = analytics.methods[t];
-                    analytics[e] = analytics.factory(e)
-                }
-                analytics.load = function (t) {
-                    var e = document.createElement("script");
-                    e.type = "text/javascript";
-                    e.async = !0;
-                    e.src = ("https:" === document.location.protocol ? "https://" : "http://") + "cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js";
-                    var n = document.getElementsByTagName("script")[0];
-                    n.parentNode.insertBefore(e, n)
-                };
-                analytics.SNIPPET_VERSION = "4.0.0";
-                analytics.load("vKRdtoZtYofXbIl8kI8fXunNLNROYlqR");
-                analytics.page();
-                analytics.debug(false);
-            }
-        }();
-    </script>
-    <!-- End Segment Analytics -->
     <!-- Cookie consent script -->
     <link rel="stylesheet" type="text/css"
-          href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css"/>
+        href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
     <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
     <script>
         window.addEventListener("load", function () {
@@ -179,44 +152,43 @@
     </script>
     <!-- End Cookie consent script -->
     <!-- begin olark code -->
-    <script type="text/javascript" async> ;(function (o, l, a, r, k, y) {
-        if (o.olark) return;
-        r = "script";
-        y = l.createElement(r);
-        r = l.getElementsByTagName(r)[0];
-        y.async = 1;
-        y.src = "//" + a;
-        r.parentNode.insertBefore(y, r);
-        y = o.olark = function () {
-            k.s.push(arguments);
-            k.t.push(+new Date)
-        };
-        y.extend = function (i, j) {
-            y("extend", i, j)
-        };
-        y.identify = function (i) {
-            y("identify", k.i = i)
-        };
-        y.configure = function (i, j) {
-            y("configure", i, j);
-            k.c[i] = j
-        };
-        k = y._ = {s: [], t: [+new Date], c: {}, l: a};
-    })(window, document, "static.olark.com/jsclient/loader.js");
-    /* custom configuration goes here (www.olark.com/documentation) */
-    olark.identify('6493-653-10-7614');
-    olark.configure('system.hb_primary_color', '#f2711c');
+    <script type="text/javascript" async> ; (function (o, l, a, r, k, y) {
+            if (o.olark) return;
+            r = "script";
+            y = l.createElement(r);
+            r = l.getElementsByTagName(r)[0];
+            y.async = 1;
+            y.src = "//" + a;
+            r.parentNode.insertBefore(y, r);
+            y = o.olark = function () {
+                k.s.push(arguments);
+                k.t.push(+new Date)
+            };
+            y.extend = function (i, j) {
+                y("extend", i, j)
+            };
+            y.identify = function (i) {
+                y("identify", k.i = i)
+            };
+            y.configure = function (i, j) {
+                y("configure", i, j);
+                k.c[i] = j
+            };
+            k = y._ = { s: [], t: [+new Date], c: {}, l: a };
+        })(window, document, "static.olark.com/jsclient/loader.js");
+        /* custom configuration goes here (www.olark.com/documentation) */
+        olark.identify('6493-653-10-7614');
+        olark.configure('system.hb_primary_color', '#f2711c');
     </script>
     <!-- end olark code -->
     <!-- Scripts End-->
-    
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135913931-1"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'UA-135913931-1');
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-135913931-1');
     </script>
 </head>
-        

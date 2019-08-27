@@ -3,7 +3,7 @@ layout: specs
 hero: 
   class: hero-paxa920
   title: PaxA920
-  description: 'All-in-one for Standalone SmartPOS & Semi-Integrated POS<br><br><span class="specialtxt">Coming soon!</span>'
+  description: 'All-in-one for Standalone SmartPOS & Semi-Integrated POS<br><br>'
 ---
 
 <div class="section section-internal">
@@ -14,7 +14,7 @@ hero:
 				<a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/SpecSheets_PaxA920.pdf" role="button">Pax A920 Spec Sheet</a>
 			</div>
 			<div class="col-md-8 col-sm-8">
-				<h1>Pax A920 <span class="specialtxt">coming soon!</span></h1>
+				<h1>Pax A920</h1>
 				<p>With Handpoint’s powerful platform plus Pax’s sleek A920, the power of mobile is exponential.</p>
 				<p>1) Merchants can use the Pax A920 as an all-in-one mobile SmartPOS with the <b><a href="/specs/mpos">Handpoint mPOS</a></b> app installed directly on the reader.</p>
 				<p>2) Developers can quickly integrate the Pax A920 with their POS - whether online or native iOS, Android, Mac, or Windows -  utilizing Handpoint’s innovative CloudAPI.  It’s the “perfect” semi-integration, with all payment handling and flow outside the POS.</p>

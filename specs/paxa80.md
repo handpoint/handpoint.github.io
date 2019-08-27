@@ -3,7 +3,7 @@ layout: specs
 hero: 
   class: hero-paxa80
   title: PaxA80
-  description: 'Cost effective all-in-one for SmartPOS & Semi-Integrated POS<br><br><span class="specialtxt">Coming soon!</span>'
+  description: 'Cost effective all-in-one for SmartPOS & Semi-Integrated POS<br><br>'
 ---
 
 <div class="section section-internal">
@@ -14,7 +14,7 @@ hero:
 				<a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/SpecSheets_PaxA80.pdf" role="button">Pax A80 Spec Sheet</a>
 			</div>
 			<div class="col-md-8 col-sm-8">
-				<h1>Pax A80 <span class="specialtxt">coming soon!</span></h1>
+				<h1>Pax A80</h1>
 				<p>1) With Handpoint’s powerful platform plus Pax’s cost effective A80, merchants have the perfect solution for the counter with the flexibility of mobile.</p>
 				<p>2) Merchants can use the Pax A80 as an all-in-one mobile SmartPOS with the <b><a href="/specs/mpos">Handpoint mPOS</a></b> app installed directly on the reader.
 				Developers can quickly integrate the Pax A80 with their POS - whether online or native iOS, Android, Mac, or Windows -  utilizing Handpoint’s innovative CloudAPI.  It’s the “perfect” semi-integration, with all payment handling and flow outside the POS.</p>
