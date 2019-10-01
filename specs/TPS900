@@ -17,24 +17,24 @@ hero:
 				<h1>TPS900</h1>
 				<p>Combining Handpoint’s powerful platform and the all-in-one TPS900 to deliver excellent customer interaction.</p>
 				<p>1) Merchants can use the TPS900 as the complete mobile SmartPOS for the <b><a href="/specs/mpos">Handpoint mPOS</a></b> app installed directly on the reader.</p>
-				<p>2) Developers can quickly integrate the TPS900 with their POS - whether online or native iOS, Android, Mac, or Windows -  utilizing Handpoint’s innovative Cloud API for the highly-secure connection.</p>
-				<p>3) Developers can put their own Android application onto the TPS900 and utilize Handpoint’s fast and easy SDK to activate payments with this slimline, handheld unit for portable checkouts.</p>
+				<p>2) Developers can quickly integrate the TPS900 with their POS - including online and native iOS, Android, Mac, or Windows -  utilizing Handpoint’s innovative Cloud API for the highly-secure connection.</p>
+				<p>3) Developers can put their own Android application onto the TPS900 and utilize Handpoint’s fast and easy SDK to activate payments through this slimline, handheld unit for portable checkouts.</p>
 				<h4>Key features</h4>
-				<li>Slimline, portable all-in-one</li>
+				<li>Stylish and slimline, portable all-in-one</li>
 				<li>Large, color touchscreen</li>
 				<li>WiFi, 4G , or Bluetooth</li>
-				<li>EMV+NFC+MSR</li>
-				<li>P2PE with 3DES and DUKPT</li>
+				<li>Accepts EMV, NFC and MSR transactions</li>
+				<li>P2PE security with 3DES and DUKPT</li>
 				<li>Use with <b><a href="/specs/mpos">Handpoint mPOS</a></b> app or your apps</li>
 				<li>Fast and easy integration with Handpoint Cloud API</li>
 				<li>Remote key injection and remote software updates</li>
-				<li>Tokenization with sale and Tokenize only</li>
+				<li>Tokenization with sale and tokenize only</li>
 				<li>In-built, fast thermal printer</li>
 				<li>On-screen signature capture</li>
 				<li>Long-lasting battery</li>
-        <li>Auto-focusing camera, supporting all 1D/2D barcodes</li>
-        <li>Optional fingerprint scanner</li>
-				<li>Certified with Paysafe for use in the US and Canada, with rich omni-commerce capabilities.</li>
+                                <li>Auto-focusing camera, supporting all 1D/2D barcodes</li>
+                                <li>Optional fingerprint scanner</li>
+				<li>Optional face recongition with Iris scanner</li>
 				<p>
 				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Pax_A920_charger.png?w=150" class="img-responsive" alt=""/></p>
 				<p class="section-internal-left-custom-txt">Accessories: Charging dock</p>
