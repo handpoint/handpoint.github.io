@@ -2151,3 +2151,27 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 	padding-right: 100px;
 }
 }
+
+/* SPECS TPS900
+   ------------------------- */
+.hero-hero-TPS900 {
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_tps900.png) no-repeat center center; 
+}
+@media only screen and (max-width : 767px) {
+.hero-TPS900 {
+	background: none;
+}
+}
+
+.section-tps900-pics {
+	margin-top: 20px;
+}
+
+.section-tps900-pics img {
+	width: 70px;
+}
+@media only screen and (max-width : 992px) {
+.section-tps900-pics img {
+	width: 40px;
+}
+}
