@@ -2154,7 +2154,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 
 /* SPECS TPS900
    ------------------------- */
-.hero-hero-TPS900 {
+.hero-TPS900 {
 	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_tps900.png) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
