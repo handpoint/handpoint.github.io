@@ -11,7 +11,7 @@ hero:
 		<div class="row">
 			<div class="col-md-3 col-sm-4 section-internal-left">
 				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_new.png?w=250&trim=auto" class="img-responsive" alt=""/>
-				<a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/SpecSheets_PaxA920.pdf" role="button">Pax A920 Spec Sheet</a>
+				<a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/SpecSheets_TPS900.pdf" role="button">TPS900 Spec Sheet</a>
 			</div>
 			<div class="col-md-8 col-sm-8">
 				<h1>TPS900</h1>
@@ -35,9 +35,7 @@ hero:
                                 <li>Auto-focusing camera, supporting all 1D/2D barcodes</li>
                                 <li>Optional fingerprint scanner</li>
 				<li>Optional face recongition with Iris scanner</li>
-				<p>
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Pax_A920_charger.png?w=150" class="img-responsive" alt=""/></p>
-				<p class="section-internal-left-custom-txt">Accessories: Charging dock</p>
+				
 				
 			</div>
 		</div>
