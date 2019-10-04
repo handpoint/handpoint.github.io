@@ -19,11 +19,11 @@ hero:
 			<div class="col-md-8 col-sm-8">
 				<h1>HiPlus</h1>
 				<h3>Deliver an incredible customer experience</h3>
-				<p>Handpoint HiPlus is our latest P2PE mobile payment terminal. This sleek standalone with 3G and a color touch screen lets you deliver an incredible customer experience. The HiPlus makes mobile sales appealing AND cost-effective with all the security and seamless merchant support enabled by the Handpoint platform.</p>
+				<p>Handpoint HiPlus is our latest PCI-P2PE mobile payment terminal. This sleek standalone with 3G and a color touch screen lets you deliver an incredible customer experience. The HiPlus makes mobile sales appealing AND cost-effective with all the security and seamless merchant support enabled by the Handpoint platform.</p>
 				<h4>Key features</h4>
 				<li>Color touch screen</li>
 				<li>Use it as stand-alone with 3G, no app needed</li>
-				<li>P2PE security</li>
+				<li>PCI-P2PE secure payment application</li>
 				<li>EMV, NFC, & MSR payments</li>
 				<li>Remote key injection with plug and play activation</li>
 				<li>Receipts sent via SMS text message</li>
