@@ -14,11 +14,11 @@ hero:
 				<a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/SpecSheets_PaxA920.pdf" role="button">Pax A920 Spec Sheet</a>
 			</div>
 			<div class="col-md-8 col-sm-8">
-				<h1>Pax A920</h1>
+				<h1>PAX A 920</h1>
 				<p>With Handpoint’s powerful platform plus Pax’s sleek A920, the power of mobile is exponential.</p>
-				<p>1) Merchants can use the Pax A920 as an all-in-one mobile SmartPOS with the <b><a href="/specs/mpos">Handpoint mPOS</a></b> app installed directly on the reader.</p>
-				<p>2) Developers can quickly integrate the Pax A920 with their POS - whether online or native iOS, Android, Mac, or Windows -  utilizing Handpoint’s innovative CloudAPI.  It’s the “perfect” semi-integration, with all payment handling and flow outside the POS.</p>
-				<p>3) Developers can put their own Android application onto the Pax A920 and utilize Handpoint’s fast and easy SDK to activate payments with this sleek handheld unit for highly mobile use cases.</p>
+				<p>1) Merchants can use the PAX A920 as an all-in-one mobile SmartPOS with the <b><a href="/specs/mpos">Handpoint mPOS</a></b> app installed directly on the reader.</p>
+				<p>2) Developers can quickly integrate the PAX A920 with their POS - whether online or native iOS, Android, Mac, or Windows -  utilizing Handpoint’s innovative CloudAPI.  It’s the “perfect” semi-integration, with all payment handling and flow outside the POS.</p>
+				<p>3) Developers can put their own Android application onto the PAX A920 and utilize Handpoint’s fast and easy SDK to activate payments with this sleek handheld unit for highly mobile use cases.</p>
 				<h4>Key features</h4>
 				<li>Sleek handheld all-in-one</li>
 				<li>Color touch screen</li>
@@ -45,7 +45,7 @@ hero:
 	
 <div class="section section-form">
 	<div class="container">
-		<h3>Interested in bringing the Pax to your merchants?</h3>
+		<h3>Interested in bringing the PAX A920 to your merchants?</h3>
 		<a class="btn btn-default bt-custom-out-wh" href="#" role="button">CONTACT HANDPOINT</a>
 	</div>	
 </div>
