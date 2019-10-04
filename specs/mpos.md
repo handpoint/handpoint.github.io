@@ -18,7 +18,7 @@ hero:
 			<div class="col-md-8 col-sm-8">
 				<h1>Handpoint mPOS</h1>
 				<h3>Your Brandable or Out-of-the-Box mPOS App</h3>
-				<p>The Handpoint mPOS app puts payments in the palm of your hand. Pop-ups, SMBs, contractors, and more can securely accept EMV, NFC, and MSR payments instantly with any of the Handpoint P2PE terminals. And they can look up their entire transaction history in the app or online, even initiating voids and refunds in snap.</p>
+				<p>The Handpoint mPOS app puts payments in the palm of your hand. Pop-ups, SMBs, contractors, and more can securely accept EMV, NFC, and MSR payments instantly with any of the Handpoint PCI-P2PE terminals. And they can look up their entire transaction history in the app or online, even initiating voids and refunds in snap.</p>
 				<p>Available for iOS and Android, Handpoint mPOS is available out-of-the-box – you simply provide the MID. Or we provide the mPOS app as a white-label solution with our branding service, enabling you to deliver the seamless Handpoint customer experience with your name on top.</p>
 				<h4>Key features</h4>
 				<li>iOS and Android</li>
