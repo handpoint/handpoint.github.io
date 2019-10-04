@@ -23,7 +23,7 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus.png
       title: HiPlus
       link: /specs/hiplus
- ---
+---
 
 <table class="table table-striped table-custom">
   <tbody>
@@ -105,5 +105,6 @@ blurbs:
   </tbody>
 </table>
   
+<li>New terminal lines being added in 2019!</li>
 <li>A single integration of Handpoint to your acquiring platform gives you the ability to offer multiple terminal lines.</li>
 <li>If you don’t see the terminal you need, we can add new terminals all with the benefits of the Handpoint platform.</li>
