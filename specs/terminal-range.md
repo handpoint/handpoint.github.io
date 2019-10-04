@@ -108,7 +108,7 @@ blurbs:
 <li>A single integration of Handpoint to your acquiring platform gives you the ability to offer multiple terminal lines.</li>
 <li>If you don’t see the terminal you need, we can add new terminals all with the benefits of the Handpoint platform.</li>
 
-blurbs:
+title:
   description: "New solutions! Adding the power of Handpoint to Pax & Telpo:"
   list: 
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiLite_big.jpg?fit=crop&crop=focalpoint&fp-y=.53&h=750&w=600&fp-z=4.5&fp-x=.5
