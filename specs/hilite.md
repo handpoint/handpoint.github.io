@@ -49,7 +49,7 @@ hero:
             <li>Paysafe</li>
             <li>ACI Worldwide (Postillion)</li>
             <li>Worldpay (Vantiv Core)</li>
-            <li>Interac* (2019)</li>
+            <li>Interac* (2020)</li>
             <li>TSYS (Host Capture)</li>
             <li>EVO Payments International</li>
             <li>First Data OmniPay</li>
