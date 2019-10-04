@@ -21,6 +21,9 @@ blurbs:
       title: HiPro NFC
       link:  /specs/hipro
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus.png
+      title: HiPlus2test
+      link: /specs/hiplus
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus.png
       title: HiPlus
       link: /specs/hiplus
 ---
