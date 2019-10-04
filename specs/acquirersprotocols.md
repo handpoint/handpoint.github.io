@@ -50,8 +50,8 @@ intro:
 		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td><i class="fas fa-check"></i></td>
+		      <td>&nbsp;</td>
+		      <td>&nbsp;</td>
 		      <td>&nbsp;</td>
 		    </tr>
 			<tr>
