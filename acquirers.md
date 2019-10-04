@@ -21,7 +21,7 @@ blurbs:
 m-terminal: 
   title: Mobile terminals
   id: "m-terminal"
-  description: "The Handpoint P2PE software terminal runs on a range of hardware mobile terminals, from ultra-portable to all-in-ones. Help your merchants find the solution that delivers value for their business, and manage them all in one cloud-hosted portal."
+  description: "The Handpoint PCI-P2PE software terminal runs on a range of hardware mobile terminals, from ultra-portable to all-in-ones. Help your merchants find the solution that delivers value for their business, and manage them all in one cloud-hosted portal."
   buttontxt: "Handpoint-enabled terminals"
   buttonlink: /specs/terminal-range
   image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Mobile_terminals.png
