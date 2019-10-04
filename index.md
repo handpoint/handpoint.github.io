@@ -112,7 +112,7 @@ testimonials:
     author: "John Staunton, CEO"
     role: "Countr"
 cta: 
-  title: Powering thousands of merchants and dozens of POS solutions across 3 continents.
+  title: Powering <br>thousands of merchants and <br>dozens of POS solutions <br>across 3 continents.
   buttontxt: Go global
   buttonlink: /specs/geographies
 cloudlogos: 
