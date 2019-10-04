@@ -26,12 +26,6 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus.png
       title: Pax A80
       link: /specs/paxa80
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus.png
-      title: Pax A920
-      link: /specs/paxa920
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus.png
-      title: Telpo TPS900
-      link: /specs/TPS900
  ---
 
 <table class="table table-striped table-custom">
