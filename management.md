@@ -40,7 +40,7 @@ blurbs:
   description: Rest easy with secure transactions, secure shipping, and secure processing. The layers of our secure solution are designed to protect merchants and cardholders through every touchpoint of the transaction at every stage of the merchant lifecycle.
   list: 
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico06.svg
-      title: "P2PE for EMV + NFC + MSR"
+      title: "PCI-P2PE for EMV + NFC + MSR"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico07.svg
       title: "Semi-integrated & pre-certified"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico08.svg
@@ -63,7 +63,7 @@ global-reach:
   buttonlink: /specs/acquirersprotocols
 growth:
   title: Engineered for growth
-  description: "Our robust platform is highly flexible and scalable in every direction, allowing you to respond to the dynamic payments landscape.<br>If you need a solution customized for your market, Handpoint can add SDKs, terminals, tools, processors, and payment types. The entire Handpoint platform is hosted and PCI-certifed on AWS for infinite scalability, so there is no limit to your potential."
+  description: "Our robust platform is highly flexible and scalable in every direction, allowing you to respond to the dynamic payments landscape.<br>If you need a solution customized for your market, Handpoint can add SDKs, terminals, tools, processors, and payment types. The entire Handpoint platform is hosted and PCI-DSS certifed on AWS for infinite scalability, so there is no limit to your potential."
   image: img/managementplatform_engineered_pic.jpg
 contact:
   title: Bring Handpoint to your market
