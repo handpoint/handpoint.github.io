@@ -5,7 +5,7 @@ hero:
   description: Grow with Handpoint’s Integrated Payments Platform for <span id="js-rotating" class="hero-box-specialtxt">Acquirers , ISOs, ISVs</span>
   buttontxt: Get started
   buttonlink: /contact
-  hypertext: looking for POS Developers solutions? <a href="https://www.handpoint.com/docs/device/Basics/">Click here</a>
+  hypertext: looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here</a>
 blurbs: 
   title: "Integrated face-to-face payments made easy. Anytime. Anywhere."
   buttontext: Get started
@@ -53,7 +53,7 @@ solutions:
       id: "omnienabled"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/OmniEnabled_HiLite.png
-      description: "Handpoint's PCI-P2PE mobile terminals with tokenization integrations and web POS APIs are used today by merchants at the forefront: showrooming, membership models, online refunds, unified omni-commerce merchant accounts, high-touch retail, online booking with face-to-face payments, and more. Handpoint's flexible platform enables us to build new solutions for your opportunities. If you are an ecommerce acquirer, we can take you to omni with a seamless card present platform and deep expertise. In the world of nextgen acquiring, where will mobile take you?"
+      description: "Handpoint PCI-P2PE mobile terminals with tokenization integrations and web POS APIs are used today by merchants at the forefront: showrooming, membership models, online refunds, unified omni-commerce merchant accounts, high-touch retail, online booking with face-to-face payments, and more. Handpoint's flexible platform enables us to build new solutions for your opportunities. If you are an ecommerce acquirer, we can take you to omni with a seamless card present platform and deep expertise. In the world of nextgen acquiring, where will mobile take you?"
       buttontxt: "Payment Types"
       buttonlink: "/acquirers#omni-enabled"
     - title: SmartPOS
@@ -112,7 +112,7 @@ testimonials:
     author: "John Staunton, CEO"
     role: "Countr"
 cta: 
-  title: Powering thousands of merchants and dozens of POS across 3 continents.
+  title: Powering thousands of merchants and dozens of POS solutionsf across 3 continents.
   buttontxt: Go global
   buttonlink: /specs/geographies
 cloudlogos: 
