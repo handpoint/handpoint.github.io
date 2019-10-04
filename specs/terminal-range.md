@@ -23,9 +23,6 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus.png
       title: HiPlus
       link: /specs/hiplus
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus.png
-      title: Pax A80
-      link: /specs/paxa80
  ---
 
 <table class="table table-striped table-custom">
