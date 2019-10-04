@@ -32,7 +32,7 @@ hero:
 				<li>Super fast thermal printer</li>
 				<li>On-screen signature capture</li>
 				<li>Dual Camera, 1D & 2D scanner</li>
-				<li>Certified with Paysafe for use in the US and Canada, with rich omni-commerce capabilities.</li>
+				<li>Certified with Paysafe for use in the US and Canada, with rich omni-commerce capabilities.*</li>
 				<p>
 				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Pax_A920_charger.png?w=150" class="img-responsive" alt=""/></p>
 				<p class="section-internal-left-custom-txt">Accessories: Charging dock</p>
