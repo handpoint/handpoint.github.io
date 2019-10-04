@@ -64,7 +64,7 @@ global-reach:
 growth:
   title: Engineered for growth
   description: "Our robust platform is highly flexible and scalable in every direction, allowing you to respond to the dynamic payments landscape.<br>If you need a solution customized for your market, Handpoint can add SDKs, terminals, tools, processors, and payment types. The entire Handpoint platform is hosted and PCI-DSS certifed on AWS for infinite scalability, so there is no limit to your potential."
-  image: img/managementplatform_engineered_pic.jpg
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/managementplatform_engineered_pic.jpg
 contact:
   title: Bring Handpoint to your market
   description: You can bring the entire suite of mobile solutions, APIs, and management tools to your market with a single integration to your acquirer.
