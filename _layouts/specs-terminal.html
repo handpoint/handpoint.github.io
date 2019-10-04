@@ -36,6 +36,21 @@
         {{ content }}
       </div>
     </div>
+    <div class="section section-terminalrange-blurbs">
+      <div class="container">
+        <div class="row">
+          {% for blurb in page.blurbs.list %}
+          <div class="blurb col-md-3 col-sm-3">
+            <img src={{blurb.image}} alt=""/>
+            <a href={{blurb.link}}>
+              <p>{{ blurb.title }}</p>
+            </a>
+          </div>
+          {% endfor %}
+        </div>
+        <p class="specialtxt">{{ page.blurbs.description }}</p>
+      </div>
+    </div>
     {% include footer.html %}
     {% include js.html %}
   </body>
