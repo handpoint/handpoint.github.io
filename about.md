@@ -35,6 +35,7 @@ awards:
   description: >
     Check back soon - we are updating our list of awards and certifications, but we were shortlisted for two 2019 MPE Awards in Best POS Innovation and Best Merchant Payments Partnership, and WON the Best Merchant Payments Partnership in recognition of our innovative international integrated omni-commerce solution with Paysafe.
   image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/Widgets%20Awards%202019_Page_08.jpg
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/Widgets%20Awards%202019_Page_08.jpg
 leadership:
   title: Meet our leadership team
   description: >
