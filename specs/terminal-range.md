@@ -23,6 +23,10 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus.png
       title: HiPlus
       link: /specs/hiplus
+      <br>
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus.png
+      title: PaxA80
+      link: /specs/paxa80
 ---
 
 <table class="table table-striped table-custom">
@@ -107,18 +111,3 @@ blurbs:
   
 <li>A single integration of Handpoint to your acquiring platform gives you the ability to offer multiple terminal lines.</li>
 <li>If you don’t see the terminal you need, we can add new terminals all with the benefits of the Handpoint platform.</li>
-
-
-intro:
-  title:"New solutions! Adding the power of Handpoint to Pax & Telpo:"
-  description: "New solutions! Adding the power of Handpoint to Pax & Telpo:"
-  list: 
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiLite_big.jpg?fit=crop&crop=focalpoint&fp-y=.53&h=750&w=600&fp-z=4.5&fp-x=.5
-      title: Pax A80
-      link: /specs/paxa80
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Hi5-large-crop.png?h=300&w=200
-      title: Pax A920
-      link: /specs/paxa920
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled.png
-      title: TPS900
-      link:  /specs/TPS900
