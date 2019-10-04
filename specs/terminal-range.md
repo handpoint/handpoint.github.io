@@ -23,7 +23,6 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus.png
       title: HiPlus
       link: /specs/hiplus
-
 ---
 
 <table class="table table-striped table-custom">
