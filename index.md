@@ -5,7 +5,7 @@ hero:
   description: Grow with Handpoint’s Integrated Payments Platform for <span id="js-rotating" class="hero-box-specialtxt">Acquirers , ISOs, ISVs</span>
   buttontxt: Get started
   buttonlink: /contact
-  hypertext: looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here</a>
+  hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here</a>
 blurbs: 
   title: "Integrated face-to-face payments made easy. Anytime. Anywhere."
   buttontext: Get started
