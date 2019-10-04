@@ -32,7 +32,7 @@ hero:
 				<li>Super fast thermal printer</li>
 				<li>On-screen signature capture</li>
 				<li>Dual Camera, 1D & 2D scanner</li>
-				<li>Certified with Paysafe for use in the US and Canada, with rich omni-commerce capabilities.</li>
+				<li>Certified with Paysafe for use in the US and Canada, with rich omni-commerce capabilities.*</li>
 			</div>
 		</div>
 	</div>
