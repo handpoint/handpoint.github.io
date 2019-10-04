@@ -25,8 +25,8 @@ hero:
 				<p>For software developers, the Hi5 also has Bluetooth communication and is compatible with all of the Handpoint APIs. The color screen, tokenization, and integrated printer make the Hi5 a powerful mobile or countertop option to offer to merchants on three continents.</p>
 				<h4>Key features</h4>
 				<li>Standalone with GPRS</li>
-				<li>Integrated with iOS, Android, Windows, Cordova, and Web POS</li>
-				<li>P2PE payments</li>
+				<li>Semi-integrated with iOS, Android, Windows, Cordova, and Web POS</li>
+				<li>PCI-P2PE payments</li>
 				<li>EMV, NFC, & MSR payments</li>
 				<li>Tokenization & Tip Adjustment available</li>
 				<li>Remote key injection with plug and play activation</li>
