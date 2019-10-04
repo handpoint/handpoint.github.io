@@ -53,7 +53,7 @@ leadership:
   team2:
     - name: Jody Muehlegger 
       linkedin: https://www.linkedin.com/in/jodymuehlegger/
-      role: "COO | Head pf North America"
+      role: "COO | Head of North America"
       image: https://handpoint.imgix.net/web/images/team/jody.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
     - name: Juan Jaramillo 
       linkedin: https://www.linkedin.com/in/juan-núñez-jaramillo-125ab322/
@@ -66,13 +66,13 @@ leadership:
 bottomblurbs:
   - title: Funding raised
     description: "$10M institutional investment"
-    image: img/ico26.svg
+    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico26.svg
   - title: Headquarters
     description: "Reykjavik, Iceland"
-    image: img/ico27.svg
+    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico27.svg
   - title: Our motto
     description: Simplifying Card Payments
-    image: img/ico28.svg
+    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico28.svg
 cta: 
   title: Careers
   subtitle: We're hiring! Join our brilliant and friendly team
