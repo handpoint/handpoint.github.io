@@ -17,11 +17,11 @@ hero:
 			<div class="col-md-8 col-sm-8">
 				<h1>HiPro NFC</h1>
 				<h3>Complete Mobile Point of Sale</h3>
-				<p>Handpoint HiPro NFC puts a full Point of Sale in the palm of your hand. Engage with your customers everywhere: scan items and take payments in the aisle, place orders tableside, scan ticket barcodes at events and parking garages, and more. One solution for barcode scanning, your point of sale software, and P2PE + EMV/NFC/MSR payments and tokenization, with remote key injection, easy APIs, and certifications on three continents. Go mobile | Go global.</p>
+				<p>Handpoint HiPro NFC puts a full Point of Sale in the palm of your hand. Engage with your customers everywhere: scan items and take payments in the aisle, place orders tableside, scan ticket barcodes at events and parking garages, and more. One solution for barcode scanning, your point of sale software, and PCI-P2PE + EMV/NFC/MSR payments and tokenization, with remote key injection, easy APIs, and certifications on three continents. Go mobile | Go global.</p>
 				<h4>Key features</h4>
 				<li>iPhone / iPod touch sled</li>
 				<li>1D/2D barcode scanner</li>
-				<li>P2PE semi-integrated payments</li>
+				<li>PCI-P2PE semi-integrated payments</li>
 				<li>EMV, NFC, & MSR payments</li>
 				<li>Tokenization & Tip Adjustment available</li>
 				<li>Remote key injection with plug and play activation</li>
