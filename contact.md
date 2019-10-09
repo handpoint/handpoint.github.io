@@ -8,21 +8,21 @@ intro:
   description: "We have a variety of solutions specialists with deep industry experience ready to work with you to see if the Handpoint platform is a good fit for your payments needs. We primarily work with:"
 businessicons:
   icons: 
-    - icon: img/slide_ico01.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico01.svg
       name: Sports & Camps
-    - icon: img/slide_ico02.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico02.svg
       name: Venues & Attractions
-    - icon: img/slide_ico03.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico03.svg
       name: Home Service
-    - icon: img/slide_ico04.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico04.svg
       name: Restaurant
-    - icon: img/slide_ico01.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico01.svg
       name: Sports & Camps
-    - icon: img/slide_ico02.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico02.svg
       name: Venues & Attractions
-    - icon: img/slide_ico03.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico03.svg
       name: Home Service
-    - icon: img/slide_ico04.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico04.svg
       name: Restaurant
 contact-intro: Join a group of the most innovative and forward thinking payments professionals in the world. If you’d like to learn more, please fill out our form to contact a solutions specialist today.
 contact:
