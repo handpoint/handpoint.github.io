@@ -74,21 +74,21 @@ businessicons:
   title: "Accept Payments Everywhere. Go Mobile."
   subtitle: "See where mobile will take your business"
   icons: 
-    - icon: img/slide_ico01.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico01.svg
       name: Sports & Camps
-    - icon: img/slide_ico02.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico02.svg
       name: Venues & Attractions
-    - icon: img/slide_ico03.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico03.svg
       name: Home Service
-    - icon: img/slide_ico04.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico04.svg
       name: Restaurant
-    - icon: img/slide_ico01.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico01.svg
       name: Sports & Camps
-    - icon: img/slide_ico02.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico02.svg
       name: Venues & Attractions
-    - icon: img/slide_ico03.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico03.svg
       name: Home Service
-    - icon: img/slide_ico04.svg
+    - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico04.svg
       name: Restaurant
 testimonials:
   - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/slider_testimonial01.jpg
