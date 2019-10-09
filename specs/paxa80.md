@@ -42,6 +42,6 @@ hero:
 <div class="section section-form">
 	<div class="container">
 		<h3>Interested in bringing the PAX A80 to your merchants?</h3>
-		<a class="btn btn-default bt-custom-out-wh" href="#" role="button">CONTACT HANDPOINT</a>
+		<a class="btn btn-default bt-custom-out-wh" href="/contact" role="button">CONTACT HANDPOINT</a>
 	</div>	
 </div>
