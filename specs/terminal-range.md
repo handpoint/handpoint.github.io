@@ -105,6 +105,6 @@ blurbs:
   </tbody>
 </table>
   
-<li>Bringing the power of Handpoint to the PAX Android terminals <b><a href="/specs/paxa920">PAX A920</a></b> and <b><a href="/specs/paxa80">PAX A80</a></b> AND the <b><a href="/specs/TPS900">Telpo TPS900</a></b> - coming soon!</li>
+<li>Bringing the power of Handpoint to the PAX Android terminals <b><a href="/specs/paxa920">PAX A920</a></b> and <b><a href="/specs/paxa80">PAX A80</a></b> AND the <b><a href="/specs/TPS900"> TPS900</a></b> - coming soon!</li>
 <li>A single integration of Handpoint to your acquiring platform gives you the ability to offer multiple terminal lines.</li>
 <li>If you don’t see the terminal you need, we can add new terminals all with the benefits of the Handpoint platform.</li>
