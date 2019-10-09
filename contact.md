@@ -3,6 +3,7 @@ layout: contact
 hero: 
   title: Ready to get<br>started?
   description: <span class="specialtxt">Contact us now</span> and<br>we’ll be in touch right away
+  hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here      </a>  Sign up for our newsletter <a href="https://mailchi.mp/db51950d6bfa/handpointnewsletter">Click here</a>
 intro:
   title: We’re ready if you are
   description: "We have a variety of solutions specialists with deep industry experience ready to work with you to see if the Handpoint platform is a good fit for your payments needs. We primarily work with:"
