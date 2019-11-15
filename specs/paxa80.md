@@ -17,7 +17,7 @@ hero:
 				<h1>PAX A80</h1>
 				<p>1) With Handpoint’s powerful platform plus PAX’s cost effective A80, merchants have the perfect solution for the counter with the flexibility of mobile.</p>
 				<p>2) Merchants can use the PAX A80 as an all-in-one mobile SmartPOS with the <b><a href="/specs/mpos">Handpoint mPOS</a></b> app installed directly on the reader.
-				Developers can quickly integrate the PAX A80 with their POS - whether online or native iOS, Android, Mac, or Windows -  utilizing Handpoint’s innovative CloudAPI.  It’s the “perfect” semi-integration, with all payment handling and flow outside the POS.</p>
+				Developers can quickly integrate the PAX A80 with their POS - whether online or native iOS, Android, Mac, or Windows -  utilizing Handpoint’s innovative Cloud SDK.  It’s the “perfect” semi-integration, with all payment handling and flow outside the POS.</p>
 				<p>3) Developers can put their own Android application onto the PAX A80 and utilize Handpoint’s fast and easy SDK to activate payments.</p>
 				<h4>Key features</h4>
 				<li>Sleek handheld all-in-one</li>
@@ -26,7 +26,7 @@ hero:
 				<li>EMV+NFC+MSR</li>
 				<li>P2PE with 3DES and DUKPT</li>
 				<li>Use with <b><a href="/specs/mpos">Handpoint mPOS</a></b> app or your apps</li>
-				<li>Fast and easy integration with Handpoint CloudAPI</li>
+				<li>Fast and easy integration with Handpoint Cloud SDK</li>
 				<li>Remote key injection and remote software updates</li>
 				<li>Tokenization with sale and Tokenize only</li>
 				<li>Super fast thermal printer</li>
