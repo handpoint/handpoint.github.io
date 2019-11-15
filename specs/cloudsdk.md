@@ -11,7 +11,7 @@ hero:
 		<div class="row">
 			<div class="col-md-3 col-sm-4 section-internal-left">
 				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_new.png?w=250&trim=auto" class="img-responsive" alt=""/>
-				<a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/SpecSheets_PaxA920.pdf" role="button">PAX A920 Spec Sheet</a>
+				<a class="btn btn-default bt-custom-out" href="/contact" role="button">Cloud SDK Documentation</a>
 			</div>
 			<div class="col-md-8 col-sm-8">
 				<h1>Handpoint Cloud SDK</h1>
@@ -31,10 +31,6 @@ hero:
 				<li>Beautiful, intuitive user interface</li>
 				<li>Tokenization with sale and Tokenize only</li>
 				<li>Certified with Paysafe for use in the US and Canada, with rich omni-commerce capabilities.*</li>
-				<p>
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Pax_A920_charger.png?w=150" class="img-responsive" alt=""/></p>
-				<p class="section-internal-left-custom-txt">Accessories: Charging dock</p>
-				
 			</div>
 		</div>
 	</div>
@@ -43,7 +39,7 @@ hero:
 	
 <div class="section section-form">
 	<div class="container">
-		<h3>Interested in bringing the PAX A920 to your merchants?</h3>
+		<h3>Interested in using Handpoint Cloud SDK?</h3>
 		<a class="btn btn-default bt-custom-out-wh" href="/contact" role="button">CONTACT HANDPOINT</a>
 	</div>	
 </div>
