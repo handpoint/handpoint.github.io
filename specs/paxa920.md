@@ -3,7 +3,7 @@ layout: specs
 hero: 
   class: hero-paxa920
   title: Pax A920
-  description: 'All-in-one for Standalone SmartPOS & Semi-Integrated POS<br><br>'
+  description: '<span class="specialtxt">All-in-one</span> for Standalone SmartPOS & Semi-Integrated POS'
 ---
 
 <div class="section section-internal">
