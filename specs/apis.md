@@ -48,7 +48,7 @@ intro:
 			      <td style="vertical-align: bottom;">iOS SDK</td>
 			      <td style="vertical-align: bottom;">Android SDK</td>
 			      <td style="vertical-align: bottom;">Windows SDK</td>
-			      <td style="vertical-align: bottom;"><span class="specialtxt">CloudAPI</span></td>
+			      <td style="vertical-align: bottom;"><span class="specialtxt">Cloud SDK</span></td>
 			    </tr>
 			    <tr>
 			      <td><b>Supported Card Readers</b></td>
@@ -109,6 +109,16 @@ intro:
 			      <td><i class="fas fa-check"></i></td>
 			      <td><i class="fas fa-check"></i></td>
 					<td><span class="specialtxt">Via Express App</span></td>
+			    </tr>
+				  				<tr>
+			      <td>&nbsp;</td>
+			      <td class="text-left">PAX A920</td>
+			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+ 					<td class="fa-check-orange"><i class="fas fa-check"></i></td>
 			    </tr>
 				<tr>
 			      <td><b>Compatible POS Platforms</b></td>
@@ -222,7 +232,7 @@ intro:
 			      <td style="vertical-align: bottom;">iOS SDK</td>
 			      <td style="vertical-align: bottom;">Android SDK</td>
 			      <td style="vertical-align: bottom;">Windows SDK</td>
-			      <td style="vertical-align: bottom;"><span class="specialtxt">CloudAPI</span></td>
+			      <td style="vertical-align: bottom;"><span class="specialtxt">Cloud SDK</span></td>
 			    </tr>
 				  <tr>
 			      <td><b>Geographic Reach</b></td>
