@@ -17,11 +17,8 @@ hero:
 				<h1>Handpoint Cloud SDK</h1>
 				<p>Easy in-person payments, even when your software is in the cloud.</p>
 				<p>Point of sale is moving to the cloud, and Handpoint makes it easier than ever.</p>
-				<p>Handpoint Cloud SDK lets developers add P2PE card present payments on beautiful 
-				NextGen terminals in minutes to any web app, without compromising security or control.     </p>
-				<p>The Handpoint Cloud SDK is a simple javascript interface running in your web application that acts as a bridge between the web browser and the payment terminal, while shielding your software from card data.</p>
-				<p>The Handpoint Cloud SDK seamlessly starts and manages the entire P2PE transaction with the payment terminal, minimizing hassle for you and maximizing reliability, security, and control.</p>
-				<p>For your merchants, the terminal setup is easier than a standalone. A merchant connects the terminal to their network, just like a smartphone, authenticates his/her account, and it simply works -- your software then control the terminal from anywhere in the world, and your merchants have secure, reliable, intuitive payments.</p><br><br>
+				<p>Add P2PE card present payments on beautiful NextGen terminals in minutes to any web app, without compromising security or control. Handpoint Cloud SDK is a simple javascript interface running in your web application that acts as a bridge between the web browser and the payment terminal, while shielding your software from card data.</p>
+				<p>The Handpoint Cloud SDK seamlessly starts and manages the entire P2PE transaction with the payment terminal, minimizing hassle for you and maximizing reliability, security, and control.For your merchants, the terminal setup is easier than a standalone. A merchant connects the terminal to their network, just like a smartphone, authenticates his/her account, and it simply works -- your software then control the terminal from anywhere in the world, and your merchants have secure, reliable, intuitive payments.</p><br>
 				<h4>Key features</h4>
 				<li>Seamless to integrate card present payments into web apps</li>
 				<li>Shields your software from all card data</li>
