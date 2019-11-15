@@ -110,9 +110,29 @@ intro:
 			      <td><i class="fas fa-check"></i></td>
 					<td><span class="specialtxt">Via Express App</span></td>
 			    </tr>
-				  				<tr>
+				<tr>
 			      <td>&nbsp;</td>
 			      <td class="text-left">PAX A920</td>
+			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+ 					<td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			    </tr>
+				<tr> 
+				 <td>&nbsp;</td>
+			      <td class="text-left">PAX A80</td>
+			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+ 					<td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			    </tr>
+				  				<tr> 
+				 <td>&nbsp;</td>
+			      <td class="text-left">TPS900</td>
 			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
