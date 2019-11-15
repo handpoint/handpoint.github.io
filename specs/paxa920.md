@@ -10,7 +10,7 @@ hero:
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3 col-sm-4 section-internal-left">
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_new.png?w=250&trim=auto" class="img-responsive" alt=""/>
+				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_new.png?w=250&trim=auto" class="img-responsive" alt="The PAX A920 Android terminal has a large color touch screen integrated scanner and printer and P2PE payments. The Pax A920 can be used as a smartpos or integrated with the Handpoint Cloud SDK payments API for face to face payments"/>
 				<a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/SpecSheets_PaxA920.pdf" role="button">PAX A920 Spec Sheet</a>
 			</div>
 			<div class="col-md-8 col-sm-8">
@@ -34,7 +34,7 @@ hero:
 				<li>Dual Camera, 1D & 2D scanner</li>
 				<li>Certified with Paysafe for use in the US and Canada, with rich omni-commerce capabilities.*</li>
 				<p>
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Pax_A920_charger.png?w=150" class="img-responsive" alt=""/></p>
+				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Pax_A920_charger.png?w=150" class="img-responsive" alt=""/>The PAX A920 Android terminal has a docking station so it can be used in stores as a smartpos or integrated with the Handpoint Cloud SDK payments API for face to face payments</p>
 				<p class="section-internal-left-custom-txt">Accessories: Charging dock</p>
 				
 			</div>
