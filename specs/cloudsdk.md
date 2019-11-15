@@ -3,7 +3,7 @@ layout: specs
 hero: 
   class: hero-paxa920
   title: Introducing the Revolutionary Handpoint Cloud SDK
-  description: 'Seamlessly integrate card present payments into any cloud software<br><br>'
+  description: <span class="specialtxt">Go mobile</span> and watch your <br>merchants grow
 ---
 
 <div class="section section-internal">
