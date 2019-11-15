@@ -2,8 +2,8 @@
 layout: specs
 hero: 
   class: hero-paxa920
-  title: Pax A920
-  description: 'All-in-one for Standalone SmartPOS & Semi-Integrated POS<br><br>'
+  title: Introducing the Revolutionary Handpoint Cloud SDK
+  description: 'Seamlessly integrate card present payments into any cloud software<br><br>'
 ---
 
 <div class="section section-internal">
