@@ -3,7 +3,7 @@ layout: specs
 hero: 
   class: hero-paxa920
   title: Pax A920
-  description: '<span class="specialtxt">All-in-one</span> for Standalone SmartPOS & Semi-Integrated POS'
+  description: '<span class="specialtxt">All-in-one</span> for Standalone SmartPOS<br>& Semi-Integrated POS'
 ---
 
 <div class="section section-internal">
@@ -34,7 +34,7 @@ hero:
 				<li>Dual Camera, 1D & 2D scanner</li>
 				<li>Certified with Paysafe for use in the US and Canada, with rich omni-commerce capabilities.*</li>
 				<p>
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Pax_A920_charger.png?w=150" class="img-responsive" alt=""/>The PAX A920 Android terminal has a docking station so it can be used in stores as a smartpos or integrated with the Handpoint Cloud SDK payments API for face to face payments</p>
+				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Pax_A920_charger.png?w=150" class="img-responsive" alt="The PAX A920 Android terminal has a docking station so it can be used in stores as a smartpos or integrated with the Handpoint Cloud SDK payments API for face to face payments"/></p>
 				<p class="section-internal-left-custom-txt">Accessories: Charging dock</p>
 				
 			</div>
