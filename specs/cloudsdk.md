@@ -2,8 +2,8 @@
 layout: specs
 hero: 
   class: hero-paxa920
-  title: Introducing the Revolutionary Handpoint Cloud SDK
-  description: <span class="specialtxt">Go mobile</span> and watch your <br>merchants grow
+  title: The Revolutionary Handpoint Cloud SDK
+  description: Seamlessly integrat card present<br>payments into <span class="specialtxt">any web app</span>
 ---
 
 <div class="section section-internal">
