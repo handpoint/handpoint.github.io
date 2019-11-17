@@ -10,7 +10,7 @@ hero:
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3 col-sm-4 section-internal-left">
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/cloudsdk.jp2?w=250&trim=auto" class="img-responsive" alt=""/>
+				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/cloudSDK.jp2?w=250&trim=auto" class="img-responsive" alt=""/>
 				<a class="btn btn-default bt-custom-out" href="https://www.handpoint.com/docs/device/Cloud/" role="button">Cloud SDK Documentation</a>
 			</div>
 			<div class="col-md-8 col-sm-8">
