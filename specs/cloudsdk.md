@@ -1,9 +1,9 @@
 ---
 layout: specs
 hero: 
-  class: hero-paxa920
+  class: hero-cloudsdk
   title: Revolutionary Handpoint Cloud SDK
-  description: <span class="specialtxt">Seamlessly integrate</span> card present<br>payments into any web app
+  description: <span class="specialtxt">Seamlessly integrate</span><br>card present payments<br>into any web app
 ---
 
 <div class="section section-internal">
