@@ -2179,7 +2179,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SPECS CLOUDSDK
    ------------------------- */
 .hero-cloudsdk {
-	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/graphics/testdk.png?w=1200&trim=auto) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/testdk.png) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-cloudsdk {
