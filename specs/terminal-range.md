@@ -23,6 +23,9 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus.png
       title: HiPlus
       link: /specs/hiplus
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_new.png
+      title: Pax A920
+      link: /specs/paxa920
 ---
 
 <table class="table table-striped table-custom">
