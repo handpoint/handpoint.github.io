@@ -48,7 +48,7 @@ intro:
 			      <td style="vertical-align: bottom;">iOS SDK</td>
 			      <td style="vertical-align: bottom;">Android SDK</td>
 			      <td style="vertical-align: bottom;">Windows SDK</td>
-			      <td style="vertical-align: bottom;"><span class="specialtxt"><b><a href="/specs/cloudsdk">Cloud SDK</a></b></span></td>
+			      <td style="vertical-align: bottom;"><b><a href="/specs/cloudsdk">Cloud SDK</a></b></td>   
 			    </tr>
 			    <tr>
 			      <td><b>Supported Card Readers</b></td>
