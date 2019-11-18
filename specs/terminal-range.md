@@ -104,18 +104,18 @@ blurbs:
     </tr>
     <tr>
       <td>PAX A920</td>
-      <td>Counter-top, retail, rentals, field service, QSR, direct sales</td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Counter-top, retail, services, restaurant, events</td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
     </tr>
         <tr>
       <td>PAX A80</td>
