@@ -38,7 +38,8 @@ blurbs:
       <td>IOS SDK</td>
       <td>Android SDK</td>
       <td>Windows SDK</td>
-      <td>Web SDK</td>
+      <td>Express SDK</td>
+      <td>Cloud SDK</td>
       <td>Barcode scanner</td>
       <td>Stand-alone integrated ready</td>
     </tr>
