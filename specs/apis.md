@@ -230,16 +230,6 @@ intro:
 			     <td>&nbsp;</td>
 			     <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 			    </tr>
-				  <tr>
-			      <td>&nbsp;</td>
-			      <td class="text-left">Mac Web POS</td>
-					<td><i class="fas fa-check"></i></td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-			     <td>&nbsp;</td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			    </tr>
 			  </tbody>
 			</table>
 			<table class="table table-striped table-custom apis-table">
@@ -251,7 +241,7 @@ intro:
 			      <td style="vertical-align: bottom;">Web SDK</td>
 			      <td style="vertical-align: bottom;">iOS SDK</td>
 			      <td style="vertical-align: bottom;">Android SDK</td>
-			      <td style="vertical-align: bottom;">Windows SDK</td>
+			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Windows/">Windows SDK</a></span>
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">Cloud SDK</a></span></td>
 			    </tr>
 				  <tr>
