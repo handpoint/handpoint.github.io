@@ -55,7 +55,7 @@ blurbs:
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
-      <td><span class="specialtxt">Via Express App</span></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td> 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
@@ -71,7 +71,7 @@ blurbs:
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
-      <td><span class="specialtxt">Via Express App</span></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td> 
       <td>&nbsp;</td>
       <td><i class="fas fa-check"></i></td>
     </tr>
