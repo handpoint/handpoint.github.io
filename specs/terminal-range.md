@@ -90,7 +90,7 @@ blurbs:
     </tr>
     <tr>
       <td><b><a href="/specs/hipro">HiPro</a></b></td>
-      <td>High touch retail, transportation, line-busting, table-side service, mobile, POS events</td>
+      <td>High-touch retail, transportation, line-busting, table-side service, mobile POS, events</td>
       <td>&nbsp;</td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
@@ -122,7 +122,7 @@ blurbs:
     </tr>
     <tr>
       <td><b><a href="/specs/paxa920">PAX A920</a></b></td>
-      <td>Cloud, counter-top, tourism, retail, services, restaurant, events</td>
+      <td>Cloud, high-touch retail, membership management, travel, line-busting, restaurant, mobile, services, events</td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
@@ -138,7 +138,7 @@ blurbs:
     </tr>
         <tr>
       <td><b><a href="/specs/paxa80">PAX A80</a></b></td>
-      <td>Cloud, counter-top, tourism, retail, services</td>
+      <td>Cloud, counter-top, retail, services</td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
@@ -171,6 +171,6 @@ blurbs:
   </tbody>
 </table>
   
-<li>Bringing the power of Handpoint to the PAX Android terminals <b><a href="/specs/paxa920">PAX A920</a></b> and <b><a href="/specs/paxa80">PAX A80</a></b> AND the <b><a href="/specs/TPS900"> TPS900</a></b> - coming soon!</li>
+
 <li>A single integration of Handpoint to your acquiring platform gives you the ability to offer multiple terminal lines.</li>
 <li>If you don’t see the terminal you need, we can add new terminals all with the benefits of the Handpoint platform.</li>
