@@ -62,7 +62,7 @@ intro:
 			    </tr>
 			    <tr>
 			      <td>&nbsp;</td>
-			      <td class="text-left">Hi5 - Bluetooth</td>
+			      <td class="text-left"><span class="specialtxt"><a href="/specs/Hi5">Hi5 (BT Only)</a></span></td>
 			      <td>&nbsp;</td>
 			      <td><i class="fas fa-check"></i></td>
 			      <td><i class="fas fa-check"></i></td>
@@ -72,7 +72,7 @@ intro:
 			    </tr>
 				<tr>
 			      <td>&nbsp;</td>
-			      <td class="text-left">Hi5 - GPRS</td>
+			      <td class="text-left"><span class="specialtxt"><a href="/specs/hi5">Hi5 (GPRS)</a></span></td>
 			     <td><i class="fas fa-check"></i></td>
 			      <td>&nbsp;</td>
 			      <td>&nbsp;</td>
@@ -82,7 +82,7 @@ intro:
 			    </tr>
 				<tr>
 			      <td>&nbsp;</td>
-			      <td class="text-left">HiPlus</td>
+			      <td class="text-left"><span class="specialtxt"><a href="/specs/hiplus">HiPlus</a></span></td>
 			     <td><i class="fas fa-check"></i></td>
 			      <td>&nbsp;</td>
 			      <td>&nbsp;</td>
@@ -92,7 +92,7 @@ intro:
 			    </tr>
 				<tr>
 			      <td>&nbsp;</td>
-			      <td class="text-left">HiPro Sled with Barcode Scanner</td>
+			      <td class="text-left"><span class="specialtxt"><a href="/specs/hipro">HiPro Sled with Barcode Scanner</a></span></td>
 					<td>&nbsp;</td>
 			      <td><i class="fas fa-check"></i></td>
 			      <td><i class="fas fa-check"></i></td>
@@ -112,7 +112,7 @@ intro:
 			    </tr>
 				<tr>
 			      <td>&nbsp;</td>
-			      <td class="text-left">PAX A920</td>
+			      <td class="text-left">PAX A920<span class="specialtxt"><a href="/specs/paxa920">PAX A920</a></span></td>
 			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
@@ -122,7 +122,7 @@ intro:
 			    </tr>
 				<tr> 
 				 <td>&nbsp;</td>
-			      <td class="text-left">PAX A80</td>
+			      <td class="text-left"><span class="specialtxt"><a href="/specs/paxa80">PAX A80</a></span></td>
 			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
@@ -132,7 +132,7 @@ intro:
 			    </tr>
 				  				<tr> 
 				 <td>&nbsp;</td>
-			      <td class="text-left">TPS900</td>
+			      <td class="text-left">TPS900<span class="specialtxt"><a href="/specs/TPS900">TPS900</a></span></td>
 			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
