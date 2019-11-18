@@ -55,6 +55,7 @@ blurbs:
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
@@ -71,6 +72,7 @@ blurbs:
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
       <td>&nbsp;</td>
+      <td>&nbsp;</td>
       <td><i class="fas fa-check"></i></td>
     </tr>
     <tr>
@@ -85,6 +87,7 @@ blurbs:
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
     </tr>
@@ -101,11 +104,13 @@ blurbs:
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
+      <td>&nbsp;</td>
       <td><i class="fas fa-check"></i></td>
     </tr>
     <tr>
       <td>PAX A920</td>
       <td>Cloud, counter-top, tourism, retail, services, restaurant, events</td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
@@ -132,10 +137,12 @@ blurbs:
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
     </tr>
         <tr>
       <td>TPS900</td>
       <td>Cloud, counter-top, retail, services, restaurant</td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
