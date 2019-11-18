@@ -238,10 +238,10 @@ intro:
 			      <td>&nbsp;</td>
 			      <td>&nbsp;</td>
 			      <td style="vertical-align: bottom;">Standalone Terminal<br>(Integrated Ready)</td>
-			      <td style="vertical-align: bottom;">Web SDK</td>
-			      <td style="vertical-align: bottom;">iOS SDK</td>
-			      <td style="vertical-align: bottom;">Android SDK</td>
-			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Windows/">Windows SDK</a></span>
+			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Express/">Express SDK</a></span></td>    
+			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/iOS/">iOS SDK</a></span></td>
+			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Android/">Android SDK</a></span></td>
+			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Windows/">Windows SDK</a></span></td>
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">Cloud SDK</a></span></td>
 			    </tr>
 				  <tr>
