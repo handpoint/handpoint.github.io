@@ -140,7 +140,7 @@ blurbs:
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
     </tr>
         <tr>
-      <td>TPS900</td>
+      <td><b><a href="/specs/TPS900"> TPS900</a></b></td>
       <td>Cloud, counter-top, retail, services, restaurant</td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
