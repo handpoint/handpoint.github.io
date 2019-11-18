@@ -23,9 +23,19 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus.png
       title: HiPlus
       link: /specs/hiplus
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_new.png
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png
       title: Pax A920
       link: /specs/paxa920
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Pax_A80.png
+      title: Pax A80
+      link: /specs/paxa80
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TPS900_zoom.png
+      title: TPS900
+      link: /specs/TPS900
+    - image: 
+      title: Add more?
+      link: /contact
+      
 ---
 
 <table class="table table-striped table-custom">
