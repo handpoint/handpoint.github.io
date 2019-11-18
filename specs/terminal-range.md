@@ -89,7 +89,7 @@ blurbs:
     </tr>
     <tr>
       <td>HiPlus</td>
-      <td>Sports & camps, retail, transportation delivery, salon & spa</td>
+      <td>Sports & camps, retail, transportation, delivery, salon & spa</td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
@@ -104,7 +104,7 @@ blurbs:
     </tr>
     <tr>
       <td>PAX A920</td>
-      <td>Counter-top, retail, services, restaurant, events</td>
+      <td>Cloud, counter-top, tourism, retail, services, restaurant, events</td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
@@ -119,33 +119,33 @@ blurbs:
     </tr>
         <tr>
       <td>PAX A80</td>
-      <td>Counter-top, retail, rentals, field service, QSR, direct sales</td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Cloud, counter-top, tourism, retail, services</td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
     </tr>
         <tr>
       <td>TPS900</td>
-      <td>Counter-top, retail, rentals, field service, QSR, direct sales</td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Cloud, counter-top, retail, services, restaurant</td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td class="fa-check-orange"><i class="fas fa-check"></i></td>        
     </tr>
   </tbody>
 </table>
