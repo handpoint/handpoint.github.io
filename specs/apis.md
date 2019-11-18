@@ -52,7 +52,7 @@ intro:
 			    </tr>
 			    <tr>
 			      <td><b>Supported Card Readers</b></td>
-			      <td class="text-left">HiLite (Bluetooth only)</td>
+			      <td class="text-left"><span class="specialtxt"><a href="/specs/hilite">HiLite (BT Only)</a></span></td>
 			      <td>&nbsp;</td>
 			      <td><i class="fas fa-check"></i></td>
 			      <td><i class="fas fa-check"></i></td>
