@@ -16,7 +16,7 @@ hero:
 			<div class="col-md-8 col-sm-8">
 				<h1>Handpoint Cloud SDK</h1>
 				<p>Easy in-person payments, even when your software is in the cloud.</p>
-				<p>Add P2PE card present payments on beautiful NextGen terminals to any web app, without compromising security or control. Handpoint Cloud SDK is a simple javascript interface running in your web application that acts as a bridge between the web browser and the payment terminal, while shielding your software from card data.</p>
+				<p>Add P2PE card present payments on beautiful NextGen terminals to any web app, without compromising security or control. Handpoint Cloud SDK is a simple javascript interface running in your web application that acts as a bridge between the web browser and the payment terminal and shields your software from card data. You talk to Handpoint in the cloud, and Handpoint steers the terminal from the cloud. There is nothing installed on the merchant's device, allowing you to offer card present payments to merchants using any platforrm - iOS, Android, PC, Mac.</p>
 				<p>The Handpoint Cloud SDK seamlessly starts and manages the entire P2PE transaction with the payment terminal, minimizing hassle for you and maximizing reliability, security, and control. For your merchants, the terminal setup is easier than a standalone. A merchant connects the terminal to their network, just like a smartphone, authenticates their account, and it simply works -- your software then controls the terminal from anywhere in the world, and your merchants have secure, reliable, intuitive payments.</p><br>
 				<h4>Key features</h4>
 				<li>Seamless to integrate card present payments into web apps</li>
