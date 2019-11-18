@@ -32,8 +32,8 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TPS900_zoom.png
       title: TPS900
       link: /specs/TPS900
-    - image: 
-      title: Add more?
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico11.svg
+      title: Need more?
       link: /contact
       
 ---
