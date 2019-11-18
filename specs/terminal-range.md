@@ -44,7 +44,7 @@ blurbs:
       <td>Stand-alone integrated ready</td>
     </tr>
     <tr>
-      <td>HiLite, mPOS</td>
+      <td><b><a href="/specs/hilite">HiLite, mPOS</a></td>
       <td>Counter-top, retail, rentals, field service, QSR, direct sales</td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
@@ -55,12 +55,12 @@ blurbs:
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td><span class="specialtxt">Via Express App</span></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>Hi5</td>
+      <td><b><a href="/specs/hi5">Hi5</a></td>
       <td>Counter-top, retail, transportations, delivery, table-side service</td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
@@ -71,12 +71,12 @@ blurbs:
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
-      <td>&nbsp;</td>
+      <td><span class="specialtxt">Via Express App</span></td>
       <td>&nbsp;</td>
       <td><i class="fas fa-check"></i></td>
     </tr>
     <tr>
-      <td>HiPro</td>
+      <td><b><a href="/specs/hipro">HiPro</a></td>
       <td>High touch retail, transportation, line-busting, table-side service, mobile, POS events</td>
       <td>&nbsp;</td>
       <td><i class="fas fa-check"></i></td>
@@ -92,7 +92,7 @@ blurbs:
       <td><i class="fas fa-check"></i></td>
     </tr>
     <tr>
-      <td>HiPlus</td>
+      <td><b><a href="/specs/hiplus">HiPlus</a></td>
       <td>Sports & camps, retail, transportation, delivery, salon & spa</td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
@@ -108,7 +108,7 @@ blurbs:
       <td><i class="fas fa-check"></i></td>
     </tr>
     <tr>
-      <td>PAX A920</td>
+      <td><b><a href="/specs/paxa920">PAX A920</a></b></td>
       <td>Cloud, counter-top, tourism, retail, services, restaurant, events</td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
@@ -124,7 +124,7 @@ blurbs:
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
     </tr>
         <tr>
-      <td>PAX A80</td>
+      <td><b><a href="/specs/paxa80">PAX A80</a></b></td>
       <td>Cloud, counter-top, tourism, retail, services</td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
