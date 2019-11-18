@@ -102,6 +102,51 @@ blurbs:
       <td>&nbsp;</td>
       <td><i class="fas fa-check"></i></td>
     </tr>
+    <tr>
+      <td>PAX A920</td>
+      <td>Counter-top, retail, rentals, field service, QSR, direct sales</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+        <tr>
+      <td>PAX A80</td>
+      <td>Counter-top, retail, rentals, field service, QSR, direct sales</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+        <tr>
+      <td>TPS900</td>
+      <td>Counter-top, retail, rentals, field service, QSR, direct sales</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
   </tbody>
 </table>
   
