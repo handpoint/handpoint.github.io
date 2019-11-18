@@ -44,7 +44,7 @@ blurbs:
       <td>Stand-alone integrated ready</td>
     </tr>
     <tr>
-      <td><b><a href="/specs/hilite">HiLite, mPOS</a></td>
+      <td><b><a href="/specs/hilite">HiLite, mPOS</a></b></td>
       <td>Counter-top, retail, rentals, field service, QSR, direct sales</td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
@@ -60,7 +60,7 @@ blurbs:
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><b><a href="/specs/hi5">Hi5</a></td>
+      <td><b><a href="/specs/hi5">Hi5</a></b></td>
       <td>Counter-top, retail, transportations, delivery, table-side service</td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
@@ -76,7 +76,7 @@ blurbs:
       <td><i class="fas fa-check"></i></td>
     </tr>
     <tr>
-      <td><b><a href="/specs/hipro">HiPro</a></td>
+      <td><b><a href="/specs/hipro">HiPro</a></b></td>
       <td>High touch retail, transportation, line-busting, table-side service, mobile, POS events</td>
       <td>&nbsp;</td>
       <td><i class="fas fa-check"></i></td>
@@ -92,7 +92,7 @@ blurbs:
       <td><i class="fas fa-check"></i></td>
     </tr>
     <tr>
-      <td><b><a href="/specs/hiplus">HiPlus</a></td>
+      <td><b><a href="/specs/hiplus">HiPlus</a></b></td>
       <td>Sports & camps, retail, transportation, delivery, salon & spa</td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
