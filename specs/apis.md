@@ -48,7 +48,7 @@ intro:
 			      <td style="vertical-align: bottom;">iOS SDK</td>
 			      <td style="vertical-align: bottom;">Android SDK</td>
 			      <td style="vertical-align: bottom;">Windows SDK</td>
-			      <td style="vertical-align: bottom;"><span class="specialtxt"><b><a href="/specs/hilite">HiLite, mPOS</a></b></span></td>
+			      <td style="vertical-align: bottom;"><span class="specialtxt"><b><a href="/specs/cloudsdk">Cloud SDK</a></b></span></td>
 			    </tr>
 			    <tr>
 			      <td><b>Supported Card Readers</b></td>
@@ -252,7 +252,7 @@ intro:
 			      <td style="vertical-align: bottom;">iOS SDK</td>
 			      <td style="vertical-align: bottom;">Android SDK</td>
 			      <td style="vertical-align: bottom;">Windows SDK</td>
-			      <td style="vertical-align: bottom;"><span class="specialtxt">Cloud SDK</span></td>
+			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">Cloud SDK</a></span></td>
 			    </tr>
 				  <tr>
 			      <td><b>Geographic Reach</b></td>
