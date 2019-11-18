@@ -94,21 +94,21 @@ intro:
 			      <td>&nbsp;</td>
 			      <td class="text-left">HiPro Sled with Barcode Scanner</td>
 					<td>&nbsp;</td>
-			     <td><i class="fas fa-check"></i></td>
+			      <td><i class="fas fa-check"></i></td>
 			      <td><i class="fas fa-check"></i></td>
 			      <td>&nbsp;</td>
 			      <td>&nbsp;</td>
-					<td><span class="specialtxt">Via Express App</span></td>
+			      <td><span class="specialtxt">Via Express App</span></td>
 			    </tr>
 				<tr>
 			      <td>&nbsp;</td>
 			      <td class="text-left">HiPro Flat (BT) with Barcode Scanner</td>
 					<td>&nbsp;</td>
-			     <td><i class="fas fa-check"></i></td>
-			      <td><i class="fas fa-check"></i></td>
-			      <td><i class="fas fa-check"></i></td>
-			      <td><i class="fas fa-check"></i></td>
-					<td><span class="specialtxt">Via Express App</span></td>
+			     <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			      <td><span class="specialtxt">Via Express App</span></td>
 			    </tr>
 				<tr>
 			      <td>&nbsp;</td>
