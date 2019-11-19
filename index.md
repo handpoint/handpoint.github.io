@@ -60,7 +60,7 @@ solutions:
       id: "smartpos"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png
-      description: "All-in-one PCI-P2PE payment terminals with business apps built in, PLUS all the security and flexibility of the Handpoint software terminal, international gateway, remote key injection, and terminal mangement sytem. Handpoint makes SmartPOS smarter business."
+      description: "All-in-one P2PE payment terminals with business apps built in, PLUS all the security and flexibility of the Handpoint software terminal, international gateway, remote key injection, and terminal mangement sytem. Handpoint makes SmartPOS smarter business."
       buttontxt: "Looking to Sell SmartPOS?"
       buttonlink: "/acquirers#smartpos"
     - title: SoftPOS
