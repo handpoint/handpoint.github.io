@@ -9,7 +9,7 @@ intro:
   title: Handpoint mobile terminals
   description: Handpoint’s innovative range of mobile terminals help you reach new verticals and become a strategic partner in your merchant's growth. Merchants finally can choose a card reader that delivers value for their business - integrated, cost-effective, revenue-driving.<br><br>Offer your merchants and software partners the pre-certified solutions they need.
 blurbs:
-  description: "Handpoint's innovative range of readers & SDKs covers your key use cases. <br> Find the solution right for your opportunity:"
+  description: "Handpoint's innovative range of readers & <b><a href="/specs/apis">SDKs</a></b> covers your key use cases. <br> Find the solution right for your opportunity:"
   list: 
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiLite_big.jpg?fit=crop&crop=focalpoint&fp-y=.53&h=750&w=600&fp-z=4.5&fp-x=.5
       title: HiLite NFC
