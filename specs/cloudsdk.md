@@ -16,7 +16,7 @@ hero:
 			<div class="col-md-8 col-sm-8">
 				<h1>Handpoint Cloud SDK</h1>
 				<p>Easy in-person payments, even when your software is in the cloud.</p>
-				<p>Add P2PE card present payments on beautiful NextGen terminals to any web app, without compromising security or control. Handpoint Cloud SDK is a simple javascript interface running in your web application that acts as a bridge between the web browser and the payment terminal and shields your software from card data. You talk to Handpoint in the cloud, and Handpoint steers the terminal from the cloud. There is nothing installed on the merchant's device, allowing you to offer card present payments to merchants using any platforrm - iOS, Android, PC, Mac.</p>
+				<p>Add point-to-point encrypted (P2PE) card present payments on beautiful NextGen terminals to any web app, without compromising security or control. Handpoint Cloud SDK is a simple javascript interface running in your web application that acts as a bridge between the web browser and the payment terminal and shields your software from card data. You talk to Handpoint in the cloud, and Handpoint steers the terminal from the cloud. There is nothing installed on the merchant's device, allowing you to offer card present payments to merchants using any platforrm - iOS, Android, PC, Mac.</p>
 				<p>The Handpoint Cloud SDK seamlessly starts and manages the entire P2PE transaction with the payment terminal, minimizing hassle for you and maximizing reliability, security, and control. For your merchants, the terminal setup is easier than a standalone. A merchant connects the terminal to their network, just like a smartphone, authenticates their account, and it simply works -- your software then controls the terminal from anywhere in the world, and your merchants have secure, reliable, intuitive payments.</p><br>
 				<h4>Key features</h4>
 				<li>Seamless to integrate card present payments into web apps</li>
@@ -25,7 +25,7 @@ hero:
 				<li>Enables the best Android terminals on the market</li>
 				<li>Use with <b><a href="/specs/paxa920">PAX A920</a></b>, <b><a href="/specs/paxa80">PAX A80</a></b>, or <b><a href="/specs/tps900">TPS900</a></b></li>
 				<li>EMV+NFC+MSR</li>
-				<li>P2PE with 3DES and DUKPT</li>
+				<li>P2PE payments with 3DES and DUKPT</li>
 				<li>Super easy merchant setup</li>
 				<li>Beautiful, intuitive user interface</li>
 				<li>Tokenization with sale and tokenize only</li>
