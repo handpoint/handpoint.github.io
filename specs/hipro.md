@@ -21,7 +21,7 @@ hero:
 				<h4>Key features</h4>
 				<li>iPhone / iPod touch sled</li>
 				<li>1D/2D barcode scanner</li>
-				<li>PCI-P2PE semi-integrated payments</li>
+				<li>PCI-P2PE (point-to-point encrypted) semi-integrated payments</li>
 				<li>EMV, NFC, & MSR payments</li>
 				<li>Tokenization & Tip Adjustment available</li>
 				<li>Remote key injection with plug and play activation</li>
