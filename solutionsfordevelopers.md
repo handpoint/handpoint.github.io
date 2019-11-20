@@ -45,7 +45,7 @@ security:
   list: 
     - description: Eliminate sensitive data from your software AND eliminate any need to certify your integration with the processors.
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico18.svg
-    - description: Give your merchants PCI-P2PE security on every pre-certified EMV card reader.
+    - description: Give your merchants PCI-P2PE (point-to-point encrypted) security on every pre-certified EMV card reader.
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico19.svg
     - description: Ship devices securely with seamless remote activation and remote key injection.
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico20.svg
