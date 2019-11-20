@@ -32,7 +32,7 @@ hero:
         <p>Handpoint HiLite NFC helps merchants move to integrated payments seamlessly – whether in retail and restaurants or transportation, pop-ups, field services, sports, and more. The HiLite integrates to POS software on every major platform, is sleek and cost-effective, and provides all the security and incredible customer experience enabled by the Handpoint platform.</p>
         <h4>Key features</h4>
         <li>Ultra-portable or fixed</li>
-        <li>PCI-P2PE semi-integrated payments</li>
+        <li>PCI-P2PE (point-to-point encrypted) semi-integrated payments</li>
         <li>APIs every platform: iOS, Android, Windows, Cordova, and Web POS</li>
         <li>EMV, NFC, & MSR payments</li>
         <li>Tokenization & Tip Adjustment available</li>
