@@ -24,7 +24,7 @@ hero:
 				<li>Color touch screen</li>
 				<li>WiFi, 4G, or 3G</li>
 				<li>EMV+NFC+MSR</li>
-				<li>P2PE with 3DES and DUKPT</li>
+				<li>Point-to-point encrypted (P2PE) with 3DES and DUKPT</li>
 				<li>Use with <b><a href="/specs/mpos">Handpoint mPOS</a></b> app or your apps</li>
 				<li>Fast and easy integration with Handpoint Cloud SDK</li>
 				<li>Remote key injection and remote software updates</li>
