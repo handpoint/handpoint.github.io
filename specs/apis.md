@@ -62,7 +62,7 @@ intro:
 			    </tr>
 			    <tr>
 			      <td>&nbsp;</td>
-			      <td class="text-left"><span class="specialtxt"><a href="/specs/Hi5">Hi5 (BT Only)</a></span></td>
+			      <td class="text-left"><span class="specialtxt"><a href="/specs/hi5">Hi5 (BT Only)</a></span></td>
 			      <td>&nbsp;</td>
 			      <td><i class="fas fa-check"></i></td>
 			      <td><i class="fas fa-check"></i></td>
