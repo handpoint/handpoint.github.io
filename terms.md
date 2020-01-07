@@ -4,16 +4,6 @@ milestones:
   title: Handpoint Terms and conditions of Service and Privacy Policy
 --- 
 
-<!-- Content for Section 1 - title-->
-<div class="ui center aligned stackable grid grey-background relaxed-padding">
-  <div class="middle aligned column">
-    <div class="row">
-      <h1><b>Handpoint Terms and conditions of Service and Privacy Policy</b></h1>
-    </div>
-  </div>
-</div>
-<!-- End Content for Section 1 - title -->
-
 <!-- Content for Section 2 - description -->
 <div class="ui center aligned stackable grid relaxed-padding">
   <div class="middle aligned twelve wide column">
