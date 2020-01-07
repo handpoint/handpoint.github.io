@@ -24,7 +24,7 @@ milestones:
 <div class="ui center aligned stackable grid relaxed-padding">
   <div class="middle aligned twelve wide column">
     <div class="row">
-      <h1>1. Definitions</h1>
+      <h2>1. Definitions</h2>
     </div>
     <div class="row paragraph">
       <p>
@@ -63,7 +63,7 @@ milestones:
 <div class="ui center aligned stackable grid relaxed-padding">
   <div class="middle aligned twelve wide column">
     <div class="row">
-      <h1>2. Terms</h1>
+      <h2>2. Terms</h2>
     </div>
     <div class="row paragraph">
       <p>
@@ -91,7 +91,7 @@ milestones:
 <div class="ui center aligned stackable grid grey-background relaxed-padding">
   <div class="middle aligned twelve wide column">
     <div class="row">
-      <h1>3. Use License</h1>
+      <h2>3. Use License</h2>
     </div>
     <div class="row paragraph">
       <p>
@@ -146,7 +146,7 @@ milestones:
 <div class="ui center aligned stackable grid relaxed-padding">
   <div class="middle aligned twelve wide column">
     <div class="row">
-      <h1>4. Intellectual Property Rights</h1>
+      <h2>4. Intellectual Property Rights</h2>
     </div>
     <div class="row paragraph">
       <p>
@@ -167,7 +167,7 @@ milestones:
 <div class="ui center aligned stackable grid relaxed-padding">
   <div class="middle aligned twelve wide column">
     <div class="row">
-      <h1>5. Disclaimer</h1>
+      <h2>5. Disclaimer</h2>
     </div>
     <div class="row paragraph">
       <p>
@@ -191,7 +191,7 @@ milestones:
 <div class="ui center aligned stackable grid relaxed-padding">
   <div class="middle aligned twelve wide column">
     <div class="row">
-      <h1>6. Limitations of liability</h1>
+      <h2>6. Limitations of liability</h2>
     </div>
     <div class="row paragraph">
       <p>
@@ -221,7 +221,7 @@ milestones:
 <div class="ui center aligned stackable grid relaxed-padding">
   <div class="middle aligned twelve wide column">
     <div class="row">
-      <h1>7. Modifications</h1>
+      <h2>7. Modifications</h2>
     </div>
     <div class="row paragraph">
       <p>
@@ -245,7 +245,7 @@ milestones:
 <div class="ui center aligned stackable grid relaxed-padding">
   <div class="middle aligned twelve wide column">
     <div class="row">
-      <h1>8. Governing Law</h1>
+      <h2>8. Governing Law</h2>
     </div>
     <div class="row paragraph">
       <p>
@@ -263,7 +263,7 @@ milestones:
 <div class="ui center aligned stackable grid relaxed-padding">
   <div class="middle aligned twelve wide column">
     <div class="row">
-      <h1>9. Privacy Policy</h1>
+      <h2>9. Privacy Policy</h2>
     </div>
     <div class="row paragraph">
       <p>
