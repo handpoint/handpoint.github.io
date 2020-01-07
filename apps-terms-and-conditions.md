@@ -13,7 +13,6 @@ title: Handpoint Terms and conditions of Service and Privacy Policy
   </div>
   <!-- End Content for Section 1 - title -->
 
-
   <!-- Content for Section 2 - description -->
   <div class="ui center aligned stackable grid relaxed-padding">
       <div class="middle aligned twelve wide column">
@@ -71,7 +70,6 @@ title: Handpoint Terms and conditions of Service and Privacy Policy
       </div>
   </div>
   <!-- End Content for Section 3 - terms -->
-
 
   <!-- Content for Section 4 - terms-->
   <div class="ui center aligned stackable grid relaxed-padding">
@@ -358,7 +356,6 @@ title: Handpoint Terms and conditions of Service and Privacy Policy
       </div>
   </div>
   <!-- End Content for Section 11 - Privacy Policy-->
-
 
   <!-- Content for Section 12 - outro -->
   <div class="ui center aligned stackable grid relaxed-padding">

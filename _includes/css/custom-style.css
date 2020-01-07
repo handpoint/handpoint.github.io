@@ -81,6 +81,11 @@ ul {
 	color: #4e5d7d;
 }
 
+ul.disc {
+	list-style-type: disc;
+	padding: 10px;
+}
+
 @media (max-width: 767px) {
 .container {
 	padding-left: 30px;
