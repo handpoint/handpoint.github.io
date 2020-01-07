@@ -274,7 +274,7 @@ milestones:
         otherwise make use of personal information. We have outlined our privacy
         policy below.
       </p>
-      <ul>
+      <ul class="disc">
         <li>
           <p>
             We will collect personal information, and reserve the right to collect
