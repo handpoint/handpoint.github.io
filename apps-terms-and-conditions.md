@@ -1,5 +1,5 @@
 ---
-layout: app-terms-and-conditions
+layout: tc
 title: Handpoint Terms and conditions of Service and Privacy Policy
 ---
 <div>
