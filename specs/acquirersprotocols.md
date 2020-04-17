@@ -106,19 +106,6 @@ intro:
 			  <td>&nbsp;</td>
 		      <td>&nbsp;</td>
 		    </tr>
-			<tr>
-		      <td>Lloyd’s Bank CardNet</td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
-		      <td>&nbsp;</td>
-			  <td>&nbsp;</td>
-		      <td>&nbsp;</td>
-		    </tr> 
 		  </tbody>
 		</table>
 		<table class="table table-striped table-custom">
