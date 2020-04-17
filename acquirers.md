@@ -91,7 +91,6 @@ cloudlogos:
       list:
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/nuvei.png
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/TSYS.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/lloydsbank.png
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/m2pay.png
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/ACI.png
     - title: row3
