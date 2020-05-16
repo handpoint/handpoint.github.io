@@ -24,7 +24,7 @@ m-terminal:
   description: "The Handpoint PCI-P2PE software terminal runs on a range of hardware mobile terminals, from ultra-portable to all-in-ones. Help your merchants find the solution that delivers value for their business, and manage them all in one cloud-hosted portal."
   buttontxt: "Handpoint-enabled terminals"
   buttonlink: /specs/terminal-range
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Mobile_terminals4.png
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Mobile_terminals4.png?w=500
 standalone: 
   title: "Standalone payments.<br> Integrated ready."
   id: "standalone"
@@ -47,7 +47,7 @@ payment-apis:
   buttontxt: Handpoint APIs
   buttonlink: /specs/apis
 m-extensions: 
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled2.png
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled2.png?w=300
   title: Mobile extensions
   id: "m-extensions"
   description: "Handpoint delivers the mobile retail experience your merchants want. Offer your merchants integraged mobile solutions for high-touch retail, line-busting, and large format retail. And with our omni-enabled terminals, merchants can deliver the future of unified commerce."
