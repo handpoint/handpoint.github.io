@@ -62,8 +62,8 @@ hero:
 			<div class="col-md-5 col-sm-6 section-internal-paymenttypes-module-txt">
 				<h3>Card brands</h3>
 				<ul>
-					<li><i class="fas fa-check"></i> VISA</li>
 					<li><i class="fas fa-check"></i> Mastercard</li>
+					<li><i class="fas fa-check"></i> VISA</li>
 					<li><i class="fas fa-check"></i> Interac</li>
 					<li><i class="fas fa-check"></i> Diners</li>
 					<li><i class="fas fa-check"></i> Discover</li>
