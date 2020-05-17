@@ -17,10 +17,10 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Hi5-large-crop.png?h=300&w=200
       title: Hi5
       link: /specs/hi5
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled.png
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled2.png?w=300
       title: HiPro NFC
       link:  /specs/hipro
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus.png
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus_Off.jpeg?w=300
       title: HiPlus
       link: /specs/hiplus
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png
