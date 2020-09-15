@@ -7,15 +7,26 @@ hero:
   buttonlink: /contact
   hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here <br></a>  Sign up for our newsletter <a href="https://mailchi.mp/db51950d6bfa/handpointnewsletter">Click here</a>
 blurbs: 
+  title: "Deliver the ultimate checkout experience with SmartPOS"
+  buttontext: Get SmartPOS
+  buttonlink: /specs/terminal-range/
+  list: 
+    - image: http://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-023.jpg?w=250
+      title: 
+    - image: http://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-032-2.jpg?w=250
+      title: 
+    - image: http://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-043-2.jpg?w=250
+      title: 
+blurbs: 
   title: "Integrated face-to-face payments made easy. Anytime. Anywhere."
   buttontext: Get started
   buttonlink: /contact
   list: 
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration.png
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration.png?w=250
       title: Easy integration for any platform
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/white%20HiLite%20straight%20cropped.jpg
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/white%20HiLite%20straight%20cropped.jpg?w=250
       title: Easy terminal setup and activation
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TMS.png
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TMS.png?w=250
       title: Easy merchant support and updates
 solutions: 
   title: Handpoint-enabled solutions for NextGEN Commerce
