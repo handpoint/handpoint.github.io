@@ -2,15 +2,14 @@
 	<div class="container">
 		<div class="row text-center">
 			<div class="col-md-8 col-sm-10 col-md-offset-2 col-sm-offset-2">
-				<h1>{{ page.blurbs.title }}</h1>
+				<h1>{{ page.blurbsOne.title }}</h1>
 			</div>
 		</div>
 		<div class="row">
-			{% for blurb in page.blurbs.list %}
+			{% for blurb in page.blurbsOne.list %}
 			<div class="blurb col-md-4 col-sm-4">
-		    	<img src={{ blurb.image }} alt=""/>
-				<p>{{ blurb.title }}</p>
-		    </div>
+				<img src={{ blurb.image }} alt="" />
+			</div>
 			{% endfor %}
 		</div>
 		<div class="row text-center">
