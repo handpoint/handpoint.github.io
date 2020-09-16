@@ -29,6 +29,13 @@ solutions:
   title: Handpoint-enabled solutions for NextGEN Commerce
   subtitle: Unified solution suite for modern acquirers
   list: 
+    - title: SmartPOS
+      id: "smartpos"
+      ariacontrol: settings
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png
+      description: "All-in-one P2PE payment terminals with business apps built in, PLUS all the security and flexibility of the Handpoint software terminal, international gateway, remote key injection, and terminal mangement sytem. Handpoint makes SmartPOS smarter business."
+      buttontxt: "Looking to Sell SmartPOS?"
+      buttonlink: "/acquirers#smartpos"
     - title: Integrated ready
       id: "integrateddata"
       ariacontrol: home
@@ -64,13 +71,6 @@ solutions:
       description: "Handpoint PCI-P2PE mobile terminals with tokenization integrations and web POS APIs are used today by merchants at the forefront: showrooming, membership models, online refunds, unified omni-commerce merchant accounts, high-touch retail, online booking with face-to-face payments, and more. Handpoint's flexible platform enables us to build new solutions for your opportunities. If you are an ecommerce acquirer, we can take you to omni with a seamless card present platform and deep expertise. In the world of nextgen acquiring, where will mobile take you?"
       buttontxt: "Payment Types"
       buttonlink: "/acquirers#omni-enabled"
-    - title: SmartPOS
-      id: "smartpos"
-      ariacontrol: settings
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png
-      description: "All-in-one P2PE payment terminals with business apps built in, PLUS all the security and flexibility of the Handpoint software terminal, international gateway, remote key injection, and terminal mangement sytem. Handpoint makes SmartPOS smarter business."
-      buttontxt: "Looking to Sell SmartPOS?"
-      buttonlink: "/acquirers#smartpos"
     - title: SoftPOS
       id: "nopos"
       ariacontrol: settings
