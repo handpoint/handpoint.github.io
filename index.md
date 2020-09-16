@@ -9,7 +9,7 @@ hero:
 video:
   title: "How can you help your merchants in the cloud?"  
   subtext: Experience the greatest simplicity that delivers flexible, secure payments.  
-  url: http://handpoint.imgix.net/Website%20refresh%20photos/videos/handpoint.mp4
+  url: https://handpoint.imgix.net/Website%20refresh%20photos/videos/handpoint.mp4
   buttontext: Discover Handpoint Cloud Payments 
   buttonlink: /specs/cloudsdk/
 blurbsOne: 
@@ -17,9 +17,9 @@ blurbsOne:
   buttontext: Get SmartPOS
   buttonlink: /specs/terminal-range/
   list: 
-    - image: http://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-023.jpg?w=250
-    - image: http://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-032-2.jpg?w=250
-    - image: http://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-043-2.jpg?w=250
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-023.jpg?w=250
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-032-2.jpg?w=250
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-043-2.jpg?w=250
 blurbs: 
   title: "Integrated face-to-face payments made easy. Anytime. Anywhere."
   buttontext: Get started
