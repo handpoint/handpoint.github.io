@@ -12,11 +12,8 @@ blurbs:
   buttonlink: /specs/terminal-range/
   list: 
     - image: http://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-023.jpg?w=250
-      title: 
     - image: http://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-032-2.jpg?w=250
-      title: 
     - image: http://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-043-2.jpg?w=250
-      title: 
 blurbs: 
   title: "Integrated face-to-face payments made easy. Anytime. Anywhere."
   buttontext: Get started
