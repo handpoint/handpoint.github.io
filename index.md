@@ -9,6 +9,8 @@ hero:
 video:
   title: "How can you help your merchants in the cloud?"  
   subtext: Experience the greatest simplicity that delivers flexible, secure payments.  
+  vwidth: 800
+  vheight: 450
   url: https://handpoint.imgix.net/Website%20refresh%20photos/videos/handpoint.mp4
   poster: https://handpoint.imgix.net/Website%20refresh%20photos/videos/handpoint_screenshot.png
   buttontext: Discover Handpoint Cloud Payments 
