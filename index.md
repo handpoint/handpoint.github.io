@@ -6,7 +6,7 @@ hero:
   buttontxt: Get started
   buttonlink: /contact
   hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here <br></a>  Sign up for our newsletter <a href="https://mailchi.mp/db51950d6bfa/handpointnewsletter">Click here</a>
-blurbs: 
+blurbsOne: 
   title: "Deliver the ultimate checkout experience with SmartPOS"
   buttontext: Get SmartPOS
   buttonlink: /specs/terminal-range/
