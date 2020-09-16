@@ -8,7 +8,7 @@ hero:
   hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here <br></a>  Sign up for our newsletter <a href="https://mailchi.mp/db51950d6bfa/handpointnewsletter">Click here</a>
 video:
   title: "How can you help your merchants in the cloud?"  
-  subtext: "Experience the greatest simplicity<br>that delivers flexible, secure payments."  
+  subtext: Experience the greatest simplicity<br>that delivers flexible, secure payments.  
   url: http://handpoint.imgix.net/Website%20refresh%20photos/videos/handpoint.mp4
   buttontext: Discover Handpoint Cloud Payments 
   buttonlink: /specs/cloudsdk/
