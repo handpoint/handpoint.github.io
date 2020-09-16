@@ -11,7 +11,7 @@ hero:
 		<div class="row">
 			<div class="col-md-3 col-sm-4 section-internal-left">
 				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/cloudsdk_graphic2.jpg" class="img-responsive" alt="Handpoint Cloud Payments securely connects software with terminals via the cloud - graphic of cloud webapp on a laptop and best mobile terminal PAX A920 connected via payment API"/>
-				<a class="btn btn-default bt-custom-out" href="https://www.handpoint.com/docs/device/Cloud/" role="button">Cloud Payments Documentation</a>
+				<a class="btn btn-default bt-custom-out" href="https://www.handpoint.com/docs/device/REST-API/" role="button">Cloud Payments Documentation</a>
 			</div>
 			<div class="col-md-8 col-sm-8">
 				<h1>Handpoint Cloud Payments</h1>
