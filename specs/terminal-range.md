@@ -14,9 +14,6 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiLite_big.jpg?fit=crop&crop=focalpoint&fp-y=.53&h=750&w=600&fp-z=4.5&fp-x=.5
       title: HiLite NFC
       link: /specs/hilite
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Hi5-large-crop.png?h=300&w=200
-      title: Hi5
-      link: /specs/hi5
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled2.png?w=300
       title: HiPro NFC
       link:  /specs/hipro
@@ -71,22 +68,6 @@ blurbs:
       <td class="fa-check-orange"><i class="fas fa-check"></i></td> 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td><b><a href="/specs/hi5">Hi5</a></b></td>
-      <td>Counter-top, retail, transportations, delivery, table-side service</td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td> 
-      <td>&nbsp;</td>
-      <td><i class="fas fa-check"></i></td>
     </tr>
     <tr>
       <td><b><a href="/specs/hipro">HiPro</a></b></td>
