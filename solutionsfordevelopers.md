@@ -30,7 +30,7 @@ main:
     buttonlink: /contact
     image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration.png
   - title: Pre-certified mobile terminals
-    description: "The Handpoint software terminal is hardware agnostic and runs on a range of hardware solutions. We've taken care of the EMV certifications, saving you months of work. A single integration and you have a range of mobile terminals to choose from. Let us make payments easy for you."
+    description: "Handpoint terminals can take your growth global.  We've taken care of the EMV certifications on three continents, saving you months of work and giving you unparalleled market reach. And with a single integration and you have many nextgen terminals to choose from. Let us make payments easy for you."
     buttontxt: Handpoint-enabled terminals
     buttonlink: /specs/terminal-range
     image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Mobile_terminals.png
