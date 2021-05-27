@@ -32,7 +32,7 @@ hero:
 				<li>Super fast thermal printer</li>
 				<li>On-screen signature capture</li>
 				<li>Dual Camera, 1D & 2D scanner</li>
-				<li>Certified for payments with Borgun or eMerchantPay, and with Paysafe for use in the US and Canada (including Interac!) with rich omni-commerce capabilities.*</li>
+				<li>Certified with European acquirers including eMerchantPay, Borgun, Salt, and Paystrax, and with Paysafe for the US and Canada (including Interac!) featuring rich omni-commerce capabilities.*</li>
 				<p>
 				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Pax_A920_charger.png?w=150" class="img-responsive" alt="The PAX A920 Android terminal has a docking station so it can be used in stores as a smartpos or integrated with the Handpoint Cloud SDK payments API for face to face payments"/></p>
 				<p class="section-internal-left-custom-txt">Accessories: Charging dock</p>
