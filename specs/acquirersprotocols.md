@@ -130,7 +130,7 @@ intro:
 		    <tr>
 		      <td>Paysafe (US & CN)</td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 		      <td>Interac</td>
@@ -142,7 +142,7 @@ intro:
 		    <tr>
 		      <td>TSYS</td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
@@ -176,18 +176,6 @@ intro:
 		      <td><i class="fas fa-check"></i></td>
 		    </tr>
 			<tr>
-		      <td>First Data OmniPay</td>
-		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
-		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td><i class="fas fa-check"></i></td>
-		    </tr>
-			<tr>
 		      <td>First Data Rapid Connect</td>
 		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
@@ -196,8 +184,8 @@ intro:
 		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
-			  <td>&nbsp;</td>
+		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 		    </tr>
 			<tr>
 		      <td>Nuvei</td>
@@ -208,8 +196,8 @@ intro:
 		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
-			  <td>&nbsp;</td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		    </tr>
 		  </tbody>
 		</table>
