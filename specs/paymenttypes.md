@@ -48,7 +48,7 @@ hero:
 					<li><i class="fas fa-check"></i> Tip adjustment</li>
 					<li><i class="fas fa-check"></i> In-line tipping</li>
 					<li><i class="fas fa-check"></i> Tokenization</li>
-					<li><i class="fas fa-check"></i> Pre-authorizations</li>
+					<li>Not all acquirers support all payment types</li>
 					
 				</ul>
 			</div>
@@ -70,6 +70,7 @@ hero:
 					<li><i class="fas fa-check"></i> Discover</li>
 					<li><i class="fas fa-check"></i> Amex</li>
 					<li><i class="fas fa-check"></i> JCB</li>
+					<li>Not all acquirers support all payment types</li>
 				</ul>
 			</div>
 		</div>
@@ -80,7 +81,7 @@ hero:
 			<div class="col-md-5 col-sm-6 col-md-offset-1 col-sm-offset-0 section-internal-paymenttypes-module-txt">
 				<h3>Verticals</h3>
 				<ul>
-					<li><i class="fas fa-check"></i> Restaurants: QSR, mobile, PATT</li>
+					<li><i class="fas fa-check"></i> Restaurants: QSR, popup, pay at the table</li>
 					<li><i class="fas fa-check"></i> Retail: countertop, popup, in-aisle</li>
 					<li><i class="fas fa-check"></i> Line-busting</li>
 					<li><i class="fas fa-check"></i> Transportation</li>
@@ -100,7 +101,7 @@ hero:
 		<div class="row">
 			<div class="col-md-6 col-md-offset-3 col-sm-10 col-sm-offset-1 section-internal-intro">	
 				<h1>Omni-enabled payment solutions</h1>	
-				<p>Many of our merchants also utilize our token integrations with Paysafe and Vantiv to leverage omni-commerce for the future of payments, including:</p>
+				<p>Many of our merchants also utilize our token integrations to leverage omni-commerce for the future of payments, including:</p>
 			</div>
 		</div>
 		<div class="row">
