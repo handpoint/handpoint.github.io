@@ -23,7 +23,6 @@ intro:
 		      <td>Apple Android pay</td>
 		      <td>PIN debit</td>
 		      <td>In-line tipping</td>
-		      <td>Tip adjustment</td>
 		      <td>Tokenization with sale</td>
 		      <td>Tokenization only</td>
 		    </tr>
@@ -35,7 +34,6 @@ intro:
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		    </tr>
@@ -47,7 +45,6 @@ intro:
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		    </tr>
@@ -59,7 +56,6 @@ intro:
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		    </tr>
@@ -71,7 +67,6 @@ intro:
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		    </tr>
@@ -83,7 +78,6 @@ intro:
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		    </tr>
@@ -95,7 +89,6 @@ intro:
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		    </tr>
@@ -107,7 +100,6 @@ intro:
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		    </tr>
@@ -214,17 +206,15 @@ intro:
 		      <td>Tip adjustment</td>
 		      <td>Tokenization with sale</td>
 		      <td>Tokenization only</td>
-		      <td>Pre-authorizations</td>
 		    </tr>
 		    <tr>
 		      <td>SureSwipe</td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
 		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
