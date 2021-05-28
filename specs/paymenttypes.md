@@ -23,14 +23,14 @@ hero:
 			<div class="col-md-5 col-sm-6 section-internal-paymenttypes-module-txt">
 				<h3>Payment methods</h3>
 				<ul>
-					<li><i class="fas fa-check"></i> Host capture platform</li>
-					<li><i class="fas fa-check"></i> No settlement file</li>
 					<li><i class="fas fa-check"></i> Credit</li>
 					<li><i class="fas fa-check"></i> Debit</li>
 					<li><i class="fas fa-check"></i> MSR</li>
-					<li><i class="fas fa-check"></i> Chip&PIN and Chip&Signature</li>
+					<li><i class="fas fa-check"></i> EMV Chip&PIN and Chip&Signature</li>
 					<li><i class="fas fa-check"></i> NFC</li>
 					<li><i class="fas fa-check"></i> PIN debit</li>
+					<li><i class="fas fa-check"></i> Host capture platform</li>
+					<li><i class="fas fa-check"></i> No batching + automatic settlement processing</li>
 				</ul>
 			</div>
 		</div>
