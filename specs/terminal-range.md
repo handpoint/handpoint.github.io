@@ -62,7 +62,7 @@ blurbs:
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td> 
+      <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
