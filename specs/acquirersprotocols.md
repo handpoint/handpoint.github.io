@@ -20,7 +20,7 @@ intro:
 		      <td>EMV (Chip & PIN or Chip & Sign)</td>
 		      <td>Contactless (NFC)</td>
 		      <td>MSR</td>
-		      <td>Apple Pay/Google Pay</td>
+		      <td>Apple Pay / Google Pay</td>
 		      <td>PIN debit</td>
 		      <td>In-line tipping</td>
 		      <td>Tokenization with sale</td>
@@ -112,7 +112,7 @@ intro:
 		      <td>EMV (Chip & PIN or Chip & Sign)</td>
 		      <td>Contactless (NFC)</td>
 		      <td>MSR</td>
-		      <td>Apple Pay or Google Pay</td>
+		      <td>Apple Pay / Google Pay</td>
 		      <td>PIN debit</td>
 		      <td>In-line tipping</td>
 		      <td>Tip adjustment</td>
@@ -200,7 +200,7 @@ intro:
 		      <td>EMV (Chip & PIN or Chip & Sign)</td>
 		      <td>Contactless (NFC)</td>
 		      <td>MSR</td>
-		      <td>Apple Pay or Google Pay</td>
+		      <td>Apple Pay / Google Pay</td>
 		      <td>PIN debit</td>
 		      <td>In-line tipping</td>
 		      <td>Tip adjustment</td>
