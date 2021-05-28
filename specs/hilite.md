@@ -33,14 +33,13 @@ hero:
         <h4>Key features</h4>
         <li>Ultra-portable or fixed</li>
         <li>PCI-P2PE (point-to-point encrypted) semi-integrated payments</li>
-        <li>APIs every platform: iOS, Android, Windows, Cordova, and Web POS</li>
+        <li>APIs every platform: iOS, Android, Windows, Cordova, and Web-based POS</li>
         <li>EMV, NFC, & MSR payments</li>
         <li>Tokenization & Tip Adjustment available</li>
         <li>Remote key injection with plug and play activation</li>
         <li>Bluetooth communication</li>
         <li>Over 500 transactions per charge</li>
         <li>Over-the-air support direct to your card reader, no matter where you take it in the field or in your store</li>
-    <!-- orange box -->
         <div class="section-internal-orangebox">
           <h5>Pre-certified for EMV payments via</h5>
           <div class="row">
