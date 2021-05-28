@@ -39,7 +39,7 @@ hero:
 				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/live-action/specs_paymenttypes_pic02.jpg" class="img-responsive" alt=""/>
 			</div>
 			<div class="col-md-5 col-sm-6 col-md-offset-1 col-sm-offset-0 section-internal-paymenttypes-module-txt">
-				<h3>Transaction types (not all acquirers support all available payment types)</h3>
+				<h3>Transaction types</h3>
 					<ul>
 					<li><i class="fas fa-check"></i> Sale</li>
 					<li><i class="fas fa-check"></i> Refund</li>
