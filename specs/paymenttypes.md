@@ -48,7 +48,7 @@ hero:
 					<li><i class="fas fa-check"></i> Tip adjustment</li>
 					<li><i class="fas fa-check"></i> In-line tipping</li>
 					<li><i class="fas fa-check"></i> Tokenization</li>
-					<li><span class="specialtxt"><a href="/specs/hilite">HiLite (BT Only)</a></span></li>
+					<li><span class="specialtxt"><a href="/specs/hilite">Confirm the transaction types supported by your acquirer</a></span></li>
 					
 				</ul>
 			</div>
