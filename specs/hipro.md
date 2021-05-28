@@ -34,7 +34,7 @@ hero:
 					<div class="row">
 						<div class="col-md-6 col-sm-6">
 						<ul>
-						<li>Worldpay (Vantiv Core)</li>
+						<li>Worldpay by FIS(Vantiv Core)</li>
 						<li>TSYS</li>
 						<li>EVO Payments International</li>
 						</ul>
