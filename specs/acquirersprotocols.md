@@ -124,7 +124,7 @@ intro:
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		      <td>Interac</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
@@ -136,7 +136,7 @@ intro:
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
