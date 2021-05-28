@@ -12,7 +12,7 @@ hero:
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 section-internal-intro">	
 				<h1>Geographic reach</h1>	
-				<p>Our processor integrations give you reach across 3 continents. More details coming soon...</p>
+				<p>Our processor integrations give you reach across 3 continents. We make it easy for you to connect to new markets.</p>
 			</div>
 		</div>	
 		<div class="row">
