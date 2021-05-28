@@ -23,6 +23,7 @@ hero:
 				<h4>Key features</h4>
 				<li>iOS and Android</li>
 				<li>Transaction history in the app and online</li>
+				<li>Business analytics right in the app</li>
 				<li>P2PE semi-integrated payments with remote key injection with plug and play activation</li>
 				<li>Over-the-air support direct to your Handpoint card reader, no matter where you take it</li>
 				<li>Compatible with HiLite for EMV, NFC, & MSR payments</li>
