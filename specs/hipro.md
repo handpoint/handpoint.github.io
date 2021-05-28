@@ -34,21 +34,15 @@ hero:
 					<div class="row">
 						<div class="col-md-6 col-sm-6">
 						<ul>
-						<li>Paysafe</li>
-						<li>ACI Worldwide (Postillion)</li>
 						<li>Worldpay (Vantiv Core)</li>
-						<li>Mercantile Bank</li>
-						<li>TSYS (Host Capture)</li>
+						<li>TSYS</li>
 						<li>EVO Payments International</li>
 						</ul>
 						</div>
 						<div class="col-md-6 col-sm-6">
 						<ul>
 						<li>First Data OmniPay</li>
-						<li>Pivotal Payments</li>
 						<li>Borgun</li>
-						<li>M2Pay</li>
-						<li>Lloyd’s Bank Cardnet</li>
 						<li>eMerchantPay</li>
 						</ul>
 						</div>
