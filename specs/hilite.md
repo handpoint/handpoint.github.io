@@ -48,8 +48,8 @@ hero:
             <ul>
             <li>Paysafe</li>
             <li>ACI Worldwide (Postillion)</li>
-            <li>Worldpay (Vantiv Core)</li>
-            <li>TSYS (Host Capture)</li>
+            <li>Worldpay from FIS (Vantiv Core)</li>
+            <li>TSYS</li>
             <li>EVO Payments International</li>
             <li>First Data OmniPay</li>
             </ul>
@@ -59,9 +59,9 @@ hero:
             <li>Nuvei</li>
             <li>Borgun</li>
             <li>M2Pay</li>
-            <li>Lloyd’s Bank Cardnet</li>
+            <li>Lloyds Bank Cardnet</li>
             <li>eMerchantPay</li>
-            <li>Mercantile Bank</li>
+            <li>SureSwipe</li>
             </ul>
             </div>
           </div>
