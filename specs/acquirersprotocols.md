@@ -26,20 +26,6 @@ intro:
 		      <td>Tip adjustment</td>
 		      <td>Tokenization with sale</td>
 		      <td>Tokenization only</td>
-		      <td>Pre-authorizations</td>
-		    </tr>
-		    <tr>
-		      <td>Paysafe</td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
 		    </tr>
 		    <tr>
 		      <td>Borgun</td>
@@ -50,9 +36,8 @@ intro:
 		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
-		      <td>&nbsp;</td>
-		      <td>&nbsp;</td>
-		      <td>&nbsp;</td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		    </tr>
 			<tr>
 		      <td>First Data OmniPay</td>
@@ -63,9 +48,8 @@ intro:
 		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
-		      <td>&nbsp;</td>
-			  <td>&nbsp;</td>
-		      <td>&nbsp;</td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		    </tr>
 			<tr>
 		      <td>eMerchantPay</td>
@@ -76,9 +60,32 @@ intro:
 		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
+		    </tr>
+			 <tr>
+		      <td>Lloyds Bank Cardnet</td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
-			  <td>&nbsp;</td>
+		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
+		    </tr>
+			 <tr>
+		      <td>Paystrax</td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td>&nbsp;</td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td>&nbsp;</td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		    </tr>
 			<tr>
 		      <td>M2Pay</td>
@@ -89,9 +96,8 @@ intro:
 		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
-		      <td>&nbsp;</td>
-			  <td>&nbsp;</td>
-		      <td>&nbsp;</td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		    </tr>
 			<tr>
 		      <td>EVO Payments International</td>
@@ -102,9 +108,8 @@ intro:
 		      <td>&nbsp;</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
-		      <td>&nbsp;</td>
-			  <td>&nbsp;</td>
-		      <td>&nbsp;</td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		    </tr>
 		  </tbody>
 		</table>
@@ -121,10 +126,9 @@ intro:
 		      <td>Tip adjustment</td>
 		      <td>Tokenization with sale</td>
 		      <td>Tokenization only</td>
-		      <td>Pre-authorizations</td>
 		    </tr>
 		    <tr>
-		      <td>Paysafe</td>
+		      <td>Paysafe (US & CN)</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
@@ -134,10 +138,9 @@ intro:
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
 		    </tr>
 		    <tr>
-		      <td>TSYS (Host capture)</td>
+		      <td>TSYS</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
@@ -147,10 +150,9 @@ intro:
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
 		    </tr>
 			<tr>
-		      <td>WorldPay (Vantiv core)</td>
+		      <td>Worldpay from FIS (Vantiv core)</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
@@ -159,8 +161,7 @@ intro:
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td><i class="fas fa-check"></i></td>
-			  <td><i class="fas fa-check"></i></td>
-		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		    </tr>
 			<tr>
 		      <td>EVO Payments International</td>
@@ -171,9 +172,8 @@ intro:
 		      <td>MSR</td>
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
-		      <td>&nbsp;</td>
-			  <td>&nbsp;</td>
-		      <td>&nbsp;</td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		    </tr>
 			<tr>
 		      <td>First Data OmniPay</td>
@@ -184,9 +184,8 @@ intro:
 		      <td>&nbsp;</td>
 		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
-		      <td>&nbsp;</td>
-			  <td>&nbsp;</td>
-		      <td>&nbsp;</td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		    </tr>
 			<tr>
 		      <td>First Data Rapid Connect</td>
@@ -199,7 +198,6 @@ intro:
 		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
 			  <td>&nbsp;</td>
-		      <td>&nbsp;</td>
 		    </tr>
 			<tr>
 		      <td>Nuvei</td>
@@ -212,21 +210,7 @@ intro:
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
 			  <td>&nbsp;</td>
-		      <td>&nbsp;</td>
 		    </tr>
-			<tr>
-		      <td>TSYS (Broomfield)</td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-		      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td><i class="fas fa-check"></i></td>
-		      <td>&nbsp;</td>
-			  <td>&nbsp;</td>
-		      <td>&nbsp;</td>
-		    </tr> 
 		  </tbody>
 		</table>
 		<table class="table table-striped table-custom">
@@ -254,8 +238,8 @@ intro:
 		      <td><i class="fas fa-check"></i></td>
 		      <td>&nbsp;</td>
 		      <td>&nbsp;</td>
-		      <td>&nbsp;</td>
-		      <td>&nbsp;</td>
+		      <td><i class="fas fa-check"></i></td>
+		      <td><i class="fas fa-check"></i></td>
 		    </tr>
 		  </tbody>
 		</table>	
