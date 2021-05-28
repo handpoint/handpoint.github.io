@@ -25,7 +25,7 @@ hero:
 				<li>Transaction history in the app and online</li>
 				<li>P2PE semi-integrated payments with remote key injection with plug and play activation</li>
 				<li>Over-the-air support direct to your Handpoint card reader, no matter where you take it</li>
-				<li>Compatible with HiLite, Hi5, and HiPro for EMV, NFC, & MSR payments</li>
+				<li>Compatible with HiLite for EMV, NFC, & MSR payments</li>
 
 			</div>
 		</div>
