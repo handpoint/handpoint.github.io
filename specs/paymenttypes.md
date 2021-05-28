@@ -31,6 +31,7 @@ hero:
 					<li><i class="fas fa-check"></i> PIN debit</li>
 					<li><i class="fas fa-check"></i> Host capture platform</li>
 					<li><i class="fas fa-check"></i> No batching + automatic settlement processing</li>
+					<li><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Basics/">Confirm here the payment methods supported by your acquirer</a></span></li>
 				</ul>
 			</div>
 		</div>
@@ -48,7 +49,7 @@ hero:
 					<li><i class="fas fa-check"></i> Tip adjustment</li>
 					<li><i class="fas fa-check"></i> In-line tipping</li>
 					<li><i class="fas fa-check"></i> Tokenization</li>
-					<li><span class="specialtxt"><a href="/specs/hilite">Confirm the transaction types supported by your acquirer</a></span></li>
+					<li><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Basics/">Confirm here the transaction types supported by your acquirer</a></span></li>
 					
 				</ul>
 			</div>
@@ -70,7 +71,7 @@ hero:
 					<li><i class="fas fa-check"></i> Discover</li>
 					<li><i class="fas fa-check"></i> Amex</li>
 					<li><i class="fas fa-check"></i> JCB</li>
-					<li>Not all acquirers support all payment types</li>
+					<li><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Basics/">Confirm here the card brands supported by your acquirer</a></span></li>
 				</ul>
 			</div>
 		</div>
