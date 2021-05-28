@@ -17,9 +17,6 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled2.png?w=300
       title: HiPro NFC
       link:  /specs/hipro
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPlus_Off.jpeg?w=300
-      title: HiPlus
-      link: /specs/hiplus
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png
       title: PAX A920
       link: /specs/paxa920
@@ -49,7 +46,7 @@ blurbs:
       <td>Android SDK</td>
       <td>Windows SDK</td>
       <td>Express SDK</td>
-      <td>Cloud SDK</td>
+      <td>REST API or JS</td>
       <td>Barcode scanner</td>
       <td>Stand-alone integrated ready</td>
     </tr>
@@ -86,52 +83,36 @@ blurbs:
       <td><i class="fas fa-check"></i></td>
     </tr>
     <tr>
-      <td><b><a href="/specs/hiplus">HiPlus</a></b></td>
-      <td>Sports & camps, retail, transportation, delivery, salon & spa</td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td><i class="fas fa-check"></i></td>
-    </tr>
-    <tr>
       <td><b><a href="/specs/paxa920">PAX A920</a></b></td>
       <td>Cloud, high-touch retail, membership management, travel, line-busting, restaurant, mobile, services, events</td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
     </tr>
         <tr>
       <td><b><a href="/specs/paxa80">PAX A80</a></b></td>
       <td>Cloud, counter-top, retail, services</td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
     </tr>
         <tr>
       <td><b><a href="/specs/TPS900"> TPS900</a></b></td>
