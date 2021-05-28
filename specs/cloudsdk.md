@@ -30,7 +30,6 @@ hero:
 				<li>Beautiful, intuitive user interface</li>
 				<li>Tokenization with sale and tokenize only</li>
 				<li>Real time data on the transaction status and all transaction results</li>
-				<li>PAX terminals certified with Paysafe for use in the US and Canada, with rich omni-commerce capabilities.</li>
 			</div>
 		</div>
 	</div>
