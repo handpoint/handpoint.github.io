@@ -202,7 +202,7 @@ intro:
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/iOS/">iOS SDK</a></span></td>
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Android/">Android SDK</a></span></td>
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Windows/">Windows SDK</a></span></td>
-			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">Cloud SDK</a></span></td>
+			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">REST API or JS SDK</a></span></td>
 			    </tr>
 				  <tr>
 			      <td><b>Geographic Reach</b></td>
@@ -211,8 +211,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
-			     <td><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -221,8 +221,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
-			     <td><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -231,8 +231,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
-			     <td><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -241,18 +241,18 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
-			     <td><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td>&nbsp;</td>
 			    </tr>
 				  <tr>
 			      <td><b>Key Features</b></td>
 			      <td class="text-left">ISV Development Time</td>
 					<td>None</td>
+					<td>Fast</td>
+					<td>Hours to Days</td>
+					<td>Hours to Days</td>
+			                <td>Hours to Days</td>
 					<td>Fastest</td>
-					<td>Hours to Days</td>
-					<td>Hours to Days</td>
-			     <td>Hours to Days</td>
-					<td>&nbsp;</td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -261,8 +261,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
-			     <td><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+					<td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -271,8 +271,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
-			     <td>&nbsp;</td>
-			      <td><span class="specialtxt">Optional</span></td>
+			                <td>&nbsp;</td>
+			                <td>&nbsp;</td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -281,18 +281,18 @@ intro:
 					<td>&nbsp;</td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
-			     <td><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
-			      <td class="text-left">Extra Data Pass-Back</td>
-					<td>&nbsp;</td>
-					<td><i class="fas fa-check"></i></td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-			     <td>&nbsp;</td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			      <td class="text-left">Send your own Customer Reference ID</td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td>&nbsp;</td>
+			                <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -301,8 +301,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
-			     <td><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -311,8 +311,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
-			     <td><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -321,28 +321,28 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
-			     <td><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			    </tr>
 				 <tr>
 			      <td>&nbsp;</td>
-			      <td class="text-left">Real-time transaction data</td>
+			      <td class="text-left">Real-time Transaction Data</td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
-			     <td><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
-			      <td class="text-left">Omni-commerce</td>
+			      <td class="text-left">Omni-commerce Functions</td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
-			     <td><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			    </tr>
 			  </tbody>
 			</table>
