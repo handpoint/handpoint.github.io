@@ -48,7 +48,7 @@ intro:
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/iOS/">iOS SDK</a></span></td>
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Android/">Android SDK</a></span></td>
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Windows/">Windows SDK</a></span></td>
-			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">Cloud SDK</a></span></td>  
+			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">REST API or JS SDK</a></span></td>  
 			    </tr>
 			    <tr>
 			      <td><b>Supported Card Readers</b></td>
@@ -58,87 +58,47 @@ intro:
 			      <td><i class="fas fa-check"></i></td>
 			      <td><i class="fas fa-check"></i></td>
 			      <td><i class="fas fa-check"></i></td>
-			      <td><span class="specialtxt">Via Express App</span></td>
-			    </tr>
-			    <tr>
-			      <td>&nbsp;</td>
-			      <td class="text-left"><span class="specialtxt"><a href="/specs/hi5">Hi5 (BT Only)</a></span></td>
-			      <td>&nbsp;</td>
-			      <td><i class="fas fa-check"></i></td>
-			      <td><i class="fas fa-check"></i></td>
-			      <td><i class="fas fa-check"></i></td>
-			      <td><i class="fas fa-check"></i></td>
-			      <td><span class="specialtxt">Via Express App</span></td>
-			    </tr>
-				<tr>
-			      <td>&nbsp;</td>
-			      <td class="text-left"><span class="specialtxt"><a href="/specs/hi5">Hi5 (GPRS)</a></span></td>
-			     <td><i class="fas fa-check"></i></td>
-			      <td>&nbsp;</td>
-			      <td>&nbsp;</td>
-			      <td>&nbsp;</td>
-			      <td>&nbsp;</td>
 			      <td>&nbsp;</td>
 			    </tr>
 				<tr>
 			      <td>&nbsp;</td>
-			      <td class="text-left"><span class="specialtxt"><a href="/specs/hiplus">HiPlus</a></span></td>
-			     <td><i class="fas fa-check"></i></td>
-			      <td>&nbsp;</td>
-			      <td>&nbsp;</td>
-			      <td>&nbsp;</td>
-			      <td>&nbsp;</td>
-			      <td>&nbsp;</td>
-			    </tr>
-				<tr>
-			      <td>&nbsp;</td>
-			      <td class="text-left"><span class="specialtxt"><a href="/specs/hipro">HiPro Sled with Barcode Scanner</a></span></td>
+			      <td class="text-left"><span class="specialtxt"><a href="/specs/hipro">HiPro</a></span></td>
 					<td>&nbsp;</td>
 			      <td><i class="fas fa-check"></i></td>
 			      <td><i class="fas fa-check"></i></td>
 			      <td>&nbsp;</td>
 			      <td>&nbsp;</td>
-			      <td><span class="specialtxt">Via Express App</span></td>
-			    </tr>
-				<tr>
 			      <td>&nbsp;</td>
-			      <td class="text-left">HiPro Flat (BT) with Barcode Scanner</td>
-					<td>&nbsp;</td>
-			     <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			      <td><span class="specialtxt">Via Express App</span></td>
 			    </tr>
 				<tr>
 			      <td>&nbsp;</td>
 			      <td class="text-left"><span class="specialtxt"><a href="/specs/paxa920">PAX A920</a></span></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
- 					<td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			      <td><i class="fas fa-check"></i></td>
+			      <td>&nbsp;</td>
+			      <td>&nbsp;</td>
+			      <td><i class="fas fa-check"></i></td>
+			      <td>&nbsp;</td>
+			      <td><i class="fas fa-check"></i></td>
 			    </tr>
 				<tr> 
 				 <td>&nbsp;</td>
 			      <td class="text-left"><span class="specialtxt"><a href="/specs/paxa80">PAX A80</a></span></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
- 					<td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			      <td><i class="fas fa-check"></i></td>
+			      <td>&nbsp;</td>
+			      <td>&nbsp;</td>
+			      <td><i class="fas fa-check"></i></td>
+			      <td>&nbsp;</td>
+			      <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  				<tr> 
 				 <td>&nbsp;</td>
 			      <td class="text-left"><span class="specialtxt"><a href="/specs/TPS900">TPS900</a></span></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
-			       <td class="fa-check-orange"><i class="fas fa-check"></i></td>
- 					<td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			      <td><i class="fas fa-check"></i></td>
+			      <td>&nbsp;</td>
+			      <td>&nbsp;</td>
+			      <td><i class="fas fa-check"></i></td>
+			      <td>&nbsp;</td>
+			      <td><i class="fas fa-check"></i></td>
 			    </tr>
 				<tr>
 			      <td><b>Compatible POS Platforms</b></td>
@@ -148,7 +108,7 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 					<td>&nbsp;</td>
 			     <td>&nbsp;</td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+                             <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -158,7 +118,7 @@ intro:
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
 			     <td>&nbsp;</td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+                             <td><i class="fas fa-check"></i></td>
 			    </tr>
 				<tr>
 			      <td>&nbsp;</td>
@@ -168,7 +128,7 @@ intro:
 					<td>&nbsp;</td>
 					<td><i class="fas fa-check"></i></td>
 			     <td>&nbsp;</td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+                             <td><i class="fas fa-check"></i></td>
 			    </tr>
 				<tr>
 			      <td>&nbsp;</td>
@@ -178,7 +138,7 @@ intro:
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
 			     <td>&nbsp;</td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+                             <td><i class="fas fa-check"></i></td>
 			    </tr>
 				 <tr>
 			      <td>&nbsp;</td>
@@ -188,7 +148,7 @@ intro:
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
 			     <td>&nbsp;</td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+                             <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -198,7 +158,7 @@ intro:
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
 			     <td><i class="fas fa-check"></i></td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+                             <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -208,7 +168,7 @@ intro:
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
 			     <td>&nbsp;</td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			     <td><i class="fas fa-check"></i></td>
 			    </tr>
 				 <tr>
 			      <td>&nbsp;</td>
@@ -218,7 +178,7 @@ intro:
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
 			     <td>&nbsp;</td>
-			      <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			     <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -228,7 +188,7 @@ intro:
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
 			     <td>&nbsp;</td>
-			     <td class="fa-check-orange"><i class="fas fa-check"></i></td>
+			     <td><i class="fas fa-check"></i></td>
 			    </tr>
 			  </tbody>
 			</table>
