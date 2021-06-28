@@ -1903,9 +1903,90 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 }
 }
 
+/* SMARTPOS GET STARTED
+   ------------------------- */
+.hero-smartposgetstarted {
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_smartposgetstarted.png) no-repeat center center; 
+}
+@media only screen and (max-width : 767px) {
+.hero-getstarted {
+	background: none;
+}
+}
+
+@media only screen and (max-width : 767px) {
+.getstarted-module h3 {
+	padding-top: 30px;
+}
+}
+
+.getstarted-module {
+	padding-bottom: 90px;
+}
+
+.getstarted-module p {
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.cta-badges {
+	margin-top: 30px;
+}
+
+.cta-badges img {
+	height: 45px;
+}
+@media (max-width: 767px) {	
+.cta-badges img {
+	height: 40px;
+}
+}
+
+.section-orange-getstarted {
+	text-align: center;
+}
+
+.section-orange-getstarted p {
+	font-size: 24px;
+}
+
+@media (max-width: 767px) {	
+.section-getstarted {
+	margin-top: -70px;
+}
+}
+
+.section-getstarted h4 {
+	padding-top: 20px;
+}
+
+.section-getstarted .specialtxt {
+	font-weight: 600;
+}
+
+.section-getstarted-mainpic {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+@media (max-width: 767px) {	
+.section-getstarted-mainpic {
+	padding-left: 100px;
+	padding-right: 100px;
+}
+}
+
+.section-getstarted-pics {
+	margin-top: 20px;
+}
+@media (max-width: 767px) {	
+.section-getstarted-pics {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+}
 
 
-/* GET STARTED
+/* GET STARTED - mPOS App + HiLite
    ------------------------- */
 .hero-getstarted {
 	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_gettingstarted.png) no-repeat center center; 
