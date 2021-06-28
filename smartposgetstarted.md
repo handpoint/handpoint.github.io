@@ -32,8 +32,9 @@ lefttext:
       <p>Now you can start accepting payments with your Handpoint PAX SmartPOS solution. </p> 
       <p>Enter an amount, and click PAY.</p>
 intro: 
-  title: Need more help, or want to learn more about how to review you business analytics, process a refund, or replace the printer paper?
+  title: Need more help, or want to learn how to review you business analytics, process a refund, or replace the printer paper?
   links: >
+    <a href="https://handpoint.atlassian.net/wiki/spaces/PD/overview">QuickStart Guide</a><br>
     <a href="https://handpoint.atlassian.net/wiki/spaces/PD/overview">FAQs</a><br>
 ---
 
