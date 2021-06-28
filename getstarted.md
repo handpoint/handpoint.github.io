@@ -18,7 +18,7 @@ lefttext:
   - header: First Time Login
     txt: >
       <p>When you open the mPOS app for the first time, you’ll be asked to sign up by entering your email address. Then, you’ll be asked to create a unique, safe password.  Note: You must use the same e-mail address that you provided for setting up your Merchant Account with your provider.  That’s one way we know it’s you.</p> <p class="specialtxt">If you wish to use an alternative e-mail address, contact your provider to update your account.</p>
-  - header: Connect your Card Reader
+  - header: Connect your HiLite Card Reader
     txt: >
       <p>Once you are signed in, the mPOS app will prompt you to pair your HiLite card reader.</p>
       <p>Ensure your phone or tablet has Bluetooth turned on and that your HiLite card reader is switched on (hold down the power button).</p>
