@@ -1,5 +1,5 @@
 ---
-layout: getstarted
+layout: smartposgetstarted
 hero: 
   title: Handpoint PAX SmartPOS
   subtitle: Take payments anywhere with your Handpoint PAX SmartPOS
