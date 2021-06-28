@@ -27,7 +27,7 @@ intro:
   title: Need more help, or want to learn how to review you business analytics, process a refund, or replace the printer paper?
   links: >
     <a href="https://handpoint.atlassian.net/wiki/spaces/PD/pages/5898298/Card+Reader+User+Manuals?preview=/5898298/3061121037/Handpoint%20SmartPOS%20Quick%20Start%20Guide%20v.0621.pdf">Quick Start Guide</a><br>
-    <a href="https://handpoint.atlassian.net/wiki/spaces/PD/overview">FAQs</a><br>
+    <a href="https://handpoint.atlassian.net/wiki/spaces/PD/pages/10944616/Card+Reader+and+mPOS+app+FAQs">FAQs</a><br>
 ---
 
 <div class="col-md-3 col-sm-3 col-md-offset-1 col-sm-offset-1">
