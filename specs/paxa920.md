@@ -25,7 +25,7 @@ hero:
 				<li>WiFi, 4G , or 3G</li>
 				<li>EMV+NFC+MSR</li>
 				<li>Point-to-point encrypted (P2PE) with 3DES and DUKPT</li>
-				<li>Use with <b><a href="/specs/mpos">Handpoint SmartPOS app</a></b> app or your apps</li>
+				<li>Use with <b><a href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/Handpoint%20SmartPOS%20Quick%20Start%20Guide%20v.0621.pdf">Handpoint SmartPOS</a></b> app or your apps</li>
 				<li>Fast and easy integration with numerous Handpoint APIs</li>
 				<li>Remote key injection and remote software updates</li>
 				<li>Tokenization with sale and Tokenize only</li>
