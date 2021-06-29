@@ -41,14 +41,14 @@ solutions:
     - title: SmartPOS
       id: "smartpos"
       ariacontrol: settings
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HandpointSmartPOS-0621.png
       description: "All-in-one P2PE payment terminals with business apps built in, PLUS all the security and flexibility of the Handpoint software terminal, international gateway, remote key injection, and terminal mangement sytem. Handpoint makes SmartPOS smarter business."
       buttontxt: "Looking to Sell SmartPOS?"
       buttonlink: "/acquirers#smartpos"
     - title: Integrated ready
       id: "integrateddata"
       ariacontrol: home
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Hi5_Contactless_Cropped.png?w=200
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_integratedready.png
       description: "If your merchants are moving to integrated payments, but not all at once, you need a standalone P2PE mobile terminal that you can deploy today to any merchant and flip to integrated with a click of your mouse. No costs for reterminalization. No delays for key injections. No risks to your merchant relationship. You need the integrated-ready Handpoint SmartPOS standalone."
       buttontxt: "Integrated-Ready SmartPOS Standalone"
       buttonlink: "/acquirers#standalone"
