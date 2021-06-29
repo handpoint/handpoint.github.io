@@ -26,7 +26,7 @@ lefttext:
 intro: 
   title: Need more help? Want to learn how to process a refund, replace the printer paper, or view your business analytics?
   links: >
-    <a href="https://handpoint.imgix.net.s3.amazonaws.com/dev.handpoint.com/Website%20refresh%20photos/spec-sheets/Handpoint%20SmartPOS%20Quick%20Start%20Guide%20v.0621.pdf">Quick Start Guide</a><br>
+    <a href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/Handpoint%20SmartPOS%20Quick%20Start%20Guide%20v.0621.pdf">Quick Start Guide</a><br>
     <a href="https://handpoint.atlassian.net/wiki/spaces/PD/pages/10944616/Card+Reader+and+mPOS+app+FAQs">FAQs</a><br>
 ---
 
