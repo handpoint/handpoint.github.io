@@ -48,7 +48,7 @@ solutions:
     - title: Integrated ready
       id: "integrateddata"
       ariacontrol: home
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_integratedready.png
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_cloud_vertical.png
       description: "If your merchants are moving to integrated payments, but not all at once, you need a standalone P2PE mobile terminal that you can deploy today to any merchant and flip to integrated with a click of your mouse. No costs for reterminalization. No delays for key injections. No risks to your merchant relationship. You need the integrated-ready Handpoint SmartPOS standalone."
       buttontxt: "Integrated-Ready SmartPOS Standalone"
       buttonlink: "/acquirers#standalone"
