@@ -16,7 +16,7 @@ hero:
 			<div class="col-md-8 col-sm-8">
 				<h1>Handpoint PAX A920</h1>
 				<p>With Handpoint’s powerful platform plus PAX’s sleek A920, the power of mobile is exponential.</p>
-				<p>1) Merchants can use the PAX A920 as an all-in-one mobile SmartPOS with the <b><a href="/specs/mpos">Handpoint mPOS</a></b> app installed directly on the reader.</p>
+				<p>1) Merchants can use the PAX A920 as an all-in-one mobile SmartPOS with the <b><a href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/Handpoint%20SmartPOS%20Quick%20Start%20Guide%20v.0621.pdf">Handpoint SmartPOS</a></b> app installed directly on the reader.</p>
 				<p>2) Developers can quickly integrate the PAX A920 with their POS - whether online or native iOS, Android, Mac, or Windows -  utilizing Handpoint’s innovative APIs.  It’s the “perfect” semi-integration, with all payment handling and flow outside the POS.</p>
 				<p>3) Developers can put their own Android application onto the PAX A920 and utilize Handpoint’s fast and easy SDK to activate payments with this sleek handheld unit for highly mobile use cases.</p>
 				<h4>Key features</h4>
@@ -25,7 +25,7 @@ hero:
 				<li>WiFi, 4G , or 3G</li>
 				<li>EMV+NFC+MSR</li>
 				<li>Point-to-point encrypted (P2PE) with 3DES and DUKPT</li>
-				<li>Use with <b><a href="/specs/mpos">Handpoint mPOS</a></b> app or your apps</li>
+				<li>Use with <b><a href="/specs/mpos">Handpoint SmartPOS app</a></b> app or your apps</li>
 				<li>Fast and easy integration with numerous Handpoint APIs</li>
 				<li>Remote key injection and remote software updates</li>
 				<li>Tokenization with sale and Tokenize only</li>
