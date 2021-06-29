@@ -31,7 +31,7 @@ standalone:
   description: "If your merchants are moving to integrated payments, but not all at once, you need a P2PE mobile terminal that you can deploy today to any merchant and flip to integrated with a click of your mouse. No costs for reterminalization. No delays for key injections. No risks to your merchant relationship. You need the Handpoint integrated-ready standalone."
   buttontxt: Integrated-ready SmartPOS
   buttonlink: /specs/paxa920
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_integratedready.png
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_toggletointegrated.png
 mpos: 
   title: "Brandable MPOS"
   id: "mpos"
@@ -61,7 +61,7 @@ omni-enabled:
   buttontxt: Payment types
   buttonlink: /specs/paymenttypes
 smartpos: 
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_analytics.png
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_analytics.png?h=400
   title: SmartPOS
   id: "smartpos"
   description: "All-in-one payment terminals with business apps built in, PLUS all the security and flexibility of the Handpoint software terminal, international gateway, remote key injection, and terminal mangement sytem. Handpoint makes SmartPOS smarter business."
