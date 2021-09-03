@@ -4,7 +4,7 @@ layout: specs
 hero: 
   class: hero-paxa920
   title: Pax A60
-  description: '<span class="specialtxt">Seamless SmartPOS</span>for Mobile<br>& Unified Checkouts'
+  description: '<span class="specialtxt">Seamless SmartPOS</span> for Mobile<br>& Unified Checkouts'
 ---
 
 <div class="section section-internal">
