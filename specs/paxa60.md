@@ -3,14 +3,14 @@ layout: specs
 hero: 
   class: hero-paxa920
   title: Pax A60
-  description: '<span class="specialtxt">Seamless SmartPOS</span> for Mobile <br>& Unified Checkouts'
+  description: '<span class="specialtxt">Seamless SmartPOS</span> for Mobile + <br>Unified Checkouts'
 ---
 
 <div class="section section-internal">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3 col-sm-4 section-internal-left">
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_new.png?w=250&trim=auto" class="img-responsive" alt="The PAX A60 Android terminal has a large color touch screen and P2PE payments. The Pax A60 can be used as a smartpos or integrated with the Handpoint's APIs for face-to-face payments"/>
+				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_new.png?w=250&trim=auto" class="img-responsive" alt="The PAX A60 Android terminal has a large color touch screen and P2PE payments. The Pax A60 can be integrated with Handpoint's APIs for face-to-face payments at the counter or in the aisle"/>
 				<a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/SpecSheets_PaxA920.pdf" role="button">PAX A60 Spec Sheet</a>
 			</div>
 			<div class="col-md-8 col-sm-8">
@@ -31,7 +31,7 @@ hero:
 				<li>Tokenization with sale and Tokenize only</li>
 				<li>On-screen signature capture</li>
 				<li>Dual Camera, 1D & 2D scanner</li>
-				<li>Certified with European acquirers including eMerchantPay, Borgun, Salt, and Paystrax, and with Paysafe for the US and Canada (including Interac!) featuring rich omni-commerce capabilities.*</li>
+				<li>Certified with European acquirers including eMerchantPay, Borgun, Salt, and Paystrax, and with Paysafe for the US and Canada featuring rich omni-commerce capabilities.*</li>
 			
 				
 			</div>
