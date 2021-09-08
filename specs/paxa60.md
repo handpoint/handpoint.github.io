@@ -1,7 +1,7 @@
 ---
 layout: specs
 hero: 
-  class: hero-paxa920
+  class: hero-paxa60
   title: Pax A60
   description: '<span class="specialtxt">Seamless SmartPOS</span> for Mobile<br>Unified Checkouts'
 ---
