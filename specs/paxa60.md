@@ -15,8 +15,8 @@ hero:
 			</div>
 			<div class="col-md-8 col-sm-8">
 				<h1>Handpoint PAX A60</h1>
-				<p>With Handpoint’s powerful platform plus PAX’s large screen A60, the power of mobile is exponential.</p>
-				<p>1) Merchants can use the PAX A60 as an all-in-one mobile terminal with the <b><a href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/Handpoint%20SmartPOS%20Quick%20Start%20Guide%20v.0621.pdf">Handpoint SmartPOS</a></b> app installed directly on the reader.</p>
+				<p>With Handpoint’s powerful platform plus PAX’s A60, the power of mobile is exponential. The A60's large touch screen makes it perfect for contactless service anywhere - just send receipts via email or SMS.  Handpoint powers the PAX A60 in 3 ways:</p>
+				<p>1) Merchants can use the PAX A60 as a highly mobile terminal with the <b><a href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/Handpoint%20SmartPOS%20Quick%20Start%20Guide%20v.0621.pdf">Handpoint SmartPOS</a></b> app installed directly on the reader.</p>
 				<p>2) Developers can quickly integrate the PAX A60 with their POS - whether online or native iOS, Android, Mac, or Windows -  utilizing Handpoint’s innovative APIs.  It’s the “perfect” semi-integration, with all payment handling and flow outside the POS.</p>
 				<p>3) Developers can put their own Android application onto the PAX A60 and utilize Handpoint’s fast and easy SDK to manage the entire payment experience within their own app.</p>
 				<h4>Key features</h4>
