@@ -2290,7 +2290,7 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 /* SPECS PAX A60
    ------------------------- */
 .hero-paxa60 {
-	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/test1hero_a60.png?w=1600) no-repeat center center; 
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/test1hero_a60.png?h=600) no-repeat center center; 
 }
 @media only screen and (max-width : 767px) {
 .hero-paxa60 {
