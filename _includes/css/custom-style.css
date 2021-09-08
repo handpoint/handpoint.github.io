@@ -2286,3 +2286,31 @@ background: linear-gradient(0deg, rgba(90,60,148,1) 0%, rgba(71,138,164,1) 100%)
 	width: 40px;
 }
 }
+
+/* SPECS PAX A60
+   ------------------------- */
+.hero-paxa60 {
+	background: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/test1hero_a60.png) no-repeat center center; 
+}
+@media only screen and (max-width : 767px) {
+.hero-paxa60 {
+	background: none;
+}
+}
+
+.section-internal-left-paxa60 {
+	padding-left: 90px;
+	padding-right: 90px;
+}
+@media only screen and (max-width : 992px) {
+.section-internal-left-paxa60 {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+}
+@media only screen and (max-width : 767px) {
+.section-internal-left-paxa60 {
+	padding-left: 100px;
+	padding-right: 100px;
+}
+}
