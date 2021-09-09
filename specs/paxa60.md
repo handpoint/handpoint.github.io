@@ -43,7 +43,7 @@ hero:
 	
 <div class="section section-form">
 	<div class="container">
-		<h3>Interested in bringing the PAX A960 to your merchants?</h3>
+		<h3>Interested in bringing the PAX A60 to your merchants?</h3>
 		<a class="btn btn-default bt-custom-out-wh" href="/contact" role="button">CONTACT HANDPOINT</a>
 	</div>	
 </div>
