@@ -10,7 +10,7 @@ hero:
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3 col-sm-4 section-internal-left">
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/a77_angle.png?w=250&trim=auto" class="img-responsive" alt="The PAX A77 Android terminal has a large color touch screen and P2PE payments. The Pax A77 can be integrated with Handpoint's APIs for face-to-face payments at the counter or in the aisle"/>
+				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/a77_2views.png?w=250&trim=auto" class="img-responsive" alt="The PAX A77 Android terminal has a large color touch screen and P2PE payments. The Pax A77 can be integrated with Handpoint's APIs for face-to-face payments at the counter or in the aisle"/>
 				<a class="btn btn-default bt-custom-out" href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/SpecSheets_PaxA920.pdf" role="button">PAX A77 Spec Sheet</a>
 			</div>
 			<div class="col-md-8 col-sm-8">
