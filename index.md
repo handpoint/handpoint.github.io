@@ -1,11 +1,11 @@
 ---
 layout: home
 hero:
-  title: Go mobile | Go global
-  description: Grow with Handpoint’s Integrated Payments Platform for <span id="js-rotating" class="hero-box-specialtxt">Acquirers , ISOs, ISVs</span>
+  title: Handpoint is Payments for Saas
+  description: Join the best SaaS companies in unleashing the potential of payments to <span id="js-rotating" class="hero-box-specialtxt">outpace the competition , convert payments volume to MRR, deliver a world-class payments jounrey, transform</span>
   buttontxt: Get started
   buttonlink: /contact
-  hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here <br></a>  Sign up for our newsletter <a href="https://mailchi.mp/db51950d6bfa/handpointnewsletter">Click here</a>
+  hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here <br></a>  Why not start here?  3 payments strategies used by the best SaaS companies  <a href="https://mailchi.mp/db51950d6bfa/handpointnewsletter">Click here</a>
 video:
   title: "How can you help your merchants in the cloud?"  
   subtext: Experience the greatest simplicity that delivers flexible, secure payments.  
