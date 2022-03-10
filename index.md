@@ -6,23 +6,8 @@ hero:
   buttontxt: Get Started
   buttonlink: /contact
   hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here </a>  
-cloudlogos: 
-  title: "Trusted By"
-  buttontext: Book a consultation
-  buttonlink: /specs/terminal-range/
-  logos: 
-    - title: row1
-      list: 
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/emerchantpay.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/m2pay.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/evo.png
-cta: 
-  title: We have helped nearly <br> 100 software companies <br> from California <br> to South Africa <br> transform with payments
-  buttontxt: Book a consultation
-  buttonlink: /specs/geographies  
 blurbs: 
-  title: "We are more than your favorite payments platform. We are your favorite partners. <br> Lean on our experts to achieve your strategy"
+  title: "We are more than your favorite payments platform. We are your favorite partner. <br> Lean on our experts to achieve your strategy"
   buttontext: Get started
   buttonlink: /contact
   list: 
@@ -126,6 +111,23 @@ testimonials:
     description: "Countr was able to seamlessly and rapidly integrate Handpoint into its Point of Sale. This integration lets you make sales and accept card payments in one swift process. It's easy, secure and fast."
     author: "John Staunton, CEO"
     role: "Countr"
+
+cloudlogos: 
+  title: "Trusted By"
+  buttontext: Book a consultation
+  buttonlink: /specs/terminal-range/
+  logos: 
+    - title: row1
+      list: 
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/emerchantpay.png
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/m2pay.png
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/evo.png
+cta: 
+  title: We have helped nearly <br> 100 software companies <br> from California <br> to South Africa <br> transform with payments
+  buttontxt: Book a consultation
+  buttonlink: /specs/geographies  
+
 contact: 
   title: Choose a partner, not a vendor
   
