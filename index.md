@@ -2,7 +2,7 @@
 layout: home
 hero:
   title: Payments-Powered Growth
-  description: Unleash the potential of payments to<br> <span id="js-rotating" class="hero-box-specialtxt">outpace the competition, convert payments volume to MRR, deliver a world-class payments jounrey, transform</span>
+  description: Unleash the potential of payments<br> <span id="js-rotating" class="hero-box-specialtxt">to outpace the competition, and convert payments volume to MRR, to deliver a world-class customer journey, transform your business</span>
   buttontxt: Get Started
   buttonlink: /contact
   hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here <br>
@@ -16,12 +16,7 @@ blurbsOne:
   list: 
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=250
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/emerchantpay.png?w=250
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/m2pay.png?w=250
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/salt%20logo.png?w=250
-cta: 
-  title: Powering <br>thousands of merchants and <br>dozens of POS solutions <br>across 3 continents.
-  buttontxt: Go global
-  buttonlink: /specs/geographies
  blurbs: 
   title: "Integrated face-to-face payments made easy. Anytime. Anywhere."
   buttontext: Get started
