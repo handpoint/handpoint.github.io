@@ -32,21 +32,21 @@ solutions:
   title: Find your personalized payments solution
   subtitle: Unified solution suite for the future of commerce
   list: 
-- title: Online commerce
+    - title: SmartPOS
       id: "smartpos"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HandpointSmartPOS-0621.png
       description: "All-in-one P2PE payment terminals with business apps built in, PLUS all the security and flexibility of the Handpoint software terminal, international gateway, remote key injection, and terminal mangement sytem. Handpoint makes SmartPOS smarter business."
       buttontxt: "Looking to Sell SmartPOS?"
       buttonlink: "/acquirers#smartpos"
-    - title: All-in-One Commerce
+    - title: Integrated ready
       id: "integrateddata"
       ariacontrol: home
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_cloud_vertical.png
       description: "If your merchants are moving to integrated payments, but not all at once, you need a standalone P2PE mobile terminal that you can deploy today to any merchant and flip to integrated with a click of your mouse. No costs for reterminalization. No delays for key injections. No risks to your merchant relationship. You need the integrated-ready Handpoint SmartPOS standalone."
       buttontxt: "Integrated-Ready SmartPOS Standalone"
       buttonlink: "/acquirers#standalone"
-    - title: mPOS
+    - title: Brandable mPOS
       id: "brandablempos"
       ariacontrol: profile
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/mPOS_with_HiLite.png?w=200&h=206
@@ -60,14 +60,14 @@ solutions:
       description: "Win software partners with Handpoint APIs for native apps and web POS. From SMBs to enterprise retailers to field service agents, merchants are looking for secure, innovative mobile payment solutions to take payments wherever they interact with customers. We'll support their payment integrations. You won't need to certify them AND you'll get the tools you need to support your new integrated merchants."
       buttontxt: Handpoint APIs
       buttonlink: "/acquirers#payment-apis"
-    - title: Unified Intelligence
+    - title: Mobile extensions
       id: "mobileextensions"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled.png
       description: "Handpoint delivers the mobile retail experience your merchants want. Offer your merchants integraged mobile solutions for high-touch retail, line-busting, and large format retail. And with our omni-enabled terminals, merchants can deliver the future of unified commerce."
       buttontxt: HiPro
       buttonlink: "/acquirers#m-extensions"
-    - title: Custom Flows
+    - title: Omni-enabled
       id: "omnienabled"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/OmniEnabled_HiLite.png
@@ -127,7 +127,7 @@ cta:
   buttontxt: Go global
   buttonlink: /specs/geographies
 cloudlogos: 
-  title: "Handpoint provides NextGEN Solutions around the globe"
+  title: "Handpoint provides NextGEN Solutions with leading ISOs, acquiring platforms, and platforms around the globe"
   logos: 
     - title: row1
       list: 
@@ -150,3 +150,4 @@ cloudlogos:
 contact: 
   title: We specialize in helping our partners move quickly. How can we help you?
 ---
+
