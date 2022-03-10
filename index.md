@@ -1,26 +1,20 @@
 ---
 layout: home
 hero:
-  title: Handpoint is Payments for Saas
-  description: Join the best SaaS companies in unleashing the potential of payments to <span id="js-rotating" class="hero-box-specialtxt">outpace the competition , convert payments volume to MRR, deliver a world-class payments jounrey, transform</span>
-  buttontxt: Get started
+  title: Payments-Powered Growth
+  description: Unleash the potential of payments to <span id="js-rotating" class="hero-box-specialtxt">outpace the competition, convert payments volume to MRR, deliver a world-class payments jounrey, transform</span>
+  buttontxt: Get Started
   buttonlink: /contact
   hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here <br></a>  Why not start here?  3 payments strategies used by the best SaaS companies  <a href="https://mailchi.mp/db51950d6bfa/handpointnewsletter">Click here</a>
 video:
-  title: "How can you help your merchants in the cloud?"  
+  title: "We have helped nearly 100 software companies from California to South Africa transform with payments"  
   subtext: Experience the greatest simplicity that delivers flexible, secure payments.  
-  vwidth: 800
-  vheight: 450
-  url: https://handpoint.imgix.net/Website%20refresh%20photos/videos/handpoint.mp4
-  poster: https://handpoint.imgix.net/Website%20refresh%20photos/videos/handpoint_screenshot.png
-  buttontext: Discover Handpoint Cloud Payments 
-  buttonlink: /specs/cloudsdk/
 blurbsOne: 
-  title: "Deliver the ultimate checkout experience with SmartPOS"
-  buttontext: Get SmartPOS
+  title: "Trusted By"
+  buttontext: Book a consultation with our experts
   buttonlink: /specs/terminal-range/
   list: 
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-023.jpg?w=250
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-032-2.jpg?w=250
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-043-2.jpg?w=250
 blurbs: 
