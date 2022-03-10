@@ -14,11 +14,15 @@ blurbsOne:
   buttontext: Book a consultation with our experts
   buttonlink: /specs/terminal-range/
   list: 
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/emerchantpay.png
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/m2pay.png
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/salt%20logo.png
-blurbs: 
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=250
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/emerchantpay.png?w=250
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/m2pay.png?w=250
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/salt%20logo.png?w=250
+cta: 
+  title: Powering <br>thousands of merchants and <br>dozens of POS solutions <br>across 3 continents.
+  buttontxt: Go global
+  buttonlink: /specs/geographies
+ blurbs: 
   title: "Integrated face-to-face payments made easy. Anytime. Anywhere."
   buttontext: Get started
   buttonlink: /contact
