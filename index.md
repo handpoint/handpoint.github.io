@@ -17,7 +17,7 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Europe_ripe.png?w=250
       title: Europe is ripe for a (r)evolution in SaaS-based payments
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/100b_oppty.png?w=250
-      title: Traditional MSPs are not ready to help software companies capture the $100 Billion opportunity of embedded payments
+      title: MSPs are not ready to help software companies capture the $100B+ opportunity of embedded payments
 solutions: 
   title: Find your personalized payments solution
   subtitle: Unified solution suite for the future of commerce
