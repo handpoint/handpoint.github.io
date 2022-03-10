@@ -8,7 +8,7 @@ hero:
   hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here </a>  
 cloudlogos: 
   title: "Trusted By"
-  buttontext: Book a consultation with our experts
+  buttontext: Book a consultation
   buttonlink: /specs/terminal-range/
   logos: 
     - title: row1
@@ -19,10 +19,10 @@ cloudlogos:
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/evo.png
 cta: 
   title: We have helped <br> nearly 100 software companies <br> from California <br> to South Africa <br> transform with payments
-  buttontxt: Get Started
+  buttontxt: Book a consultation
   buttonlink: /specs/geographies  
 blurbs: 
-  title: "Our international experts are here to help you achieve your strategy"
+  title: "Work with international experts to achieve your strategy"
   buttontext: Get started
   buttonlink: /contact
   list: 
