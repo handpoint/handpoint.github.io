@@ -18,7 +18,7 @@ blurbsOne:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=25
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=25
 blurbs: 
-  title: "Integrated face-to-face payments made easy. Anytime. Anywhere."
+  title: "Our experts are here to help you achieve your strategy"
   buttontext: Get started
   buttonlink: /contact
   list: 
@@ -27,7 +27,7 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/white%20HiLite%20straight%20cropped.jpg?w=250
       title: Europe is ripe for an evolutions in SaaS-based payments
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TMS.png?w=250
-      title: Easy merchant support and updates
+      title: Payments power the evolution of SaaS
 solutions: 
   title: Find your personalized payments solution
   subtitle: Unified solution suite for the future of commerce
