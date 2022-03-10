@@ -26,21 +26,19 @@ solutions:
       id: "smartpos"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HandpointSmartPOS-0621.png
-      description: "All-in-one P2PE payment terminals with business apps built in, PLUS all the security and flexibility of the Handpoint software terminal, international gateway, remote key injection, and terminal mangement sytem. Handpoint makes SmartPOS smarter business."
-      buttontxt: "Looking to Sell SmartPOS?"
-      buttonlink: "/acquirers#smartpos"
-    - title: Online
+      description: "Customer interaction done right, with APIs, security, and deployment tools for you to scale with confidence. Handpoint makes smart POS smarter business."
+    - title: Omni-Commerce
       id: "integrateddata"
       ariacontrol: home
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_cloud_vertical.png
-      description: "If your merchants are moving to integrated payments, but not all at once, you need a standalone P2PE mobile terminal that you can deploy today to any merchant and flip to integrated with a click of your mouse. No costs for reterminalization. No delays for key injections. No risks to your merchant relationship. You need the integrated-ready Handpoint SmartPOS standalone."
+      description: "Buyer's expectations are changing fast. Rapidly enable what's next: onsite, online, unified."
       buttontxt: "Integrated-Ready SmartPOS Standalone"
       buttonlink: "/acquirers#standalone"
     - title: Cloud API
       id: "brandablempos"
       ariacontrol: profile
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/mPOS_with_HiLite.png?w=200&h=206
-      description: "Offer your merchants a sleek application that is simple to use and provides a full transaction history on their phone or online. Use the Handpoint mPOS app off the shelf and out of the box, or let us brand a solution for you."
+      description: "Everything you need to make face-to-face payments as seamless as your software."
       buttontxt: "mPOS App"
       buttonlink: "/acquirers#mpos"
     - title: All in One
