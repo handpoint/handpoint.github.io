@@ -7,7 +7,7 @@ hero:
   buttonlink: /contact
   hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here </a>  
 blurbs: 
-  title: "Handpoint is more than your favorite payments platform. We are your favorite partner. <br> Lean on our experts to achieve your strategy"
+  title: "More than your favorite payments platform. Your favorite partner. <br> Lean on our experts to achieve your strategy"
   subtitle: "Nextgen commerce is transformational for you and your customers"
   buttontext: Get started
   buttonlink: /contact
