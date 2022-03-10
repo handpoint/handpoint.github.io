@@ -14,9 +14,9 @@ blurbsOne:
   buttontext: Book a consultation with our experts
   buttonlink: /specs/terminal-range/
   list: 
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-032-2.jpg?w=250
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/HANPOINT-043-2.jpg?w=250
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=100
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=100
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=100
 blurbs: 
   title: "Integrated face-to-face payments made easy. Anytime. Anywhere."
   buttontext: Get started
@@ -108,17 +108,17 @@ testimonials:
     author: "A. Hu"
     role: "Fabletics, TechStyle Fashion Group"
   - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/slider_testimonial02.jpg
-    title: "mPOS and Payments APIs for fast-growing ISOs & Acquirers"
+    title: "Scale fast with the right customer journey"
     description: "Handpoint enabled us to go after a new market with an innovative mobile product and a platform for managing our fast-growing customer base. The Handpoint platform easily enables the merchant deployment and activation process for a seamless customer experience. And Handpoint’s continuous innovation is enabling us to go after new clients in different industries."
     author: "Alwyn Fourie"
     role: "SureSwipe"
   - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/slider_testimonial04.jpg
-    title: "Powerful payments APIs for POS developers"
+    title: "Powerful payments APIs for Embedded Payments"
     description: "At eposly we evaluated all possible partners for our payment terminals integration. We needed a partner that would be there to support us along the way, we found this in Handpoint!"
     author: "David Cameron, MDir"
     role: "eposly"
   - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/slider_testimonial05.jpg
-    title: "Integrate EMV credit card readers with payments APIs for tablets, PCs, web POS"
+    title: "Streamline your development and control your product"
     description: "Countr was able to seamlessly and rapidly integrate Handpoint into its Point of Sale. This integration lets you make sales and accept card payments in one swift process. It's easy, secure and fast."
     author: "John Staunton, CEO"
     role: "Countr"
