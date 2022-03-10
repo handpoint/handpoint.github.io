@@ -14,9 +14,9 @@ blurbsOne:
   buttontext: Book a consultation with our experts
   buttonlink: /specs/terminal-range/
   list: 
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=100
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=100
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=100
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=25
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=25
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=25
 blurbs: 
   title: "Integrated face-to-face payments made easy. Anytime. Anywhere."
   buttontext: Get started
@@ -32,21 +32,28 @@ solutions:
   title: Find your personalized payments solution
   subtitle: Unified solution suite for the future of commerce
   list: 
-    - title: SmartPOS
+    - title: Cloud POS
       id: "smartpos"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HandpointSmartPOS-0621.png
       description: "All-in-one P2PE payment terminals with business apps built in, PLUS all the security and flexibility of the Handpoint software terminal, international gateway, remote key injection, and terminal mangement sytem. Handpoint makes SmartPOS smarter business."
       buttontxt: "Looking to Sell SmartPOS?"
       buttonlink: "/acquirers#smartpos"
-    - title: Integrated ready
+- title: Online commerce
+      id: "smartpos"
+      ariacontrol: settings
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HandpointSmartPOS-0621.png
+      description: "All-in-one P2PE payment terminals with business apps built in, PLUS all the security and flexibility of the Handpoint software terminal, international gateway, remote key injection, and terminal mangement sytem. Handpoint makes SmartPOS smarter business."
+      buttontxt: "Looking to Sell SmartPOS?"
+      buttonlink: "/acquirers#smartpos"
+    - title: All-in-One Commerce
       id: "integrateddata"
       ariacontrol: home
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_cloud_vertical.png
       description: "If your merchants are moving to integrated payments, but not all at once, you need a standalone P2PE mobile terminal that you can deploy today to any merchant and flip to integrated with a click of your mouse. No costs for reterminalization. No delays for key injections. No risks to your merchant relationship. You need the integrated-ready Handpoint SmartPOS standalone."
       buttontxt: "Integrated-Ready SmartPOS Standalone"
       buttonlink: "/acquirers#standalone"
-    - title: Brandable mPOS
+    - title: mPOS
       id: "brandablempos"
       ariacontrol: profile
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/mPOS_with_HiLite.png?w=200&h=206
@@ -60,14 +67,14 @@ solutions:
       description: "Win software partners with Handpoint APIs for native apps and web POS. From SMBs to enterprise retailers to field service agents, merchants are looking for secure, innovative mobile payment solutions to take payments wherever they interact with customers. We'll support their payment integrations. You won't need to certify them AND you'll get the tools you need to support your new integrated merchants."
       buttontxt: Handpoint APIs
       buttonlink: "/acquirers#payment-apis"
-    - title: Mobile extensions
+    - title: Unified Intelligence
       id: "mobileextensions"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled.png
       description: "Handpoint delivers the mobile retail experience your merchants want. Offer your merchants integraged mobile solutions for high-touch retail, line-busting, and large format retail. And with our omni-enabled terminals, merchants can deliver the future of unified commerce."
       buttontxt: HiPro
       buttonlink: "/acquirers#m-extensions"
-    - title: Omni-enabled
+    - title: Custom Flows
       id: "omnienabled"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/OmniEnabled_HiLite.png
@@ -127,7 +134,7 @@ cta:
   buttontxt: Go global
   buttonlink: /specs/geographies
 cloudlogos: 
-  title: "Handpoint provides NextGEN Solutions with leading ISOs, acquiring platforms, and platforms around the globe"
+  title: "Handpoint provides NextGEN Solutions around the globe"
   logos: 
     - title: row1
       list: 
