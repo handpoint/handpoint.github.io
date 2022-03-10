@@ -22,7 +22,7 @@ cta:
   buttontxt: Book a consultation
   buttonlink: /specs/geographies  
 blurbs: 
-  title: "We are more than your favorite payments platform. We are your partners. <br> Lean on our experts to achieve your strategy"
+  title: "We are more than your favorite payments platform. We are your favorite partners. <br> Lean on our experts to achieve your strategy"
   buttontext: Get started
   buttonlink: /contact
   list: 
