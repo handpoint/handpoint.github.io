@@ -22,52 +22,54 @@ solutions:
   title: Find your personalized payments solution
   subtitle: Unified solution suite for the future of commerce
   list: 
-    - title: Android Terminals
+    - title: Omni-Commerce
       id: "smartpos"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HandpointSmartPOS-0621.png
-      description: "Customer interaction done right, with APIs, security, and deployment tools for you to scale with confidence. Handpoint makes smart POS smarter business."
-    - title: Omni-Commerce
+      description: "Buyer's expectations are changing fast. Rapidly enable what's next: onsite, online, unified."
+      buttontxt: "Get Started"
+      buttonlink: "/acquirers#standalone"
+    - title: Android Terminals
       id: "integrateddata"
       ariacontrol: home
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_cloud_vertical.png
-      description: "Buyer's expectations are changing fast. Rapidly enable what's next: onsite, online, unified."
-      buttontxt: "Integrated-Ready SmartPOS Standalone"
+      description: "Customer interaction done right, with APIs, security, and deployment tools for you to scale with confidence. Handpoint makes smart POS smarter business."
+      buttontxt: "Get Started"
       buttonlink: "/acquirers#standalone"
     - title: Cloud API
       id: "brandablempos"
       ariacontrol: profile
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/mPOS_with_HiLite.png?w=200&h=206
-      description: "Everything you need to make face-to-face payments as seamless as your software."
-      buttontxt: "mPOS App"
+      description: "The APIs you need to make face-to-face payments as seamless as your software."
+      buttontxt: Get Started
       buttonlink: "/acquirers#mpos"
     - title: All in One
       id: "integratedapis"
       ariacontrol: messages
       image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration.png
-      description: "Win software partners with Handpoint APIs for native apps and web POS. From SMBs to enterprise retailers to field service agents, merchants are looking for secure, innovative mobile payment solutions to take payments wherever they interact with customers. We'll support their payment integrations. You won't need to certify them AND you'll get the tools you need to support your new integrated merchants."
-      buttontxt: Handpoint APIs
+      description: "Build your perfect mobile point of sale on smart POS terminals with our seamless libraries and PCI-P2PE security."
+      buttontxt: Get Started
       buttonlink: "/acquirers#payment-apis"
-    - title: Unified Intelligence
+    - title: mPOS
       id: "mobileextensions"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled.png
-      description: "Handpoint delivers the mobile retail experience your merchants want. Offer your merchants integraged mobile solutions for high-touch retail, line-busting, and large format retail. And with our omni-enabled terminals, merchants can deliver the future of unified commerce."
-      buttontxt: HiPro
+      description: "Embedded payments made light and easy for nextgen app developers."
+      buttontxt: Get Started
       buttonlink: "/acquirers#m-extensions"
-    - title: Custom Flows
+    - title: Unified Intelligence
       id: "omnienabled"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/OmniEnabled_HiLite.png
-      description: "Handpoint PCI-P2PE mobile terminals with tokenization integrations and web POS APIs are used today by merchants at the forefront: showrooming, membership models, online refunds, unified omni-commerce merchant accounts, high-touch retail, online booking with face-to-face payments, and more. Handpoint's flexible platform enables us to build new solutions for your opportunities. If you are an ecommerce acquirer, we can take you to omni with a seamless card present platform and deep expertise. In the world of nextgen acquiring, where will mobile take you?"
-      buttontxt: "Payment Types"
+      description: "Understand your customers across every touchpoint with flexible, omni token schemes."
+      buttontxt: Get Started
       buttonlink: "/acquirers#omni-enabled"
-    - title: SoftPOS
+    - title: Custom Flows
       id: "nopos"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/softpos.png
-      description: "Hardware terminals are going away, giving way to consumer off-the-shelf solutions. Handpoint is leading the way building the tools you need for the future: a software terminal with interfaces to mobile platforms and acquirers that enable you to manage transactions, security, and your portfolios."
-      buttontxt: "Want to learn more?"
+      description: "Handpoint powers innovative transaction flows, like multi-MID, instant-gratification loyalty, BIN lookups, and more."
+      buttontxt: Get Started
       buttonlink: "/acquirers#softpos"
 businessicons:
   title: "Control the Payments Experience. Everywhere"
