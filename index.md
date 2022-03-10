@@ -128,25 +128,16 @@ cta:
   buttonlink: /specs/geographies  
 cloudlogos: 
   title: "Handpoint powers NextGEN commerce around the globe"
+  buttontext: Book a consultation with our experts
+  buttonlink: /specs/terminal-range/
   logos: 
     - title: row1
       list: 
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/vantiv.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/mercantilebank.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/evo.png
-    - title: row2
-      list:
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/nuvei.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/TSYS.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/m2pay.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/ACI.png
-    - title: row3
-      list: 
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/firstdatatomnipay.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/Borgun.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/ISO8583.png
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/emerchantpay.png
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/m2pay.png
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/evo.png
+
 contact: 
   title: Choose a partner, not a vendor
 ---
