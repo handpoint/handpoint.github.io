@@ -18,7 +18,7 @@ blurbsOne:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?
 blurbs: 
-  title: "We are committed to your success"
+  title: "Our international experts are here to help you achieve your strategy"
   buttontext: Get started
   buttonlink: /contact
   list: 
