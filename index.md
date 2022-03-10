@@ -18,7 +18,7 @@ cloudlogos:
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/m2pay.png
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/evo.png
 cta: 
-  title: We have helped <br> nearly 100 software companies <br> from California <br> to South Africa <br> transform with payments
+  title: We have helped nearly <br> 100 software companies <br> from California <br> to South Africa <br> transform with payments
   buttontxt: Book a consultation
   buttonlink: /specs/geographies  
 blurbs: 
@@ -29,7 +29,7 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto.png?w=250
       title: There are 34,000 SaaS companies. 3 ways the best use payments to outpace the competition
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Europe_ripe.png?w=250
-      title: Europe is ripe for an evolutions in SaaS-based payments
+      title: Europe is ripe for a (r)evolution in SaaS-based payments
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/100b_oppty.png?w=250
       title: Payments power the evolution of SaaS. Chose your partner carefully
 solutions: 
