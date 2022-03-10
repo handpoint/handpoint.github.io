@@ -6,10 +6,21 @@ hero:
   buttontxt: Get Started
   buttonlink: /contact
   hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here </a>  
-video:
-  title: "We have helped nearly 100 software companies from California to South Africa transform with payments"  
-  subtext: Experience the greatest simplicity that delivers flexible, secure payments.  
-
+cloudlogos: 
+  title: "Trusted By"
+  buttontext: Book a consultation with our experts
+  buttonlink: /specs/terminal-range/
+  logos: 
+    - title: row1
+      list: 
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/emerchantpay.png
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/m2pay.png
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/evo.png
+cta: 
+  title: We have helped <br> nearly 100 software companies <br> from California <br> to South Africa <br> transform with payments
+  buttontxt: Get Started
+  buttonlink: /specs/geographies  
 blurbs: 
   title: "Our international experts are here to help you achieve your strategy"
   buttontext: Get started
@@ -115,22 +126,6 @@ testimonials:
     description: "Countr was able to seamlessly and rapidly integrate Handpoint into its Point of Sale. This integration lets you make sales and accept card payments in one swift process. It's easy, secure and fast."
     author: "John Staunton, CEO"
     role: "Countr"
-cta: 
-  title: We have helped nearly 100 software companies <br>from California to South Africa <br>transform with payments
-  buttontxt: Get Started
-  buttonlink: /specs/geographies  
-cloudlogos: 
-  title: "Handpoint powers NextGEN commerce around the globe"
-  buttontext: Book a consultation with our experts
-  buttonlink: /specs/terminal-range/
-  logos: 
-    - title: row1
-      list: 
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/emerchantpay.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/m2pay.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/evo.png
-
 contact: 
   title: Choose a partner, not a vendor
   
@@ -143,6 +138,8 @@ blurbsOne:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?  
-  
+video:
+  title: "We have helped nearly 100 software companies from California to South Africa transform with payments"  
+  subtext: Experience the greatest simplicity that delivers flexible, secure payments.    
 ---
 
