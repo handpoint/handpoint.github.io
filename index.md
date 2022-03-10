@@ -9,7 +9,7 @@ hero:
 blurbs: 
   title: "More than your favorite payments platform. Your favorite partner. <br> Lean on our experts to achieve your strategy"
   subtitle: "Nextgen commerce is transformational for you and your customers"
-  buttontext: Get started
+  buttontext: Book a free strategy session
   buttonlink: /contact
   list: 
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto.png?w=250
