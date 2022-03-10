@@ -124,10 +124,10 @@ testimonials:
     role: "Countr"
 cta: 
   title: Powering <br>thousands of merchants and <br>dozens of POS solutions <br>across 3 continents.
-  buttontxt: Go global
+  buttontxt: Get Started
   buttonlink: /specs/geographies
 cloudlogos: 
-  title: "Handpoint provides NextGEN Solutions with leading ISOs, acquiring platforms, and platforms around the globe"
+  title: "Handpoint provides NextGEN Solutions around the globe"
   logos: 
     - title: row1
       list: 
@@ -148,6 +148,6 @@ cloudlogos:
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/ISO8583.png
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/emerchantpay.png
 contact: 
-  title: We specialize in helping our partners move quickly. How can we help you?
+  title: Choose a partner, not a vendor
 ---
 
