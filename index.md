@@ -103,7 +103,7 @@ businessicons:
       name: Restaurant
 testimonials:
   - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/slider_testimonial01.jpg
-    title: "Best mobile solution for omni-commerce"
+    title: "Best provider for nextgen omni-commerce"
     description: "...we could not have asked for a better partner! They have continuously collaborated with us to create a completely mobile solution that we’ve been able to successfully deploy to our retail stores and pop up events nationwide. Their product perfectly complements our technology and has allowed us to offer a seamless customer experience to our omnichannel customers. "
     author: "A. Hu"
     role: "Fabletics, TechStyle Fashion Group"
@@ -113,7 +113,7 @@ testimonials:
     author: "Alwyn Fourie"
     role: "SureSwipe"
   - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/slider_testimonial04.jpg
-    title: "Powerful payments APIs for Embedded Payments"
+    title: "Powerful APIs for embedded payments"
     description: "At eposly we evaluated all possible partners for our payment terminals integration. We needed a partner that would be there to support us along the way, we found this in Handpoint!"
     author: "David Cameron, MDir"
     role: "eposly"
@@ -127,7 +127,7 @@ cta:
   buttontxt: Get Started
   buttonlink: /specs/geographies
 cloudlogos: 
-  title: "Handpoint provides NextGEN Solutions around the globe"
+  title: "Handpoint powers NextGEN commerce around the globe"
   logos: 
     - title: row1
       list: 
