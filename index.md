@@ -2,7 +2,7 @@
 layout: home
 hero:
   title: Payments-Powered Growth
-  description: Unleash the potential of payments<br> <span id="js-rotating" class="hero-box-specialtxt">to outpace your competition, and convert payments volume to MRR, to deliver a world-class customer journey, transform your business</span>
+  description: Unleash the potential of payments <br> <span id="js-rotating" class="hero-box-specialtxt">to outpace your competition, and convert payments volume to MRR, to deliver a world-class customer journey, transform your business</span>
   buttontxt: Get Started
   buttonlink: /contact
   hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here <br>
