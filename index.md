@@ -7,7 +7,7 @@ hero:
   buttonlink: /contact
   hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here </a>  
 blurbs: 
-  title: "We are more than your favorite payments platform. We are your favorite partner. <br> Lean on our experts to achieve your strategy"
+  title: "Handpoint is more than your favorite payments platform. We are your favorite partner. <br> Lean on our experts to achieve your strategy"
   buttontext: Get started
   buttonlink: /contact
   list: 
@@ -16,7 +16,7 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Europe_ripe.png?w=250
       title: Europe is ripe for a (r)evolution in SaaS-based payments
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/100b_oppty.png?w=250
-      title: Payments power the evolution of SaaS. Chose your partner carefully
+      title: Traditional MSPs are not ready to help software companies capture the $100 Billion opportunity of embedded payments
 solutions: 
   title: Find your personalized payments solution
   subtitle: Unified solution suite for the future of commerce
