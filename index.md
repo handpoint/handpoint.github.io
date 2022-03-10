@@ -9,14 +9,7 @@ hero:
 video:
   title: "We have helped nearly 100 software companies from California to South Africa transform with payments"  
   subtext: Experience the greatest simplicity that delivers flexible, secure payments.  
-blurbsOne: 
-  title: "Trusted By"
-  buttontext: Book a consultation with our experts
-  buttonlink: /specs/terminal-range/
-  list: 
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?
+
 blurbs: 
   title: "Our international experts are here to help you achieve your strategy"
   buttontext: Get started
@@ -140,5 +133,16 @@ cloudlogos:
 
 contact: 
   title: Choose a partner, not a vendor
+  
+  
+blurbsOne: 
+  title: "Trusted By"
+  buttontext: Book a consultation with our experts
+  buttonlink: /specs/terminal-range/
+  list: 
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?  
+  
 ---
 
