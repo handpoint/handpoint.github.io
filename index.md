@@ -14,20 +14,20 @@ blurbsOne:
   buttontext: Book a consultation with our experts
   buttonlink: /specs/terminal-range/
   list: 
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=25
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=25
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?w=25
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?
 blurbs: 
   title: "Our experts are here to help you achieve your strategy"
   buttontext: Get started
   buttonlink: /contact
   list: 
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration.png?w=250
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto.png?w=250
       title: There are 34,000 SaaS companies. 3 ways the best use payments to outpace the competition
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/white%20HiLite%20straight%20cropped.jpg?w=250
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Europe_ripe.jpg?w=250
       title: Europe is ripe for an evolutions in SaaS-based payments
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TMS.png?w=250
-      title: Payments power the evolution of SaaS
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/100b_oppty?w=250
+      title: Payments power the evolution of SaaS. Chose your partner carefully
 solutions: 
   title: Find your personalized payments solution
   subtitle: Unified solution suite for the future of commerce
