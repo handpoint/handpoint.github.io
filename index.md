@@ -2,7 +2,7 @@
 layout: home
 hero:
   title: Payments-Powered Growth
-  description: Unleash the potential of payments <span id="js-rotating" class="hero-box-specialtxt"> and outpace your competition, to convert payments volume to MRR, to deliver a world-class payments jounrey, to transform your business</span>
+  description: Unleash the potential of embedded payments to <span id="js-rotating" class="hero-box-specialtxt"> outpace your competition, convert payments volume to MRR, deliver a world-class payments journey, transform your business</span>
   buttontxt: Get Started
   buttonlink: /contact
   hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here </a>  
@@ -23,14 +23,14 @@ blurbs:
   buttonlink: /contact
   list: 
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration.png?w=250
-      title: Easy integration for any platform
+      title: There are 34,000 SaaS companies. 3 ways the best use payments to outpace the competition
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/white%20HiLite%20straight%20cropped.jpg?w=250
-      title: Easy terminal setup and activation
+      title: Europe is ripe for an evolutions in SaaS-based payments
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TMS.png?w=250
       title: Easy merchant support and updates
 solutions: 
-  title: Handpoint-enabled solutions for NextGEN Commerce
-  subtitle: Unified solution suite for modern acquirers
+  title: Find your personalized payments solution
+  subtitle: Unified solution suite for the future of commerce
   list: 
     - title: SmartPOS
       id: "smartpos"
@@ -82,8 +82,8 @@ solutions:
       buttontxt: "Want to learn more?"
       buttonlink: "/acquirers#softpos"
 businessicons:
-  title: "Accept Payments Everywhere. Go Mobile."
-  subtitle: "See where mobile will take your business"
+  title: "Control the Payments Experience. Everywhere"
+  subtitle: "Unified commerce for your customers"
   icons: 
     - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico01.svg
       name: Sports & Camps
