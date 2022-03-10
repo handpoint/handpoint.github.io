@@ -87,7 +87,7 @@ solutions:
       buttonlink: "/acquirers#softpos"
 businessicons:
   title: "Control the Payments Experience. Everywhere"
-  subtitle: "Unified commerce for your customers"
+  subtitle: "Nextgen commerce is transformational for you and your customers"
   icons: 
     - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico01.svg
       name: Sports & Camps
