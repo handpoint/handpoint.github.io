@@ -18,15 +18,15 @@ blurbsOne:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/paysafe.png?
 blurbs: 
-  title: "Our experts are here to help you achieve your strategy"
+  title: "We are committed to your success"
   buttontext: Get started
   buttonlink: /contact
   list: 
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto.png?w=250
       title: There are 34,000 SaaS companies. 3 ways the best use payments to outpace the competition
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Europe_ripe.jpg?w=250
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Europe_ripe.jpg?w=250
       title: Europe is ripe for an evolutions in SaaS-based payments
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/100b_oppty?w=250
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/100b_oppty?w=250
       title: Payments power the evolution of SaaS. Chose your partner carefully
 solutions: 
   title: Find your personalized payments solution
