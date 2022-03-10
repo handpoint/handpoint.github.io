@@ -123,9 +123,9 @@ testimonials:
     author: "John Staunton, CEO"
     role: "Countr"
 cta: 
-  title: Powering <br>thousands of merchants and <br>dozens of POS solutions <br>across 3 continents.
+  title: We have helped nearly 100 software companies <br>from California to South Africa <br>transform with payments
   buttontxt: Get Started
-  buttonlink: /specs/geographies
+  buttonlink: /specs/geographies  
 cloudlogos: 
   title: "Handpoint powers NextGEN commerce around the globe"
   logos: 
