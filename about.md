@@ -2,14 +2,14 @@
 layout: about
 hero: 
   title: About <br>Handpoint
-  description: Global Pioneers in Mobile & <span class="specialtxt">#NextGenPOS</span>
+  description: Global Pioneers in Integrated Payments for the <span class="specialtxt"> Future of Commerce </span>
 intro: 
   title: "Leading the way. Doing it right."
   description: > 
-    <p>Handpoint has been a pioneer in defining integrated payments and #NextGenPOS, from advancing the checkout experience with mobile technology to launching open payment integrations for all emerging POS platforms -- on 3 continents.</p><p>We provide solutions for merchants, acquirers, payfacs, ISOs and ISVs who are delivering this edge for payments: where customer experience and management matter, where payments are embedded seamlessly, and where mobile technology fuels growth. Handpoint's software terminal, international gateway, and terminal management system enable the future of acquiring, from mPOS and integrated POS to a future without terminals.</p><p class="specialtxt">Handpoint. Go Mobile. Go Global.</p>
+    <p>Handpoint has been a pioneer in defining integrated payments, from advancing the checkout experience with mobile technology to launching open payment integrations for all emerging platforms -- on 3 continents.</p><p>We provide solutions for merchants, acquirers, payfacs, ISOs and ISVs who are delivering this edge for payments: where customer experience and management matter, where payments are embedded seamlessly, and where mobile technology fuels growth. Handpoint's software terminal, international gateway, and terminal management system enable the future of acquiring, from mPOS and integrated POS to a future without terminals.</p><p class="specialtxt">Handpoint. Go Mobile. Go Global.</p>
 blurbs:
   title: Powering business in the aisle and around the globe
-  description: With over 20 years of experience helping acquirers, enterprise merchants, and ISVs on 3 continents, we have built a platform that goes way beyond hardware to make mobile payments simple, secure, and scalable.
+  description: With over 20 years of experience, we have helped circa 100 software companies from California to South Africa transform with payments. 
   list: 
     - title: Founded
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico22.svg
@@ -18,7 +18,7 @@ blurbs:
     - title: Core business
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico25.svg
       description: >
-        <p>At Handpoint, we have built the world's most flexible and robust platform as a service (PaaS) solution for the payments industry. Driven by our core values and goals of making the world of accepting payments more open and accessible, we’ve combined the best of security, modern development best practices, and accessibility to create the payments platform solution of the future.</p>	
+        <p>At Handpoint, we have built the world's most flexible and robust platform as a service solution for the payments industry. Driven by our core values and goals of making the world of accepting payments more open and accessible, we’ve combined the best of security, modern development best practices, and accessibility to create the payments platform solution of the future.</p>	
     - title: Products
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico16.svg
       buttontxt: Interested?
@@ -55,10 +55,10 @@ leadership:
       linkedin: https://www.linkedin.com/in/jodymuehlegger/
       role: "COO | Head of North America"
       image: https://handpoint.imgix.net/web/images/team/jody.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
-    - name: Juan Jaramillo 
-      linkedin: https://www.linkedin.com/in/juan-núñez-jaramillo-125ab322/
+    - name: Ezequiel Cuñado 
+      linkedin: https://www.linkedin.com/in/ecunado/
       role: CTO | Chief Technology Officer
-      image: https://handpoint.imgix.net/web/images/team/juan.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
+      image: https://handpoint.imgix.net/web/images/team/eze.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
     - name: Antoine Trota
       linkedin: https://www.linkedin.com/in/antoine-trota-67707954/
       role: Product Director
@@ -75,8 +75,7 @@ bottomblurbs:
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico28.svg
 cta: 
   title: Careers
-  subtitle: We're hiring! Join our brilliant and friendly team
-  description: "Madrid Office: SDK Developer"
-  buttontxt: Contact us
-  buttonlink: /contact
+  subtitle: We're hiring! Join our brilliant and friendly international team
+  buttontxt: Openings
+  buttonlink: https://apply.workable.com/handpoint/?lng=en
 --- 
