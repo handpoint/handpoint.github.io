@@ -566,6 +566,7 @@ select {
 	padding-bottom: 40px;
 }
 .section-blurbs h4 {
+	font-weight: 100;
 	font-size: 20px;
 	padding-left: 40px;
 	padding-bottom: 0px;
