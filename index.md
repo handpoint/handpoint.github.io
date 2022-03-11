@@ -126,7 +126,7 @@ cloudlogos:
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/m2pay.png
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/evo.png
 cta: 
-  title: We have helped nearly <br> 100 software companies <br> from California <br> to South Africa <br> transform with payments
+  title: We have helped circa <br> 100 software companies <br> from California <br> to South Africa <br> transform with payments
   buttontxt: Book a consultation
   buttonlink: /contact  
 
