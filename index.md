@@ -12,11 +12,11 @@ blurbs:
   buttontext: Book a free strategy session
   buttonlink: /contact
   list: 
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto.png?w=250
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto.png?w=400
       title: There are 34,000 SaaS companies. 3 ways the best use payments to outpace the competition
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Europe_ripe.png?w=250
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Europe_ripe.png?w=400
       title: Europe is ripe for a (r)evolution in SaaS-based payments
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/100b_oppty.png?w=250
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/100b_oppty.png?w=400
       title: MSPs are not ready to help software companies capture the $100B+ opportunity of embedded payments
 solutions: 
   title: Find your personalized payments solution
