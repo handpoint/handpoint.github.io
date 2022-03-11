@@ -565,6 +565,10 @@ select {
 	font-weight: 300;
 	padding-bottom: 60px;
 }
+.section-blurbs h4 {
+	font-weight: 500;
+	padding-bottom: 0px;
+}
 .section-blurbs .btn {	
 	font-weight: 800;
 	text-transform: uppercase;
