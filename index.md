@@ -13,11 +13,11 @@ blurbs:
   buttonlink: /contact
   list: 
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto.png?w=400
-      title: There are 34,000 SaaS companies. 3 ways the best use payments to outpace the competition
+      title: There are 34,000 SaaS companies. <b> 3 ways the best use payments <b> to outpace the competition
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Europe_ripe.png?w=400
-      title: Europe is ripe for a (r)evolution in SaaS-based payments
+      title: Europe is ripe for a (r)evolution <b> in SaaS-based payments
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/100b_oppty.png?w=400
-      title: MSPs are not ready to help software companies capture the $100B+ opportunity of embedded payments
+      title: MSPs are not ready <b> to help software companies <b> capture the $100B+ opportunity <b> of embedded payments
 solutions: 
   title: Find your personalized payments solution
   subtitle: Unified solution suite for the future of commerce
