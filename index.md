@@ -13,7 +13,7 @@ blurbs:
   buttontext: Book a free strategy session
   buttonlink: /contact
   list: 
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto-f.png?w=400
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto-e.png?w=400
       title: <a href="https://www.handpoint.com/docs/device/Basics/">There are 34,000 SaaS companies. <br> You need the right <b> payments strategy </b> <br> to outpace the competition </a>
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Europe_ripe-f.png?w=400
       title: <a href="https://www.handpoint.com/docs/device/Basics/">Europe is ripe for (r)evolution <br> <b> in SaaS-delivered payments </b> </a>
