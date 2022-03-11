@@ -7,8 +7,8 @@ hero:
   buttonlink: /contact
   hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here </a>  
 blurbs: 
-  title: "More than your favorite payments platform. Your favorite partner. <br> Lean on our experts to achieve your strategy"
-  subtitle: "Nextgen commerce is transformational for you and your customers"
+  title: "More than your favorite payments platform. Your favorite partner."
+  subtitle: "Lean on our experts to achieve your strategy"
   buttontext: Book a free strategy session
   buttonlink: /contact
   list: 
