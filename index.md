@@ -8,7 +8,8 @@ hero:
   hypertext: Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here </a>  
 blurbs: 
   title: "More than your favorite payments platform. Your favorite partner."
-  subtitle: "We are passionate about your success. Tap our decades of international integrated payments experience to transform your business. "
+  subtitle: "We are passionate about your success"
+  intro: "Tap our decades of international integrated payments experience to transform your business"
   buttontext: Book a free strategy session
   buttonlink: /contact
   list: 
