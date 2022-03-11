@@ -15,9 +15,9 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto.png?w=400
       title: <a href="https://www.handpoint.com/docs/device/Basics/">There are 34,000 SaaS companies. <br> You need the right <b> payments strategy </b> <br> to outpace the competition </a>
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Europe_ripe.png?w=400
-      title: Europe is ripe for (r)evolution <br> <b> in SaaS-delivered payments </b>
+      title: <a href="https://www.handpoint.com/docs/device/Basics/">Europe is ripe for (r)evolution <br> <b> in SaaS-delivered payments </b> </a>
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/100b_oppty.png?w=400
-      title: MSPs are not ready <br> to help software companies <br> <b> capture the $100B+ opportunity </b> <br> of embedded payments
+      title: <a href="https://www.handpoint.com/docs/device/Basics/">MSPs are not ready <br> to help software companies <br> <b> capture the $100B+ opportunity </b> <br> of embedded payments </a>
 solutions: 
   title: Find your personalized payments solution
   subtitle: Unified solution suite for the future of commerce
