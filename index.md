@@ -9,7 +9,7 @@ hero:
 blurbs: 
   title: "More than your favorite payments platform. Your favorite partner."
   subtitle: "We are passionate about your success"
-  intro: "Tap our decades of international integrated payments experience to transform your business:"
+  intro: "<b>Tap our decades of international integrated payments experience to transform your business:</b>"
   buttontext: Book a free strategy session
   buttonlink: /contact
   list: 
