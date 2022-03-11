@@ -563,11 +563,12 @@ select {
 .section-blurbs h3 {
 	color: #e97d2a;
 	font-weight: 300;
-	padding-bottom: 60px;
+	padding-bottom: 40px;
 }
 .section-blurbs h4 {
 	font-weight: 500;
-	padding-bottom: 0px;
+	font-size: 18px;
+	padding-bottom: 20px;
 }
 .section-blurbs .btn {	
 	font-weight: 800;
