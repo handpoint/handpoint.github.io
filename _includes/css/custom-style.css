@@ -560,6 +560,11 @@ select {
 	padding-bottom: 60px;
 }
 
+.section-blurb h3 {
+	color: #e97d2a;
+	font-weight: 300;
+	padding-bottom: 50px;
+}
 .section-blurbs .btn {	
 	font-weight: 800;
 	text-transform: uppercase;
