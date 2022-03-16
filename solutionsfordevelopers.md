@@ -394,6 +394,5 @@ cloudlogos:
 			</div>
 		</div>
 	</div>	
-</div>
 
 ---
