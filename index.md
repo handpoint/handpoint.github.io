@@ -14,7 +14,7 @@ blurbs:
   buttonlink: /contact
   list: 
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto-e.png?w=400
-      title: <a href="https://www.handpoint.com/docs/device/Basics/">There are 34,000 SaaS companies. <br> You need the right <b> payments strategy </b> <br> to outpace the competition </a>
+      title: <a href="s3://handpoint.imgix.net/dev.handpoint.com/Website%20refresh%20photos/spec-sheets/3%20Payments%20Strategies%20for%20SaaS%20-%20Handpoint%202022.pdf">There are 34,000 SaaS companies. <br> You need the right <b> payments strategy </b> <br> to outpace the competition </a>
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Europe_ripe-f.png?w=400
       title: <a href="https://www.handpoint.com/docs/device/Basics/">Europe is ripe for (r)evolution <br> <b> in SaaS-delivered payments </b> </a>
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/100b_oppty-f.png?w=400
