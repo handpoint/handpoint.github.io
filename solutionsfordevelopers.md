@@ -22,8 +22,55 @@ blurbs:
     buttontxt: Payment types
     buttonlink: /specs/paymenttypes
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico17.svg
-
-
+main: 
+  - title: Built for developers
+    description: 
+      Integrations are simple, secure, and supported, with tools to make your work easier, life happier. Whether you need payments for for iOS, Android, Windows, Cordova, or Web POS, we have sample apps, starter guides, and the world’s friendliest support to get you started should you have any questions.<br> 1. <a href="#">Download the SDK</a> and import the libraries into your project.<br> 2. <a href="#">Contact Us Today</a> we’ll be happy to send your first terminal and test cards for your full integration.
+    buttontxt: "Have questions? Just ask!"
+    buttonlink: /contact
+    image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration.png
+  - title: Pre-certified mobile terminals
+    description: "Handpoint terminals can take your growth global.  We've taken care of the EMV certifications on three continents, saving you months of work and giving you unparalleled market reach. And with a single integration and you have many nextgen terminals to choose from. Let us make payments easy for you."
+    buttontxt: Handpoint-enabled terminals
+    buttonlink: /specs/terminal-range
+    image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Mobile_terminals.png
+  - title: "Customer experience + control"
+    description: "Give your merchants instant on-boarding, effortless terminal setup, and real-time support. Handpoint's cloud-hosted estate management, remote key injection + software updates, and real-time transaction data enable you to offer the customer experience your merchants deserve, at any scale."
+    buttontxt: Handpoint Platform
+    buttonlink: /management
+    image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/TMS_Portal.png
+security:
+  title: Security without compromise
+  description: Launch payments quickly with Handpoint's semi-integrated SDKs for native apps and web and deliver security for your customers.
+  list: 
+    - description: Eliminate sensitive data from your software AND eliminate any need to certify your integration with the processors.
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico18.svg
+    - description: Give your merchants PCI-P2PE (point-to-point encrypted) security on every pre-certified EMV card reader.
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico19.svg
+    - description: Ship devices securely with seamless remote activation and remote key injection.
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico20.svg
+    - description: Remote software updates give busy merchants peace of mind with no merchant effort, no onsite support.
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico29.svg
+singleSection: 
+  title: Real humans, at your service
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Dev%20Portal%20iOS%20Page.png
+  description: "Partner success is serious business around these parts. No forced forums or multi-week long email replies. We have real humans ready to help you with troubleshooting, technical questions, or just a friendly chat. Slack, email, call, or hit our chat box to speak to someone right away."
+  buttontxt: "Let’s get started"
+  buttonlink: /contact
+cloudlogos: 
+  title: "You’re in good company"
+  logos: 
+    - title: row1
+      list: 
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/pepperkorn-logo.jpg
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/lsRetail_logo.png
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/salesvu_logo.png
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/salontracker_logo.png
+    - title: row2
+      list:
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/ivend_logo.png
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/emobilepos.png
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/Appos.png
 <div class="section">
 	<div class="container">
 		<div class="row text-center">
@@ -349,58 +396,4 @@ blurbs:
 	</div>	
 </div>
 
-
-
-
-
-
-main: 
-  - title: Built for developers
-    description: 
-      Integrations are simple, secure, and supported, with tools to make your work easier, life happier. Whether you need payments for for iOS, Android, Windows, Cordova, or Web POS, we have sample apps, starter guides, and the world’s friendliest support to get you started should you have any questions.<br> 1. <a href="#">Download the SDK</a> and import the libraries into your project.<br> 2. <a href="#">Contact Us Today</a> we’ll be happy to send your first terminal and test cards for your full integration.
-    buttontxt: "Have questions? Just ask!"
-    buttonlink: /contact
-    image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration.png
-  - title: Pre-certified mobile terminals
-    description: "Handpoint terminals can take your growth global.  We've taken care of the EMV certifications on three continents, saving you months of work and giving you unparalleled market reach. And with a single integration and you have many nextgen terminals to choose from. Let us make payments easy for you."
-    buttontxt: Handpoint-enabled terminals
-    buttonlink: /specs/terminal-range
-    image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Mobile_terminals.png
-  - title: "Customer experience + control"
-    description: "Give your merchants instant on-boarding, effortless terminal setup, and real-time support. Handpoint's cloud-hosted estate management, remote key injection + software updates, and real-time transaction data enable you to offer the customer experience your merchants deserve, at any scale."
-    buttontxt: Handpoint Platform
-    buttonlink: /management
-    image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/TMS_Portal.png
-security:
-  title: Security without compromise
-  description: Launch payments quickly with Handpoint's semi-integrated SDKs for native apps and web and deliver security for your customers.
-  list: 
-    - description: Eliminate sensitive data from your software AND eliminate any need to certify your integration with the processors.
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico18.svg
-    - description: Give your merchants PCI-P2PE (point-to-point encrypted) security on every pre-certified EMV card reader.
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico19.svg
-    - description: Ship devices securely with seamless remote activation and remote key injection.
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico20.svg
-    - description: Remote software updates give busy merchants peace of mind with no merchant effort, no onsite support.
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico29.svg
-singleSection: 
-  title: Real humans, at your service
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Dev%20Portal%20iOS%20Page.png
-  description: "Partner success is serious business around these parts. No forced forums or multi-week long email replies. We have real humans ready to help you with troubleshooting, technical questions, or just a friendly chat. Slack, email, call, or hit our chat box to speak to someone right away."
-  buttontxt: "Let’s get started"
-  buttonlink: /contact
-cloudlogos: 
-  title: "You’re in good company"
-  logos: 
-    - title: row1
-      list: 
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/pepperkorn-logo.jpg
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/lsRetail_logo.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/salesvu_logo.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/salontracker_logo.png
-    - title: row2
-      list:
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/ivend_logo.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/emobilepos.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/Appos.png
 ---
