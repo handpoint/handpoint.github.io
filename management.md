@@ -8,8 +8,8 @@ payfac:
   description: "Get to market fast with the platform designed for global scale"
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Handpoint%20values%20target.png
   list: 
-    - Connect seamlessly.
-    - Accept payments immediately.
+    - APIs for every platform.
+    - Accept payments seamlessly.
     - Stay secure and up-to-date with zero effort.
 tms: 
   title: "Customer experience and control with Handpoint's powerful web-based TMS"
