@@ -14,7 +14,7 @@ payfac:
     - Transform your business with a single integration
 tms: 
   title: "Your payments strategy must be part of your scaling strategy"
-  description: "Setting up a terminal has never been simpler. <br>Handpoint's remote key injection, remote software updates, and instant config file building system put the power to control the entire merchant experience in your hands."
+  description: "Activating a merchant has never been simpler. Handpoint's remote key injection, remote software updates, and instant activation design put the power to control the entire merchant experience in your hands."
   list: 
     - title: "Seamless Activation: "
       description: "Activate the right keys instantly with no delays, no support"
@@ -27,7 +27,7 @@ tms:
   buttonlink: /contact
 rttp: 
   title: "Real time transactions API"
-  description: 'Stop battling the "black boxes" of the world. You need info and insights right now.<br>With Handpoint, you see every transaction, every message, at the individual terminal level in near real-time: online, downloadable, or via a data integration.'
+  description: 'Stop battling the "black boxes" of the world. You need info and insights right now. With Handpoint, you see every transaction, every message, in real time: online, downloadable, or via API.'
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png
 channel: 
   title: "Channel Analytics"
@@ -35,7 +35,7 @@ channel:
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
 blurbs:
   title: "Engineered for Growth" 
-  description: Our robust platform is highly flexible and scalable in every direction, <br>allowing you to respond to the dynamic payments landscape.<br>If you need a solution customized for your market, Handpoint can add SDKs, terminals, tools, countries, and payment types. The entire Handpoint platform is hosted and PCI-DSS certifed on AWS for infinite scalability, so there is no limit to your potential.
+  description: Our robust platform is highly flexible and scalable in every direction, <br>allowing you to respond to the dynamic payments landscape. Handpoint can add SDKs, terminals, tools, countries, and payment types. The entire Handpoint platform is hosted and PCI-DSS certifed on AWS for infinite scalability, so there is no limit to your potential.
   list: 
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico06.svg
       title: "APIs for every platform and payment type"
