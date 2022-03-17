@@ -32,6 +32,12 @@ main:
     buttontxt: Get to Scale
     buttonlink: /management
     image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/TMS_Portal.png
+singleSection: 
+  title: Real humans, at your service
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Dev%20Portal%20iOS%20Page.png
+  description: "Partner success is our passion. No forced forums or multi-week long email replies. We have real humans ready to help you with troubleshooting, technical questions, or global strategies. Slack or email to speak to someone right away."
+  buttontxt: "Let’s get started"
+  buttonlink: /contact
 security:
   title: Security without compromise
   description: Launch payments quickly with Handpoint's for every platform and deliver security for your customers.
@@ -44,12 +50,6 @@ security:
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico20.svg
     - description: Remote software updates give busy merchants peace of mind with no merchant effort, no onsite support.
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico29.svg
-singleSection: 
-  title: Real humans, at your service
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Dev%20Portal%20iOS%20Page.png
-  description: "Partner success is our passion. No forced forums or multi-week long email replies. We have real humans ready to help you with troubleshooting, technical questions, or just a friendly chat. Slack or email to speak to someone right away."
-  buttontxt: "Let’s get started"
-  buttonlink: /contact
 cloudlogos: 
   title: "You’re in good company"
   logos: 
