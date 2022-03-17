@@ -27,7 +27,7 @@ main:
     description: "A flexible API to control your payment solutions, workflows, and brand.  Monetize them all. <b>Online.  Offline.  Mobile. </b>"
     buttontxt: "See the API"
     buttonlink: /contact
-    image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration.png
+    image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration_2022.png
   - title: Deliver better solutions with unified commerce.
     description: "Enable consumers to transact where, when, and how they want.  Embed it all from a single platform.  Help your merchants understand their customers and their payments with unified customer insights and real-time data. Offer more than payments acceptance, offer business intelligence. <b>Get your customers growing on your platform.</b>"
     buttontxt: "Have questions? Just ask!"
