@@ -27,8 +27,8 @@ main:
     buttontxt: "Have questions? Just ask!"
     buttonlink: /contact
     image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_3ways.png
-  - title: "Customer experience + control"
-    description: "Give your customers easy on-boarding, effortless terminal setup, and real-time support on both sides of the Atlantic. Handpoint's cloud-hosted estate management, remote key injection + software updates, and real-time transaction data enable you to offer the customer experience your customers deserve, at any scale."
+  - title: "Scale your revenues"
+    description: "Easy on-boarding, effortless terminal setup, and real-time data APIs. Offer the customer experience your customers deserve, at any scale."
     buttontxt: Get to Scale
     buttonlink: /management
     image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/TMS_Portal.png
