@@ -34,7 +34,7 @@ main:
     image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/TMS_Portal.png
 security:
   title: Real humans, at your service.
-  description: Partner success is our passion. No forced forums or multi-week long email replies. We have real humans ready to help you with troubleshooting, technical questions, or global strategies. Slack or email to speak to someone right away.
+  description: Partner success is our passion. We connect your developers directly with the people who built the platform.  We connect your sales people with our international experts.  We have real humans ready to help you with troubleshooting, technical questions, or new features. Slack or email to speak to someone right away.
 cloudlogos: 
   title: "You’re in good company"
   logos: 
