@@ -6,7 +6,7 @@ hero:
 intro: 
   title: "Leading the way. Doing it right."
   description: > 
-    <p>Handpoint has been a pioneer in defining integrated payments, from advancing the checkout experience with mobile technology to launching open payment integrations for all emerging platforms -- on 3 continents.</p><p>We provide solutions for merchants, acquirers, payfacs, ISOs and ISVs who are delivering this edge for payments: where customer experience and management matter, where payments are embedded seamlessly, and where mobile technology fuels growth. Handpoint's software terminal, international gateway, and terminal management system enable the future of acquiring, from mPOS and integrated POS to a future without terminals.</p><p class="specialtxt">Handpoint. Go Mobile. Go Global.</p>
+    <p>Handpoint has been a pioneer in defining integrated payments, from advancing the checkout experience with mobile technology to launching open payment integrations for all emerging platforms -- on 3 continents.</p><p>We provide solutions for merchants, acquirers, payfacs, ISOs and ISVs who are delivering this edge for payments: where customer experience and management matter, where payments are embedded seamlessly, and where mobile technology fuels growth. Handpoint's software terminal, international gateway, and terminal management system enable the future of acquiring, from mPOS and integrated POS to a future without terminals.</p><p class="specialtxt">Handpoint. Powering the payments revolution.</p>
 blurbs:
   title: Powering business in the aisle and around the globe
   description: With over 20 years of experience, we have helped circa 100 software companies from California to South Africa transform with payments. 
