@@ -7,19 +7,15 @@ hero:
   buttontxt: "APIs"
   buttonlink: "https://www.handpoint.com/docs/device/Basics"
 blurbs: 
-  - title: NextGen Commerce
-    description: "Enable customer interaction, higher sales, and streamlined operations."
-    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico16.svg
+  - title: Unified Commerce
+    description: "Face-to-face <br> + online <br> + in app <br> + APMs"
+    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico17.svg
+  - title: Payments Transformation
+    description: "Embed payments in your brand and unleash your potential to outpace the competition."
+    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico15.svg
   - title: Global Reach
     description: "Processing on three continents with a single integration. Grow your total addressable market with a single integration."
-    buttontxt: Processors
-    buttonlink: /specs/acquirersprotocols
-    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico15.svg
-  - title: Seamless Journey
-    description: "Embed solutions in your brand and unleash your potential to outpace the competition."
-    buttontxt: Payment types
-    buttonlink: /specs/paymenttypes
-    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico17.svg
+    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico16.svg
 main: 
   - title: Control the payments experience.  Everywhere.
     description: "A flexible API to control your payment solutions, workflows, and brand.  Monetize them all. <b>Online.  Offline.  Mobile. </b>"
@@ -32,15 +28,15 @@ main:
     buttonlink: /contact
     image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Mobile_terminals.png
   - title: "Customer experience + control"
-    description: "Give your customers easy on-boarding, effortless terminal setup, and real-time support. Handpoint's cloud-hosted estate management, remote key injection + software updates, and real-time transaction data enable you to offer the customer experience your customers deserve, at any scale."
+    description: "Give your customers easy on-boarding, effortless terminal setup, and real-time support on both sides of the Atlantic. Handpoint's cloud-hosted estate management, remote key injection + software updates, and real-time transaction data enable you to offer the customer experience your customers deserve, at any scale."
     buttontxt: Get to Scale
     buttonlink: /management
     image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/TMS_Portal.png
 security:
   title: Security without compromise
-  description: Launch payments quickly with Handpoint's semi-integrated SDKs for native apps and web and deliver security for your customers.
+  description: Launch payments quickly with Handpoint's for every platform and deliver security for your customers.
   list: 
-    - description: Eliminate sensitive data from your software AND eliminate any need to certify your integration with the processors.
+    - description: Eliminate sensitive data from your software.
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico18.svg
     - description: Give your merchants PCI-P2PE (point-to-point encrypted) security on every pre-certified EMV card reader.
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico19.svg
@@ -51,7 +47,7 @@ security:
 singleSection: 
   title: Real humans, at your service
   image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Dev%20Portal%20iOS%20Page.png
-  description: "Partner success is serious business around these parts. No forced forums or multi-week long email replies. We have real humans ready to help you with troubleshooting, technical questions, or just a friendly chat. Slack, email, call, or hit our chat box to speak to someone right away."
+  description: "Partner success is our passion. No forced forums or multi-week long email replies. We have real humans ready to help you with troubleshooting, technical questions, or just a friendly chat. Slack or email to speak to someone right away."
   buttontxt: "Let’s get started"
   buttonlink: /contact
 cloudlogos: 
