@@ -13,7 +13,7 @@ payfac:
     - Stay secure and up-to-date with zero effort.
 tms: 
   title: "Customer experience and control with Handpoint's powerful web-based TMS"
-  description: "Setting up a terminal has never been simpler. The Handpoint Terminal Management System lets you set up a merchant in 2 minutes flat!<br>Handpoint's remote key injection, remote software updates, and instant config file building system put the power to control the entire merchant experience in your hands."
+  description: "Setting up a terminal has never been simpler. The Handpoint Terminal Management System lets you set up a merchant in minutes.<br>Handpoint's remote key injection, remote software updates, and instant config file building system put the power to control the entire merchant experience in your hands."
   list: 
     - title: "Seamless Activation: "
       description: "The right keys instantly with no costs, no delays, no support"
