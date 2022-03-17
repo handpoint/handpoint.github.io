@@ -23,20 +23,20 @@ blurbs:
     buttonlink: /specs/paymenttypes
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico17.svg
 main: 
-  - title: Built for developers
+  - title: Control the payments experience.  Everywhere.
     description: 
-      Integrations are simple, secure, and supported, with tools to make your work easier, life happier. Whether you need payments for for iOS, Android, Windows, Cordova, or Web POS, we have sample apps, starter guides, and the world’s friendliest support to get you started should you have any questions.<br> 1. <a href="#">Download the SDK</a> and import the libraries into your project.<br> 2. <a href="#">Contact Us Today</a> we’ll be happy to send your first terminal and test cards for your full integration.
-    buttontxt: "Have questions? Just ask!"
+    A flexible API to control your payment solutions, workflows, and brand.  Monetize them all. <br><b>Online.  Offline.  Mobile. </b>
+    buttontxt: "See the API"
     buttonlink: /contact
     image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration.png
-  - title: Pre-certified mobile terminals
-    description: "Handpoint terminals can take your growth global.  We've taken care of the EMV certifications on three continents, saving you months of work and giving you unparalleled market reach. And with a single integration and you have many nextgen terminals to choose from. Let us make payments easy for you."
-    buttontxt: Handpoint-enabled terminals
-    buttonlink: /specs/terminal-range
+  - title: Deliver better solutions with unified commerce.
+    description: "Enable consumers to transact where, when, and how they want.  Embed it all from a single platform.  Help your merchants understand their customers and their payments with unified customer insights and real-time data. Offer more than payments acceptance. <b>Offer business intelligence, and get your customers growing on your platform.</b>"
+    buttontxt: "Have questions? Just ask!"
+    buttonlink: /contact
     image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Mobile_terminals.png
   - title: "Customer experience + control"
-    description: "Give your merchants instant on-boarding, effortless terminal setup, and real-time support. Handpoint's cloud-hosted estate management, remote key injection + software updates, and real-time transaction data enable you to offer the customer experience your merchants deserve, at any scale."
-    buttontxt: Handpoint Platform
+    description: "Give your customers easy on-boarding, effortless terminal setup, and real-time support. Handpoint's cloud-hosted estate management, remote key injection + software updates, and real-time transaction data enable you to offer the customer experience your customers deserve, at any scale."
+    buttontxt: Get to Scale
     buttonlink: /management
     image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/TMS_Portal.png
 security:
