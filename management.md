@@ -14,7 +14,7 @@ payfac:
     - Transform your business with a single integration
 tms: 
   title: "Your payments strategy must be part of your scaling strategy"
-  description: "Setting up a terminal has never been simpler. The Handpoint Terminal Management System lets you set up a merchant in minutes.<br>Handpoint's remote key injection, remote software updates, and instant config file building system put the power to control the entire merchant experience in your hands."
+  description: "Setting up a terminal has never been simpler. <br>Handpoint's remote key injection, remote software updates, and instant config file building system put the power to control the entire merchant experience in your hands."
   list: 
     - title: "Seamless Activation: "
       description: "The right keys instantly with no costs, no delays, no support"
@@ -26,8 +26,8 @@ tms:
   buttontxt: "Request a demo"
   buttonlink: /contact
 rttp: 
-  title: "Real time transactions portal"
-  description: 'Stop battling the "black boxes" of the world. You need info and insights right now.<br>With Handpoint, you see every transaction, every message, at the individual terminal level in near real-time: online, downloadable, or via a data integration service.<br>So when you are asked, "Did that transaction go through before the internet went down?" you can make sure your merchants never miss a beat.'
+  title: "Real time transactions API"
+  description: 'Stop battling the "black boxes" of the world. You need info and insights right now.<br>With Handpoint, you see every transaction, every message, at the individual terminal level in near real-time: online, downloadable, or via a data integration.'
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png
 channel: 
   title: "Channel Analytics"
