@@ -56,7 +56,7 @@ blurbs:
 global-reach: 
   title: Unified Platform
   description: "Choose one partner to enable unified face-to-face, online, in-app, MOTO, APMs, and tokens on 3 continents, multiple terminal lines, from any platform."
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Scalable%20architecture.png
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Scalable_architecture_2022.png
   buttontxt: "Get Started"
   buttonlink: /contact
 contact:
