@@ -27,7 +27,7 @@ tms:
   buttonlink: /contact
 rttp: 
   title: "Real time transactions API"
-  description: 'Stop battling the "black boxes" of the world. You need info and insights right now. With Handpoint, you see every transaction, every message, in real time: online, downloadable, or via API.'
+  description: 'Stop battling the "black boxes" of the world.  You need info and insights right now. With Handpoint, get tokens from every point of interaction and see every transaction, every message, in real time: online, downloadable, or via API.'
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png
 channel: 
   title: "Channel Analytics"
