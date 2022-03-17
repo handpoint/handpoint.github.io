@@ -14,7 +14,7 @@ main:
   - title: Control the payments experience.  Everywhere.
     description: "A flexible API to control your payment solutions, workflows, and brand.  Monetize them all. <b>Online.  Offline.  Mobile. </b>"
     buttontxt: "See the API"
-    buttonlink: /contact
+    buttonlink: https://www.handpoint.com/docs/device/Basics/
     image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration_2022h.png
   - title: Deliver better solutions with unified commerce.
     description: "Enable consumers to transact where, when, and how they want.  Embed it all from a single platform.  Combine unified customer insights with real-time applicability to power your growth.<b>Get your customers transacting more on your platform.</b>"
