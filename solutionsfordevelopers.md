@@ -4,8 +4,6 @@ hero:
   title: Build your perfect point of sale
   description: "Integrated payments have<br> never been simpler."
   linetxt: "Seamless. Mobile. Secure."
-  buttontxt: "EXPLORE THE DOCS"
-  buttonlink: "https://www.handpoint.com/docs/device/Basics"
 blurbs: 
   - title: Go mobile
     description: "Enable customer interaction, higher sales, and streamlined operations for everyone from brick and mortar retailers to field service technicians."
