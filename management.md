@@ -17,11 +17,11 @@ tms:
   description: "Setting up a terminal has never been simpler. <br>Handpoint's remote key injection, remote software updates, and instant config file building system put the power to control the entire merchant experience in your hands."
   list: 
     - title: "Seamless Activation: "
-      description: "The right keys instantly with no costs, no delays, no support"
+      description: "Activate the right keys instantly with no delays, no support"
     - title: "Reliable Processing: "
-      description: "Up-to-date terminals and real-time transaction monitoring"
+      description: "Up-to-date terminals and real-time transaction visibility"
     - title: "Life-Cycle Management: "
-      description: "Upsell new features remotely, even deactivate instantly"
+      description: "Upsell new features remotely. Even deactivate instantly"
   image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TMS%20and%20Real%20Time%20Data.png
   buttontxt: "Request a demo"
   buttonlink: /contact
@@ -34,38 +34,34 @@ channel:
   description: 'When you need to see how your channels and markets are producing in real time, use Handpoint Analytics to get added insights with a suite of pre-configured and customizable reports.'
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
 blurbs:
-  title: Security at every step
-  description: Rest easy with secure transactions, secure shipping, and secure processing. The layers of our secure solution are designed to protect merchants and cardholders through every touchpoint of the transaction at every stage of the merchant lifecycle.
+  title: "Engineered for Growth" 
+  description: Our robust platform is highly flexible and scalable in every direction, <br>allowing you to respond to the dynamic payments landscape.<br>If you need a solution customized for your market, Handpoint can add SDKs, terminals, tools, processors, and payment types. The entire Handpoint platform is hosted and PCI-DSS certifed on AWS for infinite scalability, so there is no limit to your potential.
   list: 
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico06.svg
-      title: "PCI-P2PE for EMV + NFC + MSR"
+      title: "APIs for every platform and payment type"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico07.svg
-      title: "Semi-integrated & pre-certified"
+      title: "Semi-integrated & pre-certified smartPOS and mPOS terminals"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico08.svg
-      title: "Remote key injection & software updates"
+      title: "Many languages, currencies, regulatory schemes"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico09.svg
-      title: "PCI-DSS certified platform"
+      title: "Remote key injection & software updates"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico10.svg
-      title: "AWS-hosted for infinite scalability and uptime"
+      title: "PCI-DSS certified platform on AWS for infinite scalability and uptime"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico11.svg
-      title: "Real time transaction monitoring down to the terminal level"
+      title: "Real time transaction APIs"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico12.svg
-      title: "Deactivate terminals instantly"
-  buttontxt: Explore Handpoint security
-  buttonlink: /specs/security
+      title: "PCI-P2PE for EMV + NFC + MSR"
+  buttontxt: Explore our Solutions
+  buttonlink: https://www.handpoint.com/docs/device/Basics/
 global-reach: 
-  title: Global reach
-  description: "Go Global. Handpoint is certified to many of the world's leading acquiring platforms, enabling you to support international merchants and software providers. Multiple currencies are no problem. And if you need to reach a local debit scheme, our terminals can host multiple MIDs/TIDs with dynamic routing."
+  title: Unified Platform
+  description: "Choose one partner to enable unified face-to-face, online, in-app, MOTO, APMs, and tokens on 3 continents, multiple terminal lines, from any platform."
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Scalable%20architecture.png
-  buttontxt: "Geographies & certified processors"
-  buttonlink: /specs/acquirersprotocols
-growth:
-  title: Engineered for growth
-  description: "Our robust platform is highly flexible and scalable in every direction, <br>allowing you to respond to the dynamic payments landscape.<br>If you need a solution customized for your market, Handpoint can add SDKs, terminals, tools, processors, and payment types. The entire Handpoint platform is hosted and PCI-DSS certifed on AWS for infinite scalability, so there is no limit to your potential."
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/managementplatform_engineered_pic.jpg
+  buttontxt: "Get Started"
+  buttonlink: /contact
 contact:
   title: Bring Handpoint to your market
-  description: You can bring the entire suite of mobile solutions, APIs, and management tools to your market with a single integration to your acquirer.
+  description: You can bring the entire suite of mobile solutions, APIs, and management tools to your market with a single integration.
   buttontxt: CONTACT SALES
   buttonlink: /contact
 ---
