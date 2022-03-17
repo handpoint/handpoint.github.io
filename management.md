@@ -53,12 +53,6 @@ blurbs:
       title: "PCI-P2PE for EMV + NFC + MSR"
   buttontxt: Explore our Solutions
   buttonlink: https://www.handpoint.com/docs/device/Basics/
-global-reach: 
-  title: Unified Platform
-  description: "Choose one partner to enable unified face-to-face, online, in-app, MOTO, APMs, and tokens on 3 continents, multiple terminal lines, from any platform."
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Scalable_architecture_2022.png
-  buttontxt: "Get Started"
-  buttonlink: /contact
 contact:
   title: Bring Handpoint to your market
   description: You can bring the entire suite of mobile solutions, APIs, and management tools to your market with a single integration.
