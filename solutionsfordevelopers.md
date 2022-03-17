@@ -35,15 +35,6 @@ main:
 security:
   title: Real humans, at your service.
   description: Partner success is our passion. No forced forums or multi-week long email replies. We have real humans ready to help you with troubleshooting, technical questions, or global strategies. Slack or email to speak to someone right away.
-  list: 
-    - description: Eliminate sensitive data from your software.
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico18.svg
-    - description: Give your merchants PCI-P2PE (point-to-point encrypted) security on every pre-certified EMV card reader.
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico19.svg
-    - description: Ship devices securely with seamless remote activation and remote key injection.
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico20.svg
-    - description: Remote software updates give busy merchants peace of mind with no merchant effort, no onsite support.
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico29.svg
 cloudlogos: 
   title: "You’re in good company"
   logos: 
