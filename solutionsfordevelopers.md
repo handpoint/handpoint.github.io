@@ -4,19 +4,19 @@ hero:
   title: Build your perfect point of sale
   description: "Integrated payments have<br> never been simpler."
   linetxt: "Seamless. Mobile. Secure."
+  buttontxt: "APIs"
+  buttonlink: "https://www.handpoint.com/docs/device/Basics"
 blurbs: 
-  - title: Go mobile
-    description: "Enable customer interaction, higher sales, and streamlined operations for everyone from brick and mortar retailers to field service technicians."
-    buttontxt: Mobile terminals
-    buttonlink: /specs/terminal-range
+  - title: NextGen Commerce
+    description: "Enable customer interaction, higher sales, and streamlined operations."
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico16.svg
-  - title: Go global
-    description: "Processing on three continents with a single integration. Our international gateway makes your life easier and your customers happy."
+  - title: Global Reach
+    description: "Processing on three continents with a single integration. Grow your total addressable market with a single integration."
     buttontxt: Processors
     buttonlink: /specs/acquirersprotocols
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico15.svg
-  - title: Omni-enabled
-    description: "Payment solutions for the future of commerce: Tokenization for memberships. Pre-auths for showrooming, rentals, restaurants, & delivery."
+  - title: Seamless Journey
+    description: "Embed solutions in your brand and unleash your potential to outpace the competition."
     buttontxt: Payment types
     buttonlink: /specs/paymenttypes
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico17.svg
