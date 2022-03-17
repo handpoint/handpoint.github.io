@@ -8,7 +8,7 @@ blurbs:
     description: "Embed payments in your brand and unleash your potential to outpace the competition."
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico16.svg
   - title: Global Reach
-    description: "Processing on three continents. Your your TAM with a single integration."
+    description: "Processing on three continents. Grow your TAM with a single integration."
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico15.svg
 main: 
   - title: Control the payments experience.  Everywhere.
