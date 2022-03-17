@@ -1,11 +1,5 @@
 ---
 layout: solutionsfordevelopers
-hero:
-  title: Build your perfect point of sale
-  description: "Integrated payments have<br> never been simpler."
-  linetxt: "Seamless. Mobile. Secure."
-  buttontxt: "APIs"
-  buttonlink: "https://www.handpoint.com/docs/device/Basics"
 blurbs: 
   - title: Unified Commerce
     description: "Face-to-face + online + in app + APMs.  <br>Unify payments and monetize them all."
