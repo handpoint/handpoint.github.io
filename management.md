@@ -1,14 +1,11 @@
 ---
 layout: management
 hero:
-  title: Manage your entire merchant lifecycle in the cloud
-  description: "Customer Experience Matters"
-  linetxt: "Secure. Scalable. Flexible. Proven."
   buttontxt: "Contact Handpoint"
   buttonlink: "/contact"
 payfac: 
-  title: 'Deliver the "Pay-fac" customer experience'
-  description: "This is what your merchants expect and what you can deliver with Handpoint."
+  title: 'Your payments strategy must be part of your scaling strategy'
+  description: "Get to market fast with the platform designed for global scale"
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Handpoint%20values%20target.png
   list: 
     - Connect seamlessly.
