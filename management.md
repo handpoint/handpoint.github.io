@@ -4,15 +4,16 @@ hero:
   buttontxt: "Contact Handpoint"
   buttonlink: "/contact"
 payfac: 
-  title: 'Your payments strategy must be part of your scaling strategy'
+  title: 'With the right embedded payments partner, you can:'
   description: "Get to market fast with the platform designed for global scale"
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Handpoint%20values%20target.png
   list: 
-    - APIs for every platform.
-    - Accept payments seamlessly.
-    - Stay secure and up-to-date with zero effort.
+    - Activate more high-value customers
+    - Power more transactions
+    - Increase your addressable market, revenues, and retention
+    - Transform your business with a single integration
 tms: 
-  title: "Customer experience and control with Handpoint's powerful web-based TMS"
+  title: "Your payments strategy must be part of your scaling strategy"
   description: "Setting up a terminal has never been simpler. The Handpoint Terminal Management System lets you set up a merchant in minutes.<br>Handpoint's remote key injection, remote software updates, and instant config file building system put the power to control the entire merchant experience in your hands."
   list: 
     - title: "Seamless Activation: "
