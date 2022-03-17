@@ -26,6 +26,12 @@ main:
     buttontxt: Get to Scale
     buttonlink: /management
     image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/TMS_Portal.png
+global-reach: 
+  title: Unified Platform
+  description: "Choose one partner to enable unified face-to-face, online, in-app, MOTO, APMs, and tokens on 3 continents, multiple terminal lines, from any platform."
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Scalable_architecture_2022.png
+  buttontxt: "Get Started"
+  buttonlink: /contact
 security:
   title: Real humans, at your service.
   description: Partner success is our passion. We connect your developers directly with the people who built the platform.  We connect your sales people with our international experts.  We have real humans ready to help you with troubleshooting, technical questions, or new features. Slack or email to speak to someone right away.
