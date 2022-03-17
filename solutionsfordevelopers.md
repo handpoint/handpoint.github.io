@@ -24,8 +24,7 @@ blurbs:
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico17.svg
 main: 
   - title: Control the payments experience.  Everywhere.
-    description: 
-    A flexible API to control your payment solutions, workflows, and brand.  Monetize them all. <br><b>Online.  Offline.  Mobile. </b>
+    description: "A flexible API to control your payment solutions, workflows, and brand.  Monetize them all. <br><b>Online.  Offline.  Mobile. </b>"
     buttontxt: "See the API"
     buttonlink: /contact
     image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration.png
