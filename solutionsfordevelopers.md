@@ -23,7 +23,7 @@ main:
     buttonlink: /contact
     image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration_2022h.png
   - title: Deliver better solutions with unified commerce.
-    description: "Enable consumers to transact where, when, and how they want.  Embed it all from a single platform.  Help your merchants understand their customers and their payments with unified customer insights and real-time data. Offer more than payments acceptance, offer business intelligence. <b>Get your customers growing on your platform.</b>"
+    description: "Enable consumers to transact where, when, and how they want.  Embed it all from a single platform.  Combine unified customer insights with real-time applicability to power your growth.<b>Get your customers transacting more on your platform.</b>"
     buttontxt: "Have questions? Just ask!"
     buttonlink: /contact
     image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_3ways.png
