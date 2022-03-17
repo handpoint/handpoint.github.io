@@ -8,7 +8,7 @@ hero:
   buttonlink: "https://www.handpoint.com/docs/device/Basics"
 blurbs: 
   - title: Unified Commerce
-    description: "Face-to-face <br> + online <br> + in app <br> + APMs"
+    description: "Face-to-face + online + in app + APMs"
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico17.svg
   - title: Payments Transformation
     description: "Embed payments in your brand and unleash your potential to outpace the competition."
