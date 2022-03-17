@@ -26,7 +26,7 @@ main:
     description: "Enable consumers to transact where, when, and how they want.  Embed it all from a single platform.  Help your merchants understand their customers and their payments with unified customer insights and real-time data. Offer more than payments acceptance, offer business intelligence. <b>Get your customers growing on your platform.</b>"
     buttontxt: "Have questions? Just ask!"
     buttonlink: /contact
-    image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Mobile_terminals.png
+    image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_3ways.png
   - title: "Customer experience + control"
     description: "Give your customers easy on-boarding, effortless terminal setup, and real-time support on both sides of the Atlantic. Handpoint's cloud-hosted estate management, remote key injection + software updates, and real-time transaction data enable you to offer the customer experience your customers deserve, at any scale."
     buttontxt: Get to Scale
