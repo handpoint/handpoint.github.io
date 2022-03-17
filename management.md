@@ -35,14 +35,14 @@ channel:
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
 blurbs:
   title: "Engineered for Growth" 
-  description: Our robust platform is highly flexible and scalable in every direction, <br>allowing you to respond to the dynamic payments landscape.<br>If you need a solution customized for your market, Handpoint can add SDKs, terminals, tools, processors, and payment types. The entire Handpoint platform is hosted and PCI-DSS certifed on AWS for infinite scalability, so there is no limit to your potential.
+  description: Our robust platform is highly flexible and scalable in every direction, <br>allowing you to respond to the dynamic payments landscape.<br>If you need a solution customized for your market, Handpoint can add SDKs, terminals, tools, countries, and payment types. The entire Handpoint platform is hosted and PCI-DSS certifed on AWS for infinite scalability, so there is no limit to your potential.
   list: 
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico06.svg
       title: "APIs for every platform and payment type"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico07.svg
-      title: "Semi-integrated & pre-certified smartPOS and mPOS terminals"
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico08.svg
       title: "Many languages, currencies, regulatory schemes"
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico08.svg
+      title: "Semi-integrated & pre-certified smartPOS and mPOS terminals"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico09.svg
       title: "Remote key injection & software updates"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico10.svg
