@@ -8,14 +8,14 @@ hero:
   buttonlink: "https://www.handpoint.com/docs/device/Basics"
 blurbs: 
   - title: Unified Commerce
-    description: "Face-to-face + online + in app + APMs.  Unify payments and monetize them all."
+    description: "Face-to-face + online + in app + APMs.  <br>Unify payments and monetize them all."
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico17.svg
   - title: Payments Transformation
     description: "Embed payments in your brand and unleash your potential to outpace the competition."
-    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico15.svg
-  - title: Global Reach
-    description: "Processing on three continents with a single integration. Grow your total addressable market with a single integration."
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico16.svg
+  - title: Global Reach
+    description: "Processing on three continents. Your your TAM with a single integration."
+    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico15.svg
 main: 
   - title: Control the payments experience.  Everywhere.
     description: "A flexible API to control your payment solutions, workflows, and brand.  Monetize them all. <b>Online.  Offline.  Mobile. </b>"
