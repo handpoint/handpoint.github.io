@@ -32,15 +32,9 @@ main:
     buttontxt: Get to Scale
     buttonlink: /management
     image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/TMS_Portal.png
-singleSection: 
-  title: Real humans, at your service
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Dev%20Portal%20iOS%20Page.png
-  description: "Partner success is our passion. No forced forums or multi-week long email replies. We have real humans ready to help you with troubleshooting, technical questions, or global strategies. Slack or email to speak to someone right away."
-  buttontxt: "Let’s get started"
-  buttonlink: /contact
 security:
-  title: Security without compromise
-  description: Launch payments quickly with Handpoint's for every platform and deliver security for your customers.
+  title: Real humans, at your service.
+  description: Partner success is our passion. No forced forums or multi-week long email replies. We have real humans ready to help you with troubleshooting, technical questions, or global strategies. Slack or email to speak to someone right away.
   list: 
     - description: Eliminate sensitive data from your software.
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico18.svg
