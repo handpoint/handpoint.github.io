@@ -65,6 +65,6 @@ growth:
 contact:
   title: Bring Handpoint to your market
   description: You can bring the entire suite of mobile solutions, APIs, and management tools to your market with a single integration to your acquirer.
-  buttontxt: CONTACT HANDPOINT
+  buttontxt: CONTACT SALES
   buttonlink: /contact
 ---
