@@ -25,6 +25,7 @@ solutions:
   list: 
     - title: Omni-Commerce
       id: "omnicommerce"
+      ariaexpanded: true
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration_2022.png
       description: "Buyer's expectations are changing fast. Rapidly enable what's next: onsite, online, unified."
