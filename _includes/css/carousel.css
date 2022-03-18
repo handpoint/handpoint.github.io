@@ -4,12 +4,10 @@
 	  width=100%;
 }
 
-@media only screen and (max-width : 767px) {
-.carousel {
-	display: url(https://handpoint.imgix.net/Website%20refresh%20photos/Backgrounds/hero_mob.png) no-repeat center bottom !important;
+.fitImage {
+    width: 100%;
+    box-sizing:border-box;
 }
-}
-	
 
 .carousel p {
 	text-shadow:none;
