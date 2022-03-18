@@ -33,14 +33,14 @@ solutions:
     - title: Android Terminals
       id: "integrateddata"
       ariacontrol: home
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_cloud_vertical.png
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HandpointSmartPOS-0621.png
       description: "Customer interaction done right, with APIs, security, and deployment tools for you to scale with confidence. Handpoint makes smart POS smarter business."
       buttontxt: "Get Started"
       buttonlink: "/contact"
     - title: Cloud API
       id: "brandablempos"
       ariacontrol: profile
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/mPOS_with_HiLite.png?w=200&h=206
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration_2022.png
       description: "The APIs you need to make face-to-face payments as seamless as your software."
       buttontxt: Get Started
       buttonlink: "/contact"
@@ -54,7 +54,7 @@ solutions:
     - title: mPOS
       id: "mobileextensions"
       ariacontrol: settings
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled.png
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/mPOS_with_HiLite.png?w=200&h=206
       description: "Embedded payments made light and easy for nextgen app developers."
       buttontxt: Get Started
       buttonlink: "/contact"
