@@ -617,7 +617,13 @@ select {
 	height:200px;
 	margin-bottom:20px;
 }
-
+}
+@media (max-width: 992px) {	
+.blurb img {
+	height:100px;
+	margin-bottom:20px;
+}
+}	
 @media only screen and (max-width : 992px) {
 .blurb h3 {	
 	font-size: 20px;
