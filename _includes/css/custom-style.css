@@ -615,12 +615,7 @@ select {
 
 .blurb img {
 	height:200px;
-	margin-bottom:20px;
-}
-}
-@media only screen (max-width: 992px) {	
-.blurb img {
-	height:5px;
+	padding-right:20px;
 	margin-bottom:20px;
 }
 }	
