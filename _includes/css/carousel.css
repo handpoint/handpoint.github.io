@@ -4,6 +4,13 @@
 	  width=100%;
 }
 
+@media only screen and (max-width : 991px) {
+.carousel {
+	display: none;
+}
+}
+	
+
 .carousel p {
 	text-shadow:none;
 	line-height: 24px;
