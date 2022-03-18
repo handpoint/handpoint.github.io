@@ -487,27 +487,27 @@ select {
 
 .hero-box p {
 	font-size:32px;
-	line-height: 42px;
+	line-height: 32px;
 	color: white;
 	padding-bottom: 30px;
 }
 @media only screen and (max-width : 992px) {
 .hero-box p {
 	font-size:26px;
-	line-height: 36px;
+	line-height: 26px;
 }
 }
 @media only screen and (max-width : 870px) {
 .hero-box p {
 	font-size:20px;
-	line-height: 30px;
+	line-height: 20px;
 	padding-bottom: 20px;
 }
 }
 @media only screen and (max-width : 767px) {
 .hero-box p {
 	font-size:15px;
-	line-height: 24px;
+	line-height: 15px;
 	padding-bottom: 10px;
 }
 }
