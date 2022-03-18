@@ -24,49 +24,49 @@ solutions:
   subtitle: Unified solution suite for the future of commerce
   list: 
     - title: Omni-Commerce
-      id: "omnicommerce"
+      id: "smartpos"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration_2022.png
       description: "Buyer's expectations are changing fast. Rapidly enable what's next: onsite, online, unified."
       buttontxt: "Get Started"
       buttonlink: "/contact"
     - title: Android Terminals
-      id: "androidterminals"
+      id: "integrateddata"
       ariacontrol: home
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HandpointSmartPOS-2022.png
       description: "Customer interaction done right, with APIs, security, and deployment tools for you to scale with confidence. Handpoint makes smart POS smarter business."
       buttontxt: "Get Started"
       buttonlink: "/contact"
     - title: Cloud API
-      id: "cloudapi"
+      id: "brandablempos"
       ariacontrol: profile
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HandpointCloudPAX-2022.png
       description: "The APIs you need to make face-to-face payments as seamless as your software."
       buttontxt: Get Started
       buttonlink: "/contact"
     - title: All in One
-      id: "allinone"
+      id: "integratedapis"
       ariacontrol: messages
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HandpointDirectPAX-2022.png
       description: "Build your perfect mobile point of sale on smart POS terminals with our seamless libraries and PCI-P2PE security."
       buttontxt: Get Started
       buttonlink: "/contact"
     - title: mPOS
-      id: "mpos"
+      id: "mobileextensions"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/mPOS_with_HiLite.png?w=200&h=206
       description: "Embedded payments made light and easy for nextgen app developers."
       buttontxt: Get Started
       buttonlink: "/contact"
     - title: Unified Intelligence
-      id: "unifiedintelligence"
+      id: "omnienabled"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/OmniEnabled_HiLite.png
       description: "Understand your customers across every touchpoint with flexible, omni token schemes."
       buttontxt: Get Started
       buttonlink: "/contact"
     - title: Custom Flows
-      id: "customflows"
+      id: "nopos"
       ariacontrol: settings
       image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/softpos.png
       description: "Handpoint powers innovative transaction flows, like multi-MID, instant-gratification loyalty, BIN lookups, and more."
