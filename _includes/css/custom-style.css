@@ -618,9 +618,9 @@ select {
 	margin-bottom:20px;
 }
 }
-@media (max-width: 992px) {	
+@media only screen (max-width: 992px) {	
 .blurb img {
-	height:50px;
+	height:5px;
 	margin-bottom:20px;
 }
 }	
