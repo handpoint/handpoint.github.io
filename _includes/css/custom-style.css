@@ -461,11 +461,15 @@ select {
 @media only screen and (max-width : 1200px) {
 .hero-box h1 {
 	font-size: 40px;
+	line-height:35px;
+	padding-bottom: 10px;
 }
 }
 @media only screen and (max-width : 992px) {
 .hero-box h1 {
 	font-size: 32px;
+	line-height:28px;
+	padding-bottom: 10px;
 }
 }
 @media only screen and (max-width : 870px) {
