@@ -26,7 +26,7 @@ solutions:
     - title: Omni-Commerce
       id: "smartpos"
       ariacontrol: settings
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HandpointSmartPOS-0621.png
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration_2022.png
       description: "Buyer's expectations are changing fast. Rapidly enable what's next: onsite, online, unified."
       buttontxt: "Get Started"
       buttonlink: "/contact"
@@ -40,14 +40,14 @@ solutions:
     - title: Cloud API
       id: "brandablempos"
       ariacontrol: profile
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration_2022.png
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HandpointCloudPAX-2022.png
       description: "The APIs you need to make face-to-face payments as seamless as your software."
       buttontxt: Get Started
       buttonlink: "/contact"
     - title: All in One
       id: "integratedapis"
       ariacontrol: messages
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration.png
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HandpointDirectPAX-2022.png
       description: "Build your perfect mobile point of sale on smart POS terminals with our seamless libraries and PCI-P2PE security."
       buttontxt: Get Started
       buttonlink: "/contact"
