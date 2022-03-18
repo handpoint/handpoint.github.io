@@ -10,6 +10,8 @@ blurbs:
   - title: Global Reach
     description: "Processing on three continents. <br>Grow your TAM with a single integration."
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico15.svg
+    buttontxt: "See the API"
+    buttonlink: https://www.handpoint.com/docs/device/Basics/
 main: 
   - title: Control the payments experience.  Everywhere.
     description: "A flexible API to control your payment solutions, workflows, and brand.  Monetize them all. <b>Online.  Offline.  Mobile. </b>"
