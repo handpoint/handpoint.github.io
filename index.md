@@ -31,7 +31,7 @@ solutions:
       buttontxt: "Get Started"
       buttonlink: "/contact"
     - title: Android Terminals
-      id: "integrateddata"
+      id: "androidterminals"
       ariacontrol: home
       image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HandpointSmartPOS-2022.png
       description: "Customer interaction done right, with APIs, security, and deployment tools for you to scale with confidence. Handpoint makes smart POS smarter business."
