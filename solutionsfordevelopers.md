@@ -17,12 +17,12 @@ main:
     buttonlink: https://www.handpoint.com/docs/device/Basics/
     image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration_2022h.png
   - title: Deliver better solutions with unified commerce.
-    description: "Enable consumers to transact where, when, and how they want.  Embed it all from a single platform.  Combine unified customer insights with real-time applicability to power your growth.<b>Get your customers transacting more on your platform.</b>"
+    description: "Enable consumers to transact where, when, and how they want.  Embed it all from a single platform.  Combine unified customer insights with real-time applicability to power your growth. <b>Get your customers transacting more on your platform.</b>"
     buttontxt: "Have questions? Just ask!"
     buttonlink: /contact
     image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_3ways.png
   - title: "Scale your revenues"
-    description: "Easy on-boarding, effortless terminal setup, and real-time data APIs. Offer the customer experience your customers deserve, at any scale."
+    description: "Easy on-boarding, effortless terminal setup, and real-time data APIs. <b>Offer the customer experience your customers deserve, at any scale.</b>"
     buttontxt: Get to Scale
     buttonlink: /management
     image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/TMS_Portal.png
