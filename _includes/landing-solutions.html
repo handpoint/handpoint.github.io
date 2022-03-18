@@ -34,7 +34,7 @@
 					<ul class="list-inline" role="tablist">
 						{% for solution in page.solutions.list %}
 						{% assign temp = solution.id %}
-						{% if temp ==  "smartpos" %}
+						{% if temp ==  "omnicommerce" %}
 						<li role="presentation" class="active">
 							<a href="#{{solution.id}}" aria-controls={{solution.ariacontrol}} role="tab"
 								data-toggle="tab">{{solution.title}}</a>
@@ -55,7 +55,7 @@
 				<div class="tab-content">
 					{% for solution in page.solutions.list %}
 					{% assign temp = solution.id %}
-					{% if temp ==  "smartpos" %}
+					{% if temp ==  "omnicommerce" %}
 					<div role="tabpanel" class="tab-pane active" id={{solution.id}}>
 						<div class="solution-solutions">
 							<div class="pull-left">
