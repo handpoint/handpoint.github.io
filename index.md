@@ -75,7 +75,7 @@ solutions:
       buttonlink: "/contact"
 businessicons:
   title: "Control the Payments Experience. Everywhere"
-  subtitle: "Nextgen commerce is transformational for you and your customers"
+  subtitle: "Unified commerce is transformational for you and your customers"
   icons: 
     - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico01.svg
       name: Sports & Camps
