@@ -2,9 +2,9 @@
 layout: specs
 hero: 
   class: hero-mpos
-  title: Handpoint <br>mPOS
-  description: <span class="specialtxt">Brandable mPOS</span> app with instant terminal activation
-  buttontxt: Get started with your app
+  title: Handpoint <br>Payments App
+  description: <span class="specialtxt">Brandable payments</span> app with instant activation
+  buttontxt: Get started with your payments transformation
   buttonlink: /getstarted
 ---
 
@@ -17,16 +17,13 @@ hero:
 			</div>
 			<div class="col-md-8 col-sm-8">
 				<h1>Handpoint mPOS</h1>
-				<h3>Your Brandable or Out-of-the-Box mPOS App</h3>
-				<p>The Handpoint mPOS app puts payments in the palm of your hand. Pop-ups, SMBs, contractors, and more can securely accept EMV, NFC, and MSR payments instantly with any of the Handpoint PCI-P2PE terminals. And they can look up their entire transaction history in the app or online, even initiating voids and refunds in snap.</p>
-				<p>Available for iOS and Android, Handpoint mPOS is available out-of-the-box – you simply provide the MID. Or we provide the mPOS app as a white-label solution with our branding service, enabling you to deliver the seamless Handpoint customer experience with your name on top.</p>
+				<h3>Start your transformation today</h3>
+				<p>Handpoint's simple payments application lets you get started with payments instantly.  Offer an elegant, intuitive payment solution on a Handpoint smart POS terminal like the PAX A920 PRO or on a phone or tablet paired with a HiLite mPOS terminal. We even give you the power to co-brand the app. Even more, all of the transaction history is available real-time in the app or online, making it easy for voids, refunds, or receipt printing any time.</p>
 				<h4>Key features</h4>
-				<li>iOS and Android</li>
 				<li>Transaction history in the app and online</li>
 				<li>Business analytics right in the app</li>
 				<li>P2PE semi-integrated payments with remote key injection with plug and play activation</li>
 				<li>Over-the-air support direct to your Handpoint card reader, no matter where you take it</li>
-				<li>Compatible with HiLite for EMV, NFC, & MSR payments</li>
 
 			</div>
 		</div>
