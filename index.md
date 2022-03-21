@@ -69,7 +69,7 @@ solutions:
     - title: Complexity Handled
       id: "complex"
       ariacontrol: settings
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/complexity.png
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/complexity_2022.png
       description: "Handpoint powers innovative transaction flows, like multi-MID, instant-gratification loyalty, BIN lookups, and more."
       buttontxt: Get Started
       buttonlink: "/contact"
