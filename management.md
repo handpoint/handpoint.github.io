@@ -45,9 +45,9 @@ blurbs:
       title: "Semi-integrated & pre-certified smartPOS and mPOS terminals"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico08.svg
       title: "Remote key injection & software updates"
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico10.svg
-      title: "Real time transaction APIs"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico03.svg
+      title: "Real time transaction APIs"
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico10.svg
       title: "PCI-DSS certified platform on AWS for infinite scalability and uptime"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico06.svg
       title: "PCI-P2PE for EMV + NFC + MSR"
