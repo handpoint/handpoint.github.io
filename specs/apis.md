@@ -163,6 +163,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
+					<td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -172,6 +174,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+					<td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
@@ -183,7 +187,9 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
-			    </tr>
+					<td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			       </tr>
 				  <tr>
 			      <td>&nbsp;</td>
 			      <td class="text-left">South Africa</td>
@@ -193,16 +199,20 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
 			                <td>&nbsp;</td>
+					<td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td><b>Key Features</b></td>
-			      <td class="text-left">ISV Development Time</td>
+			      <td class="text-left">Development Time</td>
 					<td>None</td>
 					<td>Fast</td>
 					<td>Hours to Days</td>
 					<td>Hours to Days</td>
 			                <td>Hours to Days</td>
 					<td>Fastest</td>
+					<td>Hours to Days</td>
+			                <td>Hours to Days</td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -213,6 +223,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+					<td><i class="fas fa-check"></i></td>					
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -223,6 +235,8 @@ intro:
 					<td>&nbsp;</td>
 			                <td>&nbsp;</td>
 			                <td>&nbsp;</td>
+			                <td>&nbsp;</td>
+			                <td>&nbsp;</td>					  
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -233,6 +247,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>					  
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -243,6 +259,8 @@ intro:
 			                <td><i class="fas fa-check"></i></td>
 			                <td>&nbsp;</td>
 			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -251,6 +269,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
 			    </tr>
@@ -263,6 +283,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td> 
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -271,6 +293,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
 			    </tr>
@@ -283,6 +307,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -291,6 +317,8 @@ intro:
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
 					<td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
+			                <td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
 			                <td><i class="fas fa-check"></i></td>
 			    </tr>
