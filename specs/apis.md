@@ -51,6 +51,10 @@ intro:
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Windows/">Windows SDK</a></span></td>
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">REST API or JS SDK</a></span></td>  
 			    </tr>
+			     <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">Cordova</a></span></td> 
+			     <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">Xamarin</a></span></td>  
+			    </tr>
+			    </tr>
 			    <tr>
 			      <td><b>Supported Card Readers</b></td>
 			      <td class="text-left"><span class="specialtxt"><a href="/specs/hilite">HiLite (BT Only)</a></span></td>
@@ -60,6 +64,8 @@ intro:
 			      <td><i class="fas fa-check"></i></td>
 			      <td><i class="fas fa-check"></i></td>
 			      <td>&nbsp;</td>
+			     <td><i class="fas fa-check"></i></td>			      
+		             <td><i class="fas fa-check"></i></td>
 			    </tr>
 				<tr>
 			      <td>&nbsp;</td>
@@ -67,6 +73,8 @@ intro:
 					<td>&nbsp;</td>
 			      <td><i class="fas fa-check"></i></td>
 			      <td><i class="fas fa-check"></i></td>
+			      <td>&nbsp;</td>
+			      <td>&nbsp;</td>
 			      <td>&nbsp;</td>
 			      <td>&nbsp;</td>
 			      <td>&nbsp;</td>
@@ -80,6 +88,8 @@ intro:
 			      <td><i class="fas fa-check"></i></td>
 			      <td>&nbsp;</td>
 			      <td><i class="fas fa-check"></i></td>
+			    <td><i class="fas fa-check"></i></td>			      
+		             <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  <tr>
 			      <td>&nbsp;</td>
@@ -90,7 +100,9 @@ intro:
 			      <td><i class="fas fa-check"></i></td>
 			      <td>&nbsp;</td>
 			      <td><i class="fas fa-check"></i></td>
-			    </tr>
+			     <td><i class="fas fa-check"></i></td>			      
+		             <td><i class="fas fa-check"></i></td>			 
+		           </tr>
 				<tr> 
 				 <td>&nbsp;</td>
 			      <td class="text-left"><span class="specialtxt"><a href="/specs/paxa80">PAX A35</a></span></td>
@@ -100,6 +112,8 @@ intro:
 			      <td><i class="fas fa-check"></i></td>
 			      <td>&nbsp;</td>
 			      <td><i class="fas fa-check"></i></td>
+			     <td><i class="fas fa-check"></i></td>			      
+		             <td><i class="fas fa-check"></i></td>
 			    </tr>
 				  				<tr> 
 				 <td>&nbsp;</td>
@@ -110,6 +124,8 @@ intro:
 			      <td><i class="fas fa-check"></i></td>
 			      <td>&nbsp;</td>
 			      <td><i class="fas fa-check"></i></td>
+			     <td><i class="fas fa-check"></i></td>			      
+		             <td><i class="fas fa-check"></i></td>
 			    </tr>
 				 
 				  				<tr> 
@@ -121,6 +137,8 @@ intro:
 			      <td><i class="fas fa-check"></i></td>
 			      <td>&nbsp;</td>
 			      <td><i class="fas fa-check"></i></td>
+			     <td><i class="fas fa-check"></i></td>			      
+		             <td><i class="fas fa-check"></i></td>
 			    </tr>
 				<tr>
 			      <td><b>Compatible POS Platforms</b></td>
