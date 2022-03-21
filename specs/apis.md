@@ -50,7 +50,6 @@ intro:
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Android/">Android SDK</a></span></td>
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Windows/">Windows SDK</a></span></td>
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">REST API or JS SDK</a></span></td>  
-			    </tr>
 			     <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">Cordova</a></span></td> 
 			     <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">Xamarin</a></span></td>  
 			    </tr>
