@@ -17,7 +17,9 @@ hero:
 			</div>
 		</div>
 		<div class="row section-internal-paymenttypes-module">
-			
+			<div class="col-md-5 col-sm-6 col-md-offset-1 col-sm-offset-0">
+				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/live-action/specs_paymenttypes_pic05.jpg" class="img-responsive" alt=""/>
+			</div>
 			<div class="col-md-5 col-sm-6 section-internal-paymenttypes-module-txt">
 				<h3>Payment methods</h3>
 				<ul>
@@ -27,14 +29,16 @@ hero:
 					<li><i class="fas fa-check"></i> EMV Chip&PIN and Chip&Signature</li>
 					<li><i class="fas fa-check"></i> NFC</li>
 					<li><i class="fas fa-check"></i> PIN debit</li>
+					<li><i class="fas fa-check"></i> APMs</li>
 					<li><i class="fas fa-check"></i> Host capture platform</li>
 					<li><i class="fas fa-check"></i> No batching + automatic settlement processing</li>
-					<li><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Basics/">See the APIs</a></span></li>
 				</ul>
 			</div>
 		</div>
 		<div class="row section-internal-paymenttypes-module">
-			
+			<div class="col-md-5 col-sm-6 visible-xs">
+				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/live-action/specs_paymenttypes_pic02.jpg" class="img-responsive" alt=""/>
+			</div>
 			<div class="col-md-5 col-sm-6 col-md-offset-1 col-sm-offset-0 section-internal-paymenttypes-module-txt">
 				<h3>Transaction types</h3>
 					<ul>
@@ -45,14 +49,17 @@ hero:
 					<li><i class="fas fa-check"></i> Tip adjustment</li>
 					<li><i class="fas fa-check"></i> In-line tipping</li>
 					<li><i class="fas fa-check"></i> Tokenization</li>
-					<li><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Basics/">Confirm here the transaction types supported by your acquirer</a></span></li>
 					
 				</ul>
 			</div>
-			
+			<div class="col-md-5 col-sm-6 hidden-xs">
+				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/live-action/specs_paymenttypes_pic02.jpg" class="img-responsive" alt=""/>
+			</div>
 		</div>
 		<div class="row section-internal-paymenttypes-module">
-			
+			<div class="col-md-5 col-sm-6 col-md-offset-1 col-sm-offset-0">
+				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/live-action/specs_paymenttypes_pic03.jpg" class="img-responsive" alt=""/>
+			</div>
 			<div class="col-md-5 col-sm-6 section-internal-paymenttypes-module-txt">
 				<h3>Card brands</h3>
 				<ul>
@@ -63,12 +70,14 @@ hero:
 					<li><i class="fas fa-check"></i> Discover</li>
 					<li><i class="fas fa-check"></i> Amex</li>
 					<li><i class="fas fa-check"></i> JCB</li>
-					<li><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Basics/">Confirm here the card brands supported by your acquirer</a></span></li>
+
 				</ul>
 			</div>
 		</div>
 		<div class="row section-internal-paymenttypes-module">
-			
+			<div class="col-md-5 col-sm-6 visible-xs">
+				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/live-action/specs_paymenttypes_pic04.jpg" class="img-responsive" alt=""/>
+			</div>
 			<div class="col-md-5 col-sm-6 col-md-offset-1 col-sm-offset-0 section-internal-paymenttypes-module-txt">
 				<h3>Verticals</h3>
 				<ul>
@@ -81,7 +90,9 @@ hero:
 					<li><i class="fas fa-check"></i> Services and more</li>
 				</ul>
 			</div>
-			
+			<div class="col-md-5 col-sm-6 hidden-xs">
+				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/live-action/specs_paymenttypes_pic04.jpg" class="img-responsive" alt=""/>
+			</div>
 		</div>
 	</div>
 </div>
