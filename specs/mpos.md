@@ -16,7 +16,7 @@ hero:
 				<a class="btn btn-default bt-custom-out" href="https://www.handpoint.com/contact" role="button">Learn more</a>
 			</div>
 			<div class="col-md-8 col-sm-8">
-				<h1>Handpoint mPOS</h1>
+				<h1>Handpoint Payments App</h1>
 				<h3>Start your transformation today</h3>
 				<p>Handpoint's simple payments application lets you get started with payments instantly.  Offer an elegant, intuitive payment solution on a Handpoint smart POS terminal like the PAX A920 PRO or on a phone or tablet paired with a HiLite mPOS terminal. We even give you the power to co-brand the app. Even more, all of the transaction history is available real-time in the app or online, making it easy for voids, refunds, or receipt printing any time.</p>
 				<h4>Key features</h4>
