@@ -19,10 +19,10 @@ blurbs:
       link: /specs/paxa920
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/a920pro.png
       title: PAX A920 PRO
-      link: /specs/paxa920
+      link: /contact
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/a35.png
       title: PAX A35
-      link:  /specs/hipro
+      link:  /contact
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiLite_big.jpg?fit=crop&crop=focalpoint&fp-y=.53&h=600&w=480&fp-z=4.5&fp-x=.5
       title: HiLite NFC
       link: /specs/hilite
@@ -33,7 +33,7 @@ blurbs:
       title: TPS900
       link: /specs/TPS900
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico11.svg
-      title: Need more?
+      title: Need guidance?
       link: /contact
       
 ---
