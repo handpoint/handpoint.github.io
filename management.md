@@ -42,30 +42,14 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico09.svg
       title: "Many languages, currencies, regulatory schemes"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico11.svg
-      title: "Semi-integrated & pre-certified smartPOS and mPOS terminals"
+      title: "Semi-integrated certified Android and mPOS terminals"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico08.svg
       title: "Remote key injection & software updates"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico03.svg
       title: "Real time transaction APIs"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico10.svg
-      title: "PCI-DSS certified platform on AWS for infinite scalability and uptime"
+      title: "PCI-DSS certified platform on AWS for scalability and uptime"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico06.svg
-      title: "PCI-P2PE for EMV + NFC + MSR"
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico04.svg
-      title: "PCI-P2PE for EMV + NFC + MSR"
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico05.svg
-      title: "PCI-P2PE for EMV + NFC + MSR"
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico02.svg
-      title: "PCI-P2PE for EMV + NFC + MSR"
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico03.svg
-      title: "PCI-P2PE for EMV + NFC + MSR"
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico13.svg
-      title: "PCI-P2PE for EMV + NFC + MSR"
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico14.svg
-      title: "PCI-P2PE for EMV + NFC + MSR"
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico15.svg
-      title: "PCI-P2PE for EMV + NFC + MSR"
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico16.svg
       title: "PCI-P2PE for EMV + NFC + MSR"
   buttontxt: Explore our Solutions
   buttonlink: https://www.handpoint.com/docs/device/Basics/
