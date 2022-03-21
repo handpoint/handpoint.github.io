@@ -7,7 +7,7 @@ hero:
   buttonlink: "/contact"
 intro:
   title: Handpoint's leading terminals
-  description: "Handpoint’s innovative range of mobile terminals help you grow: smart, integrated, cost-effective, revenue-driving."
+  description: "Handpoint’s innovative range of mobile terminals help you grow - smart, integrated, cost-effective, revenue-driving."
 blurbs:
   description: "Handpoint's innovative range of readers & APIs covers your key use cases. <br> Find the solution right for your opportunity:"
   list: 
