@@ -6,7 +6,7 @@ hero:
   hypertext: Check out our newsletter! <a href="https://mailchi.mp/db51950d6bfa/handpointnewsletter">Click here</a>
 intro:
   title: We’re ready if you are
-  description: "We have a variety of solutions specialists with deep industry experience ready to work with you to see if the Handpoint platform is a good fit for your payments needs. We primarily work with:"
+  description: "Our solutions specialists bring deep industry experience and are ready to work with you to help you transform your growth. We already support a wide range of industries, including:"
 businessicons:
   icons: 
     - icon: https://handpoint.imgix.net/Website%20refresh%20photos/icons/slide_ico01.svg
