@@ -16,9 +16,6 @@ hero:
 				<p>Handpoint provides a wide variety of payment types to support the needs of a wide variety of merchants. Specific features vary by processor and country. In general, our supported face-to-face payment types include:</p>
 			</div>
 		</div>
-		<div class="row section-internal-paymenttypes-module">
-			<div class="col-md-5 col-sm-6 col-md-offset-1 col-sm-offset-0">
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/live-action/specs_paymenttypes_pic05.jpg" class="img-responsive" alt=""/>
 			</div>
 			<div class="col-md-5 col-sm-6 section-internal-paymenttypes-module-txt">
 				<h3>Payment methods</h3>
@@ -34,12 +31,7 @@ hero:
 					<li><i class="fas fa-check"></i> No batching + automatic settlement processing</li>
 					<li><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Basics/">See the APIs here</a></span></li>
 				</ul>
-			</div>
-		</div>
-		<div class="row section-internal-paymenttypes-module">
-			<div class="col-md-5 col-sm-6 visible-xs">
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/live-action/specs_paymenttypes_pic02.jpg" class="img-responsive" alt=""/>
-			</div>
+
 			<div class="col-md-5 col-sm-6 col-md-offset-1 col-sm-offset-0 section-internal-paymenttypes-module-txt">
 				<h3>Transaction types</h3>
 					<ul>
@@ -54,9 +46,7 @@ hero:
 					
 				</ul>
 			</div>
-			<div class="col-md-5 col-sm-6 hidden-xs">
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/live-action/specs_paymenttypes_pic02.jpg" class="img-responsive" alt=""/>
-			</div>
+
 		</div>
 		<div class="row section-internal-paymenttypes-module">
 			<div class="col-md-5 col-sm-6 col-md-offset-1 col-sm-offset-0">
@@ -76,9 +66,7 @@ hero:
 				</ul>
 			</div>
 		</div>
-		<div class="row section-internal-paymenttypes-module">
-			<div class="col-md-5 col-sm-6 visible-xs">
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/live-action/specs_paymenttypes_pic04.jpg" class="img-responsive" alt=""/>
+
 			</div>
 			<div class="col-md-5 col-sm-6 col-md-offset-1 col-sm-offset-0 section-internal-paymenttypes-module-txt">
 				<h3>Verticals</h3>
