@@ -9,33 +9,24 @@ hero:
 
 intro: 
   title: It's all about the APIs
-  description: At Handpoint, it is all about APIs. Handpoint's semi-integrated architecture means all complex payment handling is abstracted and developers simply have to use one of our easy APIs to integrate their POS software to our platform to offer face-to-face payments on three continents.
+  description: At Handpoint, it is all about APIs. Handpoint's semi-integrated architecture means all complex payment handling is abstracted and developers simply have to use one of our easy APIs to integrate to our platform to offer integrated payments on three continents.
   buttontxt: API DOCUMENTATION
   buttonlink: https://www.handpoint.com/docs/device/Basics/
 ---
- <div class="section">
-     <div class="container">
-		<div class="row text-center">
-			<h1><br>Integrated payments have never been so easy</h1>
-			<br>
-		</div>
-	</div>
-</div>
-
 <div class="section section-lightcolor section-blurbs blurbs-apis">
 	<div class="container">
 		<div class="row">
 			<div class="blurb col-md-4 col-sm-4">
 		    	<img src="https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico13.svg" alt=""/>
-				<p>Handpoint’s APIs enable easy integrations for all of the leading nextgen POS platforms including web POS and native apps for iOS, Android, and Windows .NET phones and tablets; cover a wide range of merchant use cases; and offer innovative payment features including omni-enabling tokens and tip adjustment.</p>
+				<p>Handpoint’s APIs enable easy integrations for all of the leading nextgen POS platforms including web POS and native apps for Android, iOS, or Windows; cover a wide range of merchant use cases; and offer innovative payment features including multi-MID processing, tokenization, and tip adjustment.</p>
 		    </div>
 			<div class="blurb col-md-4 col-sm-4">
 		    	<img src="https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico14.svg" alt=""/>
-				<p>All of the SDKs leverage Handpoint’s secure architecture to protect your POS, your merchant’s reputation, and sensitive cardholder data with features including P2PE, semi-integrated transaction flow, and real-time transaction data.</p>
+				<p>Handpoint’s APIs provide a secure architecture - combining P2PE, semi-integrated architecture, tokens, and real-time transaction data - to protect your software, your customers, and sensitive cardholder data.</p>
 		    </div>
 			<div class="blurb col-md-4 col-sm-4">
 		    	<img src="https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico15.svg" alt=""/>
-				<p>Let us help you find the API, card reader, and payment features right for your unique requirements. We’re also happy to help connect you with the right acquiring partners to meet your needs on three continents (and counting...).</p>
+				<p>Let us help you find the API, card reader, and payment features right for your unique requirements.</p>
 		    </div>
 		</div>
 	</div>
