@@ -38,7 +38,7 @@ blurbs:
       
 ---
 
-<li><h3>A single integration of a Handpoint API gives you the ability to offer multiple terminal lines.</h3></li>
+<ul><h3>A single integration of a Handpoint API gives you the ability to offer multiple terminal lines.</h3></ul>
 
 <table class="table table-striped table-custom">
   <tbody>
