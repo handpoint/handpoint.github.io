@@ -35,6 +35,8 @@ global-reach:
 security:
   title: Real humans, at your service.
   description: Partner success is our passion. We connect your developers directly with the people who built the platform.  We connect your sales people with our international experts.  We have real humans ready to help you with troubleshooting, technical questions, or new features. Slack or email to speak to someone right away.
+  buttontxt: "Get Started"
+  buttonlink: /contact
 <!--cloudlogos: 
   title: "You’re in good company"
   logos: 
