@@ -7,7 +7,7 @@ hero:
   buttonlink: "/contact"
 intro:
   title: Handpoint's leading terminals
-  description: Handpoint’s innovative range of mobile terminals help you grow - smart, integrated, cost-effective, revenue-driving.
+  description: Handpoint’s innovative range of mobile terminals help you grow - smart, integrated, cost-effective, revenue-driving.<br>
 blurbs:
   description: "Handpoint's innovative range of readers & APIs covers your key use cases. <br> Find the solution right for your opportunity:"
   list: 
@@ -15,7 +15,7 @@ blurbs:
       title: PAX A920
       link: /specs/paxa920
    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png
-      title: PAX A920 PRO
+      title: PAX A920
       link: /specs/paxa920
    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiLite_big.jpg?fit=crop&crop=focalpoint&fp-y=.53&h=750&w=600&fp-z=4.5&fp-x=.5
       title: HiLite NFC
