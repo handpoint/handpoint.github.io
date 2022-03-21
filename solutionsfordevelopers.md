@@ -50,6 +50,5 @@ security:
       list:
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/ivend_logo.png
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/emobilepos.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/Appos.png -->
-
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/Appos.png 
 ---
