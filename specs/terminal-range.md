@@ -57,6 +57,70 @@ blurbs:
       <td>Stand-alone integrated ready</td>
     </tr>
     <tr>
+      <td><b><a href="/specs/paxa80">PAX A80</a></b></td>
+      <td>Cloud, counter-top, retail, services</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b><a href="/specs/paxa920">PAX A920</a></b></td>
+      <td>Cloud, high-touch retail, membership management, travel, line-busting, restaurant, mobile, services, events</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+    </tr>   
+    <tr>
+      <td><b><a href="/specs/paxa920">PAX A920 PRO</a></b></td>
+      <td>Cloud, high-touch retail, membership management, travel, line-busting, restaurant, mobile, services, events</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b><a href="/specs/paxa80">PAX A35</a></b></td>
+      <td>Cloud, counter-top, retail, services</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+      <td><i class="fas fa-check"></i></td>
+    </tr>
+        <tr>
       <td><b><a href="/specs/hilite">HiLite, mPOS</a></b></td>
       <td>Counter-top, retail, rentals, field service, QSR, direct sales</td>
       <td><i class="fas fa-check"></i></td>
@@ -85,38 +149,6 @@ blurbs:
       <td>&nbsp;</td>
       <td><i class="fas fa-check"></i></td>
       <td>&nbsp;</td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-    </tr>
-    <tr>
-      <td><b><a href="/specs/paxa920">PAX A920</a></b></td>
-      <td>Cloud, high-touch retail, membership management, travel, line-busting, restaurant, mobile, services, events</td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td>&nbsp;</td>
-      <td><i class="fas fa-check"></i></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-    </tr>
-        <tr>
-      <td><b><a href="/specs/paxa80">PAX A80</a></b></td>
-      <td>Cloud, counter-top, retail, services</td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
-      <td>&nbsp;</td>
-      <td><i class="fas fa-check"></i></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
     </tr>
