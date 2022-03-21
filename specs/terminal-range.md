@@ -152,7 +152,7 @@ blurbs:
       <td><i class="fas fa-check"></i></td>
       <td>&nbsp;</td>
       <td><i class="fas fa-check"></i></td>
-      <td><i class="fas fa-check"></i></td>
+      <td>&nbsp;</td>
     </tr>
         <tr>
       <td><b><a href="/specs/TPS900"> TPS900</a></b></td>
