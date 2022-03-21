@@ -62,14 +62,14 @@ solutions:
     - title: Unified Intelligence
       id: "unifiedintelligence"
       ariacontrol: settings
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/OmniEnabled_HiLite.png
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/intelligence_2022.png
       description: "Understand your customers across every touchpoint with flexible, omni token schemes."
       buttontxt: Get Started
       buttonlink: "/contact"
     - title: Complexity Handled
       id: "complex"
       ariacontrol: settings
-      image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/complexity_2022.png
+      image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/complexity_handled.png
       description: "Handpoint powers innovative transaction flows, like multi-MID, instant-gratification loyalty, BIN lookups, and more."
       buttontxt: Get Started
       buttonlink: "/contact"
