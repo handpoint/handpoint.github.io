@@ -48,10 +48,7 @@ hero:
 			</div>
 
 		</div>
-		<div class="row section-internal-paymenttypes-module">
-			<div class="col-md-5 col-sm-6 col-md-offset-1 col-sm-offset-0">
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/live-action/specs_paymenttypes_pic03.jpg" class="img-responsive" alt=""/>
-			</div>
+
 			<div class="col-md-5 col-sm-6 section-internal-paymenttypes-module-txt">
 				<h3>Card brands</h3>
 				<ul>
