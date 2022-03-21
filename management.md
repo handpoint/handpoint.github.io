@@ -42,7 +42,7 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico09.svg
       title: "Many languages, currencies, regulatory schemes"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico11.svg
-      title: "Semi-integrated, certified Android and mPOS terminals"
+      title: "Semi-integrated Android + mPOS terminals"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico08.svg
       title: "Remote key injection & software updates"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico03.svg
