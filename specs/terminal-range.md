@@ -7,7 +7,7 @@ hero:
   buttonlink: "/contact"
 intro:
   title: Handpoint helps you build your ideal payments journey
-  description: Handpoint’s selected range of embedded terminals help you grow. <br> Smart. Integrated. Cost-effective. Revenue-driving.<br>
+  description: If you need face-to-face payments, Handpoint has embedded multiple ranges of terminals that will help you grow. <br> Smart. Integrated. Cost-effective. Revenue-driving.<br>
 blurbs:
   description: "Handpoint's innovative range of readers & APIs covers your key use cases. <br> Find the right solution:"
   list: 
