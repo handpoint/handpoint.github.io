@@ -49,9 +49,9 @@ intro:
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/iOS/">iOS SDK</a></span></td>
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Android/">Android SDK</a></span></td>
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Windows/">Windows SDK</a></span></td>
-			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">REST API or JS SDK</a></span></td>  
-			     <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">Cordova</a></span></td> 
-			     <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">Xamarin</a></span></td>  
+			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/REST-API/">REST API or JS SDK</a></span></td>  
+			     <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.npmjs.com/package/cordova-plugin-handpoint">Cordova</a></span></td> 
+			     <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://github.com/thescruba/xamarin-handpoint-bindings">Xamarin</a></span></td>  
 			    </tr>
 			    <tr>
 			      <td><b>Supported Card Readers</b></td>
@@ -151,7 +151,9 @@ intro:
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Android/">Android SDK</a></span></td>
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Windows/">Windows SDK</a></span></td>
 			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">REST API or JS SDK</a></span></td>
-			    </tr>
+			      <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">Cordova</a></span></td> 
+			     <td style="vertical-align: bottom;"><span class="specialtxt"><a href="/specs/cloudsdk">Xamarin</a></span></td>  
+				  </tr>
 				  <tr>
 			      <td><b>Geographic Reach</b></td>
 			      <td class="text-left">US</td>
