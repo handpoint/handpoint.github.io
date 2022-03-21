@@ -8,17 +8,20 @@ hero:
   buttonlink: https://www.handpoint.com/docs/device/Basics/
 
 intro: 
-  <div class="container">
-		<div class="row text-center">
-			<h1><br>Integrated payments have never been so easy</h1>
-			<br>
-		</div>
-	</div>
   title: It's all about the APIs
   description: At Handpoint, it is all about APIs. Handpoint's semi-integrated architecture means all complex payment handling is abstracted and developers simply have to use one of our easy APIs to integrate their POS software to our platform to offer face-to-face payments on three continents.
   buttontxt: API DOCUMENTATION
   buttonlink: https://www.handpoint.com/docs/device/Basics/
 ---
+ <div class="section">
+     <div class="container">
+		<div class="row text-center">
+			<h1><br>Integrated payments have never been so easy</h1>
+			<br>
+		</div>
+	</div>
+</div>
+
 <div class="section section-lightcolor section-blurbs blurbs-apis">
 	<div class="container">
 		<div class="row">
