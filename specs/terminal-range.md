@@ -7,7 +7,7 @@ hero:
   buttonlink: "/contact"
 intro:
   title: Handpoint mobile terminals
-  description: Handpoint’s innovative range of mobile terminals help you grow. Our nextgen card readers deliver value - integrated, cost-effective, revenue-driving.<br>
+  description: Handpoint’s innovative range of mobile terminals help you grow: smart, integrated, cost-effective, revenue-driving.<br>
 blurbs:
   description: "Handpoint's innovative range of readers & APIs covers your key use cases. <br> Find the solution right for your opportunity:"
   list: 
