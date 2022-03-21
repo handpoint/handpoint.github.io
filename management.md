@@ -14,10 +14,10 @@ payfac:
     - Transform your business with a single integration
 tms: 
   title: "Your payments strategy must be part of your scaling strategy"
-  description: "Activating a merchant has never been simpler. Handpoint's remote key injection, remote software updates, and instant activation design put the power to control the entire merchant experience in your hands."
+  description: "Activating a merchant has never been simpler. Handpoint's remote key injection, remote software updates, and instant-activation design give you the power to control the entire payments journey.."
   list: 
     - title: "Seamless Activation: "
-      description: "Activate the right keys instantly with no delays, no support"
+      description: "Activate with no delays, no support required"
     - title: "Reliable Processing: "
       description: "Up-to-date terminals and real-time transaction visibility"
     - title: "Life-Cycle Management: "
@@ -45,10 +45,10 @@ blurbs:
       title: "Semi-integrated & pre-certified smartPOS and mPOS terminals"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico09.svg
       title: "Remote key injection & software updates"
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico10.svg
-      title: "PCI-DSS certified platform on AWS for infinite scalability and uptime"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico11.svg
       title: "Real time transaction APIs"
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico10.svg
+      title: "PCI-DSS certified platform on AWS for infinite scalability and uptime"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico12.svg
       title: "PCI-P2PE for EMV + NFC + MSR"
   buttontxt: Explore our Solutions
