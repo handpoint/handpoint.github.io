@@ -37,7 +37,7 @@ security:
   description: Partner success is our passion. We connect your developers directly with the people who built the platform.  We connect your sales people with our international experts.  We have real humans ready to help you with troubleshooting, technical questions, or new features. Slack or email to speak to someone right away.
   buttontxt: "Get Started"
   buttonlink: /contact
-cloudlogos: 
+<!--cloudlogos: 
   title: "You’re in good company"
   logos: 
     - title: row1
@@ -50,6 +50,6 @@ cloudlogos:
       list:
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/ivend_logo.png
         - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/emobilepos.png
-        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/Appos.png
+        - image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/Appos.png -->
 
 ---
