@@ -35,20 +35,18 @@ channel:
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
 blurbs:
   title: "Engineered for Growth" 
-  description: Our robust platform is highly flexible and scalable in every direction, <br>allowing you to respond to the dynamic payments landscape. Handpoint can add SDKs, terminals, tools, countries, and payment types. The entire Handpoint platform is hosted and PCI-DSS certifed on AWS for infinite scalability, so there is no limit to your potential.
+  description: Our robust platform is highly flexible and scalable in every direction, <br>allowing you to respond to the dynamic payments landscape. Handpoint can add SDKs, logic, tools, countries, and payment types. And, the entire Handpoint platform is hosted and <b>PCI-DSS certifed on AWS</b> for infinite scalability, so there is no limit to your potential.
   list: 
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico07.svg
-      title: "APIs for every platform and payment type"
+      title: "APIs for every platform and payment flow"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico09.svg
       title: "Many languages, currencies, regulatory schemes"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico11.svg
-      title: "Semi-integrated certified Android and mPOS terminals"
+      title: "Semi-integrated, certified Android and mPOS terminals"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico08.svg
       title: "Remote key injection & software updates"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico03.svg
-      title: "Real time transaction APIs"
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico10.svg
-      title: "PCI-DSS certified platform on AWS for scalability and uptime"
+      title: "Real time transaction data APIs"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico06.svg
       title: "PCI-P2PE for EMV + NFC + MSR"
   buttontxt: Explore our Solutions
