@@ -80,9 +80,7 @@ hero:
 					<li><i class="fas fa-check"></i> Services and more</li>
 				</ul>
 			</div>
-			<div class="col-md-5 col-sm-6 hidden-xs">
-				<img src="https://handpoint.imgix.net/Website%20refresh%20photos/live-action/specs_paymenttypes_pic04.jpg" class="img-responsive" alt=""/>
-			</div>
+
 		</div>
 	</div>
 </div>
