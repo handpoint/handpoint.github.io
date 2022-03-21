@@ -18,7 +18,7 @@ intro:
 		<div class="row">
 			<div class="blurb col-md-4 col-sm-4">
 		    	<img src="https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico13.svg" alt=""/>
-				<p>Handpoint’s APIs enable easy integrations for all of the leading nextgen POS platforms including web POS and native apps for Android, iOS, or Windows; cover a wide range of merchant use cases; and offer innovative payment features including multi-MID processing, tokenization, and tip adjustment.</p>
+				<p>Handpoint’s APIs enable easy integrations for all of the leading nextgen POS platforms including web POS and native apps; cover a wide range of use cases; and offer innovative payment features including multi-MID processing and tokenization schemes.</p>
 		    </div>
 			<div class="blurb col-md-4 col-sm-4">
 		    	<img src="https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico14.svg" alt=""/>
