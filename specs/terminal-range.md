@@ -29,9 +29,6 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled2.png?w=300
       title: HiPro NFC
       link: /specs/hipro
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png
-      title: PAX A920
-      link: /specs/paxa920
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Pax_A80.png
       title: PAX A80
       link: /specs/paxa80
