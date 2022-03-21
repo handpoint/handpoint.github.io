@@ -29,9 +29,10 @@ hero:
 					<li><i class="fas fa-check"></i> EMV Chip&PIN and Chip&Signature</li>
 					<li><i class="fas fa-check"></i> NFC</li>
 					<li><i class="fas fa-check"></i> PIN debit</li>
+					<li><i class="fas fa-check"></i> APMs</li>
 					<li><i class="fas fa-check"></i> Host capture platform</li>
 					<li><i class="fas fa-check"></i> No batching + automatic settlement processing</li>
-					<li><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Basics/">Confirm here the payment methods supported by your acquirer</a></span></li>
+					<li><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Basics/">See the APIs here</a></span></li>
 				</ul>
 			</div>
 		</div>
@@ -48,8 +49,8 @@ hero:
 					<li><i class="fas fa-check"></i> Refund reversal</li>
 					<li><i class="fas fa-check"></i> Tip adjustment</li>
 					<li><i class="fas fa-check"></i> In-line tipping</li>
-					<li><i class="fas fa-check"></i> Tokenization</li>
-					<li><span class="specialtxt"><a href="https://www.handpoint.com/docs/device/Basics/">Confirm here the transaction types supported by your acquirer</a></span></li>
+					<li><i class="fas fa-check"></i> Tokenization with Sale</li>
+					<li><i class="fas fa-check"></i> Tokenization without Sale</li>
 					
 				</ul>
 			</div>
