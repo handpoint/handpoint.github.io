@@ -29,6 +29,24 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico11.svg
       title: Need more?
       link: /contact
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/SmartPOS_clean.png
+      title: PAX A920
+      link: /specs/paxa920
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/Pax_A80.png
+      title: PAX A80
+      link: /specs/paxa80
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiLite_big.jpg?fit=crop&crop=focalpoint&fp-y=.53&h=750&w=600&fp-z=4.5&fp-x=.5
+      title: HiLite NFC
+      link: /specs/hilite
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled2.png?w=300
+      title: HiPro NFC
+      link:  /specs/hipro
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TPS900_zoom.png
+      title: TPS900
+      link: /specs/TPS900
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico11.svg
+      title: Need more?
+      link: /contact
       
 ---
 
