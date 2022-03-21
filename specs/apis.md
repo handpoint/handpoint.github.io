@@ -73,6 +73,16 @@ intro:
 			    </tr>
 				<tr>
 			      <td>&nbsp;</td>
+			      <td class="text-left"><span class="specialtxt"><a href="/specs/paxa920">PAX A920 PRO</a></span></td>
+			      <td><i class="fas fa-check"></i></td>
+			      <td>&nbsp;</td>
+			      <td>&nbsp;</td>
+			      <td><i class="fas fa-check"></i></td>
+			      <td>&nbsp;</td>
+			      <td><i class="fas fa-check"></i></td>
+			    </tr>
+				  <tr>
+			      <td>&nbsp;</td>
 			      <td class="text-left"><span class="specialtxt"><a href="/specs/paxa920">PAX A920</a></span></td>
 			      <td><i class="fas fa-check"></i></td>
 			      <td>&nbsp;</td>
@@ -83,6 +93,16 @@ intro:
 			    </tr>
 				<tr> 
 				 <td>&nbsp;</td>
+			      <td class="text-left"><span class="specialtxt"><a href="/specs/paxa80">PAX A35</a></span></td>
+			      <td><i class="fas fa-check"></i></td>
+			      <td>&nbsp;</td>
+			      <td>&nbsp;</td>
+			      <td><i class="fas fa-check"></i></td>
+			      <td>&nbsp;</td>
+			      <td><i class="fas fa-check"></i></td>
+			    </tr>
+				  				<tr> 
+				 <td>&nbsp;</td>
 			      <td class="text-left"><span class="specialtxt"><a href="/specs/paxa80">PAX A80</a></span></td>
 			      <td><i class="fas fa-check"></i></td>
 			      <td>&nbsp;</td>
@@ -91,6 +111,7 @@ intro:
 			      <td>&nbsp;</td>
 			      <td><i class="fas fa-check"></i></td>
 			    </tr>
+				 
 				  				<tr> 
 				 <td>&nbsp;</td>
 			      <td class="text-left"><span class="specialtxt"><a href="/specs/TPS900">TPS900</a></span></td>
