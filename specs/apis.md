@@ -9,7 +9,7 @@ hero:
 
 intro: 
   title: It's all about the APIs
-  description: At Handpoint, it is all about APIs. Handpoint's semi-integrated architecture means all complex payment handling is abstracted and developers simply have to use one of our easy APIs to integrate to our platform to offer integrated payments on three continents.
+  description: At Handpoint, it is all about APIs. Handpoint's semi-integrated architecture means all complex payment handling is abstracted. Your developers simply use one of our easy APIs to integrate to our platform and your growth trajectory is transformed.
   buttontxt: API DOCUMENTATION
   buttonlink: https://www.handpoint.com/docs/device/Basics/
 ---
