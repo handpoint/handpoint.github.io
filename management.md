@@ -51,21 +51,21 @@ blurbs:
       title: "PCI-DSS certified platform on AWS for infinite scalability and uptime"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico06.svg
       title: "PCI-P2PE for EMV + NFC + MSR"
-          - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico04.svg
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico04.svg
       title: "PCI-P2PE for EMV + NFC + MSR"
-          - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico05.svg
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico05.svg
       title: "PCI-P2PE for EMV + NFC + MSR"
-          - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico02.svg
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico02.svg
       title: "PCI-P2PE for EMV + NFC + MSR"
-          - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico03.svg
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico03.svg
       title: "PCI-P2PE for EMV + NFC + MSR"
-                - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico13.svg
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico13.svg
       title: "PCI-P2PE for EMV + NFC + MSR"
-          - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico14.svg
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico14.svg
       title: "PCI-P2PE for EMV + NFC + MSR"
-          - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico15.svg
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico15.svg
       title: "PCI-P2PE for EMV + NFC + MSR"
-          - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico16.svg
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico16.svg
       title: "PCI-P2PE for EMV + NFC + MSR"
   buttontxt: Explore our Solutions
   buttonlink: https://www.handpoint.com/docs/device/Basics/
