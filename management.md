@@ -39,7 +39,7 @@ blurbs:
   list: 
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico07.svg
       title: "APIs for every platform and payment type"
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico12.svg
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico09.svg
       title: "Many languages, currencies, regulatory schemes"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico11.svg
       title: "Semi-integrated & pre-certified smartPOS and mPOS terminals"
@@ -47,7 +47,7 @@ blurbs:
       title: "Remote key injection & software updates"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico10.svg
       title: "Real time transaction APIs"
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico09.svg
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico03.svg
       title: "PCI-DSS certified platform on AWS for infinite scalability and uptime"
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico06.svg
       title: "PCI-P2PE for EMV + NFC + MSR"
