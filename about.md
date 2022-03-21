@@ -33,7 +33,7 @@ milestones:
 awards: 
   title: "Awards & certifications"
   description: >
-    We are proud to have WON the <a href="https://www.paysafe.com/ca-en/paysafegroup/news/detail/paysafe-wins-best-omni-channel-payment-solution-2021-mpe-award/">2021 Best Omni-Channel or Multi-Rail Payment Solution at the Merchant Payments Ecosystem (MPE) Awards</a> with our partner Paysafe and the 2019 Best Merchant Payments Partnership in recognition of our innovative international integrated omni-commerce solution.
+    We are proud to have WON the <a href="https://www.paysafe.com/ca-en/paysafegroup/news/detail/paysafe-wins-best-omni-channel-payment-solution-2021-mpe-award/">2021 Best Omni-Channel or Multi-Rail Payment Solution at the Merchant Payments Ecosystem (MPE) Awards</a> with our partner Paysafe, as well as the 2019 Best Merchant Payments Partnership, in recognition of our innovative international integrated omni-commerce solution.
   image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/MPE_PCI_Logo.png
 leadership:
   title: Meet our leadership team
