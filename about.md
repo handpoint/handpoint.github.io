@@ -6,7 +6,7 @@ hero:
 intro: 
   title: "Leading the way. Doing it right."
   description: > 
-    <p>Handpoint has been a pioneer in defining integrated payments, from advancing the checkout experience with mobile technology to launching open payment integrations for all emerging platforms -- on 3 continents.</p><p>We provide solutions for merchants, acquirers, payfacs, ISOs and ISVs who are delivering this edge for payments: where customer experience and management matter, where payments are embedded seamlessly, and where mobile technology fuels growth. Handpoint's software terminal, international gateway, and terminal management system enable the future of acquiring, from mPOS and integrated POS to a future without terminals.</p><p class="specialtxt">Handpoint. Powering the payments revolution.</p>
+    <p>Handpoint has been a pioneer in defining integrated payments, from advancing the checkout experience with mobile technology to launching open payment integrations for all emerging platforms -- on 3 continents.</p><p>We provide solutions for software companies, payfacs, merchants, acquirers, and ISOs who share our vision for nextgen commerce: where customer experience and management matter, where payments are embedded seamlessly, and where mobile technology fuels growth. Handpoint's APIs, software terminal, international gateway, and cloud-hosted system enable the future of unified commerce.</p><p class="specialtxt">Handpoint. Powering the payments revolution.</p>
 blurbs:
   title: Powering business in the aisle and around the globe
   description: With over 20 years of experience, we have helped circa 100 software companies from California to South Africa transform with payments. 
@@ -14,7 +14,7 @@ blurbs:
     - title: Founded
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico22.svg
       description: >
-        <p>Handpoint’s roots date back to 1999 when the founders set up a company to leverage first generation mobile technology to help merchants gain visibility and simplify operations.</p><p>Having built the business twice and sold to start over again, the founders have built on years of experience and progressed Handpoint into a leading payments platform designed for next generation point-of-sale.</p>
+        <p>Handpoint’s roots date back to 1999 when the founders set up a company to leverage first generation mobile technology to help merchants gain visibility and simplify operations.</p><p>Since then, we have continued to double down and invest in the future of integrated payments.</p>
     - title: Core business
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico25.svg
       description: >
@@ -24,16 +24,16 @@ blurbs:
       buttontxt: Interested?
       buttonlink: /contact
       description: >
-        <p>Handpoint is singularly focused on providing the best payments platform experience possible. To that end, we’ve pre-integrated with a number of card readers, POS solutions, and other payments partners to provide the highest amount of flexibility and power to our customers.</p>
+        <p>Handpoint is singularly focused on providing the best payments platform experience possible. To that end, we’ve made it seamless for our partners to integrate leading card readers, reach new markets, and build in nextgen capabilities to provide the highest amount of flexibility and power to our customers.</p>
 milestones:
   title: Milestones
   description: >
-    <p>Handpoint led the way in mobile EMV – introducing mobile POS to the airlines, emv enabling several airlines for the first time, and delivering the worlds first EMV mobile POS a decade ago. We delivered the world‘s first PCI-P2PE payment applications for mobile EMV and built a state of the art platform for making mobile POS scalable, sustainable, and secure.</p><p>We opened access to that platform with the first simple APIs for iOS and Android, bringing secure EMV to the dynamic space of nextgen pos. We then certified the Handpoint platform on 2 then 3 continents. In 2017 we focused on the cloud, migrating and certifying our platform on AWS and delivering EMV and NFC for web-based points of sale.</p><p>And now as the opportunity for omnicommerce continues to grow, we have expanded from to serve that opportunity with tokenization with multiple acquirers, standalone integrated-ready terminals, and new payment types for omnicommerce, while continuing our global expansion.</p>
+    <p>Handpoint led the way in mobile EMV – introducing mobile POS to the airlines, EMV-enabling several airlines for the first time, and delivering the worlds first EMV mobile POS a decade ago. We delivered the world‘s first PCI-P2PE payment applications for mobile EMV and built a state of the art platform for making mobile POS scalable, sustainable, and secure.</p><p>We opened access to that platform with the first simple APIs for iOS and Android, bringing secure EMV to the dynamic space of nextgen pos. We then certified the Handpoint platform on 2 then 3 continents. Since then, we have focused on the cloud, migrating and certifying our platform on AWS and delivering EMV and NFC for web-based points of sale.</p><p>And now as the opportunity for omnicommerce continues to grow, we have expanded from to serve that opportunity with ecommerce, dynamic tokenization schemes, smart Android terminals, and new payment flows, while continuing our global expansion.</p>
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Timeline_2022.png
 awards: 
   title: "Awards & certifications"
   description: >
-    Check back soon - we are updating our list of awards and certifications, but we were shortlisted for two 2019 MPE Awards in Best POS Innovation and Best Merchant Payments Partnership, and WON the Best Merchant Payments Partnership in recognition of our innovative international integrated omni-commerce solution with Paysafe.
+    We are proud to have WON the <a href="https://www.paysafe.com/ca-en/paysafegroup/news/detail/paysafe-wins-best-omni-channel-payment-solution-2021-mpe-award/">2021 Best Omni-Channel or Multi-Rail Payment Solution at the Merchant Payments Ecosystem (MPE) Awards</a> with our partner Paysafe and the 2019 Best Merchant Payments Partnership in recognition of our innovative international integrated omni-commerce solution.
   image: https://handpoint.imgix.net/Website%20refresh%20photos/Logos/MPE_PCI_Logo.png
 leadership:
   title: Meet our leadership team
