@@ -38,6 +38,8 @@ blurbs:
       
 ---
 
+<li>A single integration of a Handpoint API gives you the ability to offer multiple terminal lines.</li>
+
 <table class="table table-striped table-custom">
   <tbody>
     <tr class="table-custom-header">
@@ -74,7 +76,7 @@ blurbs:
     </tr>
     <tr>
       <td><b><a href="/specs/paxa920">PAX A920</a></b></td>
-      <td>Cloud, high-touch retail, membership management, travel, line-busting, restaurant, mobile, services, events</td>
+      <td>Put your app on the terminal for all-in-one solutions or connect your POS via the cloud</td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
@@ -90,7 +92,7 @@ blurbs:
     </tr>   
     <tr>
       <td><b><a href="/specs/paxa920">PAX A920 PRO</a></b></td>
-      <td>Cloud, high-touch retail, membership management, travel, line-busting, restaurant, mobile, services, events</td>
+      <td>Put your app on the terminal for all-in-one solutions or connect your POS via the cloud</td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
@@ -122,7 +124,7 @@ blurbs:
     </tr>
         <tr>
       <td><b><a href="/specs/hilite">HiLite, mPOS</a></b></td>
-      <td>Counter-top, retail, rentals, field service, QSR, direct sales</td>
+      <td>Retail, rentals, field service, QSR, direct sales</td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
       <td><i class="fas fa-check"></i></td>
@@ -171,6 +173,3 @@ blurbs:
   </tbody>
 </table>
   
-
-<li>A single integration of Handpoint to your acquiring platform gives you the ability to offer multiple terminal lines.</li>
-<li>If you don’t see the terminal you need, we can add new terminals all with the benefits of the Handpoint platform.</li>
