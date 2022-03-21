@@ -23,7 +23,7 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/a35.png
       title: PAX A35
       link:  /specs/hipro
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiLite_big.jpg?fit=crop&crop=focalpoint&fp-y=.53&h=750&w=600&fp-z=4.5&fp-x=.5
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiLite_big.jpg?fit=crop&crop=focalpoint&fp-y=.53&h=600&w=480&fp-z=4.5&fp-x=.5
       title: HiLite NFC
       link: /specs/hilite
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/HiPro_and_Sled2.png?w=300
