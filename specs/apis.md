@@ -1,11 +1,5 @@
 ---
 layout: specs
-	<div class="container">
-		<div class="row text-center">
-			<h1><br>Create a World-Class Payments Experience</h1>
-			<br>
-		</div>
-	</div>
 hero: 
   class: hero-apis
   title: Handpoint<br>APIs
