@@ -9,7 +9,7 @@ hero:
 
 intro: 
   title: It's all about the APIs
-  description: At Handpoint, it is all about APIs. Handpoint's semi-integrated architecture means all complex payment handling is abstracted. Your developers simply use one of our easy APIs to integrate to our platform and your growth trajectory is transformed.
+  description: At Handpoint, it is all about APIs. Handpoint's semi-integrated architecture means all complex payment handling is abstracted. Your developers simply use one of our easy APIs to integrate to our platform and your growth trajectory is transformed.<br><br>
   buttontxt: API DOCUMENTATION
   buttonlink: https://www.handpoint.com/docs/device/Basics/
 ---
@@ -137,96 +137,6 @@ intro:
 			      <td><i class="fas fa-check"></i></td>
 			     <td><i class="fas fa-check"></i></td>			      
 		             <td><i class="fas fa-check"></i></td>
-			    </tr>
-				<tr>
-			      <td><b>Compatible POS Platforms</b></td>
-			      <td class="text-left">iOS Native App</td>
-					<td><i class="fas fa-check"></i></td>
-					<td><i class="fas fa-check"></i></td>
-					<td><i class="fas fa-check"></i></td>
-					<td>&nbsp;</td>
-			     <td>&nbsp;</td>
-                             <td><i class="fas fa-check"></i></td>
-			    </tr>
-				  <tr>
-			      <td>&nbsp;</td>
-			      <td class="text-left">iOS Web POS</td>
-					<td><i class="fas fa-check"></i></td>
-					<td><i class="fas fa-check"></i></td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-			     <td>&nbsp;</td>
-                             <td><i class="fas fa-check"></i></td>
-			    </tr>
-				<tr>
-			      <td>&nbsp;</td>
-			      <td class="text-left">Android Native App</td>
-					<td><i class="fas fa-check"></i></td>
-					<td><i class="fas fa-check"></i></td>
-					<td>&nbsp;</td>
-					<td><i class="fas fa-check"></i></td>
-			     <td>&nbsp;</td>
-                             <td><i class="fas fa-check"></i></td>
-			    </tr>
-				<tr>
-			      <td>&nbsp;</td>
-			      <td class="text-left">Android Web POS</td>
-					<td><i class="fas fa-check"></i></td>
-					<td><i class="fas fa-check"></i></td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-			     <td>&nbsp;</td>
-                             <td><i class="fas fa-check"></i></td>
-			    </tr>
-				 <tr>
-			      <td>&nbsp;</td>
-			      <td class="text-left">Windows Mobile App</td>
-					<td><i class="fas fa-check"></i></td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-			     <td>&nbsp;</td>
-                             <td><i class="fas fa-check"></i></td>
-			    </tr>
-				  <tr>
-			      <td>&nbsp;</td>
-			      <td class="text-left">Windows PC App</td>
-					<td><i class="fas fa-check"></i></td>
-					<td><i class="fas fa-check"></i></td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-			     <td><i class="fas fa-check"></i></td>
-                             <td><i class="fas fa-check"></i></td>
-			    </tr>
-				  <tr>
-			      <td>&nbsp;</td>
-			      <td class="text-left">Windows PC Web POS</td>
-					<td><i class="fas fa-check"></i></td>
-					<td><i class="fas fa-check"></i></td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-			     <td>&nbsp;</td>
-			     <td><i class="fas fa-check"></i></td>
-			    </tr>
-				 <tr>
-			      <td>&nbsp;</td>
-			      <td class="text-left">Mac Desktop App</td>
-					<td><i class="fas fa-check"></i></td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-			     <td>&nbsp;</td>
-			     <td><i class="fas fa-check"></i></td>
-			    </tr>
-				  <tr>
-			      <td>&nbsp;</td>
-			      <td class="text-left">Mac Web POS</td>
-					<td><i class="fas fa-check"></i></td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-			     <td>&nbsp;</td>
-			     <td><i class="fas fa-check"></i></td>
 			    </tr>
 			  </tbody>
 			</table>
