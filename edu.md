@@ -6,9 +6,9 @@ hero:
 payfac: 
   title: "There are 34,000 SaaS companies. You need the right payments strategy to outpace the competition."  
   description: "If your customers are accepting payments on your platform, you have the opportunity to transform your growth."
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto-e.png?w=400
   buttontxt: "Read More"
   buttonlink: https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/3%20Payments%20Strategies%20for%20SaaS%20-%20Handpoint%202022.pdf
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto-e.png?w=400
 tms: 
   title: "Europe Is Ripe for a SaaS Payments (R)evolution"
   description: "What European software companies don't know about their international competitors will hurt them. <b>Your payments strategy must be part of your scaling strategy.</b>"
