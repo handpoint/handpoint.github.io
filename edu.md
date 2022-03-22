@@ -8,7 +8,7 @@ payfac:
   description: "Learn how the best SaaS companies are using payments to maximize their growth."
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto-e.png?w=400
   list: 
-    - description: "There are 34,000 SaaS companies. You need the right payments strategy to outpace the competition."
+  - title: "There are 34,000 SaaS companies. You need the right payments strategy to outpace the competition."
 tms: 
   title: "Europe Is Ripe for a SaaS Payments (R)evolution"
   description: "What European software companies don't know about their international competitors will hurt them. <b>Your payments strategy must be part of your scaling strategy.</b>"
