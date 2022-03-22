@@ -21,8 +21,8 @@ blurbs:
     - image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/100b_oppty-f.png?w=400
       title: <a href="https://www.paymentscardsandmobile.com/merchant-services-taking-the-100-billion-opportunity-before-its-too-late/">MSPs are not ready <br> to help software companies <br> <b> capture the $100B+ opportunity </b> <br> of embedded payments </a>
 solutions: 
-  title: Find your personalized payments solution
-  subtitle: Unified solution suite for the future of commerce
+  title: Control the Payments Experience.  Everywhere.
+  subtitle: Finally one partner to power both ecommerce and face-to-face payments for your customers
   list: 
     - title: Omni-Commerce
       id: "omnicommerce"
