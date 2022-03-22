@@ -4,8 +4,8 @@ hero:
   buttontxt: "Contact Handpoint"
   buttonlink: "/contact"
 payfac: 
-  title: 'We are passionate about your success'
-  description: "Tap our decades of international integrated payments experience to transform your business"
+  title: 'If your customers are accepting payments on your platform, you have the opportunity to transform your growth'
+  description: "Learn how the best SaaS companies are using payments to maximize their growth"
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto-e.png?w=400
   list: 
     - Activate more high-value customers
