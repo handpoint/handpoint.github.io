@@ -13,8 +13,7 @@ tms:
   buttontxt: "Want to talk?"
   buttonlink: /contact
 rttp: 
-  title: "Real time transactions API"
-  description: 'Stop battling the "black boxes" of the world.  You need info and insights right now. With Handpoint, get tokens from every point of interaction and see every transaction, every message, in real time: online, downloadable, or via API.'
+  title: "The future of payments is embedded.  But MSPs are not ready to help software companies capture the $100B+ opportunity."
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/100b_oppty-f.png?w=400
 blurbs:
   title: "Engineered for Growth" 
