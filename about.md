@@ -21,8 +21,6 @@ blurbs:
         <p>At Handpoint, we have built the world's most flexible and robust platform as a service solution for the payments industry. Driven by our core values and goals of making the world of accepting payments more open and accessible, we’ve combined the best of security, modern development best practices, and accessibility to create the payments platform solution of the future.</p>	
     - title: Products
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico16.svg
-      buttontxt: Interested?
-      buttonlink: /contact
       description: >
         <p>Handpoint is singularly focused on providing the best payments platform experience possible. To that end, we’ve made it seamless for our partners to integrate leading card readers, reach new markets, and build in nextgen capabilities to provide the highest amount of flexibility and power to our customers.</p>
 milestones:
