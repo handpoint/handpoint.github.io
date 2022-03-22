@@ -2,7 +2,7 @@
 layout: solutionsfordevelopers
 blurbs: 
   - title: Transformational Growth
-    description: "Unleash your potential to outpace the competition."
+    description: "The right payments strategy will unleash your potential to outpace the competition."
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico15.svg
   - title: Face-to-face + eCommerce
     description: "Face-to-face + online + in app + APMs.  <br>Unify your payments and monetize them all."
