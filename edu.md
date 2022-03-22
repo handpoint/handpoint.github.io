@@ -16,7 +16,10 @@ tms:
   buttonlink: https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/3%20Payments%20Strategies%20for%20SaaS%20-%20Handpoint%202022.pdf
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Europe_ripe-f.png?w=400
 rttp: 
-  title: "The future of payments is embedded.  But MSPs are not ready to help software companies capture the $100B+ opportunity."
+  title: "The future of payments is embedded."  
+  description: "But MSPs are not ready to help software companies capture the <b>$100B+ opportunity.</b>"
+  buttontxt: "Read more"
+  buttonlink: https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/3%20Payments%20Strategies%20for%20SaaS%20-%20Handpoint%202022.pdf
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/100b_oppty-f.png?w=400
 blurbs:
   title: "Engineered for Growth" 
