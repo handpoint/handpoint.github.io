@@ -5,19 +5,16 @@ hero:
   buttonlink: "/contact"
 payfac: 
   title: 'If your customers are accepting payments on your platform, you have the opportunity to transform your growth'
-  description: "Learn how the best SaaS companies are using payments to maximize their growth"
+  description: "Learn how the best SaaS companies are using payments to maximize their growth."
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto-e.png?w=400
   list: 
-    - Activate more high-value customers
-    - Power more transactions
-    - Increase your addressable market, revenues, and retention
-    - Transform your business with a single integration
+    - description: "There are 34,000 SaaS companies. You need the right payments strategy to outpace the competition."
 tms: 
-  title: "Your payments strategy must be part of your scaling strategy"
-  description: "Activating a merchant has never been simpler. Handpoint's remote key injection, remote software updates, and instant-activation design give you the power to control the entire payments journey.."
+  title: "Europe Is Ripe for a SaaS Payments (R)evolution"
+  description: "What European software companies don't know about their international competitors will hurt them."
   list: 
     - title: "Seamless Activation: "
-      description: "Activate with no delays, no support required"
+      description: "Your payments strategy must be part of your scaling strategy."
     - title: "Reliable Processing: "
       description: "Up-to-date terminals and real-time transaction visibility"
     - title: "Life-Cycle Management: "
