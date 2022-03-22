@@ -4,8 +4,7 @@ hero:
   buttontxt: "Contact Handpoint"
   buttonlink: "/contact"
 payfac: 
-  title: <a href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/3%20Payments%20Strategies%20for%20SaaS%20-%20Handpoint%202022.pdf">There are 34,000 SaaS companies. You need the right payments strategy to outpace the competition.  If your customers are accepting payments on your platform, you have the opportunity to transform your growth</a>
-  description: "Learn how the best SaaS companies are using payments to maximize their growth."
+  title: <a href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/3%20Payments%20Strategies%20for%20SaaS%20-%20Handpoint%202022.pdf">There are 34,000 SaaS companies. You need the right payments strategy to outpace the competition.  If your customers are accepting payments on your platform, you have the opportunity to transform your growth.</a>
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto-e.png?w=400
 tms: 
   title: "Europe Is Ripe for a SaaS Payments (R)evolution"
