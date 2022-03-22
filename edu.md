@@ -40,8 +40,8 @@ blurbs:
   buttontxt: Explore our Solutions
   buttonlink: https://www.handpoint.com/docs/device/Basics/
 contact:
-  title: Bring Handpoint to your market
-  description: You can bring the entire suite of mobile solutions, APIs, and management tools to your market with a single integration.
+  title: Let us help 
+  description: Behind Handpoint's is our team of payments and software experts who will be an integral part of the white-glove experience that every Handpoint partner loves.
   buttontxt: CONTACT SALES
   buttonlink: /contact
 ---
