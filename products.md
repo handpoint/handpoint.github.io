@@ -13,7 +13,7 @@ payfac:
     - Increase your addressable market, revenues, and retention
     - Transform your business with a single integration
 main:
-  - title: Control the payments experience.  Everywhere.
+  - title: "Control the payments experience.  Everywhere."
     description: “A flexible API to control your payment solutions, workflows, and brand.  Monetize them all. <b>Online.  Offline.  Mobile. </b>”
     buttontxt: “See the API”
     buttonlink: https://www.handpoint.com/docs/device/Basics/
