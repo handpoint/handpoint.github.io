@@ -11,14 +11,7 @@ payfac:
     - description: "There are 34,000 SaaS companies. You need the right payments strategy to outpace the competition."
 tms: 
   title: "Europe Is Ripe for a SaaS Payments (R)evolution"
-  description: "What European software companies don't know about their international competitors will hurt them."
-  list: 
-    - title: "Seamless Activation: "
-      description: "Your payments strategy must be part of your scaling strategy."
-    - title: "Reliable Processing: "
-      description: "Up-to-date terminals and real-time transaction visibility"
-    - title: "Life-Cycle Management: "
-      description: "Upsell new features remotely. Even deactivate instantly"
+  description: "What European software companies don't know about their international competitors will hurt them. <b>Your payments strategy must be part of your scaling strategy.</b>"
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Europe_ripe-f.png?w=400
   buttontxt: "Request a demo"
   buttonlink: /contact
