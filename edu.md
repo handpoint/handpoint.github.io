@@ -4,11 +4,9 @@ hero:
   buttontxt: "Contact Handpoint"
   buttonlink: "/contact"
 payfac: 
-  title: 'If your customers are accepting payments on your platform, you have the opportunity to transform your growth'
+  title: 'There are 34,000 SaaS companies. You need the right payments strategy to outpace the competition.  If your customers are accepting payments on your platform, you have the opportunity to transform your growth'
   description: "Learn how the best SaaS companies are using payments to maximize their growth."
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto-e.png?w=400
-  list: 
-  - title: "There are 34,000 SaaS companies. You need the right payments strategy to outpace the competition."
 tms: 
   title: "Europe Is Ripe for a SaaS Payments (R)evolution"
   description: "What European software companies don't know about their international competitors will hurt them. <b>Your payments strategy must be part of your scaling strategy.</b>"
