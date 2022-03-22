@@ -4,23 +4,19 @@ hero:
   buttontxt: "Contact Handpoint"
   buttonlink: "/contact"
 payfac: 
-  title: 'There are 34,000 SaaS companies. You need the right payments strategy to outpace the competition.  If your customers are accepting payments on your platform, you have the opportunity to transform your growth'
+  title: <a href="https://handpoint.imgix.net/Website%20refresh%20photos/spec-sheets/3%20Payments%20Strategies%20for%20SaaS%20-%20Handpoint%202022.pdf">There are 34,000 SaaS companies. You need the right payments strategy to outpace the competition.  If your customers are accepting payments on your platform, you have the opportunity to transform your growth</a>
   description: "Learn how the best SaaS companies are using payments to maximize their growth."
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Manifesto-e.png?w=400
 tms: 
   title: "Europe Is Ripe for a SaaS Payments (R)evolution"
   description: "What European software companies don't know about their international competitors will hurt them. <b>Your payments strategy must be part of your scaling strategy.</b>"
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Europe_ripe-f.png?w=400
-  buttontxt: "Request a demo"
+  buttontxt: "Want to talk?"
   buttonlink: /contact
 rttp: 
   title: "Real time transactions API"
   description: 'Stop battling the "black boxes" of the world.  You need info and insights right now. With Handpoint, get tokens from every point of interaction and see every transaction, every message, in real time: online, downloadable, or via API.'
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/100b_oppty-f.png?w=400
-channel: 
-  title: "Channel Analytics"
-  description: 'When you need to see how your channels and markets are producing in real time, use Handpoint Analytics to get added insights with a suite of pre-configured and customizable reports.'
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
 blurbs:
   title: "Engineered for Growth" 
   description: Our robust platform is highly flexible and scalable in every direction, <br>allowing you to respond to the dynamic payments landscape. Handpoint can add SDKs, logic, tools, countries, and payment types. And, the entire Handpoint platform is hosted and <b>PCI-DSS certifed on AWS</b> for infinite scalability, so there is no limit to your potential.
