@@ -3,13 +3,13 @@ layout: solutionsfordevelopers
 blurbs: 
   - title: Transformational Growth
     description: "Unleash your potential to outpace the competition."
-    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico17.svg
-  - title: Face-to-face plus eCommerce
+    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico15.svg
+  - title: Face-to-face + eCommerce
     description: "Face-to-face + online + in app + APMs.  <br>Unify your payments and monetize them all."
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico16.svg
   - title: Embedded APIs
     description: "Embed payments and control the entire customer journey."
-    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico15.svg
+    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico17.svg
 security:
   title: Real humans, at your service.
   description: Partner success is our passion. We connect your developers directly with the people who built the platform.  We connect your sales people with our international experts.  We have real humans ready to help you with troubleshooting, technical questions, or new features. Slack or email to speak to someone right away.
