@@ -4,8 +4,8 @@ blurbs:
   - title: Transformational Growth
     description: "Unleash your potential to outpace the competition."
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico17.svg
-  - title: Face-to-face and Onone
-    description: "Face-to-face + online + in app + APMs.  <br>Unify payments and monetize them all."
+  - title: Face-to-face plus eCommerce
+    description: "Face-to-face + online + in app + APMs.  <br>Unify your payments and monetize them all."
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico16.svg
   - title: Embedded APIs
     description: "Embed payments and control the entire customer journey."
