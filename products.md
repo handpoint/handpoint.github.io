@@ -36,13 +36,13 @@ rttp:
   title: "eCommerce"
   description: 'Commerce is changing.  Make the online customer journey seamless with: "
   list:
-     - title: "simple APIs"
-     - title: "hosted payment pages"
-     - title: "pay-by-link"
-     - title: "tokens"
+     - title: "Simple APIs"
+     - title: "Hosted payment pages"
+     - title: "Pay-by-link"
+     - title: "Tokens"
      - title: "APMs"
-     - title: "shopping cart integrations"
-     - title: "secure PCI environment"
+     - title: "Shopping cart integrations"
+     - title: "Secure PCI environment"
 channel: 
   title: "Real time transactions APIs"
   description: 'Stop battling the "black boxes" of the world.  You need info and insights right now. With Handpoint, get persistent tokens from every point of interaction and see details on every transaction, every message, in real time: online, downloadable, or via API.'
