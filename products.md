@@ -1,5 +1,5 @@
 ---
-layout: management
+layout: products
 hero:
   buttontxt: "Contact Handpoint"
   buttonlink: "/contact"
