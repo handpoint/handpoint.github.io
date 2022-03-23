@@ -6,7 +6,7 @@ hero:
 intro: 
   title: "4 locations. 3 continents. 1 mission"
   description: > 
-    <p>Payments were not designed for the software industry. We are.</p> <p>Handpoint has been a pioneer in defining integrated payments, from advancing the checkout experience with mobile technology to launching open payment integrations for all emerging platforms -- on 3 continents.</p><p>We provide solutions for software companies, payfacs, merchants, acquirers, and ISOs who share our vision for nextgen commerce: where customer experience and management matter, where payments are embedded seamlessly, and where mobile technology fuels growth.</p> <p>Handpoint's APIs, international gateway, and cloud-hosted system are built around security and support that let software companies power the future of commerce.</p><p class="specialtxt">Handpoint. Powering the payments revolution.<br><br></p>
+    <p>Payments were not designed for the software industry. We are.</p> <p>Handpoint has been a pioneer in defining integrated payments, from advancing the checkout experience with mobile technology to launching open payment integrations for all emerging platforms -- on 3 continents. We provide solutions for software companies, payfacs, merchants, acquirers, and ISOs who share our vision for nextgen commerce: where customer experience and management matter, where payments are embedded seamlessly, and where mobile technology fuels growth.</p> <p>Handpoint's APIs, international gateway, and cloud-hosted system are built around security and support that let software companies power the future of commerce.</p><p class="specialtxt">Handpoint. Powering the payments revolution.<br><br></p>
 blurbs:
   title: <br>Powering business in the aisle and around the globe
   description: With over 20 years of experience, we have helped circa 100 software companies from California to South Africa transform with payments. 
@@ -51,6 +51,11 @@ leadership:
       linkedin: https://www.linkedin.com/in/antoine-trota-67707954/
       role: Product Director
       image: https://handpoint.imgix.net/web/images/team/antoine.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
+  team3:
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/team1.png
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/team2.png
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/team3.png
+    - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/team4.png
 bottomblurbs:
   - title: Funding raised
     description: "$10M institutional investment"
