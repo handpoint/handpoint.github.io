@@ -66,9 +66,7 @@ cta:
   subtitle: We're hiring! Join our brilliant and friendly international team
   buttontxt: Openings
   buttonlink: https://apply.workable.com/handpoint/?lng=en
-  team3:
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/team1.png?w=300
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/team2.png?w=300
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/team3.png?w=300
-    - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/team4.png?w=300
+   <div class="row">
+							<img src="https://handpoint.imgix.net/Website%20refresh%20photos/live-action/team1.png?w=300" alt=""/> 
+						</div>
 --- 
