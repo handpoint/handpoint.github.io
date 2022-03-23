@@ -17,7 +17,7 @@ tms:
   description: "Make face-to-face payments as seamless as your online journey"
   list: 
     - title: "Nextgen Terminals: "
-      description: "The right <a href="https://www.handpoint.com/docs/device/Basics/">Click here </a> terminal transforms interactions"
+      description: "The right terminal transforms interactions"
     - title: "Seamless Activation: "
       description: "Activate with no delays, no support required"
     - title: "Unified: "
