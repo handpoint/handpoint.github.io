@@ -13,7 +13,7 @@ payfac:
     - Increase your addressable market, revenues, and retention
     - Transform your business with a single integration
 tms: 
-  title: "Build your ideal point of interaction"
+  title: "Build your ideal customer interaction"
   description: "Make face-to-face payments as seamless as your online journey"
   list: 
     - title: "Nextgen Terminals: "
@@ -27,6 +27,16 @@ tms:
   image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TMS%20and%20Real%20Time%20Data.png
   buttontxt: "Request a demo"
   buttonlink: /contact
+rttp: 
+  title: "Real time transactions API"
+  description: 'Stop battling the "black boxes" of the world.  You need info and insights right now. With Handpoint, get tokens from every point of interaction and see every transaction, every message, in real time: online, downloadable, or via API.'
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png
+  buttontxt: "Request a demo"
+  buttonlink: /contact
+channel: 
+  title: "Channel Analytics"
+  description: 'When you need to see how your channels and markets are producing in real time, use Handpoint Analytics to get added insights with a suite of pre-configured and customizable reports.'
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
 main:
   - title: "Control the payments experience.  Everywhere."
     description: “A flexible API to control your payment solutions, workflows, and brand.  Monetize them all. <b>Online.  Offline.  Mobile. </b>”
