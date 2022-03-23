@@ -1,5 +1,5 @@
 ---
-layout: solutionsfordevelopers
+layout: models
 blurbs: 
   - title: Transformational Growth
     description: "The right payments strategy will unleash your potential to outpace the competition."
