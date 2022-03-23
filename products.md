@@ -13,7 +13,7 @@ payfac:
     - Increase your addressable market, revenues, and retention
     - Transform your business with a single integration
 channel2: 
-  title: "Build your ideal face-to-face check-out"
+  title: "Face-to-face payments"
   description: 'Make in-person payments as seamless as your online journey. <br> <br>- <a href="https://www.handpoint.com/specs/apis/"><b>APIs</b></a> to embed payments and unify customer intelligence <br>- <a href="https://www.handpoint.com/specs/terminal-range/"><b>Nextgen Terminals</b></a> that transform customer interaction<br> - Seamless activation for happy customers and faster scaling <br>- <a href="https://www.handpoint.com/specs/paymenttypes/"><b>Payment types</b></a> that are feature rich - like BIN look-ups, MOTO, multi-MID, and more<br>- <a href="https://www.handpoint.com/specs/security/"><b>Security</b></a> that protects your software and your customers <br> - Life-cycle management so your apps, terminals, and features are always up-to-date'
   image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_3ways.png
 rttp: 
@@ -30,7 +30,7 @@ rttp2:
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
   buttontxt: "Request a demo"
   buttonlink: /contact
-  title: "Scaling in the cloud"
+  title: "Tools for scaling fast"
   description: "Setting up a terminal has never been simpler. Handpoint's cloud-hosted Terminal Management System gives you remote software updates, remote terminal key injection, and instant config building to control the entire merchant experience with the click of a mouse. Your merchants benefit from the seamless activation, up-to-date terminals, and instant access to new features."
 blurbs:
   title: "Engineered for Growth" 
