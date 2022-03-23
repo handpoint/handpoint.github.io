@@ -26,6 +26,12 @@ channel:
   title: "Real time visibility"
   description: 'Stop battling the "black boxes" of the world.  You need info and insights right now. With Handpoint, get persistent tokens from every point of interaction and see details on every transaction, every message, in real time: online, downloadable, or via <a href="https://www.handpoint.com/docs/txnfeedapi/"><b>TXN Feed API.</b></a>'
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
+rttp2: 
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png
+  buttontxt: "Request a demo"
+  buttonlink: /contact
+  title: "eCommerce"
+  description: "Commerce is changing.  Make the online customer journey seamless with: <br><br>- Simple APIs <br>- Hosted payments pages <br>- Pay-by-link<br>-  Tokens<br>- APMs <br> - Shopping cart integrations<br> - Secure PCI environment"
 blurbs:
   title: "Engineered for Growth" 
   description: Our robust platform is highly flexible and scalable in every direction, <br>allowing you to respond to the dynamic payments landscape. Handpoint can add SDKs, logic, tools, countries, and payment types. And, the entire Handpoint platform is hosted and <b>PCI-DSS certifed on AWS</b> for infinite scalability, so there is no limit to your potential.
