@@ -51,6 +51,10 @@ leadership:
       linkedin: https://www.linkedin.com/in/antoine-trota-67707954/
       role: Product Director
       image: https://handpoint.imgix.net/web/images/team/antoine.jpg?h=300&w=300&fit=crop&crop=focalpoint&fp-x=.1&fp-y=.35&fp-z=1
+blurbs: 
+  - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/team1.png
+  - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/team1.png
+  - image: https://handpoint.imgix.net/Website%20refresh%20photos/live-action/team1.png
 bottomblurbs:
   - title: Funding raised
     description: "$10M institutional investment"
