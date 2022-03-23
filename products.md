@@ -44,7 +44,7 @@ rttp:
      - title: "shopping cart integrations"
      - title: "secure PCI environment"
 channel: 
-  title: "Real time transactions API"
+  title: "Real time transactions APIs"
   description: 'Stop battling the "black boxes" of the world.  You need info and insights right now. With Handpoint, get persistent tokens from every point of interaction and see details on every transaction, every message, in real time: online, downloadable, or via API.'
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
 blurbs:
