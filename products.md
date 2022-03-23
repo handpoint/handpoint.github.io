@@ -17,11 +17,11 @@ tms:
   description: "Make face-to-face payments as seamless as your online journey"
   list: 
     - title: "Nextgen Terminals: "
-      description: "The right <a href="https://www.handpoint.com/specs/terminal-range/">terminal</a> transforms interactions"
+      description: "The right terminal transforms interactions"
     - title: "Seamless Activation: "
       description: "Activate with no delays, no support required"
     - title: "Unified: "
-      description: "<a href="https://www.handpoint.com/specs/apis/">APIs</a> to embed payments and unify customer intelligence"
+      description: "APIs to embed payments and unify customer intelligence"
     - title: "Life-Cycle Management: "
       description: "Apps, terminals, and features seamlessly stay up-to-date"
   image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TMS%20and%20Real%20Time%20Data.png
