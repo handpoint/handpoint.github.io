@@ -58,9 +58,6 @@ bottomblurbs:
   - title: Headquarters
     description: "Reykjavik, Iceland"
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico27.svg
-  - title: Our motto
-    description: "One team"
-    image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico28.svg
 cta: 
   title: Careers
   subtitle: We're hiring! Join our brilliant and friendly international team
