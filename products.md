@@ -34,7 +34,7 @@ channel2:
   description: 'Stop battling the "black boxes" of the world. <a href="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png">TEST</a> You need info and insights right now. With Handpoint, get persistent tokens from every point of interaction and see details on every transaction, every message, in real time: online, downloadable, or via API.'
   list: 
     - title: "TEST: "
-      description: "TEST"
+      description: "TEST <a href="https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TMS%20and%20Real%20Time%20Data.png">link</a>  "
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
 rttp: 
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png
