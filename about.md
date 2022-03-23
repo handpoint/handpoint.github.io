@@ -4,7 +4,7 @@ hero:
   title: About <br>Handpoint
   description: Powering the <span class="specialtxt"> Embedded Payments Revolution </span>
 intro: 
-  title: "4 locations. 3 continents. 1 mission"
+  title: "4 locations. 3 continents. 1 mission."
   description: > 
     <p>The payments was not designed for the software industry. But Handpoint is.</p> <p>Handpoint has been a pioneer in defining integrated payments, from advancing the checkout experience with mobile technology to launching open payment integrations for all emerging platforms -- on 3 continents. We provide solutions for software companies, payfacs, merchants, acquirers, and ISOs who share our vision for nextgen commerce: where customer experience and management matter, where payments are embedded seamlessly, and where mobile technology fuels growth.</p> <p>Handpoint's APIs, international gateway, and cloud-hosted system are built around security and support that let software companies power the future of commerce.</p><p class="specialtxt">Handpoint. Powering the payments revolution.<br><br></p>
 blurbs:
