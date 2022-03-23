@@ -49,19 +49,6 @@ global-reach:
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Scalable_architecture_2022.png
   buttontxt: “Get Started”
   buttonlink: /contact
-tms: 
-  title: "Your payments strategy must be part of your scaling strategy"
-  description: "Activating a merchant has never been simpler. Handpoint's remote key injection, remote software updates, and instant-activation design give you the power to control the entire payments journey.."
-  list: 
-    - title: "Seamless Activation: "
-      description: "Activate with no delays, no support required"
-    - title: "Reliable Processing: "
-      description: "Up-to-date terminals and real-time transaction visibility"
-    - title: "Life-Cycle Management: "
-      description: "Upsell new features remotely. Even deactivate instantly"
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TMS%20and%20Real%20Time%20Data.png
-  buttontxt: "Request a demo"
-  buttonlink: /contact
 rttp: 
   title: "Real time transactions API"
   description: 'Stop battling the "black boxes" of the world.  You need info and insights right now. With Handpoint, get tokens from every point of interaction and see every transaction, every message, in real time: online, downloadable, or via API.'
