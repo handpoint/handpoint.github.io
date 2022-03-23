@@ -30,8 +30,8 @@ rttp2:
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png
   buttontxt: "Request a demo"
   buttonlink: /contact
-  title: "eCommerce"
-  description: "Commerce is changing.  Make the online customer journey seamless with: <br><br>- Simple APIs <br>- Hosted payments pages <br>- Pay-by-link<br>-  Tokens<br>- APMs <br> - Shopping cart integrations<br> - Secure PCI environment"
+  title: "Cloud-host Management"
+  description: "Setting up a terminal has never been simpler. The Handpoint Terminal Management System gives you remote software updates, remote terminal key injection, and instant config building to control the entire merchant experience with the click of a mouse. Your merchants benefit from the seamless activation, up-to-date terminals, and instant access to new features."
 blurbs:
   title: "Engineered for Growth" 
   description: Our robust platform is highly flexible and scalable in every direction, <br>allowing you to respond to the dynamic payments landscape. Handpoint can add SDKs, logic, tools, countries, and payment types. And, the entire Handpoint platform is hosted and <b>PCI-DSS certifed on AWS</b> for infinite scalability, so there is no limit to your potential.
