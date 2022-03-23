@@ -9,7 +9,7 @@ intro:
     <p>Payments were not designed for the software industry. We are.</p> <p>Handpoint has been a pioneer in defining integrated payments, from advancing the checkout experience with mobile technology to launching open payment integrations for all emerging platforms -- on 3 continents.</p><p>We provide solutions for software companies, payfacs, merchants, acquirers, and ISOs who share our vision for nextgen commerce: where customer experience and management matter, where payments are embedded seamlessly, and where mobile technology fuels growth.</p> <p>Handpoint's APIs, international gateway, and cloud-hosted system are built around security and support that let software companies power the future of commerce.</p><p class="specialtxt">Handpoint. Powering the payments revolution.<br><br></p>
 blurbs:
   title: <br>Powering business in the aisle and around the globe
-  description: <br>With over 20 years of experience, we have helped circa 100 software companies from California to South Africa transform with payments. 
+  description: With over 20 years of experience, we have helped circa 100 software companies from California to South Africa transform with payments. 
   list: 
     - title: Founded
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico22.svg
@@ -59,7 +59,7 @@ bottomblurbs:
     description: "Reykjavik, Iceland"
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico27.svg
   - title: Our motto
-    description: Simplifying Card Payments
+    description: One team
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico28.svg
 cta: 
   title: Careers
