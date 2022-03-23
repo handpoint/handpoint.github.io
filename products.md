@@ -13,8 +13,8 @@ payfac:
     - Increase your addressable market, revenues, and retention
     - Transform your business with a single integration
 tms: 
-  title: "Build your ideal customer interaction"
-  description: "Make face-to-face payments as seamless as your online journey"
+  title: "Build your ideal face-to-face interaction"
+  description: "Make in-person payments as seamless as your online journey"
   list: 
     - title: "Nextgen Terminals: "
       description: "The right terminal transforms interactions"
@@ -22,6 +22,8 @@ tms:
       description: "Activate with no delays, no support required"
     - title: "Unified: "
       description: "APIs to embed payments and unify customer intelligence"
+    - title: "Feature rich "
+      description: "BIN lookups, MOTO, multi-MID and more"
     - title: "Life-Cycle Management: "
       description: "Apps, terminals, and features seamlessly stay up-to-date"
   image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TMS%20and%20Real%20Time%20Data.png
@@ -31,11 +33,11 @@ rttp:
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png
   buttontxt: "Request a demo"
   buttonlink: /contact
+  title: "eCommerce"
+  description: 'Commerce is changing.  Make the online customer journey seamless.'
+channel: 
   title: "Real time transactions API"
   description: 'Stop battling the "black boxes" of the world.  You need info and insights right now. With Handpoint, get tokens from every point of interaction and see every transaction, every message, in real time: online, downloadable, or via API.'
-channel: 
-  title: "Channel Analytics"
-  description: 'When you need to see how your channels and markets are producing in real time, use Handpoint Analytics to get added insights with a suite of pre-configured and customizable reports.'
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
 blurbs:
   title: "Engineered for Growth" 
