@@ -26,19 +26,19 @@
 				</div>
 				<div class="row section-internal-paymenttypes-module">
 					<div class="visible-xs">
-						<img src={{ page.tms.image }} class="img-responsive" alt=""/>
+						<img src={{ page.face2face.image }} class="img-responsive" alt=""/>
 					</div>
 					<div class="col-md-5 col-sm-7 col-md-offset-1 col-sm-offset-0 section-internal-paymenttypes-module-txt">
-						<h3>{{ page.tms.title }}</h3>
-						<p>{{ page.tms.description }}</p>
+						<h3>{{ page.face2face.title }}</h3>
+						<p>{{ page.face2face.description }}</p>
 						{% for item in page.tms.list %}
 						<li><b>{{item.title}}</b>{{item.description}}</li>
 						{% endfor %}
 					</div>
 					<div class="col-md-5 col-sm-5 col-md-offset-1 col-sm-offset-0 hidden-xs">
-						<img src={{ page.tms.image }} class="img-responsive" alt=""/>
+						<img src={{ page.face2face.image }} class="img-responsive" alt=""/>
 						<div class="section-internal-bottom">
-							<a class="btn btn-default bt-custom-out" href={{ page.tms.buttonlink }} role="button">{{page.tms.buttontxt}}</a>
+							<a class="btn btn-default bt-custom-out" href={{ page.face2face.buttonlink }} role="button">{{page.face2face.buttontxt}}</a>
 						</div>
 					</div>
 				</div>
@@ -61,6 +61,24 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-md-offset-1 col-sm-offset-1 hidden-xs">
 						<img src={{ page.channel.image }} class="img-responsive" alt=""/>
+					</div>
+				</div>
+				<div class="row section-internal-paymenttypes-module">
+					<div class="visible-xs">
+						<img src={{ page.tms.image }} class="img-responsive" alt=""/>
+					</div>
+					<div class="col-md-5 col-sm-7 col-md-offset-1 col-sm-offset-0 section-internal-paymenttypes-module-txt">
+						<h3>{{ page.tms.title }}</h3>
+						<p>{{ page.tms.description }}</p>
+						{% for item in page.tms.list %}
+						<li><b>{{item.title}}</b>{{item.description}}</li>
+						{% endfor %}
+					</div>
+					<div class="col-md-5 col-sm-5 col-md-offset-1 col-sm-offset-0 hidden-xs">
+						<img src={{ page.tms.image }} class="img-responsive" alt=""/>
+						<div class="section-internal-bottom">
+							<a class="btn btn-default bt-custom-out" href={{ page.tms.buttonlink }} role="button">{{page.tms.buttontxt}}</a>
+						</div>
 					</div>
 				</div>
 			</div>
