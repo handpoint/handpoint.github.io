@@ -52,6 +52,9 @@
 					<div class="col-md-5 col-sm-7 col-md-offset-1 col-sm-offset-0 section-internal-paymenttypes-module-txt">
 						<h3>{{ page.rttp.title }}</h3>
 						<p>{{ page.rttp.description }}</p>
+						{% for item in page.rttp.list %}
+						<li><b>{{item.title}}</b>{{item.description}}</li>
+						{% endfor %}
 					</div>
 				</div>
 				<div class="row section-internal-paymenttypes-module">
