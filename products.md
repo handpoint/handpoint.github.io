@@ -12,6 +12,21 @@ payfac:
     - Power more transactions
     - Increase your addressable market, revenues, and retention
     - Transform your business with a single integration
+tms: 
+  title: "Build your ideal point of interaction"
+  description: "Make face-to-face payments as seamless as your online journey"
+  list: 
+    - title: "Nextgen Terminals: "
+      description: "The right <a href="https://www.handpoint.com/specs/terminal-range/">terminal</a> transforms interactions"
+    - title: "Seamless Activation: "
+      description: "Activate with no delays, no support required"
+    - title: "Unified: "
+      description: "<a href="https://www.handpoint.com/specs/apis/">APIs to embed payments and unify customer intelligence</a> "
+    - title: "Life-Cycle Management: "
+      description: "Apps, terminals, and features seamlessly stay up-to-date"
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TMS%20and%20Real%20Time%20Data.png
+  buttontxt: "Request a demo"
+  buttonlink: /contact
 main:
   - title: "Control the payments experience.  Everywhere."
     description: “A flexible API to control your payment solutions, workflows, and brand.  Monetize them all. <b>Online.  Offline.  Mobile. </b>”
