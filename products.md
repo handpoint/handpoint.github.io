@@ -14,7 +14,7 @@ payfac:
     - Transform your business with a single integration
 tms: 
   title: "Build your ideal face-to-face interaction"
-  description: "Make in-person payments as seamless as your online journey"
+  description: "Make in-person <a href="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png">TEST</a> payments as seamless as your online journey"
   list: 
     - title: "Nextgen Terminals: "
       description: "The right terminal can transform customer interactions"
