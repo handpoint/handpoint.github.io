@@ -30,8 +30,8 @@ tms:
   buttontxt: "Request a demo"
   buttonlink: /contact
 channel2: 
-  title: "Real time transactions APIs"
-  description: 'Stop battling the "black boxes" of the world. <br> <a href="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png"> - Nextgen Terminals</a> that transform customer interaction<br> <a href="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png"> - Seamless activation for fast growth and happy customers</a><br> <a href="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png"> - Seamless activation for fast growth and happy customers</a>You need info and insights right now. With Handpoint, get persistent tokens from every point of interaction and see details on every transaction, every message, in real time: online, downloadable, or via API.'
+  title: "Build your ideal face-to-face interaction"
+  description: 'Make in-person payments as seamless as your online journey. <br> <a href="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png"> - Nextgen Terminals</a> that transform customer interaction<br> <a href="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png"> - Seamless activation for fast growth and happy customers</a> <br><a href="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png"> - APIs</a> to embed payments and unify customer intelligence <br> - Feature rich <a href="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png">payment types</a> like BIN look-ups, MOTO, multi-MID, and more <br> <a href="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png"> - Life-cycle management</a> so your apps, terminals, and features are always up-to-date'
   list: 
     - title: "TEST: "
       description: "TEST"
