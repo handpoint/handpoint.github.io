@@ -17,7 +17,7 @@ tms:
   description: "Make in-person payments as seamless as your online journey"
   list: 
     - title: "Nextgen Terminals: "
-      description: "The right <a href="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png">TEST</a> terminal can transform customer interactions"
+      description: "The right terminal can transform customer interactions"
     - title: "Seamless Activation: "
       description: "Activate with no delays, no support required"
     - title: "Unified: "
