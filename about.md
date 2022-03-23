@@ -59,7 +59,7 @@ bottomblurbs:
     description: "Reykjavik, Iceland"
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico27.svg
   - title: Our motto
-    description: One team
+    description: "One team"
     image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico28.svg
 cta: 
   title: Careers
