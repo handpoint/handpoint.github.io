@@ -37,36 +37,6 @@ channel:
   title: "Channel Analytics"
   description: 'When you need to see how your channels and markets are producing in real time, use Handpoint Analytics to get added insights with a suite of pre-configured and customizable reports.'
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
-main:
-  - title: "Control the payments experience.  Everywhere."
-    description: “A flexible API to control your payment solutions, workflows, and brand.  Monetize them all. <b>Online.  Offline.  Mobile. </b>”
-    buttontxt: “See the API”
-    buttonlink: https://www.handpoint.com/docs/device/Basics/
-    image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Easy_Integration_2022h.png
-  - title: Deliver better solutions with unified commerce.
-    description: “Enable consumers to transact where, when, and how they want.  Embed it all from a single platform.  Combine unified customer insights with real-time applicability to power your growth. <b>Get your customers transacting more on your platform.</b>”
-    buttontxt: “Have questions? Just ask!”
-    buttonlink: /contact
-    image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/smartpos_3ways.png
-  - title: “Scale your revenues”
-    description: “Easy on-boarding, effortless terminal setup, and real-time data APIs. <b>Offer the customer experience your customers deserve, at any scale.</b>”
-    buttontxt: Get to Scale
-    buttonlink: /management
-    image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/TMS_Portal.png
-global-reach:
-  title: Unified Platform
-  description: “Choose one partner to enable unified face-to-face, online, in-app, MOTO, APMs, and tokens on 3 continents, multiple terminal lines, from any platform.”
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Scalable_architecture_2022.png
-  buttontxt: “Get Started”
-  buttonlink: /contact
-rttp: 
-  title: "Real time transactions API"
-  description: 'Stop battling the "black boxes" of the world.  You need info and insights right now. With Handpoint, get tokens from every point of interaction and see every transaction, every message, in real time: online, downloadable, or via API.'
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png
-channel: 
-  title: "Channel Analytics"
-  description: 'When you need to see how your channels and markets are producing in real time, use Handpoint Analytics to get added insights with a suite of pre-configured and customizable reports.'
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
 blurbs:
   title: "Engineered for Growth" 
   description: Our robust platform is highly flexible and scalable in every direction, <br>allowing you to respond to the dynamic payments landscape. Handpoint can add SDKs, logic, tools, countries, and payment types. And, the entire Handpoint platform is hosted and <b>PCI-DSS certifed on AWS</b> for infinite scalability, so there is no limit to your potential.
