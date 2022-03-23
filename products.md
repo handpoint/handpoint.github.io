@@ -17,7 +17,7 @@ tms:
   description: "Make in-person payments as seamless as your online journey"
   list: 
     - title: "Nextgen Terminals: "
-      description: "The right terminal transforms interactions"
+      description: "The right terminal can transform customer interactions"
     - title: "Seamless Activation: "
       description: "Activate with no delays, no support required"
     - title: "Unified: "
@@ -34,10 +34,10 @@ rttp:
   buttontxt: "Request a demo"
   buttonlink: /contact
   title: "eCommerce"
-  description: 'Commerce is changing.  Make the online customer journey seamless.'
+  description: 'Commerce is changing.  Make the online customer journey seamless with simple APIs, hosted payment pages, pay-by-link, tokens, APMs, and shopping cart integrations in a secure PCI environment.'
 channel: 
   title: "Real time transactions API"
-  description: 'Stop battling the "black boxes" of the world.  You need info and insights right now. With Handpoint, get tokens from every point of interaction and see every transaction, every message, in real time: online, downloadable, or via API.'
+  description: 'Stop battling the "black boxes" of the world.  You need info and insights right now. With Handpoint, get persistent tokens from every point of interaction and see details on every transaction, every message, in real time: online, downloadable, or via API.'
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
 blurbs:
   title: "Engineered for Growth" 
