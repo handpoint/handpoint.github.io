@@ -25,7 +25,7 @@ rttp:
 channel: 
   title: "Real-time visibility"
   description: 'Stop battling the "black boxes" of the world.  You need info and insights right now. With Handpoint, get persistent tokens from every point of interaction and see details on every transaction, every message, in real time: online, downloadable, or via <a href="https://www.handpoint.com/docs/txnfeedapi/"><b>TXN Feed API.</b></a>'
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png
+  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TMS%20and%20Real%20Time%20Data.png
 rttp2: 
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
   buttontxt: "Request a demo"
