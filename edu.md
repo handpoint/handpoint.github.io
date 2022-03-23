@@ -40,7 +40,7 @@ blurbs:
   buttontxt: Explore our Solutions
   buttonlink: https://www.handpoint.com/docs/device/Basics/
 contact:
-  title: Let us help 
+  title: We're here to help 
   description: Behind Handpoint's is our team of payments and software experts who will be an integral part of the white-glove experience that every Handpoint partner loves.
   buttontxt: CONTACT SALES
   buttonlink: /contact
