@@ -34,7 +34,15 @@ rttp:
   buttontxt: "Request a demo"
   buttonlink: /contact
   title: "eCommerce"
-  description: 'Commerce is changing.  Make the online customer journey seamless with: "
+  description: "Commerce is changing.  Make the online customer journey seamless with: "
+    list:
+     - title: "Simple APIs"
+     - title: "Hosted payment pages"
+     - title: "Pay-by-link"
+     - title: "Tokens"
+     - title: "APMs"
+     - title: "Shopping cart integrations"
+     - title: "Secure PCI environment"
 channel: 
   title: "Real time transactions APIs"
   description: 'Stop battling the "black boxes" of the world.  You need info and insights right now. With Handpoint, get persistent tokens from every point of interaction and see details on every transaction, every message, in real time: online, downloadable, or via API.'
