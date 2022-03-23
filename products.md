@@ -14,7 +14,7 @@ payfac:
     - Transform your business with a single integration
 channel2: 
   title: "Build your ideal face-to-face check-out"
-  description: 'Make in-person payments as seamless as your online journey. <br> <br>- <a href="https://www.handpoint.com/specs/terminal-range/"><b>Nextgen Terminals</b></a> that transform customer interaction<br> - Seamless activation for happy customers and faster scaling <br>- <a href="https://www.handpoint.com/specs/apis/"><b>APIs</b></a> to embed payments and unify customer intelligence <br>- <a href="https://www.handpoint.com/specs/paymenttypes/"><b>Payment types</b></a> that are feature rich - like BIN look-ups, MOTO, multi-MID, and more<br>- <a href="https://www.handpoint.com/specs/security/"><b>Security</b></a> that protects your software and your customers <br> - Life-cycle management so your apps, terminals, and features are always up-to-date'
+  description: 'Make in-person payments as seamless as your online journey. <br> <br>- <a href="https://www.handpoint.com/specs/apis/"><b>APIs</b></a> to embed payments and unify customer intelligence <br>- <a href="https://www.handpoint.com/specs/terminal-range/"><b>Nextgen Terminals</b></a> that transform customer interaction<br> - Seamless activation for happy customers and faster scaling <br>- <a href="https://www.handpoint.com/specs/paymenttypes/"><b>Payment types</b></a> that are feature rich - like BIN look-ups, MOTO, multi-MID, and more<br>- <a href="https://www.handpoint.com/specs/security/"><b>Security</b></a> that protects your software and your customers <br> - Life-cycle management so your apps, terminals, and features are always up-to-date'
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
 rttp: 
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png
@@ -23,7 +23,7 @@ rttp:
   title: "eCommerce"
   description: "Commerce is changing.  Make the online customer journey seamless with: <br><br>- Simple APIs <br>- Hosted payments pages <br>- Pay-by-link<br>-  Tokens<br>- APMs <br> - Shopping cart integrations<br> - Secure PCI environment"
 channel: 
-  title: "Real time visibility"
+  title: "Real-time visibility"
   description: 'Stop battling the "black boxes" of the world.  You need info and insights right now. With Handpoint, get persistent tokens from every point of interaction and see details on every transaction, every message, in real time: online, downloadable, or via <a href="https://www.handpoint.com/docs/txnfeedapi/"><b>TXN Feed API.</b></a>'
   image: https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Analytics%20why.png
 rttp2: 
