@@ -85,15 +85,6 @@
 					</div>
 					{% endfor %}
 				</div>
-				<div class="row">
-					{% for member in page.leadership.team3 %}
-					<div class="col-md-4 col-sm-4">
-						<div class="row">
-							<img src={{ member.image }} alt=""/> 
-						</div>
-					</div>
-					{% endfor %}
-				</div>
 			</div>
 		</div>
 
@@ -125,6 +116,15 @@
 						<p>{{ page.cta.description }}</p>
 						<a class="btn btn-default bt-custom-out-wh" href={{page.cta.buttonlink}} role="button">{{page.cta.buttontxt}}</a>
 					</div>
+				</div>
+				<div class="row">
+					{% for member in cta.team3 %}
+					<div class="col-md-4 col-sm-4">
+						<div class="row">
+							<img src={{ member.image }} alt=""/> 
+						</div>
+					</div>
+					{% endfor %}
 				</div>
 			</div>
 		</div>	
