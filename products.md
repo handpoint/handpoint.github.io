@@ -12,23 +12,6 @@ payfac:
     - Power more transactions
     - Increase your addressable market, revenues, and retention
     - Transform your business with a single integration
-tms: 
-  title: "Build your ideal face-to-face interaction"
-  description: "Make in-person payments as seamless as your online journey"
-  list: 
-    - title: "Nextgen Terminals: "
-      description: "The right terminal can transform customer interactions"
-    - title: "Seamless Activation: "
-      description: "Activate with no delays, no support required"
-    - title: "Unified: "
-      description: "APIs to embed payments and unify customer intelligence"
-    - title: "Feature rich "
-      description: "BIN lookups, MOTO, multi-MID and more"
-    - title: "Life-Cycle Management: "
-      description: "Apps, terminals, and features seamlessly stay up-to-date"
-  image: https://handpoint.imgix.net/Website%20refresh%20photos/product-images/TMS%20and%20Real%20Time%20Data.png
-  buttontxt: "Request a demo"
-  buttonlink: /contact
 channel2: 
   title: "Build your ideal face-to-face interaction"
   description: 'Make in-person payments as seamless as your online journey. <br> <br>- <a href="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png"><b>Nextgen Terminals</b></a> that transform customer interaction<br> - Seamless activation for fast <br>- <a href="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png"><b>APIs</b></a> to embed payments and unify customer intelligence <br>- <a href="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png"><b>Payment types</b></a> that are feature rich - like BIN look-ups, MOTO, multi-MID, and more<br>- <a href="https://handpoint.imgix.net/Website%20refresh%20photos/graphics/Transaction%20data%20why%20access%203%20ways.png"><b>Security</b></a> that protects your software and your customers <br> - Life-cycle management so your apps, terminals, and features are always up-to-date'
