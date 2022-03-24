@@ -491,7 +491,7 @@ select {
 	color: white;
 	padding-bottom: 30px;
 }
-@media only screen and (max-width : 992px) {
+@media only screen and (max-width : 1200px) {
 .hero-box p {
 	font-size:26px;
 	line-height: 26px;
@@ -527,12 +527,12 @@ select {
 	font-size: 16px !important;
 	margin-top: 30px;
 }
-@media only screen and (max-width : 992px) {
+@media only screen and (max-width : 1200px) {
 .hero-box-small {
 	font-size: 14px !important;
 }
 }
-@media only screen and (max-width : 767px) {
+@media only screen and (max-width : 992px) {
 .hero-box-small {
 	font-size: 12px !important;
 	margin-top: 10px;
