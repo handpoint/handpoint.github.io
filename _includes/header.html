@@ -16,7 +16,22 @@
             <ul class="nav navbar-nav navbar-right navbar-nav-right">
                  <li><button class="btn btn-default dropdown-toggle nav-bt-drop"><a href="/models">Get to Scale</a></button></li>
                  <li><button class="btn btn-default dropdown-toggle nav-bt-drop"><a href="/products">Products</a></button></li>
-                 <li><button class="btn btn-default dropdown-toggle nav-bt-drop"><a href="/edu">Resources</a></button></li>
+                 <li>
+                    <div class="btn-group">
+                        <button type="button" class="btn btn-default dropdown-toggle nav-bt-drop" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">
+                            Resources <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                        </button>
+                        <ul class="dropdown-menu">
+                            <li><a href="{{" /edu" | prepend: site.baseurl | replace: '//' , '/' }}">Payments Knowledge Center</a></li>
+                            <li><a href="{{" /smartposgetstarted" | prepend: site.baseurl | replace: '//' , '/' }}">Handpoint PAX SmartPOS Getting
+                                    Started</a></li>
+                            <li><a href="{{" /getstarted" | prepend: site.baseurl | replace: '//' , '/' }}">mPOS App + HiLite Getting
+                                    Started</a></li>
+                            <li><a href="https://handpoint.atlassian.net/wiki/spaces/PD/overview">Help Center</a></li>
+                        </ul>
+                    </div>
+                </li>
                 <li>
                     <div class="btn-group">
                         <button type="button" class="btn btn-default dropdown-toggle nav-bt-drop" data-toggle="dropdown"
