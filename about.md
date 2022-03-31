@@ -6,10 +6,10 @@ hero:
 intro: 
   title: "4 locations. 3 continents. 1 mission."
   description: > 
-    <p>The payments was not designed for the software industry. But Handpoint is.</p> <p>Handpoint has been a pioneer in defining integrated payments, from advancing the checkout experience with mobile technology to launching open payment integrations for all emerging platforms -- on 3 continents. We provide solutions for software companies, payfacs, merchants, acquirers, and ISOs who share our vision for nextgen commerce: where customer experience and management matter, where payments are embedded seamlessly, and where mobile technology fuels growth.</p> <p>Handpoint's APIs, international gateway, and cloud-hosted system are built around security and support that let software companies power the future of commerce.</p><p class="specialtxt">Handpoint. Powering the payments revolution.<br><br></p>
+    <p>The payments industry was not designed for the software industry. But Handpoint is.</p> <p>We are passionate about the evolution of SaaS-embedded payments and have been at the forefront on three continents. Having already helped ~100 companies transform with payments, we understand SaaS needs.  We have the solutions SaaS companies need to control the product and the customer journey.  And like our customers, we build in the cloud.  We are agile, innovative, build fast, and deploy fast.  Handpoint makes it seamless for SaaS companies to keep payments amazing.</p><p class="specialtxt">Handpoint. Powering the payments revolution.<br><br></p>
 blurbs:
-  title: <br>Powering business in the aisle and around the globe
-  description: With over 20 years of experience, we have helped circa 100 software companies from California to South Africa transform with payments. 
+  title: <br>SaaS may be in the cloud, but commerce is everywhere
+  description: With over 20 years of experience, we have helped software companies transform and scale - from California to South Africa, from face-to-face to in the cloud.
   list: 
     - title: Founded
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico22.svg
@@ -22,7 +22,7 @@ blurbs:
     - title: Products
       image: https://handpoint.imgix.net/Website%20refresh%20photos/icons/ico16.svg
       description: >
-        <p>Handpoint is singularly focused on providing the best payments platform experience possible. To that end, we’ve made it seamless for our partners to integrate leading card readers, reach new markets, and build in nextgen capabilities to provide the highest amount of flexibility and power to our customers.</p>
+        <p>Handpoint is singularly focused on providing the best payments platform for SaaS. To that end, we’ve made it seamless for our partners to integrate solutions from face-to-face to across the globe, to reach new markets, and to build in nextgen capabilities to provide the highest amount of flexibility and control.</p>
 leadership:
   title: <br><br>Meet our leadership team
   description: >
