@@ -5,7 +5,7 @@ hero:
   description: Unleash the potential of embedded payments to <span id="js-rotating" class="hero-box-specialtxt"> outpace your competition, convert payments volume to MRR, deliver a world-class payments journey, transform your business</span>
   buttontxt: Get Started
   buttonlink: /contact
-  hypertext: Accepting payments on your platform? Learn how the best software companies are using payments to supercharge their growth. <a href="https://docsend.com/view/3z526443j8uw9s37">Click here </a> <br><br>Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here </a>  
+  hypertext: Accepting payments on your platform? Learn how the best software companies are using payments to supercharge their growth. <a href="http://get.handpoint.com/saas-strategy-guide/">Click here </a> <br><br>Looking for our APIs? <a href="https://www.handpoint.com/docs/device/Basics/">Click here </a>  
 blurbs: 
   title: "More than your favorite payments platform. Your favorite partner."
   subtitle: "We are passionate about your success"
