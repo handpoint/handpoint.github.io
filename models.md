@@ -2,7 +2,7 @@
 layout: models
 global-reach:
   buttontxt: "What is SaaS Payments Strategy?"
-  buttonlink: "https://docsend.com/view/3z526443j8uw9s37"
+  buttonlink: "http://get.handpoint.com/saas-strategy-guide/"
 blurbs: 
   - title: Transformational Growth
     description: "The right payments strategy will unleash your potential to outpace the competition."
