@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}	
+	<body>
+		{% include header.html %}
+	<div class="container">
+		<div class="row text-center">
+			<h1><br>More than your favorite payments platform. <br>Your favorite partner.</h1>
+			<br>
+			<h4><br>Lean on our expertise and decades of experience helping software companies tranform with payments.</h4>
+			<br>
+		</div>
+	</div>
+		<div class="section section-internal section-internal-paymenttypes">
+			<div class="container">
+				<div class="row section-internal-paymenttypes-module">
+					<div class="col-md-4 col-sm-4 col-md-offset-1 col-sm-offset-1">
+						<img src={{ page.payfac.image}} class="img-responsive" alt=""/>
+						<div class="section-internal-bottom">
+							<a class="btn btn-default bt-custom-out" href={{ page.payfac.buttonlink }} role="button">{{page.payfac.buttontxt}}</a>
+						</div>
+					</div>
+					<div class="col-md-5 col-sm-6 col-md-offset-1 col-sm-offset-0 section-internal-paymenttypes-module-txt">
+						<h3>{{ page.payfac.title}}</h3>
+						{% for item in page.payfac.list %}	
+							<li>{{ item }}</li>
+						{% endfor %}
+						<br>
+						<p>{{ page.payfac.description}}</p>
+					</div>
+				</div>
+				<div class="row section-internal-paymenttypes-module">
+					<div class="visible-xs">
+						<img src={{ page.tms.image }} class="img-responsive" alt=""/>
+					</div>
+					<div class="col-md-5 col-sm-7 col-md-offset-1 col-sm-offset-0 section-internal-paymenttypes-module-txt">
+						<h3>{{ page.tms.title }}</h3>
+						<p>{{ page.tms.description }}</p>
+						{% for item in page.tms.list %}
+						<li><b>{{item.title}}</b>{{item.description}}</li>
+						{% endfor %}
+					</div>
+					<div class="col-md-5 col-sm-5 col-md-offset-1 col-sm-offset-0 hidden-xs">
+						<img src={{ page.tms.image }} class="img-responsive" alt=""/>
+						<div class="section-internal-bottom">
+							<a class="btn btn-default bt-custom-out" href={{ page.tms.buttonlink }} role="button">{{page.tms.buttontxt}}</a>
+						</div>
+					</div>
+				</div>
+				<div class="row section-internal-paymenttypes-module">
+					<div class="col-md-4 col-sm-5 col-md-offset-1 col-sm-offset-0">
+						<img src={{ page.rttp.image }} class="img-responsive" alt=""/>
+						<div class="section-internal-bottom">
+							<a class="btn btn-default bt-custom-out" href={{ page.rttp.buttonlink }} role="button">{{page.rttp.buttontxt}}</a>
+						</div>
+					</div>
+					<div class="col-md-5 col-sm-7 col-md-offset-1 col-sm-offset-0 section-internal-paymenttypes-module-txt">
+						<h3>{{ page.rttp.title }}</h3>
+						<p>{{ page.rttp.description }}</p>
+					</div>
+				</div>
+				<div class="row section-internal-paymenttypes-module">
+					<div class="visible-xs">
+						<img src={{ page.channel.image }} class="img-responsive" alt=""/>
+					</div>
+					<div class="col-md-5 col-sm-6 col-md-offset-1 col-sm-offset-0 section-internal-paymenttypes-module-txt">
+						<h3>{{ page.channel.title }}</h3>
+						<p>{{ page.channel.description }}</p>
+					</div>
+					<div class="col-md-4 col-sm-4 col-md-offset-1 col-sm-offset-1 hidden-xs">
+						<img src={{ page.channel.image }} class="img-responsive" alt=""/>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="section section-form">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-sm-10 col-md-offset-2 col-sm-offset-1">
+						<h2>{{ page.contact.title }}</h2>
+						<p>{{ page.contact.description }}</p>
+					</div>
+				</div>
+				<a class="btn btn-default bt-custom-out-wh" href={{page.contact.buttonlink}} role="button">{{page.contact.buttontxt}}</a>
+			</div>	
+		</div>
+		{% include footer.html %}
+		{% include js.html %}
+	</body>
+</html>
+

@@ -1,0 +1,37 @@
+<div class="container">
+	{% for row in page.main %}
+		{% assign loopindex = forloop.index | modulo: 2 %}
+		{% if loopindex == 1 %}
+		<div class="row section-internal-paymenttypes-module">
+			<div class="col-md-4 col-sm-6 col-md-offset-1 col-sm-offset-0">
+				<img src={{ row.image }} class="img-responsive" alt=""/>
+			</div>
+			<div class="col-md-5 col-sm-6 col-md-offset-1 col-sm-offset-0 section-internal-solutions-module-txt">
+				<h3>{{ row.title }}</h3>
+				<p>{{ row.description | saftHTML}}</p>
+				<div class="section-internal-bottom" style="margin-top:-20px;">
+					<a class="btn btn-default bt-custom-out" href={{row.buttonlink}} role="button">{{ row.buttontxt }}</a>
+				</div>
+			</div>
+		</div>
+		{% else %}
+		<div class="row section-internal-paymenttypes-module">
+			<!-- mobile only -->
+			<div class="visible-xs">
+				<img src={{ row.image }} class="img-responsive" alt=""/>
+			</div>
+			<!-- END mobile only -->
+			<div class="col-md-5 col-sm-6 col-md-offset-1 col-sm-offset-0 section-internal-solutions-module-txt">
+				<h3>{{ row.title }}</h3>
+				<p>{{ row.description }}</p>
+				<div class="section-internal-bottom" style="margin-top:-20px;">
+					<a class="btn btn-default bt-custom-out" href={{row.buttonlink}} role="button">{{ row.buttontxt }}</a>
+				</div> 
+			</div>
+			<div class="col-md-4 col-sm-6 col-md-offset-1 col-sm-offset-0 hidden-xs">
+				<img src={{ row.image }} class="img-responsive" alt=""/>
+			</div>
+		</div>
+		{% endif %}
+	{% endfor %}
+</div>

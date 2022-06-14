@@ -1,0 +1,92 @@
+<div class="section section-solutions">
+	<div class="container">
+
+		<div class="row text-center">
+			<div class="col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
+				<h2>{{page.solutions.title}}</h2>
+				<h3>{{page.solutions.subtitle}}</h3>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-2 col-sm-4 col-md-offset-2 col-sm-offset-0 hidden-xs">
+				<ul class="nav section-solutions-tabs" role="tablist">
+					{% for solution in page.solutions.list %}
+					{% assign temp = solution.id %}
+					{% if temp ==  "omnicommerce" %}
+					<li role="presentation" class="active">
+						<a href="#{{solution.id}}" aria-controls={{solution.ariacontrol}} role="tab"
+							data-toggle="tab">{{solution.title}}</a>
+					</li>
+					{% else %}
+					<li role="presentation">
+						<a href="#{{solution.id}}" aria-controls={{solution.ariacontrol}} role="tab"
+							data-toggle="tab">{{solution.title}}</a>
+					</li>
+					{% endif %}
+					{% endfor %}
+				</ul>
+			</div>
+
+			<!-- MOBILE ONLY -->
+			<div class="col-md-2 col-sm-4 col-md-offset-2 col-sm-offset-0 visible-xs">
+				<div class="solutions-mobile-menu">
+					<ul class="list-inline" role="tablist">
+						{% for solution in page.solutions.list %}
+						{% assign temp = solution.id %}
+						{% if temp ==  "omnicommerce" %}
+						<li role="presentation" class="active">
+							<a href="#{{solution.id}}" aria-controls={{solution.ariacontrol}} role="tab"
+								data-toggle="tab">{{solution.title}}</a>
+						</li>
+						{% else %}
+						<li role="presentation">
+							<a href="#{{solution.id}}" aria-controls={{solution.ariacontrol}} role="tab"
+								data-toggle="tab">{{solution.title}}</a>
+						</li>
+						{% endif %}
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+			<!-- END mobile only -->
+
+			<div class="col-md-6 col-sm-8">
+				<div class="tab-content">
+					{% for solution in page.solutions.list %}
+					{% assign temp = solution.id %}
+					{% if temp ==  "omnicommerce" %}
+					<div role="tabpanel" class="tab-pane active" id={{solution.id}}>
+						<div class="solution-solutions">
+							<div class="pull-left">
+								<img src={{solution.image}} alt="" />
+							</div>
+							<div class="media-body">
+								<h4>{{solution.title}}</h4>
+								<p>{{solution.description}}</p>
+								<a id="solutionbutton" class="btn btn-default bt-custom-out"
+									href={{solution.buttonlink}} role="button">{{solution.buttontxt}}</a>
+							</div>
+						</div>
+					</div>
+					{% else %}
+					<div role="tabpanel" class="tab-pane" id={{solution.id}}>
+						<div class="solution-solutions">
+							<div class="pull-left">
+								<img src={{solution.image}} alt="" />
+							</div>
+							<div class="media-body">
+								<h4>{{solution.title}}</h4>
+								<p>{{solution.description}}</p>
+								<a id="solutionbutton" class="btn btn-default bt-custom-out"
+									href={{solution.buttonlink}} role="button">{{solution.buttontxt}}</a>
+							</div>
+						</div>
+					</div>
+					{% endif %}
+					{% endfor %}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

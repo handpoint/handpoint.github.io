@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}	
+	<body>
+		<!--NAV -->
+		{% include header.html %}
+			<div class="container">
+		<div class="row text-center">
+			<h1><br>Powering the <br> Embedded Payments Revolution</h1>
+			<br>
+		</div>
+	</div>
+		
+		<div class="section">
+			<div class="container">
+				<h2>{{ page.intro.title }}</h2>
+				<div>{{ page.intro.description }}</div>
+			</div>
+		</div>
+		<!-- BLURBS -->
+		<div class="section section-lightcolor blurbs-solutions">
+			<div class="container">
+				<h1>{{ page.blurbs.title }}</h1>
+				<p>{{ page.blurbs.description }}</p>
+				<div class="row">
+					{% for blurb in page.blurbs.list %}
+						<div class="blurb col-md-4 col-sm-4">
+					    	<img src={{blurb.image}} alt=""/>
+							<h3>{{blurb.title}}</h3>
+							<div>{{blurb.description}}</div>
+							{% if blurb.buttontxt %}
+							<a class="btn btn-default bt-custom-out" href={{blurb.buttonlink}} role="button">{{blurb.buttontxt}}</a>
+							{% endif %}
+					    </div>
+					{% endfor %}
+				</div>
+			</div>
+		</div>
+		<!-- <div class="section insights-milestones">
+			<div class="container">
+				<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+					<div class="text-center"><h1>{{ page.milestones.title }}</h1></div>
+				    <img src="{{ page.milestones.image }}" class="img-responsive" alt=""/>
+				    <div>{{ page.milestones.description }} </div>
+				</div>	
+			</div>
+		</div>
+		<div class="section section-lightcolor insights-award">
+			<div class="container">
+				<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+					<div class="text-center"><h1>{{page.awards.title}}</h1></div>
+					<p>{{page.awards.description}}</p>
+					<img src={{page.awards.image}} class="img-responsive" alt=""/> 
+				</div>	
+			</div>
+		</div> -->
+		<div class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+						<div class="text-center"><h1>{{page.leadership.title}}</h1></div>
+						<p><em>{{page.leadership.description}}</em></p>
+						<p><b>{{page.leadership.author}}<br>{{page.leadership.role}}</b></p>
+					</div>
+				</div>
+				<div class="row">
+					{% for member in page.leadership.team1 %}
+					<div class="col-md-5 col-sm-5 col-md-offset-1 col-sm-offset-1">
+						<div class="insights-about-profile-module">
+							<img src={{ member.image }} class="img-circle" alt=""/> 
+							<h4>{{ member.name }} <a href={{ member.linkedin }}><i class="fab fa-linkedin"></i></a></h4>
+							<p>{{ member.role }}</p>
+						</div>
+					</div>
+					{% endfor %}
+				</div>
+				<div class="row">
+					{% for member in page.leadership.team2 %}
+					<div class="col-md-4 col-sm-4">
+						<div class="insights-about-profile-module2">
+							<img src={{ member.image }} class="img-circle" alt=""/> 
+							<h4>{{ member.name }} <a href={{ member.linkedin }}><i class="fab fa-linkedin"></i></a></h4>
+							<p>{{ member.role }}</p>
+						</div>
+					</div>
+					{% endfor %}
+				</div>
+			</div>
+		</div>
+
+		<div class="insights-about-mediabody-section section-lightcolor">
+			<div class="container">	
+				<div class="row">
+					{% for blurb in page.bottomblurbs %}
+					<div class="col-md-4 col-sm-4">
+						<div class="blurb-media-about">
+						  	<div class="pull-left">
+						    	<img src="{{blurb.image | prepend: site.baseurl | replace: '//', '/' }}" alt=""/>
+						  	</div>
+						  	<div class="media-body">
+						    	<h4>{{ blurb.title }}</h4>
+								<p>{{ blurb.description }}</p>
+						  	</div>
+						</div>
+					</div>
+					{% endfor %}
+				</div>
+			</div>	
+		</div>
+		<div class="section section-orange insights-about-cta">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 col-sm-10 col-md-offset-2 col-sm-offset-1 section-internal-intro">	
+						<h1>{{ page.cta.title }}</h1>	
+						<h3>{{ page.cta.subtitle }}</h3>
+						<p>{{ page.cta.description }}</p>
+						<a class="btn btn-default bt-custom-out-wh" href={{page.cta.buttonlink}} role="button">{{page.cta.buttontxt}}</a>
+					</div>
+				</div>
+		       </div>	
+		</div>
+		{% include footer.html %}
+		{% include js.html %}
+	</body>
+</html>

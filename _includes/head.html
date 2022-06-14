@@ -1,0 +1,163 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{{ site.description }}">
+    <meta name="keywords" content="{{ site.keywords }}" />
+    {% if site.meta_author %}
+    <meta name="author" content="{{ site.meta_author }}">{% endif %}
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+
+    <link rel="apple-touch-icon" sizes="180x180"
+        href="{{ "/img/favicon.png" | prepend: site.baseurl | replace: '//', '/' }}">
+    <link rel="icon" type="image/png" sizes="32x32"
+        href="{{ "/img/favicon.png" | prepend: site.baseurl | replace: '//', '/' }}">
+    <link rel="icon" type="image/png" sizes="16x16"
+        href="{{ "/img/favicon.png" | prepend: site.baseurl | replace: '//', '/' }}">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <!-- <link rel="stylesheet" href="{{ "/css/animate.min.css" | prepend: site.baseurl | replace: '//', '/' }}">
+    <link rel="stylesheet" href="{{ "/css/morphext.css" | prepend: site.baseurl | replace: '//', '/' }}"> -->
+    <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <link rel="stylesheet" href="{{ "/style.css" | prepend: site.baseurl | replace: '//', '/' }}">
+
+    <!-- Google verification -->
+    {% if site.google_verify %}
+    <meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
+
+    <!-- Bing Verification -->
+    {% if site.bing_verify %}
+    <meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
+
+    <!-- Custom Fonts -->
+
+    <!-- Google font -->
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
+
+    <!-- Fontawsome -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js"
+        integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl"
+        crossorigin="anonymous"></script>
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="{{ "/js/ie-emulation-modes-warning.js" | prepend: site.baseurl | replace: '//', '/' }}"></script>
+
+    <script src="{{ "/js/jquery.min.js" | prepend: site.baseurl | replace: '//', '/' }}"></script>
+
+    <script>/*<![CDATA[*/
+        window.zEmbed || function (e, t) {
+            var n, o, d, i, s, a = [], r = document.createElement("iframe");
+            window.zEmbed = function () {
+                a.push(arguments)
+            }, window.zE = window.zE || window.zEmbed, r.src = "javascript:false", r.title = "", r.role = "presentation", (r.frameElement || r).style.cssText = "display: none", d = document.getElementsByTagName("script"), d = d[d.length - 1], d.parentNode.insertBefore(r, d), i = r.contentWindow, s = i.document;
+            try {
+                o = s
+            } catch (c) {
+                n = document.domain, r.src = 'javascript:var d=document.open();d.domain="' + n + '";void(0);', o = s
+            }
+            o.open()._l = function () {
+                var o = this.createElement("script");
+                n && (this.domain = n), o.id = "js-iframe-async", o.src = e, this.t = +new Date, this.zendeskHost = t, this.zEQueue = a, this.body.appendChild(o)
+            }, o.write('<body onload="document._l();">'), o.close()
+        }("//assets.zendesk.com/embeddable_framework/main.js", "handpoint.zendesk.com");
+    /*]]>*/</script>
+    <script>
+        zE(function () {
+            zE.hide();
+        });
+    </script>
+    <script type="text/javascript">
+        window.zESettings = {
+            webWidget: {
+                position: { horizontal: 'left', vertical: 'bottom' }
+            }
+        };
+    </script>
+    <!-- End of Handpoint Zendesk Widget-->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-1295190-7', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script type="text/javascript">
+        adroll_adv_id = "ULLHKIRUNZH5ZIMGQEFL6J";
+        adroll_pix_id = "XGCB7MBUAZAGRJD6RO7HAP";
+        /* OPTIONAL: provide email to improve user identification */
+        /* adroll_email = "username@example.com"; */
+        (function () {
+            var _onload = function () {
+                if (document.readyState && !/loaded|complete/.test(document.readyState)) {
+                    setTimeout(_onload, 10);
+                    return
+                }
+                if (!window.__adroll_loaded) {
+                    __adroll_loaded = true;
+                    setTimeout(_onload, 50);
+                    return
+                }
+                var scr = document.createElement("script");
+                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+                scr.setAttribute('async', 'true');
+                scr.type = "text/javascript";
+                scr.src = host + "/j/roundtrip.js";
+                ((document.getElementsByTagName('head') || [null])[0] ||
+                    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+            };
+            if (window.addEventListener) {
+                window.addEventListener('load', _onload, false);
+            }
+            else {
+                window.attachEvent('onload', _onload)
+            }
+        }());
+    </script>
+    <!-- Cookie consent script -->
+    <link rel="stylesheet" type="text/css"
+        href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <script>
+        window.addEventListener("load", function () {
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#ffffff",
+                        "text": "#34495e"
+                    },
+                    "button": {
+                        "background": "#f2711c",
+                        "text": "#ffffff"
+                    }
+                },
+                "theme": "edgeless",
+                "position": "top",
+                "static": true
+            })
+        });
+    </script>
+    <!-- End Cookie consent script -->
+    <!-- Scripts End-->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135913931-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-135913931-1');
+    </script>
+</head>
